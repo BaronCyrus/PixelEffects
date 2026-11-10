@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: bullet-tracer
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: projectiles/bullet-tracer
+  displayName: Bullet tracer
+  description: A white-hot slug tearing along, its tracer burning behind it in a long streak that sputters and cools from white through gold to red, shedding sparks and a thread of smoke.
+  category: projectiles
+  tags:
+  - projectile
+  - bullet
+  - tracer
+  - gun
+  - directional
+  - loop
+  frames:
+  - {fileID: -2509522386903239099, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 1579978596, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 352030996, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: -1655689204, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 608574466, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 159832182, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: -254860293, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 441808284, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 1625744614, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: -506226483, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: -208040133, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 528068791, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 198156222, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: -1305006683, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 1828590758, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 345967842, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 87821143, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  - {fileID: 81005253, guid: d647126cb7c184fa5a4ca37331c21b28, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 200, y: 40}
+  origin: {x: 184, y: 18}
+  fullScreen: 0
+  previewFrame: 6
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

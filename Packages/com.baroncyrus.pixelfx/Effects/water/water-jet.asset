@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: water-jet
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: water/water-jet
+  displayName: Water jet
+  description: 'A pressurised stream blasts right: a tight glassy rod with surges running down it that swells, roughens, bends under its weight and breaks into chunks, spray and mist.'
+  category: water
+  tags:
+  - water
+  - jet
+  - stream
+  - hose
+  - spray
+  - directional
+  - loop
+  frames:
+  - {fileID: 4111235289241957968, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 67920481, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 384231843, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -1242781839, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -607027808, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -2040597306, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 1781250390, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 614726790, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -2083150463, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -366947354, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -1719446256, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -2109749127, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -1208097218, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -1420388251, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -1458319105, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 950558560, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -470595274, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 427663261, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 145885765, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 1942590022, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 1530462347, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 1169596653, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 1238216188, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 1909478392, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 249563597, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 1044699916, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -714825762, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: 457552358, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -923518110, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  - {fileID: -1864318769, guid: 5630800ad9dce4bfaa7c31b645dbeff2, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 188, y: 80}
+  origin: {x: 14, y: 32}
+  fullScreen: 0
+  previewFrame: 21
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

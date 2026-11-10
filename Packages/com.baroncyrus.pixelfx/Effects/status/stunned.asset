@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: stunned
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: status/stunned
+  displayName: Stunned
+  description: 'Seeing stars: three spinning stars and two little birds circle the head on a tilted ring, ducking behind it and sweeping round in front, trailing glitter.'
+  category: status
+  tags:
+  - status
+  - stun
+  - dizzy
+  - daze
+  - stars
+  - birds
+  - debuff
+  - loop
+  frames:
+  - {fileID: 1799660439864881212, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -63419921, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1643205747, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 250237768, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1714558741, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1550146882, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -10951329, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 649316475, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1984887678, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 912095340, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 913920085, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -816066668, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1365916694, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 839976283, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1773942294, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1683078737, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -2011862584, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1125963958, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1938857592, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -17423812, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 650834499, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1189389515, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 22955981, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 857829102, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1724658694, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1654483874, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -779325818, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -502938613, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1480982729, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -855736542, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -450989955, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1565530612, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1619653003, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -575965921, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 185191588, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -273652142, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 472473716, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -2053944377, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 2121641597, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1763771433, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1812208589, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 945482968, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1750128992, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -467726503, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1005211656, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 245806949, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1363182163, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 158970720, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1029557177, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 2003102996, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1196364668, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1492674500, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -2099231933, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 111215914, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 2110665526, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -28590357, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 424226206, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: 1794711344, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -2090472867, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  - {fileID: -1539761071, guid: c45abd64c03b74456a9db45ae7235f0c, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 60, y: 64}
+  origin: {x: 30, y: 56}
+  fullScreen: 0
+  previewFrame: 43
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0
+  recovery: 0
+  onBody: 1
+  hits: []

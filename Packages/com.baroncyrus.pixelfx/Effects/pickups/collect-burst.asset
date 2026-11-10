@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: collect-burst
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: pickups/collect-burst
+  displayName: Collect burst
+  description: 'The moment of pickup: a white flash and a cross of light, a thin ring snapping out ahead of a softer one, twinkles thrown wide on curving paths that brake, hang and wink out.'
+  category: pickups
+  tags:
+  - pickup
+  - collect
+  - burst
+  - sparkle
+  - reward
+  - one-shot
+  frames:
+  - {fileID: -1443652957835369063, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -2076666064, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -312450143, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1475682715, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -1220385400, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1895411936, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -839901914, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -413578523, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 709382211, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1446980825, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -473377343, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 2132251235, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -600406186, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -2008152538, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -218199068, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1865920613, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -1107147495, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1404464557, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -1800360593, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -1939741981, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 640507263, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 2106062447, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1139528176, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 2083972287, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -454286038, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -1004415273, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 450291340, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1988613752, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1496643581, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1998721065, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 82150856, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: -428021450, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 1494083581, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 188838319, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 188838319, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 188838319, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 188838319, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 188838319, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 188838319, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 188838319, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 188838319, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  - {fileID: 188838319, guid: 675f847eb692240769127b85fc5c77fa, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 112, y: 108}
+  origin: {x: 56, y: 94}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

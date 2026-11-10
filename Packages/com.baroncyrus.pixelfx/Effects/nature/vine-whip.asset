@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: vine-whip
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: nature/vine-whip
+  displayName: Vine whip
+  description: A thorny vine bursts from the floor, rears back coiled, then lashes out right in a whip crack that sprays sap and tears off leaves, before sliding back into the ground.
+  category: nature
+  tags:
+  - nature
+  - vine
+  - plant
+  - whip
+  - melee
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -8816281080711730258, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1928676664, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -156686140, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1581292325, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -391124877, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1430300497, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -965754589, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1850532220, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -830660881, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1860375057, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -282375743, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 45180498, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -725529626, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1497278948, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -253913679, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -544717511, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 2135988125, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 805375294, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1478436157, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 606077177, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1873817898, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1450224524, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 219739476, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1273013032, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1094519155, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 67999670, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1279385642, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 154062695, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1254032893, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1407204974, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1085210117, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -465341816, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1498665644, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1316266141, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -1715905114, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -109899965, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1402988495, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1715122754, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -67599009, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: -258353387, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 497339290, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1654510493, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  - {fileID: 1654510493, guid: 6b439b41caa7a4b45840dec8247884f8, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 216, y: 128}
+  origin: {x: 60, y: 114}
+  fullScreen: 0
+  previewFrame: 17
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

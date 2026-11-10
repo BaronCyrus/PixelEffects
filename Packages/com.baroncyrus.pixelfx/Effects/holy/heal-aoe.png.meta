@@ -1,0 +1,2090 @@
+fileFormatVersion: 2
+guid: ca3ab2cc820e64aa68464cd8c03b4334
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6668245848279987926
+    second: heal-aoe_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heal-aoe_0
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 5
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0109a5068d8ed621a5253f2a78127478
+      internalID: -6668245848279987926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b9d0ac1d0c57d58e08efc0195e20f
+      internalID: -338900969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_2
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 28
+        width: 77
+        height: 22
+      alignment: 9
+      pivot: {x: 0.48051947, y: 0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf6c4c330f304584619537a1e84f422
+      internalID: -1627666552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 24
+        width: 70
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050ad6462df7ab6cd24016c7eccb2d17
+      internalID: 1831958213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 59
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47457626, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa76078e4346ee25e7a6ddc2cc064b60
+      internalID: 144557533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 63
+        width: 86
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe0ada6ae1d32b53a84b7ef14136965
+      internalID: 624285286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 59
+        width: 84
+        height: 36
+      alignment: 9
+      pivot: {x: 0.44047618, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b57c0aa439491afb043f4f63b62bf97
+      internalID: 447427776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 55
+        width: 76
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1f24f975ecc7d7370108f612cb1b6
+      internalID: 423901695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 79
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5443038, y: 0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d24b98fd54f5f19a529b3800b7d702
+      internalID: -1698849344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1081
+        width: 140
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26495728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c0d487cb48187f0ac191fd250d520
+      internalID: -946883040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1083
+        width: 136
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1cc0423ab213ebac79e4cc8d68da0d
+      internalID: -30683046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1086
+        width: 130
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2767857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77db00c53e18b970c5d96b7713456e42
+      internalID: -1355935947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_12
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1088
+        width: 126
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4da389f11a1629f8686c292b8591f6
+      internalID: 1740033865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 122
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28703704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6fc70f39b3f40612ebe01a6a811bc7
+      internalID: 747163614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 975
+        width: 116
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3ae51b7839e1cf217303c67fbf6a8c
+      internalID: -1979777737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 978
+        width: 128
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578c49cde7f68420e8f496ff080d881
+      internalID: -328727554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 981
+        width: 142
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d92a2ecc4a5e61efc8e71b838c08a4
+      internalID: 1224194642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 876
+        width: 154
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17916a6c8662923b0d47a8186003e5db
+      internalID: 2063840907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 877
+        width: 164
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29787233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07e9e9e20b8339953a072eb92021afe
+      internalID: 1956642200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 876
+        width: 174
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29473683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceebdcb5b0470f15bd59c56e2dae09e7
+      internalID: -1440067774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_20
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 877
+        width: 182
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28723404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db8ef8692de712742fe6054d03213b
+      internalID: 349705020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 873
+        width: 190
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cd0734a48aeb9abc80c5a4edc50f80
+      internalID: -1762651674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_22
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 977
+        width: 198
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27184466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cf4cc96105b12cbc9ecb5731ecb22b
+      internalID: -1889285065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 973
+        width: 204
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26168224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781500dc0bb1c4fbfbe2008da0e7cc0c
+      internalID: -2005506150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_24
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1086
+        width: 210
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25892857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077421f7fdb5b70db1e4e15602ca7c39
+      internalID: -446204936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1083
+        width: 214
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97b32df9bb4da2f9c803706034c5f85
+      internalID: 7222213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 240
+        width: 218
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39726028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9970cbe926fefd7eedf7574e742a79db
+      internalID: -763132506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_27
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 241
+        width: 222
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4027778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb09713401ebdf445a8141ab96640e3
+      internalID: -1474329095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 315
+        width: 224
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4054054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d49824ab2569df4d2bb088dfc48a51
+      internalID: 1716389171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 391
+        width: 228
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e22addfc4c9ae25b8f3a1759d78967
+      internalID: -296498246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_30
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 391
+        width: 230
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418215c0f685ae5ca4d2ade4c8bef43e
+      internalID: 119429997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 546
+        width: 232
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc7ae5d343e8c58d119dac3564b4fcd
+      internalID: -2107433523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_32
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 546
+        width: 232
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39473686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8468c3f72574dd781f86549b1ccd4c6d
+      internalID: 231341094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 545
+        width: 234
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38961038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae866a6da77bc72a640820946cfc3efa
+      internalID: -672134624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 234
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6993b1f2e88a72ef1fdc1b1e08ed17bc
+      internalID: 1080314285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 625
+        width: 234
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37974682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c4b743c63164eb32c14738495234d
+      internalID: -533828998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 624
+        width: 234
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a34edcca2b0ebd975df1c878fc7d8
+      internalID: -298342691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 234
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c860ad6b82144b9eafa6d8b4f6efd4
+      internalID: 671524639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_38
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 706
+        width: 234
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec41bead051a7f94ad495303f1cc787
+      internalID: 1933992758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 234
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36144578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7566a3ade550341119d9f67faac18b
+      internalID: 1274644605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_40
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 706
+        width: 234
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35365853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3de5a988021f402ff8b08120bbcd0b
+      internalID: 1409077870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 789
+        width: 234
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3493976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19dfa0abda1dd9491e5889188a47499
+      internalID: -456283019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 789
+        width: 232
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3493976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a5505982d58854fa50ee61c804f661
+      internalID: -731521561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_43
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 789
+        width: 232
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3493976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dece69fc357f5768df9b6177931ab9
+      internalID: -664872317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 230
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33734939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1906e5f9c3d24daf944c99be5ee1e991
+      internalID: 357053873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 705
+        width: 226
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33734939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b1c55f2e91ce163b36060fe2628a33
+      internalID: -1556889376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_46
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 625
+        width: 216
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30379745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2092ce090771103b144b734086cde803
+      internalID: -234049233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 212
+        height: 76
+      alignment: 9
+      pivot: {x: 0.495283, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b97ff1d296a62536fd19c98c544921a
+      internalID: 165833101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 467
+        width: 212
+        height: 76
+      alignment: 9
+      pivot: {x: 0.495283, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d388f3688c9bc9be9bcd0b4d7bca7ee3
+      internalID: 732618595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_49
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 467
+        width: 212
+        height: 76
+      alignment: 9
+      pivot: {x: 0.495283, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae63346e723954e519f0dc025f5331
+      internalID: -639366468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_50
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 467
+        width: 212
+        height: 76
+      alignment: 9
+      pivot: {x: 0.495283, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487ef330bef37ffec5c595cfeaa5040a
+      internalID: 997865709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 212
+        height: 76
+      alignment: 9
+      pivot: {x: 0.495283, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad58168c1202446285d04333c3b6e4b4
+      internalID: 1954513599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_52
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 391
+        width: 211
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49289098, y: 0.25333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3924e016010109a5ab8a661a0f22007a
+      internalID: 1752171005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 211
+        height: 75
+      alignment: 9
+      pivot: {x: 0.49289098, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b13f77f820a58e58ef147ac2e25605
+      internalID: -1685548785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_54
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 315
+        width: 211
+        height: 74
+      alignment: 9
+      pivot: {x: 0.49289098, y: 0.22972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd1962b0ae88c7a40aba4d7940e6e75
+      internalID: 1773038501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_55
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 315
+        width: 210
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4904762, y: 0.22972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667a6f1a12a644332e377354e20302ee
+      internalID: -850771325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 209
+        height: 74
+      alignment: 9
+      pivot: {x: 0.48803827, y: 0.21621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9aa7750cae03810e0ca65e20fa9e85
+      internalID: -1091245317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_57
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 240
+        width: 209
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48803827, y: 0.20547946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cace614634b097688ffc86db422c00e
+      internalID: -205125029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 210
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcd379c7c4890eb61762990ec49aa7b
+      internalID: -1830140169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_59
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 166
+        width: 210
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.19444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8101eae4aa16508ed12444037ee93444
+      internalID: 1389761132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_60
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 167
+        width: 210
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.18309858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9320adf029a9ded1aaa0c3036571e2
+      internalID: 2092905770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_61
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 168
+        width: 210
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d15c1143c86b8d7cd1a3a6569a470
+      internalID: 1563639556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_62
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 168
+        width: 210
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22840084eff5885b3fa5e85976716ef2
+      internalID: -356252612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 211
+        height: 69
+      alignment: 9
+      pivot: {x: 0.48815167, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b3ed4e38c83d7e5b08b1d1174e027
+      internalID: -130131098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_64
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 97
+        width: 211
+        height: 68
+      alignment: 9
+      pivot: {x: 0.48815167, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b239d25f87644cf91b16ea8fed4d01
+      internalID: -875536427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_65
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 98
+        width: 210
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4904762, y: 0.13432837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef21986abd40cca1ee83d783ed0138e
+      internalID: 727520960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_66
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 98
+        width: 175
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4, y: 0.13432837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3c41dd746e5c1cf29ea451faeafb7
+      internalID: -519702632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_67
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 100
+        width: 184
+        height: 65
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.12307692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99362c85ba11be5fab694ea30b4ab442
+      internalID: -1068164596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 65
+        width: 193
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53367877, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186246c202970371984d46dc5bd0fe1
+      internalID: -655269754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 193
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5284974, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d8107ed03ff0e7e99af4fe8a5fd4c
+      internalID: -1997130123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_70
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 65
+        width: 162
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4382716, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b191f49cba5ca3e01336ea493e7e3e6f
+      internalID: -798674766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 21
+        width: 150
+        height: 29
+      alignment: 9
+      pivot: {x: 0.38666666, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7ed00d727ef866634056d548cea98
+      internalID: -1912654131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_72
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 21
+        width: 187
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5080214, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe009a3471139656c7e046dd42d5259b
+      internalID: -1435114148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_73
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 65
+        width: 157
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5987261, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ee00869f99664a1e7db446e1edcfa
+      internalID: -333159968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_74
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 22
+        width: 126
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fff10eb04e1963e94e9a493e64464e
+      internalID: -1643441274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_75
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 25
+        width: 156
+        height: 25
+      alignment: 9
+      pivot: {x: 0.40384614, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5dab4884bd0aeae7574fc05da27792
+      internalID: -1629783168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_76
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 23
+        width: 149
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3691275, y: 0.037037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ed0ed9564718c92b4967ac5005f1be
+      internalID: -1500874894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_77
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4
+        width: 136
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5294118, y: -0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb240a31f711c4c8b9ffd81ffe983b
+      internalID: 1014284995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 18
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb005509ab903cc80d8a6456bc44fce
+      internalID: 1979008355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_79
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 8
+        width: 90
+        height: 11
+      alignment: 9
+      pivot: {x: -0.033333335, y: -1.2727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d3dd8cca47c09818891e0104713cb
+      internalID: -174729531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_80
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 5
+        width: 62
+        height: 14
+      alignment: 9
+      pivot: {x: -0.048387095, y: -0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e48a2cef40630ca13cdba6a9a71d29b
+      internalID: -1054635098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_81
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4
+        width: 62
+        height: 15
+      alignment: 9
+      pivot: {x: -0.06451613, y: -0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db3f1d1f2bb0307dfcbf9773415ca0d
+      internalID: 590855221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_82
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 14
+        width: 5
+        height: 5
+      alignment: 9
+      pivot: {x: -12.2, y: -1.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4f250f454b03bd83e5c3234c00848f
+      internalID: -1796652991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_83
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 16
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: -2, y: -6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c1386854dc843f14b32dad48bbccbb
+      internalID: 705989435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heal-aoe_84
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 18
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: -8, y: -19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576cfc8cf8590f6d82ac639ecfbfe08b
+      internalID: -510659702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 73d05e56c490d4ebda196fa722ff5598
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      heal-aoe_0: -6668245848279987926
+      heal-aoe_1: -338900969
+      heal-aoe_10: -30683046
+      heal-aoe_11: -1355935947
+      heal-aoe_12: 1740033865
+      heal-aoe_13: 747163614
+      heal-aoe_14: -1979777737
+      heal-aoe_15: -328727554
+      heal-aoe_16: 1224194642
+      heal-aoe_17: 2063840907
+      heal-aoe_18: 1956642200
+      heal-aoe_19: -1440067774
+      heal-aoe_2: -1627666552
+      heal-aoe_20: 349705020
+      heal-aoe_21: -1762651674
+      heal-aoe_22: -1889285065
+      heal-aoe_23: -2005506150
+      heal-aoe_24: -446204936
+      heal-aoe_25: 7222213
+      heal-aoe_26: -763132506
+      heal-aoe_27: -1474329095
+      heal-aoe_28: 1716389171
+      heal-aoe_29: -296498246
+      heal-aoe_3: 1831958213
+      heal-aoe_30: 119429997
+      heal-aoe_31: -2107433523
+      heal-aoe_32: 231341094
+      heal-aoe_33: -672134624
+      heal-aoe_34: 1080314285
+      heal-aoe_35: -533828998
+      heal-aoe_36: -298342691
+      heal-aoe_37: 671524639
+      heal-aoe_38: 1933992758
+      heal-aoe_39: 1274644605
+      heal-aoe_4: 144557533
+      heal-aoe_40: 1409077870
+      heal-aoe_41: -456283019
+      heal-aoe_42: -731521561
+      heal-aoe_43: -664872317
+      heal-aoe_44: 357053873
+      heal-aoe_45: -1556889376
+      heal-aoe_46: -234049233
+      heal-aoe_47: 165833101
+      heal-aoe_48: 732618595
+      heal-aoe_49: -639366468
+      heal-aoe_5: 624285286
+      heal-aoe_50: 997865709
+      heal-aoe_51: 1954513599
+      heal-aoe_52: 1752171005
+      heal-aoe_53: -1685548785
+      heal-aoe_54: 1773038501
+      heal-aoe_55: -850771325
+      heal-aoe_56: -1091245317
+      heal-aoe_57: -205125029
+      heal-aoe_58: -1830140169
+      heal-aoe_59: 1389761132
+      heal-aoe_6: 447427776
+      heal-aoe_60: 2092905770
+      heal-aoe_61: 1563639556
+      heal-aoe_62: -356252612
+      heal-aoe_63: -130131098
+      heal-aoe_64: -875536427
+      heal-aoe_65: 727520960
+      heal-aoe_66: -519702632
+      heal-aoe_67: -1068164596
+      heal-aoe_68: -655269754
+      heal-aoe_69: -1997130123
+      heal-aoe_7: 423901695
+      heal-aoe_70: -798674766
+      heal-aoe_71: -1912654131
+      heal-aoe_72: -1435114148
+      heal-aoe_73: -333159968
+      heal-aoe_74: -1643441274
+      heal-aoe_75: -1629783168
+      heal-aoe_76: -1500874894
+      heal-aoe_77: 1014284995
+      heal-aoe_78: 1979008355
+      heal-aoe_79: -174729531
+      heal-aoe_8: -1698849344
+      heal-aoe_80: -1054635098
+      heal-aoe_81: 590855221
+      heal-aoe_82: -1796652991
+      heal-aoe_83: 705989435
+      heal-aoe_84: -510659702
+      heal-aoe_9: -946883040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

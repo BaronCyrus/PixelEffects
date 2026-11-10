@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: 542be0ec394a940dea43c87a8a93c749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6170531837528321520
+    second: haste_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: haste_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 392
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe85c7d65a4334d739c851afa5c73976
+      internalID: -6170531837528321520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 392
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98480cf5c26de73aa2523176d10a6803
+      internalID: -2057233922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 98
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b49eb3d7231c0754e98afb475872c
+      internalID: -1477941697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 84
+        height: 48
+      alignment: 9
+      pivot: {x: 0.70238096, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31a567750b353b1be30a2110ac72812
+      internalID: -1659648219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 98
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b169e21461a8590f352418db4ff26b84
+      internalID: 805040474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 98
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f8d80fa8235644b94a2cbcd90dd078
+      internalID: 554765665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802b22019df9f58afdae7124fa10c63
+      internalID: -1420751647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbef97c16bbf7446e762f488ec26386
+      internalID: -276870306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 392
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c948c8eb8cb5144d8cbb60c19a3570
+      internalID: -1447992669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6994844200d3f819a48aa845028f1e
+      internalID: -87529762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 343
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51ee6021c7548f40416dc40efd1494a
+      internalID: 1841014790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 343
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ed25ed0208be085878a72dc0b1357
+      internalID: 172747306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 343
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e072d545c581f31407b8cc7a4cdc95dd
+      internalID: 247114414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f632d144d24a4a89f524397afae7c5fe
+      internalID: 1341439482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 294
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae27246a3cc249d5b456419fa475aa9
+      internalID: 2116255976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 294
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c6ac443017d71eb9443fe033ec24c0
+      internalID: -1247076362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 294
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd3d921164c15ac49b12c03be770a3
+      internalID: -444118946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142e8c600dc71137d8607a60aa78806
+      internalID: -626969669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 245
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9a029608765a6a5b637621aee50de1
+      internalID: -1754251781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 245
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc92bb06696d29a4beb7992fd159d58
+      internalID: -446014843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94c5446c4e77e6ee2f45e32a11a7800
+      internalID: 966218563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 49
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429e298c0c6ab746a690df584b40c5d8
+      internalID: 105403938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 245
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72628b22799ec647603f799daa32435f
+      internalID: -1587880680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed56a9f27fdac4675e015fd227db6c
+      internalID: 225117967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 196
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e4bcb95ee5108299e692fec3dad0f4
+      internalID: 1006674659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 196
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede5c0207174a1bc04a7410d50395e19
+      internalID: 822181308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_26
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 196
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434e75be02ed648fd314c791ed186cd4
+      internalID: 90883755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7b423653ed6319cdfffe5e1cfca7c3
+      internalID: 218689849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 147
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a36756710d35269817c7124c32306d3
+      internalID: 996055586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f36f2ce7cafc999aef6bf7cc0a07b60
+      internalID: -1645568514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf09b3336ed21975b25a4b812de23db9
+      internalID: -1618192380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 147
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0103cf88c5c6e5bb3828aeb9663a9154
+      internalID: 2009742069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_32
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 147
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abceb6185af2e23c2d631499f39a5d6
+      internalID: 1376134648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 78
+        height: 48
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a01071e18ee7b1bb74df322d9b821
+      internalID: 1960502697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c9d8a66b5bfd1e5f7b230271db273b
+      internalID: 781656036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haste_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 77
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6753247, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891291960a6ac061c782684c98cafe60
+      internalID: -1160585987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a47fdcc4638a74861b942f02f77f1d69
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      haste_0: -6170531837528321520
+      haste_1: -2057233922
+      haste_10: 1841014790
+      haste_11: 172747306
+      haste_12: 247114414
+      haste_13: 1341439482
+      haste_14: 2116255976
+      haste_15: -1247076362
+      haste_16: -444118946
+      haste_17: -626969669
+      haste_18: -1754251781
+      haste_19: -446014843
+      haste_2: -1477941697
+      haste_20: 966218563
+      haste_21: 105403938
+      haste_22: -1587880680
+      haste_23: 225117967
+      haste_24: 1006674659
+      haste_25: 822181308
+      haste_26: 90883755
+      haste_27: 218689849
+      haste_28: 996055586
+      haste_29: -1645568514
+      haste_3: -1659648219
+      haste_30: -1618192380
+      haste_31: 2009742069
+      haste_32: 1376134648
+      haste_33: 1960502697
+      haste_34: 781656036
+      haste_35: -1160585987
+      haste_4: 805040474
+      haste_5: 554765665
+      haste_6: -1420751647
+      haste_7: -276870306
+      haste_8: -1447992669
+      haste_9: -87529762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

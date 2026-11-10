@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: 6987517cbea6241e7b21debfdffc5a75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5929405817864647190
+    second: thorns_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thorns_0
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae61ad7e1284b4f78e0dcf636ddc99c
+      internalID: -5929405817864647190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 23
+        height: 10
+      alignment: 9
+      pivot: {x: 0.08695652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ac94925b577b46513b97ef4a8e1ee
+      internalID: -1754124313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1
+        width: 43
+        height: 10
+      alignment: 9
+      pivot: {x: 0.046511628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c68a4338faa5a4c1c9a8c06ed3d2e8a
+      internalID: -1964360979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 75
+        width: 74
+        height: 45
+      alignment: 9
+      pivot: {x: 0.22972973, y: 0.2888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0bd2559806eb834a3edc8d8962876c
+      internalID: -1862418476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 76
+        width: 89
+        height: 44
+      alignment: 9
+      pivot: {x: 0.17977528, y: 0.29545453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ad9971441e5ae78d997814290ed3a2
+      internalID: 110338864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 99
+        height: 53
+      alignment: 9
+      pivot: {x: 0.14141414, y: 0.24528302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60cc8d591e01a0c0513588bd6c4f68
+      internalID: 1148821290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 69
+        width: 110
+        height: 51
+      alignment: 9
+      pivot: {x: 0.11818182, y: 0.25490198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfb6f7316bef3f8bef9c4c4ffd7ae68
+      internalID: -1898187917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 71
+        width: 116
+        height: 49
+      alignment: 9
+      pivot: {x: 0.094827585, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f83a5c2dce7d2eadc27f2a9ba4e5810
+      internalID: 1929397452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 124
+        width: 120
+        height: 58
+      alignment: 9
+      pivot: {x: 0.09166667, y: 0.22413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712357360e50d424f820749087b2352c
+      internalID: 321135800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 126
+        width: 131
+        height: 56
+      alignment: 9
+      pivot: {x: 0.10687023, y: 0.23214285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1a6586350661805cff1893a99d5525
+      internalID: 1991662702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 496
+        width: 135
+        height: 66
+      alignment: 9
+      pivot: {x: 0.1037037, y: 0.1969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e89974fce0b272d31117b2739b45130
+      internalID: 1107236077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 135
+        height: 64
+      alignment: 9
+      pivot: {x: 0.1037037, y: 0.203125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9ddf08fca15ae9e2c956c9226a3716
+      internalID: 661880996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 704
+        width: 149
+        height: 71
+      alignment: 9
+      pivot: {x: 0.093959734, y: 0.18309858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c63e337b5053e6748c5e78298928196
+      internalID: -151509925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_13
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 632
+        width: 147
+        height: 69
+      alignment: 9
+      pivot: {x: 0.0952381, y: 0.1884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e68ae9758aeebc6b7e025e4aac045
+      internalID: -14251298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 173
+        height: 78
+      alignment: 9
+      pivot: {x: 0.08092485, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd4c911ea308a9992e62d96335559c
+      internalID: 8310880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 778
+        width: 171
+        height: 76
+      alignment: 9
+      pivot: {x: 0.081871346, y: 0.17105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0c1d14b21c7b4f8f9bbf36868f22ba
+      internalID: 870223334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 168
+        height: 73
+      alignment: 9
+      pivot: {x: 0.083333336, y: 0.1780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b75e2741fcc5d7eadfe2928c6c363
+      internalID: 758729335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 166
+        height: 70
+      alignment: 9
+      pivot: {x: 0.084337346, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6744f1fdc6eadf7d068ef206a5644e33
+      internalID: 878261208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 163
+        height: 67
+      alignment: 9
+      pivot: {x: 0.08588957, y: 0.17910448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3463c8cdd6e0e9e1d3b5cf33ec3af09
+      internalID: 1906243842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 563
+        width: 163
+        height: 67
+      alignment: 9
+      pivot: {x: 0.08588957, y: 0.17910448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c6caf3cf91277bae3d3e65330a752
+      internalID: -2055375883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 496
+        width: 170
+        height: 66
+      alignment: 9
+      pivot: {x: 0.0882353, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83522ba1067799b70ab4c3c3b5dca5f9
+      internalID: 800117699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 178
+        height: 66
+      alignment: 9
+      pivot: {x: 0.08988764, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0eb30a15212572c074fa9d958dc0a2
+      internalID: 314889804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 564
+        width: 184
+        height: 66
+      alignment: 9
+      pivot: {x: 0.092391305, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97b70f8768c13d8e9e1ba5cfcb3316a
+      internalID: 1274936189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_23
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 434
+        width: 189
+        height: 61
+      alignment: 9
+      pivot: {x: 0.0952381, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f52973a383016fbc248eaac18ea78e2
+      internalID: 845517103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_24
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 434
+        width: 191
+        height: 61
+      alignment: 9
+      pivot: {x: 0.09424084, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339d69d4facd28994d778bb2bec4f064
+      internalID: -1065717769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 432
+        width: 192
+        height: 63
+      alignment: 9
+      pivot: {x: 0.098958336, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236eb36ae4391b710c970072cac6c459
+      internalID: -633443832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 498
+        width: 193
+        height: 64
+      alignment: 9
+      pivot: {x: 0.103626944, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66c5549e720f56f8512094bef13f7f3
+      internalID: -1778027686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 564
+        width: 193
+        height: 66
+      alignment: 9
+      pivot: {x: 0.103626944, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65d38799d6eaeb7800231f1205da231
+      internalID: 2101238669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_28
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 633
+        width: 187
+        height: 68
+      alignment: 9
+      pivot: {x: 0.07486631, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3bff28028a6360ca3839c79c5371b7
+      internalID: 101219875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 632
+        width: 187
+        height: 69
+      alignment: 9
+      pivot: {x: 0.07486631, y: 0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d00be85f2b99463a356e15735b184
+      internalID: 1521410470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_30
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 704
+        width: 177
+        height: 71
+      alignment: 9
+      pivot: {x: 0.02259887, y: 0.16901408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e46d6e1ff3412014c5f63fc3e6ffc39
+      internalID: 2009142860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 703
+        width: 177
+        height: 72
+      alignment: 9
+      pivot: {x: 0.02259887, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd073b75ca281d504ba6be97ec308590
+      internalID: -724919190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 781
+        width: 178
+        height: 73
+      alignment: 9
+      pivot: {x: 0.028089888, y: 0.16438356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad15973a88d57aaeb7a57f823616e220
+      internalID: 1719738742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_33
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 780
+        width: 179
+        height: 74
+      alignment: 9
+      pivot: {x: 0.033519555, y: 0.16216215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ba4eb5490471d408862a92c5a48e6
+      internalID: -2116812094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 369
+        width: 179
+        height: 61
+      alignment: 9
+      pivot: {x: 0.033519555, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976db7ce095982e7d1e4abafce8b28c7
+      internalID: 1048435920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 369
+        width: 180
+        height: 61
+      alignment: 9
+      pivot: {x: 0.03888889, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91e0b25ee1b87203bebfdc6fef8bc34
+      internalID: 1271738874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_36
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 369
+        width: 180
+        height: 61
+      alignment: 9
+      pivot: {x: 0.03888889, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a4947838515af25729c2218055bd6
+      internalID: 285949560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 181
+        height: 61
+      alignment: 9
+      pivot: {x: 0.044198897, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acda4ae02ca008207e561723cf66bd4
+      internalID: 446228089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 173
+        height: 61
+      alignment: 9
+      pivot: {x: 0.011560693, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b3af31bd3ade259a2ca39f73cc0636
+      internalID: 1410772374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 307
+        width: 161
+        height: 61
+      alignment: 9
+      pivot: {x: 0.0124223605, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e43b93e93e2c4a307ebb50eead6a76b
+      internalID: -1505653115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_40
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 307
+        width: 161
+        height: 61
+      alignment: 9
+      pivot: {x: 0.0124223605, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82301dd484916272812c62d153b16f3
+      internalID: -323848285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_41
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 307
+        width: 161
+        height: 61
+      alignment: 9
+      pivot: {x: 0.0124223605, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddd2947be3ffdfce0f1ae29ef59812b
+      internalID: -1876798373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 159
+        height: 61
+      alignment: 9
+      pivot: {x: 0.012578616, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb34e33b4d36fcb41adf38ff946a9779
+      internalID: -451738970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_43
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 183
+        width: 156
+        height: 61
+      alignment: 9
+      pivot: {x: 0.012820513, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de6f9450e4a627245de00b347ff3f0d
+      internalID: 1203938693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 183
+        width: 157
+        height: 61
+      alignment: 9
+      pivot: {x: 0.012738854, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db00be3131939622914f2b319a73621
+      internalID: -2025866474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 183
+        width: 157
+        height: 61
+      alignment: 9
+      pivot: {x: 0.012738854, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b266d3ce0f57962ea5592a29a777065a
+      internalID: -1714999921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 245
+        width: 158
+        height: 61
+      alignment: 9
+      pivot: {x: 0.012658228, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e225ba3cf51c3fa244030b4ffaa9ec4a
+      internalID: 1252876754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_47
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 245
+        width: 158
+        height: 61
+      alignment: 9
+      pivot: {x: 0.012658228, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd5e1f998aa7b5643e7b8ec41550489
+      internalID: -1120181886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 158
+        height: 61
+      alignment: 9
+      pivot: {x: 0.012658228, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c54e5ca7e20da4a9f5cfc77370c5b3
+      internalID: -2036240670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 245
+        width: 159
+        height: 61
+      alignment: 9
+      pivot: {x: 0.012578616, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ef0c0fc4ebd0870ff2c1848bb7747
+      internalID: -210101736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_50
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 183
+        width: 133
+        height: 61
+      alignment: 9
+      pivot: {x: 0.015037594, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3404bbbfdedc4529ebfb03ca799710da
+      internalID: 1986570907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 133
+        height: 61
+      alignment: 9
+      pivot: {x: 0.015037594, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1824bb39c7238a8caf8eb533796586
+      internalID: -331535649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 121
+        width: 133
+        height: 61
+      alignment: 9
+      pivot: {x: 0.015037594, y: 0.19672132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800130dda885b0d4494282038263a6fb
+      internalID: 1645025598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_53
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 125
+        width: 132
+        height: 57
+      alignment: 9
+      pivot: {x: 0.015151516, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeecbba20a37e07b592a799954d497e
+      internalID: 234759178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 132
+        height: 53
+      alignment: 9
+      pivot: {x: 0.015151516, y: 0.2264151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece0192ccb354b5c7a3c441226916a4a
+      internalID: -720933309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_55
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 72
+        width: 132
+        height: 48
+      alignment: 9
+      pivot: {x: 0.015151516, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dd1742816b06e82694f2dcf5b467fa
+      internalID: -753112768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 132
+        height: 40
+      alignment: 9
+      pivot: {x: 0.015151516, y: 0.275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa511b842ee266ba8022b2c5b8326573
+      internalID: -1085885149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 131
+        height: 33
+      alignment: 9
+      pivot: {x: 0.015267176, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a0c34ab7407cc4a4cb9c3bdac23cf7
+      internalID: 246846254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_58
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 39
+        width: 130
+        height: 27
+      alignment: 9
+      pivot: {x: 0.015384615, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153bb041a1649a3ccda88264f96ff977
+      internalID: -438765372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_59
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 41
+        width: 128
+        height: 25
+      alignment: 9
+      pivot: {x: 0.015625, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a169e80d5e1565644bf58996971c5
+      internalID: 576501773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_60
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 46
+        width: 126
+        height: 20
+      alignment: 9
+      pivot: {x: 0.015873017, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfe26ab7edc9e4c48dc5249f222ca83
+      internalID: 784031770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 124
+        height: 13
+      alignment: 9
+      pivot: {x: 0.016129032, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8851fe92e3d900f5465ad30d3927a695
+      internalID: 1428870881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12
+        width: 124
+        height: 13
+      alignment: 9
+      pivot: {x: 0.016129032, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f4671063ae9f57a6707da11b04e8ef
+      internalID: -1316392715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_63
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 12
+        width: 124
+        height: 13
+      alignment: 9
+      pivot: {x: 0.016129032, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6c88bc0006b00375c427b6e65b11a9
+      internalID: -1067188122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 12
+        width: 123
+        height: 13
+      alignment: 9
+      pivot: {x: 0.016260162, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55145be30289a83ce524fdb986aab47d
+      internalID: -1955817105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_65
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 13
+        width: 121
+        height: 12
+      alignment: 9
+      pivot: {x: 0.016528925, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a7e1799426237a0bfd63dd0c0b3ea9
+      internalID: 356800608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 11
+      alignment: 9
+      pivot: {x: -0.09259259, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe54ebf6733743a7319e5564d28b76d
+      internalID: 36337579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_67
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 108
+        height: 10
+      alignment: 9
+      pivot: {x: -0.09259259, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc3f615f5bc80f8c4b51ac0f80ad9c4
+      internalID: -901944148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_68
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 14
+        width: 109
+        height: 11
+      alignment: 9
+      pivot: {x: -0.09174312, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4132312f10274ef8c1c5c1a7e8d19d9c
+      internalID: -1628873673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 10
+        width: 69
+        height: 1
+      alignment: 9
+      pivot: {x: -0.6376812, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e434d2b315d14fcab4b42e00d026eb89
+      internalID: -988227075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thorns_70
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 10
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ce03ff9cba59cfc9f5f089c586a32f
+      internalID: -1578649951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a023b1a875d8542098e53ecc63cfbcd5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thorns_0: -5929405817864647190
+      thorns_1: -1754124313
+      thorns_10: 1107236077
+      thorns_11: 661880996
+      thorns_12: -151509925
+      thorns_13: -14251298
+      thorns_14: 8310880
+      thorns_15: 870223334
+      thorns_16: 758729335
+      thorns_17: 878261208
+      thorns_18: 1906243842
+      thorns_19: -2055375883
+      thorns_2: -1964360979
+      thorns_20: 800117699
+      thorns_21: 314889804
+      thorns_22: 1274936189
+      thorns_23: 845517103
+      thorns_24: -1065717769
+      thorns_25: -633443832
+      thorns_26: -1778027686
+      thorns_27: 2101238669
+      thorns_28: 101219875
+      thorns_29: 1521410470
+      thorns_3: -1862418476
+      thorns_30: 2009142860
+      thorns_31: -724919190
+      thorns_32: 1719738742
+      thorns_33: -2116812094
+      thorns_34: 1048435920
+      thorns_35: 1271738874
+      thorns_36: 285949560
+      thorns_37: 446228089
+      thorns_38: 1410772374
+      thorns_39: -1505653115
+      thorns_4: 110338864
+      thorns_40: -323848285
+      thorns_41: -1876798373
+      thorns_42: -451738970
+      thorns_43: 1203938693
+      thorns_44: -2025866474
+      thorns_45: -1714999921
+      thorns_46: 1252876754
+      thorns_47: -1120181886
+      thorns_48: -2036240670
+      thorns_49: -210101736
+      thorns_5: 1148821290
+      thorns_50: 1986570907
+      thorns_51: -331535649
+      thorns_52: 1645025598
+      thorns_53: 234759178
+      thorns_54: -720933309
+      thorns_55: -753112768
+      thorns_56: -1085885149
+      thorns_57: 246846254
+      thorns_58: -438765372
+      thorns_59: 576501773
+      thorns_6: -1898187917
+      thorns_60: 784031770
+      thorns_61: 1428870881
+      thorns_62: -1316392715
+      thorns_63: -1067188122
+      thorns_64: -1955817105
+      thorns_65: 356800608
+      thorns_66: 36337579
+      thorns_67: -901944148
+      thorns_68: -1628873673
+      thorns_69: -988227075
+      thorns_7: 1929397452
+      thorns_70: -1578649951
+      thorns_8: 321135800
+      thorns_9: 1991662702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

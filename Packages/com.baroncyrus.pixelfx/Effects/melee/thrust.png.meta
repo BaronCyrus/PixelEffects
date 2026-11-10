@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: dd82396c9980b49bf973306722df7014
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6024834609794013129
+    second: thrust_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thrust_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.10714286, y: -0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f2417cba53ea5b7f972cd8758a0bbd
+      internalID: 6024834609794013129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5
+        width: 86
+        height: 23
+      alignment: 9
+      pivot: {x: 0.093023255, y: -0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b14e1dd11bab42d70bc2d10232022d9
+      internalID: 196372643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 35
+        width: 88
+        height: 31
+      alignment: 9
+      pivot: {x: 0.09090909, y: -0.09677419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb71dbb9b210f35195c4d5db417895c
+      internalID: -1510607272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 119
+        height: 71
+      alignment: 9
+      pivot: {x: 0.042016808, y: 0.18309858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b21d9b4e41e1ab532a89ade32e67cef
+      internalID: -1383971705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 232
+        width: 107
+        height: 66
+      alignment: 9
+      pivot: {x: -0.028037382, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94ad7e2a0b30c4bd31fdb42fbad3143
+      internalID: -670351907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 99
+        height: 66
+      alignment: 9
+      pivot: {x: -0.1010101, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1590051f817b49c60416ca69b6aaf0e5
+      internalID: 1341193702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 164
+        width: 90
+        height: 62
+      alignment: 9
+      pivot: {x: -0.25555557, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d646dac752f348719b8ae7705b5d7
+      internalID: -969766825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 82
+        height: 52
+      alignment: 9
+      pivot: {x: -0.47560975, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da28d8a788c1a8bbe2ce59a236df17
+      internalID: -753995893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 107
+        width: 79
+        height: 52
+      alignment: 9
+      pivot: {x: -0.62025315, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfe41a02ff274c31e3688b4266f6a8c
+      internalID: 1184667571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 118
+        width: 86
+        height: 41
+      alignment: 9
+      pivot: {x: -0.55813956, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf1abce3aed7babc6e318bc9d494fa
+      internalID: -45940319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 93
+        height: 36
+      alignment: 9
+      pivot: {x: -0.49462366, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a287249e8194571caf2c282c8b38d
+      internalID: -1248974881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68
+        width: 89
+        height: 38
+      alignment: 9
+      pivot: {x: -0.48314607, y: 0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0e23250f4723c12779ef123eda01e1
+      internalID: 343228244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 69
+        width: 79
+        height: 37
+      alignment: 9
+      pivot: {x: -0.5063291, y: -0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bace589efb05ee86ef5e8ba943a07e34
+      internalID: -1742088990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 59
+        height: 37
+      alignment: 9
+      pivot: {x: -0.86440676, y: -0.054054055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0db3db373c7a498f33d45db3214b640
+      internalID: 478362537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 64
+        height: 39
+      alignment: 9
+      pivot: {x: -0.765625, y: -0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7144fb7012fc66268a875f01c455065
+      internalID: -421493300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 13
+        width: 39
+        height: 15
+      alignment: 9
+      pivot: {x: -1.8717948, y: -0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee29192e65afa18e4d6395e934c9a28b
+      internalID: 256167879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 13
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: -5.214286, y: -0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a83eab31e29be98d1e0c43ab0a5097
+      internalID: 714323193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 18
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: -8.222222, y: -1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da72d3499f8d0083fb811559e9aa3508
+      internalID: -2041212131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 18
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: -8.222222, y: -1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e901793cf9cbec52e0ce50fc898b1f4
+      internalID: 2040608944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thrust_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 27
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f5ad8371390d31bf15f56d1e5ae4bf
+      internalID: 1148054634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5c2a28ef9b8f3477eb89f5e038070dfb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thrust_0: 6024834609794013129
+      thrust_1: 196372643
+      thrust_10: -1248974881
+      thrust_11: 343228244
+      thrust_12: -1742088990
+      thrust_13: 478362537
+      thrust_14: -421493300
+      thrust_15: 256167879
+      thrust_16: 714323193
+      thrust_17: -2041212131
+      thrust_18: 2040608944
+      thrust_19: 1148054634
+      thrust_2: -1510607272
+      thrust_3: -1383971705
+      thrust_4: -670351907
+      thrust_5: 1341193702
+      thrust_6: -969766825
+      thrust_7: -753995893
+      thrust_8: 1184667571
+      thrust_9: -45940319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

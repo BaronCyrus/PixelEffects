@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: energy-disc
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: projectiles/energy-disc
+  displayName: Energy disc
+  description: 'A sawblade of crackling energy spinning flat out as it flies: hooked teeth bright on their leading edges, a white hub, spiral arms churning, sparks flung off the teeth.'
+  category: projectiles
+  tags:
+  - projectile
+  - disc
+  - saw
+  - energy
+  - sci-fi
+  - directional
+  - loop
+  frames:
+  - {fileID: 2604956332496682548, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: 332047411, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: 1811556924, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: -1818835519, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: -1781397370, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: -416215514, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: -1429312080, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: -573355145, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: -713280557, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: -1905647889, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: 257372954, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: 1007155355, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: -620293021, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: 1419257736, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  - {fileID: 920047184, guid: c18936686f8914bf4b3b78ffbcce0e02, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 120, y: 52}
+  origin: {x: 92, y: 26}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

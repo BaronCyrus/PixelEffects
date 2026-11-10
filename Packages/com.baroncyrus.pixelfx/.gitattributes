@@ -1,0 +1,3 @@
+# The baked sheets stay ordinary git objects, not Git LFS: installing the package from a git URL, cloning
+# without git-lfs and GitHub's "Download ZIP" all have to give you real textures.
+*.png -filter -diff -merge -text

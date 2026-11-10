@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: life-steal
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: shadow/life-steal
+  displayName: Life steal
+  description: A target on the right is struck and bleeds red orbs; they hang a moment, then whip home as comet streaks and flood the caster crimson.
+  category: shadow
+  tags:
+  - shadow
+  - life-steal
+  - drain
+  - blood
+  - heal
+  - directional
+  - magic
+  - one-shot
+  frames:
+  - {fileID: 3336007884956061163, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 2103047846, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1974776291, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1801144881, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -366197616, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -340016717, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 348891467, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -868262525, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1200308725, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1194824592, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1394355209, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -890755850, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -828183186, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 868084080, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1469442445, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 2122352981, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1613466708, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1571527841, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 796440312, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1141256095, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1168707817, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -106137165, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1530312852, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1567817742, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 559911456, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1114912972, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1758083347, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1185588301, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 905231188, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1033158934, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1181326332, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1356856886, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1621469293, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1389365485, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1657100722, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -674962243, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1950196438, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -778122288, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1562911220, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1366064169, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -183323997, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1231492840, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1581156928, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -525264172, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 995987637, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 563417922, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1209405890, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -408869819, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -767861626, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -2086855617, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -164308577, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -190471758, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -355664386, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 571321450, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1603906296, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -322341636, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -352548386, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 270457124, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 2095997845, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 132769508, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -1734731780, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1279277012, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: 1726214875, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -189337695, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -189337695, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -189337695, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  - {fileID: -189337695, guid: 50d589a83b8574219814197015277a2e, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 184, y: 100}
+  origin: {x: 36, y: 92}
+  fullScreen: 0
+  previewFrame: 1
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.46
+  recovery: 0
+  onBody: 1
+  hits:
+  - time: 0.01
+    freeze: 0.07
+    shake: 0.12
+    amplitude: 1
+    push: 1.6
+  - time: 1.6
+    freeze: 0
+    shake: 0
+    amplitude: 0
+    push: 0

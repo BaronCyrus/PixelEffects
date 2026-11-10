@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: exclamation
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: ui/exclamation
+  displayName: Exclamation
+  description: A bold ! springs up off the hero's head, stretching as it shoots up and squashing as it lands; surprise ticks flick out, it wobbles, then pops away.
+  category: ui
+  tags:
+  - ui
+  - alert
+  - surprise
+  - emote
+  - character
+  - one-shot
+  frames:
+  - {fileID: 5522654982662980753, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1000427113, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -1704546772, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1052126472, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 87089122, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -1110614900, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -2144004541, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1543875344, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -1947610807, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 80280835, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -222902401, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 422151774, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -1629781501, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -281612141, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1983520891, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -885673216, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -1234690923, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -937970253, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -1077986351, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 947290088, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1442333814, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1489872936, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 2002626495, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -1255643756, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -1345929890, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -211828730, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 279445022, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1261332891, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -1750460660, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1878425652, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -545697422, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 2000462483, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -655932929, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -635062820, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 2099841568, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1571217148, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -8466732, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -673791705, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1715307965, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1617856948, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: -22852948, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1105491582, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  - {fileID: 1105491582, guid: cd125eebeb9bf460ba96294489d24571, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 84, y: 104}
+  origin: {x: 42, y: 92}
+  fullScreen: 0
+  previewFrame: 2
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.08
+  recovery: 0
+  onBody: 0
+  hits: []

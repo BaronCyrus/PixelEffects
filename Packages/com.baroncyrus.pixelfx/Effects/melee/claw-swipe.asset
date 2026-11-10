@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: claw-swipe
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/claw-swipe
+  displayName: Claw swipe
+  description: Three claw marks rake down one after another, white-hot, cooling through orange to red, then close up from both ends and leave a dotted scar, with hot flecks and drips.
+  category: melee
+  tags:
+  - melee
+  - claw
+  - swipe
+  - beast
+  - scratch
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -3345101353207251362, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 558776496, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 766931828, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 1577384619, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 1625244287, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 393962237, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -1701667355, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 1101443708, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 1791124123, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 719789858, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 435407194, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 1467649286, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 525868974, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 1003712682, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 1889384916, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -1761932551, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -643465848, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -909549716, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 846929092, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 489288850, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -555840615, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -916686700, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: 70044769, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -393510195, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -3345101353207251362, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -3345101353207251362, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -3345101353207251362, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  - {fileID: -3345101353207251362, guid: f3f602f0c887348b89037a5309e409b9, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 128, y: 96}
+  origin: {x: 36, y: 84}
+  fullScreen: 0
+  previewFrame: 4
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.46
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.04
+    freeze: 0.03
+    shake: 0
+    amplitude: 0
+    push: 0.9
+  - time: 0.08
+    freeze: 0.03
+    shake: 0
+    amplitude: 0
+    push: 0.9
+  - time: 0.12
+    freeze: 0.08
+    shake: 0.14
+    amplitude: 2
+    push: 1.4

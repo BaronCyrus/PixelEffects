@@ -1,0 +1,2964 @@
+fileFormatVersion: 2
+guid: 6632acd271e8842a59e2b6fd6b2dbfb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2693440480886339496
+    second: ice-lance-throw_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice-lance-throw_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 38
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5774157ad7e561362e1d7e40ea31aa
+      internalID: -2693440480886339496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 150
+        width: 101
+        height: 66
+      alignment: 9
+      pivot: {x: 0.45544556, y: 0.015151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cb8b3ac7ff4c127f582269b55b1d06
+      internalID: -1059823202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 218
+        width: 100
+        height: 70
+      alignment: 9
+      pivot: {x: 0.45, y: 0.014285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375d79b3893f4377e8e574d8085c7676
+      internalID: 995522601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 292
+        width: 98
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4387755, y: 0.028169014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029fd5732661ed4fd04610663aaefbcd
+      internalID: -1308729400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_4
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 292
+        width: 96
+        height: 71
+      alignment: 9
+      pivot: {x: 0.42708334, y: 0.028169014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbeafd6522baa1a9c8a629462e9e266
+      internalID: 1148086509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_5
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 292
+        width: 91
+        height: 71
+      alignment: 9
+      pivot: {x: 0.3956044, y: 0.028169014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd7257fea3425e619f62e83f8d9185
+      internalID: 2092761123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 291
+        width: 83
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3253012, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de973ea15a09b2def52be760e324e9d
+      internalID: 2135664474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 219
+        width: 80
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3, y: 0.014492754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50fb6e9635f7ba6f0ca530286144b53
+      internalID: 893731959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 291
+        width: 80
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.013888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90c3fdfa72b5db858ea88093116af0a
+      internalID: 657491625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 78
+        height: 71
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.014084507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195cba62f2c5238d74f7c5086002f288
+      internalID: -1445718225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 78
+        height: 68
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.014705882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcb8a835d83de9e8c37be001af776c3
+      internalID: -285138410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 218
+        width: 78
+        height: 70
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.014285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5fa54874e44b844b25013e0b93683b
+      internalID: -831974535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 149
+        width: 81
+        height: 67
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.014925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e67345d240b83f5e7d8f355fa59d76
+      internalID: -559857633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 151
+        width: 83
+        height: 65
+      alignment: 9
+      pivot: {x: 0.33734939, y: 0.015384615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d17dca99edbee4e1bbabd147e1936d
+      internalID: 1006269830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_14
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 153
+        width: 83
+        height: 63
+      alignment: 9
+      pivot: {x: 0.33734939, y: 0.015873017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8044ed40f701141a6c92ebc85b0fd14b
+      internalID: 113691580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_15
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 220
+        width: 108
+        height: 68
+      alignment: 9
+      pivot: {x: 0.37962964, y: 0.029411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d1b0aedc0045a38b8438d821523a2c
+      internalID: -416745042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 219
+        width: 112
+        height: 69
+      alignment: 9
+      pivot: {x: 0.38392857, y: 0.028985508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4cbcbe8af6925992d1806d4f06bba
+      internalID: 1451714566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 219
+        width: 111
+        height: 69
+      alignment: 9
+      pivot: {x: 0.3873874, y: 0.028985508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b2dd6bf1b96bd4920d1d6ee88c135
+      internalID: -869360074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 151
+        width: 105
+        height: 65
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.03076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a91d23e934eb6294ff204af588a97a9
+      internalID: 1524994288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 218
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.37755102, y: 0.014285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6869f82c1c08eb3a486a9d61ffff97
+      internalID: -1394315530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_20
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 219
+        width: 98
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4387755, y: 0.014492754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e669ecd0e90816a0fcc142b653edd518
+      internalID: 1611322574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 149
+        width: 100
+        height: 67
+      alignment: 9
+      pivot: {x: 0.41, y: 0.014925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e607a594b10b9a89c79a84d7253485
+      internalID: 2134497665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_22
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 152
+        width: 97
+        height: 64
+      alignment: 9
+      pivot: {x: 0.39175257, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc80fcba1a8bf0178c7d6c601950e0e
+      internalID: -1707812293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 154
+        width: 92
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36956522, y: 0.016129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382afb9baa9f9739eb7b59b944f9281e
+      internalID: 541597679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 99
+        width: 141
+        height: 48
+      alignment: 9
+      pivot: {x: 0.58156025, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc18276e82f56cf70d8504a1cd11742a
+      internalID: -853324241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_25
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 99
+        width: 142
+        height: 48
+      alignment: 9
+      pivot: {x: 0.48591548, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656924019035091b40b84172b29e1ced
+      internalID: -568171896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_26
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 99
+        width: 141
+        height: 48
+      alignment: 9
+      pivot: {x: 0.39007092, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22949b892d62c84c96cfdfbe3947e26
+      internalID: 1259197304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_27
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 40
+        width: 139
+        height: 48
+      alignment: 9
+      pivot: {x: 0.2877698, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef1b0b3f23b4faa8faecd44e68cc695
+      internalID: -1649762123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_28
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 40
+        width: 133
+        height: 48
+      alignment: 9
+      pivot: {x: 0.15037593, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2fd2e6a737414a8e491a5f0e9f7ba3
+      internalID: 1854408023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_29
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 40
+        width: 134
+        height: 48
+      alignment: 9
+      pivot: {x: 0.05970149, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3164d47aeea4a34e82deea6c34d1d05
+      internalID: -83952717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 40
+        width: 135
+        height: 48
+      alignment: 9
+      pivot: {x: -0.02962963, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da50f09f4fa4e3054b00da8bc1aef8
+      internalID: -1485789991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 40
+        width: 138
+        height: 48
+      alignment: 9
+      pivot: {x: -0.10869565, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6427b067787d95d9b66a58d85df2586a
+      internalID: 803638995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 140
+        height: 48
+      alignment: 9
+      pivot: {x: -0.18571429, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074c9e232d51f425aefd31321a95f087
+      internalID: 2052224369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_33
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 99
+        width: 141
+        height: 48
+      alignment: 9
+      pivot: {x: -0.26950353, y: -0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedec9d17f414661c5eb5c872426e934
+      internalID: -358740929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 93
+        width: 66
+        height: 54
+      alignment: 9
+      pivot: {x: -2.2121212, y: -0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d828cec57c239875978a74e52509c644
+      internalID: 1908888305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_35
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 45
+        width: 58
+        height: 43
+      alignment: 9
+      pivot: {x: -2.5172415, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b2766c48a8a8cf99eb197e003d5438
+      internalID: -109989515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 95
+        width: 61
+        height: 52
+      alignment: 9
+      pivot: {x: -2.2131147, y: -0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8312d62bd357274d72ed79c39751d4c7
+      internalID: 690334007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_37
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 290
+        width: 45
+        height: 73
+      alignment: 9
+      pivot: {x: -3.1555555, y: -0.42465752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8616d5d4fd8d48efc045bfe7d8e203a4
+      internalID: 215025398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_38
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 156
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: -3.75, y: -0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0667e9afa543f8127134128650c5f8e7
+      internalID: -1895245404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883
+        width: 116
+        height: 121
+      alignment: 9
+      pivot: {x: -0.92241377, y: -0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc9e92229b33916d5d2db7aa1cb735
+      internalID: 1760242499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_40
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 886
+        width: 113
+        height: 118
+      alignment: 9
+      pivot: {x: -0.96460176, y: -0.11016949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d4595bc85584af775624c9926da3d6
+      internalID: 24159007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 889
+        width: 111
+        height: 115
+      alignment: 9
+      pivot: {x: -1, y: -0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c68717803f66c7029e7e3e46567b2
+      internalID: -1147625511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 891
+        width: 109
+        height: 113
+      alignment: 9
+      pivot: {x: -1.0366973, y: -0.15044248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aebfdfd50114b1acb26be8a924fa7c
+      internalID: -1552772018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_43
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 894
+        width: 106
+        height: 110
+      alignment: 9
+      pivot: {x: -1.0849056, y: -0.17272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec74c855610baf50ec4051869060543
+      internalID: 1254048506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_44
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 898
+        width: 103
+        height: 106
+      alignment: 9
+      pivot: {x: -1.1359223, y: -0.1981132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7c88d93fb71ca8ef9257d5fcbd679b
+      internalID: 1430487841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_45
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 902
+        width: 101
+        height: 102
+      alignment: 9
+      pivot: {x: -1.1782178, y: -0.2254902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7fe6d8e06d5aac6fbbd018c00b4b33
+      internalID: 345134998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 96
+        height: 96
+      alignment: 9
+      pivot: {x: -1.2708334, y: -0.27083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e293f9bb0602f8d5e076e3009620ae9
+      internalID: 642156247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_47
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 790
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: -1.3478261, y: -0.3043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3b0a9d02fcf5e882af8d6956205bac
+      internalID: 1327325957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_48
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 796
+        width: 90
+        height: 86
+      alignment: 9
+      pivot: {x: -1.4111111, y: -0.3604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b9f705111cb00bc2f09c86431c49c
+      internalID: 680731807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 793
+        width: 91
+        height: 89
+      alignment: 9
+      pivot: {x: -1.4175824, y: -0.31460676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc67b3ae41ae72cecdbc89b7ae8281
+      internalID: -1846798946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 787
+        width: 80
+        height: 95
+      alignment: 9
+      pivot: {x: -1.625, y: -0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f5c5f8b5f726a6121372b89c76b624
+      internalID: 1936411009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_51
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 903
+        width: 80
+        height: 101
+      alignment: 9
+      pivot: {x: -1.625, y: -0.21782178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4723075b205fc1ee14493d8d481f9aaa
+      internalID: 1770609447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 790
+        width: 80
+        height: 92
+      alignment: 9
+      pivot: {x: -1.625, y: -0.36956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960f5f2aa9616583cd409f446a29f153
+      internalID: 659908597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_53
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 447
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: -1.625, y: -0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c34706c33e12ff2e4c739c94cd3a717
+      internalID: -1229466960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_54
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 446
+        width: 80
+        height: 81
+      alignment: 9
+      pivot: {x: -1.625, y: -0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7f1e81e2f67f4f1182a51974352f6b
+      internalID: -760437055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 447
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: -1.625, y: -0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcb5494f0a0acff6833e0c75719465a
+      internalID: 1544942538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_56
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 447
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: -1.625, y: -0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b6d46f9ec712511f7eb611637ec6ab
+      internalID: -552140608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_57
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 366
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: -1.6794872, y: -0.44871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c87d6693b963e561bf8a23ee3f57f37
+      internalID: -71697331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_58
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 365
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: -1.6794872, y: -0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76f2e9be00f84dd9971e7e3aff3278
+      internalID: -1388476186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_59
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 365
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: -1.6794872, y: -0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f534a745730c7072b3a9763506ed0f46
+      internalID: 1655942531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_60
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 365
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: -1.6794872, y: -0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99572f8de5a198a5d94d6d45f5c3a299
+      internalID: -537680123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 365
+        width: 78
+        height: 79
+      alignment: 9
+      pivot: {x: -1.6794872, y: -0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb440e00e23eaf47bfca279a888dd819
+      internalID: 1889295045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_62
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 365
+        width: 76
+        height: 79
+      alignment: 9
+      pivot: {x: -1.7368422, y: -0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373cb336066d2d1fcbaf73a6561a05bb
+      internalID: -717350802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_63
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 365
+        width: 76
+        height: 79
+      alignment: 9
+      pivot: {x: -1.7368422, y: -0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563aa1113601537d6210cd7890bfa20
+      internalID: 799866848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_64
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 447
+        width: 77
+        height: 80
+      alignment: 9
+      pivot: {x: -1.7142857, y: -0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6192b5691b66106c4797352720db411
+      internalID: 681659009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 77
+        height: 80
+      alignment: 9
+      pivot: {x: -1.7142857, y: -0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d288ed2bee63f7b0c15b0eed70eb180
+      internalID: 146941245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 446
+        width: 77
+        height: 81
+      alignment: 9
+      pivot: {x: -1.7142857, y: -0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530307f8b40d6f3340d53327cae09629
+      internalID: -92665070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_67
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 446
+        width: 77
+        height: 81
+      alignment: 9
+      pivot: {x: -1.7142857, y: -0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a1a578e9a67c5805c24f0556ba6c88
+      internalID: -224318160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 445
+        width: 77
+        height: 82
+      alignment: 9
+      pivot: {x: -1.7142857, y: -0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9098362f3a7a6853d79ce9e7036da4
+      internalID: -1481335984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 445
+        width: 78
+        height: 82
+      alignment: 9
+      pivot: {x: -1.6794872, y: -0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c53a3bd401c2d2b3e0a120d1ba9d66
+      internalID: 1981422014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_70
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 529
+        width: 78
+        height: 83
+      alignment: 9
+      pivot: {x: -1.6794872, y: -0.37349397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be67775f9e99c794a3a10feff27b022f
+      internalID: 678539595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_71
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 529
+        width: 78
+        height: 83
+      alignment: 9
+      pivot: {x: -1.6794872, y: -0.37349397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c221439377f3134ae0b885784bddeb6e
+      internalID: 1240476537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_72
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 529
+        width: 78
+        height: 83
+      alignment: 9
+      pivot: {x: -1.6794872, y: -0.37349397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb20eb7d87b1b5da38d0ddb6697ae661
+      internalID: 1391036362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_73
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 528
+        width: 79
+        height: 84
+      alignment: 9
+      pivot: {x: -1.6455696, y: -0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5949524bbe38068c10e02a3ce9b2cbf0
+      internalID: -1421460215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_74
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 528
+        width: 79
+        height: 84
+      alignment: 9
+      pivot: {x: -1.6455696, y: -0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eabc20b28662313a84ae747907cdfc
+      internalID: -801777576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_75
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 528
+        width: 78
+        height: 84
+      alignment: 9
+      pivot: {x: -1.6666666, y: -0.3452381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f8c5284f7d8095b5a4557bf68966c1
+      internalID: 666117063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 528
+        width: 79
+        height: 84
+      alignment: 9
+      pivot: {x: -1.6455696, y: -0.3452381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c4d64a72400920169e4621d96bc05
+      internalID: -1539027250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_77
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 528
+        width: 80
+        height: 84
+      alignment: 9
+      pivot: {x: -1.6125, y: -0.3452381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cee603ce1612c277431ca53f2cc258
+      internalID: 475607104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_78
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 613
+        width: 80
+        height: 85
+      alignment: 9
+      pivot: {x: -1.6125, y: -0.32941177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f78a7dfc68577d056812742e9fa4c4f
+      internalID: 1133703558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_79
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 613
+        width: 80
+        height: 85
+      alignment: 9
+      pivot: {x: -1.6125, y: -0.32941177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e0340d610d0dee3e986a8ead8e05c7
+      internalID: -546106340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_80
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 528
+        width: 80
+        height: 84
+      alignment: 9
+      pivot: {x: -1.6125, y: -0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f58ffdf5bbcff4dcf911dc74cf9974
+      internalID: 1575115486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 613
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: -1.5609756, y: -0.31764707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc653e3831998251b898729bccd42e0
+      internalID: -1357765216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_82
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 613
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: -1.5609756, y: -0.31764707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d304521feabff659c57cd223ed5407c1
+      internalID: -2104859275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 613
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: -1.5609756, y: -0.31764707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb671bf3b8acdb31672df52209d577
+      internalID: -242450197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_84
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 613
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: -1.5609756, y: -0.30588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc6924491103b251375a8522b4e9a3a
+      internalID: -1470754332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_85
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 613
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: -1.5609756, y: -0.30588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a185f4ee96c23af4a3a29bddbcd493
+      internalID: 1325869738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_86
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 700
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: -1.5119047, y: -0.30588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b73adf865417afb5a9757b874de91
+      internalID: -1547182976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 699
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: -1.5119047, y: -0.29069766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404fab1bfe93edf1abd50cf33e4d582d
+      internalID: -2107182974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_88
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 700
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: -1.5119047, y: -0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c138ac6f103c63000540c21af293b5
+      internalID: 924744891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 613
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: -1.5119047, y: -0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c911c2e43141eb5a798cf20b4e53ab2
+      internalID: -2080601799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_90
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 699
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: -1.5119047, y: -0.27906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3ae699e2c8af9486121ed6d6b4d4ae
+      internalID: -589146428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 613
+        width: 84
+        height: 85
+      alignment: 9
+      pivot: {x: -1.5119047, y: -0.28235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892448dbdcd7a1dc735e9586b9dac496
+      internalID: 1962285333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_92
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 700
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: -1.482353, y: -0.28235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ca00186f02d60e4bf85e9d8af9b1dc
+      internalID: -59496059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_93
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 796
+        width: 86
+        height: 86
+      alignment: 9
+      pivot: {x: -1.4651163, y: -0.26744187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc9bda9d0dad6a67bf581b6320fa6ce
+      internalID: 318420542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_94
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 796
+        width: 86
+        height: 86
+      alignment: 9
+      pivot: {x: -1.4651163, y: -0.26744187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19241b8defc9ed1005d8320901d11af
+      internalID: 1056537511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_95
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 700
+        width: 86
+        height: 85
+      alignment: 9
+      pivot: {x: -1.4651163, y: -0.27058825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09331fa9f57d95b9fabbfe8a2be2bc7
+      internalID: 222547794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 86
+        height: 86
+      alignment: 9
+      pivot: {x: -1.4651163, y: -0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ed700eb1c97063b337dfc270698f6
+      internalID: 180071482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_97
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 699
+        width: 86
+        height: 86
+      alignment: 9
+      pivot: {x: -1.4651163, y: -0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79795a887db3e75f86888f090beaed5
+      internalID: -1269755383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_98
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 700
+        width: 86
+        height: 85
+      alignment: 9
+      pivot: {x: -1.4651163, y: -0.25882354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2208b8be19063faa08a10284fdbae4
+      internalID: -783239616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_99
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 699
+        width: 86
+        height: 86
+      alignment: 9
+      pivot: {x: -1.4651163, y: -0.24418604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0312668f5cbd7197a17260feda7f1ef
+      internalID: 1541357787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_100
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 796
+        width: 87
+        height: 86
+      alignment: 9
+      pivot: {x: -1.4367816, y: -0.24418604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0111e4ce2faccf4aced5741b9ef6c767
+      internalID: 1151146167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_101
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 796
+        width: 87
+        height: 86
+      alignment: 9
+      pivot: {x: -1.4367816, y: -0.24418604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ecd654c6a10043dcafd54024a6037c
+      internalID: -1887980089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_102
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 614
+        width: 86
+        height: 84
+      alignment: 9
+      pivot: {x: -1.4534883, y: -0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a6225007df88dd30384d841ca81b2
+      internalID: 1458145705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_103
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 614
+        width: 84
+        height: 84
+      alignment: 9
+      pivot: {x: -1.5, y: -0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9fb571e9bf4f795c5a4591fedf9b0e
+      internalID: 1656968742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 82
+        height: 84
+      alignment: 9
+      pivot: {x: -1.5365853, y: -0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab69f9bea81945655e4c5fd8ec08d10
+      internalID: -2081817218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_105
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 530
+        width: 80
+        height: 82
+      alignment: 9
+      pivot: {x: -1.5875, y: -0.2804878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199cea674afc865fa8e6f4362d844659
+      internalID: -666646735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 79
+        height: 82
+      alignment: 9
+      pivot: {x: -1.607595, y: -0.2804878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b2a71c9ae47a5874e4fb523270baac
+      internalID: -508679088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_107
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 445
+        width: 77
+        height: 82
+      alignment: 9
+      pivot: {x: -1.6623377, y: -0.2804878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fa9b9e14536516bb01aa4336ee494b
+      internalID: -1400556102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_108
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 364
+        width: 76
+        height: 80
+      alignment: 9
+      pivot: {x: -1.6842105, y: -0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4996010e1f9c28d6e21d3f0b59440a6f
+      internalID: -119666490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_109
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 364
+        width: 75
+        height: 80
+      alignment: 9
+      pivot: {x: -1.7066667, y: -0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0542c28da09d621db007fda1d6b99865
+      internalID: 1209305192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_110
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 365
+        width: 72
+        height: 79
+      alignment: 9
+      pivot: {x: -1.7916666, y: -0.30379745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058ff85d21a804d4e6fd44a13a6a2483
+      internalID: 1679243079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 71
+        height: 74
+      alignment: 9
+      pivot: {x: -1.8169014, y: -0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93846dbcf55899a15f738122f2b8a624
+      internalID: 458479860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 289
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: -1.8428571, y: -0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f32fd7b6cb35342c93ea5c0d18751
+      internalID: 463751053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_113
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 289
+        width: 70
+        height: 74
+      alignment: 9
+      pivot: {x: -1.8428571, y: -0.36486486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfa516c4998b7e5a610305ed085e4e8
+      internalID: 124123483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_114
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 290
+        width: 70
+        height: 73
+      alignment: 9
+      pivot: {x: -1.8428571, y: -0.369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7086a365e544e0aad3fbbed5ac8a42
+      internalID: 756449408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_115
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 290
+        width: 70
+        height: 73
+      alignment: 9
+      pivot: {x: -1.8428571, y: -0.369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd731b59721e5375ecfdc9072328050
+      internalID: 1728121635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: -1.8428571, y: -0.7413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747d58fda551974e997cf90d92a8aba9
+      internalID: 263837549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_117
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 89
+        width: 70
+        height: 58
+      alignment: 9
+      pivot: {x: -1.8428571, y: -0.7413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1559a18e8a6a5f7ec3427479a90d9e4
+      internalID: -2110045299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_118
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 48
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: -3.8857143, y: -1.525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5baac501042934d8a80909ad6986f6d
+      internalID: 2034913245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: -4.029412, y: -1.5641025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e32bae4ff5f581e9f1ac3551f8948c3
+      internalID: -1656620328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_120
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 34
+        height: 38
+      alignment: 9
+      pivot: {x: -4.029412, y: -1.6315789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124591c84581bfc1f92391286779e391
+      internalID: 1017496196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_121
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 23
+        width: 34
+        height: 16
+      alignment: 9
+      pivot: {x: -4.029412, y: -5.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac142d140fe56dd81b228917a0910f
+      internalID: -1569389012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-lance-throw_122
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 24
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: -4.3125, y: -5.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e606c2cff251143447ed9925c47e6
+      internalID: 1645306557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a6bd526eb1c554e5eb2cd5856a7e10c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice-lance-throw_0: -2693440480886339496
+      ice-lance-throw_1: -1059823202
+      ice-lance-throw_10: -285138410
+      ice-lance-throw_100: 1151146167
+      ice-lance-throw_101: -1887980089
+      ice-lance-throw_102: 1458145705
+      ice-lance-throw_103: 1656968742
+      ice-lance-throw_104: -2081817218
+      ice-lance-throw_105: -666646735
+      ice-lance-throw_106: -508679088
+      ice-lance-throw_107: -1400556102
+      ice-lance-throw_108: -119666490
+      ice-lance-throw_109: 1209305192
+      ice-lance-throw_11: -831974535
+      ice-lance-throw_110: 1679243079
+      ice-lance-throw_111: 458479860
+      ice-lance-throw_112: 463751053
+      ice-lance-throw_113: 124123483
+      ice-lance-throw_114: 756449408
+      ice-lance-throw_115: 1728121635
+      ice-lance-throw_116: 263837549
+      ice-lance-throw_117: -2110045299
+      ice-lance-throw_118: 2034913245
+      ice-lance-throw_119: -1656620328
+      ice-lance-throw_12: -559857633
+      ice-lance-throw_120: 1017496196
+      ice-lance-throw_121: -1569389012
+      ice-lance-throw_122: 1645306557
+      ice-lance-throw_13: 1006269830
+      ice-lance-throw_14: 113691580
+      ice-lance-throw_15: -416745042
+      ice-lance-throw_16: 1451714566
+      ice-lance-throw_17: -869360074
+      ice-lance-throw_18: 1524994288
+      ice-lance-throw_19: -1394315530
+      ice-lance-throw_2: 995522601
+      ice-lance-throw_20: 1611322574
+      ice-lance-throw_21: 2134497665
+      ice-lance-throw_22: -1707812293
+      ice-lance-throw_23: 541597679
+      ice-lance-throw_24: -853324241
+      ice-lance-throw_25: -568171896
+      ice-lance-throw_26: 1259197304
+      ice-lance-throw_27: -1649762123
+      ice-lance-throw_28: 1854408023
+      ice-lance-throw_29: -83952717
+      ice-lance-throw_3: -1308729400
+      ice-lance-throw_30: -1485789991
+      ice-lance-throw_31: 803638995
+      ice-lance-throw_32: 2052224369
+      ice-lance-throw_33: -358740929
+      ice-lance-throw_34: 1908888305
+      ice-lance-throw_35: -109989515
+      ice-lance-throw_36: 690334007
+      ice-lance-throw_37: 215025398
+      ice-lance-throw_38: -1895245404
+      ice-lance-throw_39: 1760242499
+      ice-lance-throw_4: 1148086509
+      ice-lance-throw_40: 24159007
+      ice-lance-throw_41: -1147625511
+      ice-lance-throw_42: -1552772018
+      ice-lance-throw_43: 1254048506
+      ice-lance-throw_44: 1430487841
+      ice-lance-throw_45: 345134998
+      ice-lance-throw_46: 642156247
+      ice-lance-throw_47: 1327325957
+      ice-lance-throw_48: 680731807
+      ice-lance-throw_49: -1846798946
+      ice-lance-throw_5: 2092761123
+      ice-lance-throw_50: 1936411009
+      ice-lance-throw_51: 1770609447
+      ice-lance-throw_52: 659908597
+      ice-lance-throw_53: -1229466960
+      ice-lance-throw_54: -760437055
+      ice-lance-throw_55: 1544942538
+      ice-lance-throw_56: -552140608
+      ice-lance-throw_57: -71697331
+      ice-lance-throw_58: -1388476186
+      ice-lance-throw_59: 1655942531
+      ice-lance-throw_6: 2135664474
+      ice-lance-throw_60: -537680123
+      ice-lance-throw_61: 1889295045
+      ice-lance-throw_62: -717350802
+      ice-lance-throw_63: 799866848
+      ice-lance-throw_64: 681659009
+      ice-lance-throw_65: 146941245
+      ice-lance-throw_66: -92665070
+      ice-lance-throw_67: -224318160
+      ice-lance-throw_68: -1481335984
+      ice-lance-throw_69: 1981422014
+      ice-lance-throw_7: 893731959
+      ice-lance-throw_70: 678539595
+      ice-lance-throw_71: 1240476537
+      ice-lance-throw_72: 1391036362
+      ice-lance-throw_73: -1421460215
+      ice-lance-throw_74: -801777576
+      ice-lance-throw_75: 666117063
+      ice-lance-throw_76: -1539027250
+      ice-lance-throw_77: 475607104
+      ice-lance-throw_78: 1133703558
+      ice-lance-throw_79: -546106340
+      ice-lance-throw_8: 657491625
+      ice-lance-throw_80: 1575115486
+      ice-lance-throw_81: -1357765216
+      ice-lance-throw_82: -2104859275
+      ice-lance-throw_83: -242450197
+      ice-lance-throw_84: -1470754332
+      ice-lance-throw_85: 1325869738
+      ice-lance-throw_86: -1547182976
+      ice-lance-throw_87: -2107182974
+      ice-lance-throw_88: 924744891
+      ice-lance-throw_89: -2080601799
+      ice-lance-throw_9: -1445718225
+      ice-lance-throw_90: -589146428
+      ice-lance-throw_91: 1962285333
+      ice-lance-throw_92: -59496059
+      ice-lance-throw_93: 318420542
+      ice-lance-throw_94: 1056537511
+      ice-lance-throw_95: 222547794
+      ice-lance-throw_96: 180071482
+      ice-lance-throw_97: -1269755383
+      ice-lance-throw_98: -783239616
+      ice-lance-throw_99: 1541357787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

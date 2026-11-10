@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: bullet-impact
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: impacts/bullet-impact
+  displayName: Bullet impact
+  description: 'A bullet hits a wall on the right: a hot half-star, sparks sprayed back in a cone, a puff of grit, chips that fall and bounce, a pock mark cooling to soot.'
+  category: impacts
+  tags:
+  - impact
+  - bullet
+  - gun
+  - wall
+  - sparks
+  - debris
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -9095081878527658411, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1219542508, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -482617755, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 175437145, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1999727909, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1062642768, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -959398488, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1076672800, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -919036748, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 759525641, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -680082753, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1023050206, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1414792152, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1574346206, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1384255714, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1784234860, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1823342330, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1203878474, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -97680864, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1094353040, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 418307922, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1001739808, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -643994474, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1491764138, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -2076835011, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -191976609, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 2063250968, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 667128301, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1048575547, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1434015839, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -37968264, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1006934648, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 92065408, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1639806627, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1002551895, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1716104054, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: 1233619335, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1347572301, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1186712396, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1186712396, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1186712396, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1186712396, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  - {fileID: -1186712396, guid: f80bde21a1c68445690f7cc0a4e5347c, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 152, y: 100}
+  origin: {x: 116, y: 84}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

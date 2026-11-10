@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: hammer-smash
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/hammer-smash
+  displayName: Hammer smash
+  description: 'A hammer drops in front in a wedge of motion: a white slam with rays, a dome of force, a dent with cracks, rocks thrown up that bounce and settle, and dust.'
+  category: melee
+  tags:
+  - melee
+  - smash
+  - hammer
+  - heavy
+  - ground
+  - shockwave
+  - debris
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -952104008313841708, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 552336594, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -146744645, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -628789813, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1585086873, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -972815848, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 652296510, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1803836643, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1872145985, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1592062831, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 275023232, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1924784640, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 238328102, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 407790368, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1218022489, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1364368767, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1279800884, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1293378270, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1117243619, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1744448109, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1720675256, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -818238542, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1326934321, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -264415605, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1607249696, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -454469270, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -362565029, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -838973195, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1654506673, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -876546641, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1884100984, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 698931061, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 786290173, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -677140976, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1424957818, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 7501711, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 200817940, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1440283364, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1774701304, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -229816385, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -348559830, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1510269419, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -684231676, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1450703975, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -2102599675, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 803593911, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1183617447, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1065007939, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 427324003, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -862816507, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -661014063, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -132645817, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 612233819, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 858883339, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: 1276336641, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1926588935, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1926588935, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1926588935, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1926588935, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1926588935, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  - {fileID: -1926588935, guid: 00cff97638cab44bab11ee31ac19831c, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 208, y: 112}
+  origin: {x: 80, y: 92}
+  fullScreen: 0
+  previewFrame: 30
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.72
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.15
+    freeze: 0.2
+    shake: 0.34
+    amplitude: 3
+    push: 3

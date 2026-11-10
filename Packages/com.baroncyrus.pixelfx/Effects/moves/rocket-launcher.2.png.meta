@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 8b25beea0970942b889b37fb0ddeaefe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5072424216519657438
+    second: rocket-launcher.2_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rocket-launcher_0
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 103
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f7b2d12ef1386cb18e45c7f1f8e6b
+      internalID: 1653467773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_7
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 107
+        width: 250
+        height: 104
+      alignment: 9
+      pivot: {x: 0.556, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b5d2ebac882378edba804e75eaa9f0
+      internalID: -125911689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 244
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4180328, y: 0.31132075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce254cd4a9934b2b2c9a809354395a
+      internalID: -694457249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 105
+        width: 244
+        height: 106
+      alignment: 9
+      pivot: {x: 0.37704918, y: 0.31132075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f081f83a29dfa0b7cd12614b136ae7
+      internalID: -437510392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_13
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 105
+        width: 244
+        height: 106
+      alignment: 9
+      pivot: {x: 0.3319672, y: 0.31132075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa3154c28e042e56ebc00165d4f25ba
+      internalID: 1726421056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 105
+        width: 242
+        height: 106
+      alignment: 9
+      pivot: {x: 0.17768595, y: 0.3018868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac43eea0dc5c45db20ddbabe81a8741a
+      internalID: 512940373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 104
+      alignment: 9
+      pivot: {x: 0.11666667, y: 0.29807693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec2eec13f1b632f7f6c95096fc1521b
+      internalID: 674871286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_18
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 106
+        width: 239
+        height: 105
+      alignment: 9
+      pivot: {x: -0.07112971, y: 0.41904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93519530d7677707145eb7d30be3a7dd
+      internalID: -522860011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 239
+        height: 104
+      alignment: 9
+      pivot: {x: -0.06276151, y: 0.42307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f1461e726c47e621a33bc2ad61aff
+      internalID: 1103604881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2
+        width: 238
+        height: 102
+      alignment: 9
+      pivot: {x: -0.063025214, y: 0.43137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da7d9dcb0773c6f53908ca316325edb
+      internalID: -867727101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_21
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 3
+        width: 239
+        height: 101
+      alignment: 9
+      pivot: {x: -0.054393306, y: 0.42574257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a8ddd851e8be18ca906f30751fa98
+      internalID: -2136867453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_22
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 3
+        width: 239
+        height: 101
+      alignment: 9
+      pivot: {x: -0.046025105, y: 0.41584158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc270f80d9125f9805058dc0a70b297
+      internalID: -304201035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 3
+        width: 248
+        height: 101
+      alignment: 9
+      pivot: {x: -0.03629032, y: 0.41584158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b13e2fc64e98faaf11d4b7d7af85be1
+      internalID: 1233880198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_24
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 106
+        width: 255
+        height: 105
+      alignment: 9
+      pivot: {x: -0.03137255, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f6feaf78f5793c4c344c8746b13a7a
+      internalID: -1816404793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_101
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 105
+        width: 165
+        height: 106
+      alignment: 9
+      pivot: {x: -0.5939394, y: 0.028301887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cf4263aea815e17fedec457b20c21f
+      internalID: 1164638912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_117
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 68
+        width: 52
+        height: 36
+      alignment: 9
+      pivot: {x: -3.1730769, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7f2db96c26fb4b8067c3a7a9622588
+      internalID: -1140016242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_118
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 67
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: -3.1730769, y: 0.08108108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bad96e1fd78150e4b184dbb099a955
+      internalID: 246576872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_119
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 101
+        width: 37
+        height: 3
+      alignment: 9
+      pivot: {x: -4.864865, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf8fa0873fc1685b8a9653233639a3d
+      internalID: 1911301416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_120
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 101
+        width: 37
+        height: 3
+      alignment: 9
+      pivot: {x: -4.864865, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ba87de1464a655e853b44fb5e6a7f9
+      internalID: -57743631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_121
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 101
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.382353, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ebba6cc592c00202f27a6db4fc2ceb
+      internalID: 1719809908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_122
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 101
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.382353, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90f659a042652dde8ba1dda56376ee2
+      internalID: 805556721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_123
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 101
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.382353, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3421cd994f24fe10caa2a6f013607ee
+      internalID: 1306933760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_124
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 101
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.382353, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11886945da08808e0f12debc9401962e
+      internalID: -1817568119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_125
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 101
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.382353, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e181490dc6a34894674545dd7d0dd0f
+      internalID: -1973093602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_126
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 101
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.382353, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac75b19849bc862f0917987e0dd081
+      internalID: -1319338898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_127
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 101
+        width: 33
+        height: 3
+      alignment: 9
+      pivot: {x: -5.5757575, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f82e055111764b31f14456d917c343f
+      internalID: 1105522910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_128
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 101
+        width: 31
+        height: 3
+      alignment: 9
+      pivot: {x: -5.935484, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a06f022359f8bf579dab4c2cdc1ab56
+      internalID: -1577091103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_129
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 101
+        width: 31
+        height: 3
+      alignment: 9
+      pivot: {x: -5.935484, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cbe198e087b5a8646b1e8c71213fe0
+      internalID: 1165997403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_130
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 101
+        width: 29
+        height: 3
+      alignment: 9
+      pivot: {x: -6.3448277, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6797d36b015da5b778ace1ae8780df
+      internalID: -1679574837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_131
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 101
+        width: 29
+        height: 3
+      alignment: 9
+      pivot: {x: -6.3448277, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9da201c8cbf39f7ce85ee2732178b4
+      internalID: 387326911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket-launcher_132
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 103
+        width: 21
+        height: 1
+      alignment: 9
+      pivot: {x: -9.047619, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830ad8b28497c93da82c9b2a4ddb01a
+      internalID: -1342924937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70b21c5fe21e24a13a0bcdd5ec589542
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rocket-launcher_0: 1653467773
+      rocket-launcher_101: 1164638912
+      rocket-launcher_11: -694457249
+      rocket-launcher_117: -1140016242
+      rocket-launcher_118: 246576872
+      rocket-launcher_119: 1911301416
+      rocket-launcher_12: -437510392
+      rocket-launcher_120: -57743631
+      rocket-launcher_121: 1719809908
+      rocket-launcher_122: 805556721
+      rocket-launcher_123: 1306933760
+      rocket-launcher_124: -1817568119
+      rocket-launcher_125: -1973093602
+      rocket-launcher_126: -1319338898
+      rocket-launcher_127: 1105522910
+      rocket-launcher_128: -1577091103
+      rocket-launcher_129: 1165997403
+      rocket-launcher_13: 1726421056
+      rocket-launcher_130: -1679574837
+      rocket-launcher_131: 387326911
+      rocket-launcher_132: -1342924937
+      rocket-launcher_16: 512940373
+      rocket-launcher_17: 674871286
+      rocket-launcher_18: -522860011
+      rocket-launcher_19: 1103604881
+      rocket-launcher_20: -867727101
+      rocket-launcher_21: -2136867453
+      rocket-launcher_22: -304201035
+      rocket-launcher_23: 1233880198
+      rocket-launcher_24: -1816404793
+      rocket-launcher_7: -125911689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

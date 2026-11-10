@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: haste
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: status/haste
+  displayName: Haste
+  description: 'Sped up: striped after-images stream out behind, speed lines whip past, dust kicks off the heels and the leading edge catches the wind. Faces right.'
+  category: status
+  tags:
+  - status
+  - haste
+  - speed
+  - fast
+  - buff
+  - directional
+  - loop
+  frames:
+  - {fileID: -6170531837528321520, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -2057233922, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1477941697, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1659648219, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 805040474, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 554765665, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1420751647, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -276870306, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1447992669, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -87529762, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 1841014790, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 172747306, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 247114414, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 1341439482, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 2116255976, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1247076362, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -444118946, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -626969669, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1754251781, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -446014843, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 966218563, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 105403938, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1587880680, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 225117967, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 1006674659, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 822181308, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 90883755, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 218689849, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 996055586, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1645568514, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1618192380, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 2009742069, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 1376134648, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 1960502697, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: 781656036, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  - {fileID: -1160585987, guid: 542be0ec394a940dea43c87a8a93c749, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 100, y: 56}
+  origin: {x: 64, y: 48}
+  fullScreen: 0
+  previewFrame: 26
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0
+  recovery: 0
+  onBody: 1
+  hits: []

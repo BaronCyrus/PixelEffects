@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: ice-lance
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: ice/ice-lance
+  displayName: Ice lance
+  description: 'A faceted ice spear flying right: a light pulse runs through its core, rings of cold air shear off the tip, frost peels off into a wake and crystals shed behind it.'
+  category: ice
+  tags:
+  - ice
+  - lance
+  - spear
+  - projectile
+  - directional
+  - magic
+  - loop
+  frames:
+  - {fileID: 7504767399166903595, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -648876741, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -1165304665, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 68505412, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 1136002027, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -476797692, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -677938755, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 188868868, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 619315964, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 583202914, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -229069294, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 1751392296, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 574615460, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 896462080, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -646306316, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -847104757, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -2007578318, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 1680651459, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -1181237220, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: -1869447521, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 793685807, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 12192488, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 1418774102, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  - {fileID: 2047287179, guid: 1278c306833274cdbae32ad7706c7887, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 176, y: 64}
+  origin: {x: 146, y: 32}
+  fullScreen: 0
+  previewFrame: 22
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

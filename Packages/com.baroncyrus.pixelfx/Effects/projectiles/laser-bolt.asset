@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: laser-bolt
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: projectiles/laser-bolt
+  displayName: Laser bolt
+  description: 'A red laser bolt: a white-hot core in a rounded head, red bands tapering back, pulses racing down it, a tail that shimmers apart into wavering dashes.'
+  category: projectiles
+  tags:
+  - projectile
+  - laser
+  - energy
+  - sci-fi
+  - directional
+  - loop
+  frames:
+  - {fileID: 6456700818126761620, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: 2147050968, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: 600611609, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: -36391820, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: -886589617, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: 1458511161, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: -1550533156, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: -74888645, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: -1667890684, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: -178314844, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: -1782696754, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: -124224922, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: -254389341, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: 2098739914, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  - {fileID: 1228712659, guid: e8d643d9957d546c9a0a36754f64664d, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 128, y: 32}
+  origin: {x: 108, y: 16}
+  fullScreen: 0
+  previewFrame: 9
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

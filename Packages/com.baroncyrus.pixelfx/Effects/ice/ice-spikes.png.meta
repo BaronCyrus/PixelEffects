@@ -1,0 +1,2159 @@
+fileFormatVersion: 2
+guid: 112abc1b90a6c4613ae1433a0b0b6405
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6216378140454326568
+    second: ice-spikes_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice-spikes_0
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 40
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81b06425097164d42406f4015b68f9d
+      internalID: 6216378140454326568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.36, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f94caea0b3268710aae29508d44fe
+      internalID: -1028221395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 62
+        width: 69
+        height: 44
+      alignment: 9
+      pivot: {x: 0.23188406, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29b0f1be4389058a9ba527703e40979
+      internalID: 1344461243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_3
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 56
+        width: 86
+        height: 50
+      alignment: 9
+      pivot: {x: 0.1627907, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7dc28b17db78944a2a4c2e1be453f
+      internalID: -1459743351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 44
+        width: 107
+        height: 62
+      alignment: 9
+      pivot: {x: 0.12149533, y: 0.24193548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae9076b40dcd387b361e9e5196e7f9
+      internalID: -535663483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 334
+        width: 142
+        height: 78
+      alignment: 9
+      pivot: {x: 0.09154929, y: 0.1923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0479e185710ab9a5efe23d4fb02721cc
+      internalID: 1460279450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 256
+        width: 140
+        height: 77
+      alignment: 9
+      pivot: {x: 0.08571429, y: 0.19480519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91eacfb8c6af7f68ef831451b0de76e
+      internalID: -1684155977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_7
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1250
+        width: 177
+        height: 98
+      alignment: 9
+      pivot: {x: 0.06214689, y: 0.15306123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b65af3c2356eec20e836e8a625d3b9
+      internalID: -546621391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1142
+        width: 192
+        height: 97
+      alignment: 9
+      pivot: {x: 0.052083332, y: 0.15463917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f06e4f1e6fb6525e869697b2643238
+      internalID: 1099128918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1143
+        width: 192
+        height: 96
+      alignment: 9
+      pivot: {x: 0.052083332, y: 0.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d31646019ff9d4377ceede2be56d03
+      internalID: -2064506363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1145
+        width: 204
+        height: 94
+      alignment: 9
+      pivot: {x: 0.04411765, y: 0.15957446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e4f752ad73803a581fcf5cb8a1ece
+      internalID: -658337939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_11
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1146
+        width: 204
+        height: 93
+      alignment: 9
+      pivot: {x: 0.04411765, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84677e2f2f495e5a269616198616044
+      internalID: -1040278953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_12
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1146
+        width: 203
+        height: 93
+      alignment: 9
+      pivot: {x: 0.044334974, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b99160ffbb250405a83ce8c83e9041
+      internalID: 942308351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1146
+        width: 204
+        height: 93
+      alignment: 9
+      pivot: {x: 0.04901961, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98406fca7339fee460857a933b279ec
+      internalID: -199696044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 202
+        height: 93
+      alignment: 9
+      pivot: {x: 0.04950495, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ce35af3a38e542786d3584e3ce3e3
+      internalID: 964758379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 676
+        width: 202
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04950495, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1580b1d4c9189ad58bb8658a207209b
+      internalID: 830896824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 676
+        width: 202
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04950495, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f736352553eed3688f5018a7d18f0866
+      internalID: -211344797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 207
+        height: 92
+      alignment: 9
+      pivot: {x: 0.048309177, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75566499b5eb7229641521fdbdc4a1ae
+      internalID: -1918565659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_18
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 769
+        width: 213
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04694836, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5818d70cb90ea7d57aa806096d3b0520
+      internalID: 750617703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_19
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 769
+        width: 219
+        height: 92
+      alignment: 9
+      pivot: {x: 0.0456621, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e388bf3413a499e94572dca597a50b
+      internalID: -1652564112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 769
+        width: 224
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04464286, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3abde9a67be0a52ad43efe3c81d9ce3
+      internalID: -668247090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 769
+        width: 229
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04366812, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9b737fa7fec5ba0f35d88d8a4dcf3c
+      internalID: 590204549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 233
+        height: 92
+      alignment: 9
+      pivot: {x: 0.042918455, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43acf96f2d7ca174741dad4b3931b015
+      internalID: 1188392822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_23
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 862
+        width: 237
+        height: 92
+      alignment: 9
+      pivot: {x: 0.042194095, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dea39e1501fd044b2978e27f8a8ec4
+      internalID: 206202716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_24
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 862
+        width: 240
+        height: 92
+      alignment: 9
+      pivot: {x: 0.041666668, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7144a4f32b66a8e43d18f8c842b23e4
+      internalID: 1406142086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_25
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 862
+        width: 239
+        height: 92
+      alignment: 9
+      pivot: {x: 0.037656903, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ab771478f270c27fb366655594155d
+      internalID: -2060643323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 862
+        width: 242
+        height: 92
+      alignment: 9
+      pivot: {x: 0.037190083, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a107321a1baa0f0094de0c22101343
+      internalID: -972729421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 245
+        height: 92
+      alignment: 9
+      pivot: {x: 0.036734693, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffff42eef7a9ff03ce7424b87970a062
+      internalID: 857283879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_28
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 955
+        width: 246
+        height: 92
+      alignment: 9
+      pivot: {x: 0.036585364, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4681ed67e22d2d9802b52711e2e187bb
+      internalID: -36552572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_29
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1049
+        width: 247
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04048583, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d27db4b06559a5ec35a5d118c16afc
+      internalID: -11551637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1049
+        width: 247
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04048583, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fe222c2e3da130b503526494bc8291
+      internalID: -1807134468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_31
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1049
+        width: 247
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04048583, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2305ab4d63518a42d223930589521074
+      internalID: -987808971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_32
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1049
+        width: 247
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04048583, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93f7dc931006004eb326c9270deb93b
+      internalID: -1348169439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 247
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04048583, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96d89a533b97b7379c2c9bf7e1c3d2c
+      internalID: 322119571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 955
+        width: 247
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04048583, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2fc18a02944a50bb38605b5b7cf871
+      internalID: 577485088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_35
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 955
+        width: 247
+        height: 92
+      alignment: 9
+      pivot: {x: 0.04048583, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b681700553e250d981e46dca428588fb
+      internalID: -1868524890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_36
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 676
+        width: 201
+        height: 92
+      alignment: 9
+      pivot: {x: 0.049751244, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737fad627279db7de89a96b99a46cdff
+      internalID: -1576455453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_37
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 676
+        width: 201
+        height: 92
+      alignment: 9
+      pivot: {x: 0.049751244, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c705c0ddeeabbdc3c938acad976c8d
+      internalID: 406875754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 201
+        height: 92
+      alignment: 9
+      pivot: {x: 0.049751244, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76969594e9f2c77e86d473b4113c7ed
+      internalID: 294257156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 583
+        width: 201
+        height: 92
+      alignment: 9
+      pivot: {x: 0.049751244, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d7b1fc95bd2b00837f2a5de3c1f756
+      internalID: -971130141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_40
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1250
+        width: 207
+        height: 98
+      alignment: 9
+      pivot: {x: 0.057971016, y: 0.15306123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92ee6b6ed2c951265141ff1da304a68
+      internalID: 1769333732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1250
+        width: 207
+        height: 98
+      alignment: 9
+      pivot: {x: 0.057971016, y: 0.15306123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac980ee7723171943e501436199ed330
+      internalID: -232079413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 221
+        height: 108
+      alignment: 9
+      pivot: {x: 0.095022626, y: 0.1388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a873480871ab0eddafd0ba036bd498
+      internalID: 377007237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_43
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1249
+        width: 208
+        height: 99
+      alignment: 9
+      pivot: {x: 0.08173077, y: 0.15151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a6713d0e253282368368636f5a72fb
+      internalID: -355295088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 202
+        height: 81
+      alignment: 9
+      pivot: {x: 0.074257426, y: 0.17283951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a18c2681aefa47ba9d6791869fa679
+      internalID: -1885281235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_45
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 499
+        width: 200
+        height: 83
+      alignment: 9
+      pivot: {x: 0.07, y: 0.16867469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2c661a7b9e5a12144782d21f90e9b1
+      internalID: 1824201729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 496
+        width: 199
+        height: 86
+      alignment: 9
+      pivot: {x: 0.06030151, y: 0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e15b70893af640f967ab1f76845e7a
+      internalID: -253996412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_47
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 587
+        width: 200
+        height: 88
+      alignment: 9
+      pivot: {x: 0.055, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1208c9d49677ceb755d19d8f5ca138b
+      internalID: -939141437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_48
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 586
+        width: 200
+        height: 89
+      alignment: 9
+      pivot: {x: 0.045, y: 0.15730338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a6762d54ab5fd05d57b0688c5f522f
+      internalID: -1368007647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 586
+        width: 201
+        height: 89
+      alignment: 9
+      pivot: {x: 0.039800994, y: 0.15730338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eb9c747fa83437d27ce6d2398733ae
+      internalID: 1294572854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_50
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 587
+        width: 204
+        height: 88
+      alignment: 9
+      pivot: {x: 0.04411765, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e108e5d8e8928ec6eaa45f91325495a
+      internalID: 1650637378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 208
+        height: 87
+      alignment: 9
+      pivot: {x: 0.048076924, y: 0.16091955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de416fc8555a05cdb4b508575646c202
+      internalID: 748979166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_52
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 497
+        width: 211
+        height: 85
+      alignment: 9
+      pivot: {x: 0.0521327, y: 0.16470589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849390c6abf70dfcb772ca2d7bb0888
+      internalID: -1998127896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_53
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 501
+        width: 213
+        height: 81
+      alignment: 9
+      pivot: {x: 0.056338027, y: 0.17283951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0ec291b602a8a8d5ce4f465128079b
+      internalID: 2048296820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_54
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 415
+        width: 217
+        height: 79
+      alignment: 9
+      pivot: {x: 0.06451613, y: 0.17721519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4892335f4166e9f26d311383a78125b8
+      internalID: -71686908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_55
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 415
+        width: 220
+        height: 79
+      alignment: 9
+      pivot: {x: 0.06818182, y: 0.17721519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4120245f37226c8896362be6bca02e28
+      internalID: 655935665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_56
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 415
+        width: 224
+        height: 79
+      alignment: 9
+      pivot: {x: 0.07589286, y: 0.17721519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3028c2784e25e8530d18c2df58cd8f9
+      internalID: -1650512935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_57
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 414
+        width: 227
+        height: 80
+      alignment: 9
+      pivot: {x: 0.07929515, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0cdb9678fe0ab084322d0e61e4e86e
+      internalID: 1473640244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 230
+        height: 77
+      alignment: 9
+      pivot: {x: 0.08260869, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12870eebd6d9583b4d9eeced2a3092b7
+      internalID: -968135130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_59
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 335
+        width: 232
+        height: 77
+      alignment: 9
+      pivot: {x: 0.0862069, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc8895d757fc60fdf3af374a8b83fe
+      internalID: -794708132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_60
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 335
+        width: 234
+        height: 77
+      alignment: 9
+      pivot: {x: 0.08547009, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dd6e178aaf3e671cd349cb3b2d67e7
+      internalID: -32466191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_61
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 335
+        width: 235
+        height: 77
+      alignment: 9
+      pivot: {x: 0.08510638, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e04c9aa6a0470fe537068e3ccf1545
+      internalID: 1852093525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 335
+        width: 236
+        height: 77
+      alignment: 9
+      pivot: {x: 0.084745765, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eca89334fbfc50114e91742b9fc406
+      internalID: 286018818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_63
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 257
+        width: 238
+        height: 76
+      alignment: 9
+      pivot: {x: 0.084033616, y: 0.17105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c30d97d835e458850f91e41f26e998
+      internalID: 274363862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 220
+        height: 75
+      alignment: 9
+      pivot: {x: 0.09090909, y: 0.17333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bfb20261031551b4804a9a18a7ccc3
+      internalID: -608365341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_65
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 258
+        width: 239
+        height: 75
+      alignment: 9
+      pivot: {x: 0.08368201, y: 0.17333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdcbae20c18d495b24f80cce7e968fe
+      internalID: -1742994728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_66
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 258
+        width: 239
+        height: 75
+      alignment: 9
+      pivot: {x: 0.08368201, y: 0.17333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228a55ceb2d0cbcea8d82051c3a24e45
+      internalID: -1161741097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_67
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 180
+        width: 219
+        height: 75
+      alignment: 9
+      pivot: {x: 0.0913242, y: 0.17333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554c70d5fe7578ab133a720ab3341f9e
+      internalID: 1981852048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_68
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 181
+        width: 219
+        height: 74
+      alignment: 9
+      pivot: {x: 0.0913242, y: 0.17567568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea11618f89ebd8accf6c29a2536be3
+      internalID: 1686329049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_69
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 182
+        width: 219
+        height: 73
+      alignment: 9
+      pivot: {x: 0.0913242, y: 0.16438356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195d6c09c14526abdb32c5fb59b58fa5
+      internalID: -1488171867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_70
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 182
+        width: 219
+        height: 73
+      alignment: 9
+      pivot: {x: 0.0913242, y: 0.16438356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac3510a58149f366d4bd29452db89f
+      internalID: 1904985550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 219
+        height: 72
+      alignment: 9
+      pivot: {x: 0.0913242, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e73787db960ca00f03918bfe217cdd1
+      internalID: 46007337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_72
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 107
+        width: 219
+        height: 72
+      alignment: 9
+      pivot: {x: 0.0913242, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c52052e37543b5f2f82b5d2ba64fb4
+      internalID: -524420184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_73
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 109
+        width: 206
+        height: 70
+      alignment: 9
+      pivot: {x: 0.097087376, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00102c772ceaa7aaeac098b8eb3aa6a
+      internalID: 6096615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_74
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 113
+        width: 206
+        height: 66
+      alignment: 9
+      pivot: {x: 0.097087376, y: 0.10606061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d5278fda4984080c3f424e0f6d327f
+      internalID: 1368686125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_75
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 115
+        width: 205
+        height: 64
+      alignment: 9
+      pivot: {x: 0.09756097, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb19cc5d43ee68ddedb52a5ce1b536
+      internalID: 344018474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 205
+        height: 64
+      alignment: 9
+      pivot: {x: 0.09756097, y: 0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7b48a20b63e13b129e269b25c1aab8
+      internalID: 1046562723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_77
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 54
+        width: 205
+        height: 52
+      alignment: 9
+      pivot: {x: 0.09756097, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a30092cf9eae279baf6a53b7019fda4
+      internalID: -2051192891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_78
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 54
+        width: 197
+        height: 52
+      alignment: 9
+      pivot: {x: 0.060913704, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dd94c85a809f4212c565d6813cc175
+      internalID: 409469998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_79
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 64
+        width: 157
+        height: 42
+      alignment: 9
+      pivot: {x: -0.17834395, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cef45c43025f91beb6b21cf48a3dfe
+      internalID: -739305082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_80
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 64
+        width: 99
+        height: 42
+      alignment: 9
+      pivot: {x: -0.5959596, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421effa3f4178cbec7621ce6a1a8da1a
+      internalID: -1701643427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_81
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 64
+        width: 70
+        height: 42
+      alignment: 9
+      pivot: {x: -1.2571429, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea016721c78eb0935446429994291a51
+      internalID: 927891570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_82
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 33
+        width: 68
+        height: 8
+      alignment: 9
+      pivot: {x: -1.2941177, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e56ba83cd9bb66302a826f1e30ef62e
+      internalID: -1515287909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_83
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 98
+        height: 38
+      alignment: 9
+      pivot: {x: -0.59183675, y: 0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5660cbfb6d8cec8d926d11e30cd6674
+      internalID: 1801711270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_84
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 35
+        width: 52
+        height: 6
+      alignment: 9
+      pivot: {x: -2, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b510863cbd5ec093b7523113a91f33ee
+      internalID: 1324665177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_85
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 51
+        height: 6
+      alignment: 9
+      pivot: {x: -2.0392158, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3801aa70c1d1bf2bb5e90a96b0fb14
+      internalID: -1806736661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_86
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 35
+        width: 7
+        height: 6
+      alignment: 9
+      pivot: {x: -21.142857, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36af8c92dd87d7bffdd354d7b2a8f2c
+      internalID: 406932452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-spikes_87
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 40
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: -148, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325c826c48224e4e543da7b57e0ee7d0
+      internalID: -1384918947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f2c1fe81b06b9430ea3f35785be881c7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice-spikes_0: 6216378140454326568
+      ice-spikes_1: -1028221395
+      ice-spikes_10: -658337939
+      ice-spikes_11: -1040278953
+      ice-spikes_12: 942308351
+      ice-spikes_13: -199696044
+      ice-spikes_14: 964758379
+      ice-spikes_15: 830896824
+      ice-spikes_16: -211344797
+      ice-spikes_17: -1918565659
+      ice-spikes_18: 750617703
+      ice-spikes_19: -1652564112
+      ice-spikes_2: 1344461243
+      ice-spikes_20: -668247090
+      ice-spikes_21: 590204549
+      ice-spikes_22: 1188392822
+      ice-spikes_23: 206202716
+      ice-spikes_24: 1406142086
+      ice-spikes_25: -2060643323
+      ice-spikes_26: -972729421
+      ice-spikes_27: 857283879
+      ice-spikes_28: -36552572
+      ice-spikes_29: -11551637
+      ice-spikes_3: -1459743351
+      ice-spikes_30: -1807134468
+      ice-spikes_31: -987808971
+      ice-spikes_32: -1348169439
+      ice-spikes_33: 322119571
+      ice-spikes_34: 577485088
+      ice-spikes_35: -1868524890
+      ice-spikes_36: -1576455453
+      ice-spikes_37: 406875754
+      ice-spikes_38: 294257156
+      ice-spikes_39: -971130141
+      ice-spikes_4: -535663483
+      ice-spikes_40: 1769333732
+      ice-spikes_41: -232079413
+      ice-spikes_42: 377007237
+      ice-spikes_43: -355295088
+      ice-spikes_44: -1885281235
+      ice-spikes_45: 1824201729
+      ice-spikes_46: -253996412
+      ice-spikes_47: -939141437
+      ice-spikes_48: -1368007647
+      ice-spikes_49: 1294572854
+      ice-spikes_5: 1460279450
+      ice-spikes_50: 1650637378
+      ice-spikes_51: 748979166
+      ice-spikes_52: -1998127896
+      ice-spikes_53: 2048296820
+      ice-spikes_54: -71686908
+      ice-spikes_55: 655935665
+      ice-spikes_56: -1650512935
+      ice-spikes_57: 1473640244
+      ice-spikes_58: -968135130
+      ice-spikes_59: -794708132
+      ice-spikes_6: -1684155977
+      ice-spikes_60: -32466191
+      ice-spikes_61: 1852093525
+      ice-spikes_62: 286018818
+      ice-spikes_63: 274363862
+      ice-spikes_64: -608365341
+      ice-spikes_65: -1742994728
+      ice-spikes_66: -1161741097
+      ice-spikes_67: 1981852048
+      ice-spikes_68: 1686329049
+      ice-spikes_69: -1488171867
+      ice-spikes_7: -546621391
+      ice-spikes_70: 1904985550
+      ice-spikes_71: 46007337
+      ice-spikes_72: -524420184
+      ice-spikes_73: 6096615
+      ice-spikes_74: 1368686125
+      ice-spikes_75: 344018474
+      ice-spikes_76: 1046562723
+      ice-spikes_77: -2051192891
+      ice-spikes_78: 409469998
+      ice-spikes_79: -739305082
+      ice-spikes_8: 1099128918
+      ice-spikes_80: -1701643427
+      ice-spikes_81: 927891570
+      ice-spikes_82: -1515287909
+      ice-spikes_83: 1801711270
+      ice-spikes_84: 1324665177
+      ice-spikes_85: -1806736661
+      ice-spikes_86: 406932452
+      ice-spikes_87: -1384918947
+      ice-spikes_9: -2064506363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

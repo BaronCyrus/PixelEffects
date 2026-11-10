@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: heavy-cleave
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/heavy-cleave
+  displayName: Heavy cleave
+  description: 'A glint over the head, then a thick ember arc accelerates over the top into the floor: a white slam, glowing cracks, dust rolling both ways, grit and rising embers.'
+  category: melee
+  tags:
+  - melee
+  - slash
+  - cleave
+  - axe
+  - heavy
+  - ground
+  - fire
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 2251298670744733300, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1262423525, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 2008233609, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 198412622, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1260295845, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 618319461, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 152125184, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 483572139, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1325367689, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 266414122, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1870476555, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1653343616, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 202251204, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1997516382, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 482347928, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1141914611, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1947104872, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 706085251, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1872104628, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1659448010, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -676225063, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1732805774, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 779569774, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1571808698, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -164184161, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 2093074540, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 156925597, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 981759457, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -2048879530, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1954026802, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -2138511762, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1220923768, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1694462478, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -85831501, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -313600220, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 2101374495, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 772343826, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1222659038, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1982004682, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1615093726, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1455375255, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1873462528, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -43941341, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 181812334, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1690583256, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -925721437, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1505905232, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 886746842, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 615605572, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 899774453, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 104580491, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -1729083160, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -571788606, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: -456922682, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 1427654161, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 384996002, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 384996002, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  - {fileID: 384996002, guid: fa105bbde82854712b84144ab4960182, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 208, y: 116}
+  origin: {x: 68, y: 96}
+  fullScreen: 0
+  previewFrame: 11
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.42
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.335
+    freeze: 0.2
+    shake: 0.34
+    amplitude: 3
+    push: 3.2

@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 5630800ad9dce4bfaa7c31b645dbeff2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4111235289241957968
+    second: water-jet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water-jet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 181
+        height: 62
+      alignment: 9
+      pivot: {x: 0.0718232, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efd878c2149cad7935e60a9f0763b30
+      internalID: 4111235289241957968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 177
+        height: 60
+      alignment: 9
+      pivot: {x: 0.073446326, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a90b7f8a81942072e78290684307002
+      internalID: 67920481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 53
+        width: 162
+        height: 52
+      alignment: 9
+      pivot: {x: 0.08024691, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d948870b6dccd6859121b09e9498f3
+      internalID: 384231843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 106
+        width: 169
+        height: 52
+      alignment: 9
+      pivot: {x: 0.07692308, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490b614d5f189faa14fe1106d3b8585b
+      internalID: -1242781839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 171
+        height: 52
+      alignment: 9
+      pivot: {x: 0.07602339, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0007d2d58b1e5db18d059785025d6a84
+      internalID: -607027808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 179
+        height: 57
+      alignment: 9
+      pivot: {x: 0.0726257, y: 0.61403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0c9a5a77590c606f0320a33436705
+      internalID: -2040597306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 168
+        height: 59
+      alignment: 9
+      pivot: {x: 0.077380955, y: 0.62711865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1411657ae9db1b40dbbdd4ff4d300d7a
+      internalID: 1781250390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_7
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 330
+        width: 159
+        height: 59
+      alignment: 9
+      pivot: {x: 0.08176101, y: 0.62711865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3928dd5d485db7b4f7431c3d1d99477
+      internalID: 614726790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 161
+        height: 52
+      alignment: 9
+      pivot: {x: 0.08074534, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3c443109be722a4857a8069ee692d5
+      internalID: -2083150463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 163
+        height: 52
+      alignment: 9
+      pivot: {x: 0.0797546, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf069f1ac7109ec1e403ea669d16983
+      internalID: -366947354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 159
+        height: 52
+      alignment: 9
+      pivot: {x: 0.08176101, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c71fc96ac7e12809e55a57c24ded522
+      internalID: -1719446256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 216
+        width: 165
+        height: 55
+      alignment: 9
+      pivot: {x: 0.07878788, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52af302950a26f4292fab1460e1b57ed
+      internalID: -2109749127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 390
+        width: 172
+        height: 60
+      alignment: 9
+      pivot: {x: 0.075581394, y: 0.6333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fcce880f9fad0d745819cd9d40de68
+      internalID: -1208097218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 177
+        height: 57
+      alignment: 9
+      pivot: {x: 0.073446326, y: 0.61403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4329c545aeab5e8e62b994635f1d9974
+      internalID: -1420388251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 451
+        width: 170
+        height: 61
+      alignment: 9
+      pivot: {x: 0.07647059, y: 0.6393443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61716c5e68df6506dec72d8627fdc9
+      internalID: -1458319105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 106
+        width: 169
+        height: 52
+      alignment: 9
+      pivot: {x: 0.07692308, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9eace418141c141616cf51fcc1ba3f
+      internalID: 950558560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 216
+        width: 174
+        height: 55
+      alignment: 9
+      pivot: {x: 0.07471264, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3aa02246a19bcca9d575c84e10bb1c
+      internalID: -470595274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 177
+        height: 61
+      alignment: 9
+      pivot: {x: 0.073446326, y: 0.6393443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e864e6ac94a2b66c0743a83421da08
+      internalID: 427663261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 163
+        height: 56
+      alignment: 9
+      pivot: {x: 0.0797546, y: 0.60714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ecd3651fa4d5e269202e7abba93aa2
+      internalID: 145885765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 513
+        width: 168
+        height: 62
+      alignment: 9
+      pivot: {x: 0.077380955, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848350d19981aa6f65075f4c96d83723
+      internalID: 1942590022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 161
+        width: 160
+        height: 53
+      alignment: 9
+      pivot: {x: 0.08125, y: 0.5849057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03272c4957238c8b780b046ae9e813f
+      internalID: 1530462347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_21
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 272
+        width: 168
+        height: 57
+      alignment: 9
+      pivot: {x: 0.077380955, y: 0.61403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48c1b6b849bcb7dcfdcbe615fe32b2f
+      internalID: 1169596653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_22
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 159
+        height: 52
+      alignment: 9
+      pivot: {x: 0.08176101, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edbdbf9e8390634663576ae6e190694
+      internalID: 1238216188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 155
+        height: 55
+      alignment: 9
+      pivot: {x: 0.08387097, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8716d5ffbd40ab8f02d3eeef1d0773d
+      internalID: 1909478392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 513
+        width: 164
+        height: 62
+      alignment: 9
+      pivot: {x: 0.07926829, y: 0.6451613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e0df676e612ee310bd5eed857858b0
+      internalID: 249563597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_25
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 451
+        width: 161
+        height: 61
+      alignment: 9
+      pivot: {x: 0.08074534, y: 0.6393443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30d336fce8e044e24772113cffa2df
+      internalID: 1044699916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 53
+        width: 163
+        height: 52
+      alignment: 9
+      pivot: {x: 0.0797546, y: 0.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f208043bb1f62ce97f965352802ab3
+      internalID: -714825762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_27
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 331
+        width: 169
+        height: 58
+      alignment: 9
+      pivot: {x: 0.07692308, y: 0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fc4e1978183d312ed145c3a05d6240
+      internalID: 457552358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 161
+        width: 164
+        height: 53
+      alignment: 9
+      pivot: {x: 0.07926829, y: 0.5849057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648a02990f8ec247a062fb3ee17a9c68
+      internalID: -923518110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-jet_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 391
+        width: 173
+        height: 59
+      alignment: 9
+      pivot: {x: 0.07514451, y: 0.62711865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd3bca832ab6a905bfbe782f231cc33
+      internalID: -1864318769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ec29f59c3a97b4e6a9f1bba9c7447bcc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      water-jet_0: 4111235289241957968
+      water-jet_1: 67920481
+      water-jet_10: -1719446256
+      water-jet_11: -2109749127
+      water-jet_12: -1208097218
+      water-jet_13: -1420388251
+      water-jet_14: -1458319105
+      water-jet_15: 950558560
+      water-jet_16: -470595274
+      water-jet_17: 427663261
+      water-jet_18: 145885765
+      water-jet_19: 1942590022
+      water-jet_2: 384231843
+      water-jet_20: 1530462347
+      water-jet_21: 1169596653
+      water-jet_22: 1238216188
+      water-jet_23: 1909478392
+      water-jet_24: 249563597
+      water-jet_25: 1044699916
+      water-jet_26: -714825762
+      water-jet_27: 457552358
+      water-jet_28: -923518110
+      water-jet_29: -1864318769
+      water-jet_3: -1242781839
+      water-jet_4: -607027808
+      water-jet_5: -2040597306
+      water-jet_6: 1781250390
+      water-jet_7: 614726790
+      water-jet_8: -2083150463
+      water-jet_9: -366947354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

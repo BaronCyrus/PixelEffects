@@ -1,0 +1,1676 @@
+fileFormatVersion: 2
+guid: 2189bb5b6723648c390b609d10697fb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8344740937980804128
+    second: bleeding_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bleeding_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac174c0ee8c4762f5979c14a36bea971
+      internalID: 8344740937980804128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 150
+        width: 19
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.11627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408b7404d225da97fb74e846306f303
+      internalID: 1565032035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 150
+        width: 18
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.11627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a3570d94cca687b23b54c0c4b0b5b1
+      internalID: 823992526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 18
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.11627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec58c36e662a987539576969c8197dd
+      internalID: -1013330775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 100
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572bacaa24941a7e9c07e693640b6f7b
+      internalID: -1004355328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 100
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02bbf6914521ec8250e4f16ee723a5
+      internalID: -589542523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 125
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a48860a56c63e334e3713932abf92d
+      internalID: -1542124439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3248b744451db658bf3cd2762f326484
+      internalID: -2022436882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 125
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840215d0ed6f5d12d0f0808d87e310e5
+      internalID: 1551303343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 169
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f65aa17f81a4e34ead86ddcd57bcbb
+      internalID: 433642418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 125
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231ba809d4a344ade1863045a0a3955
+      internalID: -51858283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d46ece12f9f7911690e18a884137c1d
+      internalID: -819986198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e1508fac6a6155b9080eed7b1b0ea
+      internalID: 117771404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60699315cb8a9f899487ba89a694353d
+      internalID: -821782579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0427860b9eec567a01ca1c6d4cf773e8
+      internalID: 455265029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6798878a554e46117d2076fe576e39
+      internalID: -1869029616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379527f20b3accc14fe26d5eddf10960
+      internalID: -760173858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9c38cdcc78798bd762925e4cd697cf
+      internalID: 1961417183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324b5d5f5f78f93c3d562c8a78c55ec3
+      internalID: 616596482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f22cf08bdcd607b74d8a767345872e
+      internalID: 465848834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 75
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554407c377f619e75334373010c798a8
+      internalID: 1928741662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b2c430b7a7e77650bc39eee2e645da
+      internalID: -2084947735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeb1c15e35e32de1c0497695548413e
+      internalID: 782948314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 100
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af9cda34b31a2380bc6ee6cc24fe3c9
+      internalID: -2080392170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 100
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d62029722dce1ae3ba37dccd44d2581
+      internalID: -1942752430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05be3a0d7619eab238ece39c41b93504
+      internalID: 952925052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 25
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35237c1bb1201a8743ac65adc8794c
+      internalID: 910674617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 25
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479b9c0e4d9edca32556425ed2d47e94
+      internalID: 2022302615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa20e9f6f64a87898f2a00b9ebff95a
+      internalID: -1626267472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad90da058cb2c62311d18bc485baaf
+      internalID: -1157848863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6b21c7f37ec56104a0eb8df45bd54c
+      internalID: -475259392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576c04825cf3f1dbfe63e8d8dfc0680
+      internalID: -1651818503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54199d9d188adfa5b0c372c43fc8d82e
+      internalID: 1570284924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3db77c58ccaa0cbfb8d3e7b66b1bd5
+      internalID: -1460418678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 150
+        width: 19
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.11627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7938c416309418678a145967ffa49
+      internalID: -924792388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 150
+        width: 19
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.11627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdf8670cda123a171a33a99d752f2fa
+      internalID: -1567899794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 150
+        width: 18
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.11627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e750e26a903c0a5088d40732330b7c
+      internalID: 246188738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 150
+        width: 18
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.11627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21075f4e3119035c00742b5eb1a98f96
+      internalID: -547001734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 100
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f31a96da662846fc018a944f4c41763
+      internalID: 2022355393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 100
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d581241cfb7e1b04cf98369a31101e
+      internalID: -918571859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 21
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57cd8ab9d70a595d744cf128de77236
+      internalID: -1432954581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_41
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 125
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7832eb9bdfc4e4c6a3e1db85741b25da
+      internalID: 2105151491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_42
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 125
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f46dac12628b9cd16c8655cd07f8fbc
+      internalID: 1030330665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 125
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6086956, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2bf4b4a2650bdb25d3e8b2a9cee9bd
+      internalID: 678704654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 125
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d8200971d022af1d56d08626d725d
+      internalID: -1336495247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e681ffb09fe2257030a5493c17cb6a
+      internalID: -1439128818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 100
+        width: 18
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654be167e775b5b0bad0822748e22248
+      internalID: -1522905717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed889f0b6ae549632396388255fa7e
+      internalID: -1173112351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_48
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c37bfbb3a113018ed564670974f9c9
+      internalID: 1727818891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ad642e4ddda5267568d563f3fac76
+      internalID: 765783801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b57e44668a1b919216e1028cfe9291
+      internalID: 1740343660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31196c6be030ac519fc34784dc3ef54
+      internalID: 333617793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c398767ae9615c77f74176d661663c4
+      internalID: 1874801202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f21f4764136474f7ca00fd053340d2
+      internalID: 101437516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_54
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd88fdbcd1a9875e1d0d11f199075e14
+      internalID: 97786072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c283db50ee05cc082f123f1c0accdb
+      internalID: -942788798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86235d2d0b4c6a5f30d9cedafa70d1c
+      internalID: -192156651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 50
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdec3a88b3e04a2695f538deb4e4bca
+      internalID: -1347777507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151cb6fc0c53e3b5e345a3b1ab08b878
+      internalID: -1835829919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 25
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee30737bec9671e7071693844c6d7faa
+      internalID: 1639014956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_60
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 25
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698246823197f60e78a3850b927ef666
+      internalID: -1273208961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 25
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee8516e602a95a51e17028c03d5819
+      internalID: 900003073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b5c0cc79f83b23c98419e298f7dfdb
+      internalID: 1388475515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_63
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 25
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243ecbfded4cc2f1f83927835e9363d4
+      internalID: 350428314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 25
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e312bb5d3c7a0ffbcd4f7d217d995013
+      internalID: -1418044274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 25
+        width: 17
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395947bf5897d3ea66e38b2c1e83c98
+      internalID: -1285909922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bleeding_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 100
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3d1a831d992e24ac42a7f4efad3ef5
+      internalID: 585921833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 32f31adbda9754db48da3f5c18605a80
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bleeding_0: 8344740937980804128
+      bleeding_1: 1565032035
+      bleeding_10: -51858283
+      bleeding_11: -819986198
+      bleeding_12: 117771404
+      bleeding_13: -821782579
+      bleeding_14: 455265029
+      bleeding_15: -1869029616
+      bleeding_16: -760173858
+      bleeding_17: 1961417183
+      bleeding_18: 616596482
+      bleeding_19: 465848834
+      bleeding_2: 823992526
+      bleeding_20: 1928741662
+      bleeding_21: -2084947735
+      bleeding_22: 782948314
+      bleeding_23: -2080392170
+      bleeding_24: -1942752430
+      bleeding_25: 952925052
+      bleeding_26: 910674617
+      bleeding_27: 2022302615
+      bleeding_28: -1626267472
+      bleeding_29: -1157848863
+      bleeding_3: -1013330775
+      bleeding_30: -475259392
+      bleeding_31: -1651818503
+      bleeding_32: 1570284924
+      bleeding_33: -1460418678
+      bleeding_34: -924792388
+      bleeding_35: -1567899794
+      bleeding_36: 246188738
+      bleeding_37: -547001734
+      bleeding_38: 2022355393
+      bleeding_39: -918571859
+      bleeding_4: -1004355328
+      bleeding_40: -1432954581
+      bleeding_41: 2105151491
+      bleeding_42: 1030330665
+      bleeding_43: 678704654
+      bleeding_44: -1336495247
+      bleeding_45: -1439128818
+      bleeding_46: -1522905717
+      bleeding_47: -1173112351
+      bleeding_48: 1727818891
+      bleeding_49: 765783801
+      bleeding_5: -589542523
+      bleeding_50: 1740343660
+      bleeding_51: 333617793
+      bleeding_52: 1874801202
+      bleeding_53: 101437516
+      bleeding_54: 97786072
+      bleeding_55: -942788798
+      bleeding_56: -192156651
+      bleeding_57: -1347777507
+      bleeding_58: -1835829919
+      bleeding_59: 1639014956
+      bleeding_6: -1542124439
+      bleeding_60: -1273208961
+      bleeding_61: 900003073
+      bleeding_62: 1388475515
+      bleeding_63: 350428314
+      bleeding_64: -1418044274
+      bleeding_65: -1285909922
+      bleeding_66: 585921833
+      bleeding_7: -2022436882
+      bleeding_8: 1551303343
+      bleeding_9: 433642418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

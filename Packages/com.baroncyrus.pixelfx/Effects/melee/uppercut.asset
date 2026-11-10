@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: uppercut
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/uppercut
+  displayName: Uppercut
+  description: 'A crescent rises from the floor past the face, and at the top a comic impact star bursts: bold outline, hot core, burst lines, twinkles and sparks.'
+  category: melee
+  tags:
+  - melee
+  - uppercut
+  - punch
+  - rising
+  - launcher
+  - comic
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 3059609763556844199, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: -402878667, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 1506058066, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 1476141949, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: -699005449, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: -969323089, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 1811746944, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: -1802476159, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: -5644788, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 1235169230, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 4985403, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: -575185946, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: -205966235, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: -1235879720, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 221239589, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 847672812, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 522267195, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 1988469797, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 695440065, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 3059609763556844199, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 3059609763556844199, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 3059609763556844199, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 3059609763556844199, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 3059609763556844199, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 3059609763556844199, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 3059609763556844199, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  - {fileID: 3059609763556844199, guid: f46515224ab5a4580ba2e559a644617f, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 132, y: 128}
+  origin: {x: 48, y: 110}
+  fullScreen: 0
+  previewFrame: 3
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.42
+  recovery: 0.13
+  onBody: 0
+  hits:
+  - time: 0.076
+    freeze: 0.13
+    shake: 0.18
+    amplitude: 2
+    push: -2.6

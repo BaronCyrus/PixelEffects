@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: rocket
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: projectiles/rocket
+  displayName: Rocket
+  description: 'A steel rocket roars along: a flickering jet with shock diamonds and a white-hot nozzle, a thick billowing smoke trail lit by the flame, sparks shed behind.'
+  category: projectiles
+  tags:
+  - projectile
+  - rocket
+  - missile
+  - smoke
+  - fire
+  - directional
+  - loop
+  frames:
+  - {fileID: -9158349384845336690, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -559327960, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -2062181821, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1766559808, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -97177999, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -886896357, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1675764903, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 1877522379, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1082039657, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 392167144, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 1583321596, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -2090104992, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1156436154, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -2048036628, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -196633569, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 1090039091, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 736687654, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -359176452, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1004210047, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 752722559, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1082524523, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1148607354, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1879231564, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1846095801, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -259431441, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -404628516, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 1786724200, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 2027963692, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -1100483638, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 828790426, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 1493636907, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 1900196592, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 174870600, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 951754260, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: -2015850486, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  - {fileID: 83172259, guid: 4bc47a8518087494393852ff54567c3e, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 288, y: 76}
+  origin: {x: 252, y: 42}
+  fullScreen: 0
+  previewFrame: 25
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

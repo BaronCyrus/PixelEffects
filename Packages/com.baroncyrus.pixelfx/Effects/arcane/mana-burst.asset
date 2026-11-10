@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: mana-burst
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: arcane/mana-burst
+  displayName: Mana burst
+  description: Energy rushes into a point and blows out in a white flash and rings, flinging glowing runes that flare and pop into sparks one after another.
+  category: arcane
+  tags:
+  - arcane
+  - burst
+  - mana
+  - rune
+  - nova
+  - magic
+  - ground
+  - one-shot
+  frames:
+  - {fileID: 6347145610843047043, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1687128291, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -292598842, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 2055332213, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 535930032, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1569307815, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1496636661, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 778671868, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 147841507, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -733289694, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 356321043, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1955690480, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1561375055, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1607323623, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1947068554, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1222229242, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1480430398, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1091754827, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 417013157, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1346844597, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -263409838, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -625050252, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 756774314, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -371028745, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1545556700, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -75844233, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 833717816, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 111547959, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1683850582, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1440091285, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1289520572, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -243228585, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1504467796, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 707093238, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1032081895, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1950651614, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -521118716, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1625234828, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -302068201, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 84850424, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 711831659, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1570085813, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1528574436, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 126078551, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1318017291, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -933308178, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -1146769052, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 680747406, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 578332836, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: -2139984280, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1294206308, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1456757750, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 1057376377, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 135275832, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  - {fileID: 135275832, guid: b092410a01fda46c5a02c053e0eb8bf8, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 208, y: 150}
+  origin: {x: 104, y: 124}
+  fullScreen: 0
+  previewFrame: 7
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

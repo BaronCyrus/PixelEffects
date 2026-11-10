@@ -1,0 +1,2205 @@
+fileFormatVersion: 2
+guid: 8dfb27f672ff442d7b45a6b24cb38990
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7600345966170254923
+    second: emp-blast_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emp-blast_0
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 18
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5654906b3d6ca37ac57bd1383e20bbf8
+      internalID: -7600345966170254923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 60
+        height: 31
+      alignment: 9
+      pivot: {x: 0.45, y: 0.032258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031467f943e9185568cecc722a00b85e
+      internalID: 2137129448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 32
+      alignment: 9
+      pivot: {x: 0.36065573, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e5f2edf0aa78d450ab9075f7134b8
+      internalID: 841810261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 54
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4074074, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8e8b7311834749b7dfb78c295906a1
+      internalID: 340718443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5
+        width: 48
+        height: 27
+      alignment: 9
+      pivot: {x: 0.39583334, y: 0.18518518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fd5e0940f7dbf31e81b3af3e7749bd
+      internalID: 871963402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 41
+        width: 39
+        height: 37
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.16216215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f6450c96fc9d739cd9ad958e1a69a0
+      internalID: -2104541467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 43
+        width: 71
+        height: 35
+      alignment: 9
+      pivot: {x: 0.49295774, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6623beac27e0822236a30c9103c3b46f
+      internalID: -574426317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 43
+        width: 64
+        height: 35
+      alignment: 9
+      pivot: {x: 0.484375, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b015bb1022b279c2a6cc0cb71007d
+      internalID: 742604644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_8
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 44
+        width: 59
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffedf844447691edfa9fa3a381c28f07
+      internalID: -1670713460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 41
+        width: 51
+        height: 37
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae4072b578e31377cb70396e00503b1
+      internalID: 1819786162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 40
+        width: 51
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54901963, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45c87851408e06636d2974ba7c8218c
+      internalID: 1382672533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4528302, y: 0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b91ded24873633ca325f9852885a558
+      internalID: 794191757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: 0.45833334, y: 0.3409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0eaf384dca63834f71228035bb9394
+      internalID: -2037630616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 755
+        width: 132
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27433628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92ab234e18b0e52bfeff9283381c1bd
+      internalID: 794893396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 756
+        width: 128
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2767857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d5796ffbb8e67c9e6fbabe4cd829cb
+      internalID: -1507283270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_15
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 757
+        width: 122
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2792793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b309246545404fac2a892889dd2722
+      internalID: 98541950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_16
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 758
+        width: 118
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1758a6f9fe492132def26ad92d671bcb
+      internalID: 1431706313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 647
+        width: 119
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49579832, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5792e1d3cbd60437339cf70409e5a59
+      internalID: 1448417093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 650
+        width: 130
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2815534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d3638b1a432b74b70b726e2a664002
+      internalID: 1847320234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 654
+        width: 138
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28282827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d1bd4c23d9bd74602045192b3de953
+      internalID: 321680978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 144
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3167b9d4fe7cb04e0f0f66cfbe6a5cf
+      internalID: 1038776609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 552
+        width: 150
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245f758e1205e977c1a61f6a9db3a664
+      internalID: 229435422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 558
+        width: 152
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26190478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad0225f061da83bcf6392259cda9bbf
+      internalID: -1953383315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_23
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 464
+        width: 152
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7331484b0f4e08887d7a07b279f9e99f
+      internalID: 1208413087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_24
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 468
+        width: 151
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5033113, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd0419f48fb6fb94499066e21a221e6
+      internalID: -1396418745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_25
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 315
+        width: 124
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1875a6f2e6108ef94c7c93a3ef0c9e7
+      internalID: 1416951002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 469
+        width: 124
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.118421055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c73edb93ee84e31b877312a79d415
+      internalID: -1376072098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_27
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 466
+        width: 124
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11392405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96f3ffcd0d00d36f9be41f3042ae7e
+      internalID: -461963371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 124
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10843374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0f57397787d97b8295a3188e686e2d
+      internalID: -291285622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_29
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 557
+        width: 125
+        height: 85
+      alignment: 9
+      pivot: {x: 0.496, y: 0.105882354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47d7ac87c109d6c9fe9817a61ec6c89
+      internalID: 420670242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 315
+        width: 125
+        height: 72
+      alignment: 9
+      pivot: {x: 0.496, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898ab5341a4c2c7d4a391d71e3236380
+      internalID: 99000915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 315
+        width: 125
+        height: 72
+      alignment: 9
+      pivot: {x: 0.496, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d09b16b66a745c4a4a4b6bd78b7d1b
+      internalID: 766357220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_32
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 315
+        width: 125
+        height: 72
+      alignment: 9
+      pivot: {x: 0.496, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca65869ed0ee4890b2938bb764dcfc21
+      internalID: -1447246056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 314
+        width: 125
+        height: 73
+      alignment: 9
+      pivot: {x: 0.496, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c18a94c4bf7814ca04f62ee274c33
+      internalID: 568455255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 388
+        width: 126
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e638b119b3737afc613128c20da101
+      internalID: 1605477090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 388
+        width: 126
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6121e55e7d5043ef5c6f8262ae4a859
+      internalID: 750027320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_36
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 388
+        width: 126
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1b4f86cff12a0821e05a032494dbe
+      internalID: -938820668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_37
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 388
+        width: 126
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9434082ac8d4ce9d5f371b88655c4b
+      internalID: 266808331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 126
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6989fa2cb844db334d8a1371416b41
+      internalID: 1202752546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 128
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4921875, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a434805acd6b6390d56cbbc8d8406c7a
+      internalID: 1229322770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 388
+        width: 127
+        height: 73
+      alignment: 9
+      pivot: {x: 0.496063, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476f101fb4c3ec78e69db331e6e03901
+      internalID: 1882525511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 184
+        width: 128
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: -0.017857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f943b148ad982b4350eb724bf8b0708c
+      internalID: 986883071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 83
+        width: 128
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: -0.08888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88c2c91a1f952ca15c7296e82b19700
+      internalID: 1670911468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 114
+        height: 52
+      alignment: 9
+      pivot: {x: 0.42982456, y: -0.057692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6cee6bc47932dde8cd4692e9c1d92
+      internalID: -1779975134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_44
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 256
+        width: 114
+        height: 57
+      alignment: 9
+      pivot: {x: 0.42982456, y: -0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c1e88e8195deeb8c53621465878e3
+      internalID: -1743533422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_45
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 251
+        width: 100
+        height: 62
+      alignment: 9
+      pivot: {x: 0.35, y: -0.048387095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7854c4bf4912c09ea2621ebd7e4e0802
+      internalID: -790068878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 186
+        width: 45
+        height: 54
+      alignment: 9
+      pivot: {x: 0.7777778, y: -0.2037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d91bcb73ea939fdcf6012e65c5aeb2f
+      internalID: 1885775215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_47
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 130
+        width: 67
+        height: 52
+      alignment: 9
+      pivot: {x: 0.3283582, y: -0.21153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cfc8fb2af2b00bd60fc3f0c194df97
+      internalID: 649599107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 134
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27192983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529ef0848629190cf340daad3302e867
+      internalID: 555102833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 755
+        width: 126
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27433628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734df192e3b38adcbeca1479ff5ad483
+      internalID: -294981587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 118
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6950e66810f36416eefee2240b57fe7d
+      internalID: 1210971497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_51
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 648
+        width: 115
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ea2e310b5fcfa7ca5c121d5d26f527
+      internalID: -1508611561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_52
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 655
+        width: 116
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92abddae17a38e6f472170f4a84ec8d
+      internalID: 1052611119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 555
+        width: 117
+        height: 87
+      alignment: 9
+      pivot: {x: 0.50427353, y: 0.22988506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4f04cd09a7db421d35b6c6b78df169
+      internalID: 1293010265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 109
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5412844, y: 0.18055555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feb788aab9c356241c2fadca591317b
+      internalID: -1199365490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_55
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 256
+        width: 115
+        height: 57
+      alignment: 9
+      pivot: {x: 0.51304346, y: -0.01754386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a525cb2c96083dd4b206fea5625015
+      internalID: 551915232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_56
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 187
+        width: 120
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: -0.03773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f466cc422879c2736adbb6098cf87f
+      internalID: -489212722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_57
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 187
+        width: 120
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: -0.03773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785a57b51a7fc913b39bf3b2160dd9b1
+      internalID: 1513930004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_58
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 255
+        width: 121
+        height: 58
+      alignment: 9
+      pivot: {x: 0.49586776, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fab8300aa4992acea61912764489c1
+      internalID: 223278234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 105
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4952381, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7a533c766c8ca8478a69b567185dd3
+      internalID: 1402706559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_60
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 256
+        width: 119
+        height: 57
+      alignment: 9
+      pivot: {x: 0.52100843, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f2abc3e31f9e13d6a4de407a953b1
+      internalID: -808145505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 186
+        width: 113
+        height: 54
+      alignment: 9
+      pivot: {x: 0.45132744, y: -0.018518519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387fd820b9f3bd037e2ab75ba76e35a0
+      internalID: -32026219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_62
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 186
+        width: 115
+        height: 54
+      alignment: 9
+      pivot: {x: 0.45217392, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8543bbd6c8c211441ddaa4facb9662f3
+      internalID: -383456755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_63
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 131
+        width: 116
+        height: 51
+      alignment: 9
+      pivot: {x: 0.45689654, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe7324c4c9d56a348f895e19eb6a75
+      internalID: 370119560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 81
+        width: 112
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4732143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b71bc26188622a5d3b00c5632775c7
+      internalID: 785218491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 112
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4642857, y: -0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4904adbd87d71e0810340c7688ce45c8
+      internalID: 2036251233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 119
+        height: 53
+      alignment: 9
+      pivot: {x: 0.45378152, y: 0.018867925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50144672d9cf51f23c4d430f376a2902
+      internalID: -1205034928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_67
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 133
+        width: 119
+        height: 49
+      alignment: 9
+      pivot: {x: 0.45378152, y: 0.020408163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee1ba2447c8b2a8a28db10e5f6c68a
+      internalID: 17181437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_68
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 81
+        width: 121
+        height: 47
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961aeb000a37e3d3dc6b1e9cb783c18
+      internalID: -2064028965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_69
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 132
+        width: 114
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbfe1d4e37f2b09a6c98ae371d97dfe
+      internalID: 1515917220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_70
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 132
+        width: 123
+        height: 50
+      alignment: 9
+      pivot: {x: 0.45528457, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19a0a88887fc483201b1b9d50e0505
+      internalID: 167654012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 104
+        height: 48
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2326d12c814de0c57d848df0aae0173
+      internalID: 1508639486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_72
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 41
+        width: 105
+        height: 37
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75763579db0da4e4e60d4acc1f112e16
+      internalID: -761772671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_73
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 43
+        width: 103
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5339806, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295bc6d920478fc7d5acee23f514b048
+      internalID: 1629781966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_74
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 82
+        width: 106
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5283019, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db24ee3da6a53c89e869713e9f0491
+      internalID: 1753673835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 103
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5145631, y: 0.022222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aad70a8a8a617a7f435725f2ca5ef3b
+      internalID: 1215896034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3
+        width: 107
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5233645, y: 0.03448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8660a344ccef07f53beca56a4e46eb23
+      internalID: -2111299265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 17
+        width: 57
+        height: 15
+      alignment: 9
+      pivot: {x: 0.12280702, y: -0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8b614a015ab5999ec54a84acccfe2
+      internalID: -299089331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_78
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 16
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635fe958c5db0085718d4d25a4148edb
+      internalID: 2041219395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 17
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01519a9325ec3d02d9eb0fcad9c2fea7
+      internalID: 605081670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_80
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 20
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6429c70659c7d3eca9157bc19f1ea00
+      internalID: -118128926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_81
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 20
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c920ffef320660d9e6b3f17f22b0d43f
+      internalID: -1038240981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_82
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 20
+        width: 15
+        height: 12
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ac218062c696e1bff58227e399ac89
+      internalID: -1503455365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_83
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 22
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: 0.72727275, y: -1.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c54ab7045953763ba88070d16e99f9
+      internalID: 272941134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_84
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 23
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.72727275, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e57233e4b8528254358cc04ea4e2e1
+      internalID: 1244673718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_85
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 24
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 1, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dc630bbff7900941b0e0960bc3d242
+      internalID: 1303342856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_86
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 25
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 1, y: -1.8571428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90319940c8b9607911e70e81793a1aaa
+      internalID: -423123789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_87
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 24
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 1.1428572, y: -1.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab95b1109d998725a31839d788b042dc
+      internalID: 398208793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_88
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 24
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 1.1428572, y: -1.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b031ba5d2845aa8f1aa2572be7f136
+      internalID: -364055721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emp-blast_89
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 31
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ed325089dd4d1cd965235d798b5e3
+      internalID: 973136793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6b27fa0ed74c5447d96110c2dca72d20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      emp-blast_0: -7600345966170254923
+      emp-blast_1: 2137129448
+      emp-blast_10: 1382672533
+      emp-blast_11: 794191757
+      emp-blast_12: -2037630616
+      emp-blast_13: 794893396
+      emp-blast_14: -1507283270
+      emp-blast_15: 98541950
+      emp-blast_16: 1431706313
+      emp-blast_17: 1448417093
+      emp-blast_18: 1847320234
+      emp-blast_19: 321680978
+      emp-blast_2: 841810261
+      emp-blast_20: 1038776609
+      emp-blast_21: 229435422
+      emp-blast_22: -1953383315
+      emp-blast_23: 1208413087
+      emp-blast_24: -1396418745
+      emp-blast_25: 1416951002
+      emp-blast_26: -1376072098
+      emp-blast_27: -461963371
+      emp-blast_28: -291285622
+      emp-blast_29: 420670242
+      emp-blast_3: 340718443
+      emp-blast_30: 99000915
+      emp-blast_31: 766357220
+      emp-blast_32: -1447246056
+      emp-blast_33: 568455255
+      emp-blast_34: 1605477090
+      emp-blast_35: 750027320
+      emp-blast_36: -938820668
+      emp-blast_37: 266808331
+      emp-blast_38: 1202752546
+      emp-blast_39: 1229322770
+      emp-blast_4: 871963402
+      emp-blast_40: 1882525511
+      emp-blast_41: 986883071
+      emp-blast_42: 1670911468
+      emp-blast_43: -1779975134
+      emp-blast_44: -1743533422
+      emp-blast_45: -790068878
+      emp-blast_46: 1885775215
+      emp-blast_47: 649599107
+      emp-blast_48: 555102833
+      emp-blast_49: -294981587
+      emp-blast_5: -2104541467
+      emp-blast_50: 1210971497
+      emp-blast_51: -1508611561
+      emp-blast_52: 1052611119
+      emp-blast_53: 1293010265
+      emp-blast_54: -1199365490
+      emp-blast_55: 551915232
+      emp-blast_56: -489212722
+      emp-blast_57: 1513930004
+      emp-blast_58: 223278234
+      emp-blast_59: 1402706559
+      emp-blast_6: -574426317
+      emp-blast_60: -808145505
+      emp-blast_61: -32026219
+      emp-blast_62: -383456755
+      emp-blast_63: 370119560
+      emp-blast_64: 785218491
+      emp-blast_65: 2036251233
+      emp-blast_66: -1205034928
+      emp-blast_67: 17181437
+      emp-blast_68: -2064028965
+      emp-blast_69: 1515917220
+      emp-blast_7: 742604644
+      emp-blast_70: 167654012
+      emp-blast_71: 1508639486
+      emp-blast_72: -761772671
+      emp-blast_73: 1629781966
+      emp-blast_74: 1753673835
+      emp-blast_75: 1215896034
+      emp-blast_76: -2111299265
+      emp-blast_77: -299089331
+      emp-blast_78: 2041219395
+      emp-blast_79: 605081670
+      emp-blast_8: -1670713460
+      emp-blast_80: -118128926
+      emp-blast_81: -1038240981
+      emp-blast_82: -1503455365
+      emp-blast_83: 272941134
+      emp-blast_84: 1244673718
+      emp-blast_85: 1303342856
+      emp-blast_86: -423123789
+      emp-blast_87: 398208793
+      emp-blast_88: -364055721
+      emp-blast_89: 973136793
+      emp-blast_9: 1819786162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

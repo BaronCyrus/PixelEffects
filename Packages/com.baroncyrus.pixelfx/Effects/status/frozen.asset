@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: frozen
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: status/frozen
+  displayName: Frozen
+  description: 'Chilled to the bone: frost ferns creep over the body, icicles hang from chin and hands and drip, breath steams, snow settles, a shiver every second, frost spreads underfoot.'
+  category: status
+  tags:
+  - status
+  - ice
+  - freeze
+  - frozen
+  - cold
+  - chill
+  - debuff
+  - loop
+  frames:
+  - {fileID: 36207291187918886, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -1747376460, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 314380413, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -1501868194, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 763857252, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1348663931, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 935831026, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -561601345, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1930618748, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -417975510, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -901782315, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1857345021, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 2023663682, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -777550886, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -1286772222, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1552177310, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 142032583, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -625870647, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -1621430536, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -781076034, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -640529141, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 63198253, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1061709285, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 274888084, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -518939684, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 621433604, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -938347160, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -1973140136, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1788710164, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 819616207, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 5441640, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 995324763, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1299943953, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 942223556, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -2002756301, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -1470319060, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1407760068, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -86239757, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 780126164, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 172469359, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -1868322894, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 167665216, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 414329944, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 583795932, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 545670051, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -1143601701, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1922994346, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -257758797, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -318277855, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -2023976653, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 698833904, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 476418251, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 594438174, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -1488060263, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -460297756, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -969964158, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: -562183913, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1472266434, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1415301765, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  - {fileID: 1432616204, guid: 3ce62f52fd18b4750ae8f379b082a694, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 72, y: 64}
+  origin: {x: 36, y: 54}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0
+  recovery: 0
+  onBody: 1
+  hits: []

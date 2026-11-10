@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: f3f602f0c887348b89037a5309e409b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3345101353207251362
+    second: claw-swipe_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: claw-swipe_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 28
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed57bd5941a6608b6bac7e4dd02b3cb1
+      internalID: -3345101353207251362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 128
+        width: 27
+        height: 52
+      alignment: 9
+      pivot: {x: -0.4814815, y: 0.057692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b55136b928891fa27f21062266b2e
+      internalID: 558776496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 58
+        height: 59
+      alignment: 9
+      pivot: {x: 0.10344828, y: 0.16949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5aad7646aa9570d23680ab6999097
+      internalID: 766931828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 181
+        width: 65
+        height: 60
+      alignment: 9
+      pivot: {x: 0.06153846, y: 0.18333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92314b87e39b15dbff549742f635346
+      internalID: 1577384619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: 0.027777778, y: 0.18333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aeea656e11a7a3aaca9641d0ca92ae
+      internalID: 1625244287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 181
+        width: 67
+        height: 60
+      alignment: 9
+      pivot: {x: -0.014925373, y: 0.18333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742f96d9d17323ce661ca4185f502791
+      internalID: 393962237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 122
+        width: 63
+        height: 58
+      alignment: 9
+      pivot: {x: -0.04761905, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557853bfa7e0b67c109d50bd3ba1ec99
+      internalID: -1701667355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 125
+        width: 60
+        height: 55
+      alignment: 9
+      pivot: {x: -0.06666667, y: 0.16363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21250a07eaa13c2f268d0f5b26488348
+      internalID: 1101443708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 61
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 0.15686275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf32d1161fc000ebb51355b814c97aea
+      internalID: 1791124123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 73
+        width: 61
+        height: 47
+      alignment: 9
+      pivot: {x: 0.04918033, y: 0.12765957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c178a47d87551c08216f5e19c39908
+      internalID: 719789858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 79
+        width: 60
+        height: 41
+      alignment: 9
+      pivot: {x: 0.083333336, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec96b3746d603f8a070ba23c38147c
+      internalID: 435407194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 31
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: -0.31707317, y: -0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49684dc6c3287545b1e1452e17366c
+      internalID: 1467649286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 41
+        height: 38
+      alignment: 9
+      pivot: {x: -0.29268292, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965e0e40668353592e8f2ea5fde61e8a
+      internalID: 525868974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 39
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: -0.8518519, y: -0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f251ad1214fe97dd7c26395c28a7829
+      internalID: 1003712682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 39
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: -0.88, y: -0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17215be7d5eabbe1711c61b59bc7cde
+      internalID: 1889384916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 37
+        width: 25
+        height: 31
+      alignment: 9
+      pivot: {x: -0.88, y: -0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57eadd30d1c336c7bbf55b5cecf43ba
+      internalID: -1761932551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 39
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: -0.88, y: -0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d321046a0d25f5e817dd5aae1df7c40
+      internalID: -643465848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: -0.88, y: -0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400580bf005b3791404f8371c40a9fdf
+      internalID: -909549716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: -0.88, y: -0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1493f7e490a7da8095ef3182d88f9b32
+      internalID: 846929092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: -1.2380953, y: -0.31034482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1394afb4e7b30740cc7362847b3db7f
+      internalID: 489288850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 19
+        height: 27
+      alignment: 9
+      pivot: {x: -1.4736842, y: -0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96087a1d57e27a0c2822e0ff3a2b3561
+      internalID: -555840615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6
+        width: 15
+        height: 23
+      alignment: 9
+      pivot: {x: -2.1333334, y: -0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80466cebc3eea94aa85855c82e0663f2
+      internalID: -916686700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 10
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: -2.1333334, y: -0.57894737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52aaa5845e8445349f280f5811b5a9c
+      internalID: 70044769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: claw-swipe_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: -44, y: -15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fb20c3100bbb5e8d45c0f69a0a8c00
+      internalID: -393510195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fd423cbb8338e48d9bab7caf1c1f1c42
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      claw-swipe_0: -3345101353207251362
+      claw-swipe_1: 558776496
+      claw-swipe_10: 435407194
+      claw-swipe_11: 1467649286
+      claw-swipe_12: 525868974
+      claw-swipe_13: 1003712682
+      claw-swipe_14: 1889384916
+      claw-swipe_15: -1761932551
+      claw-swipe_16: -643465848
+      claw-swipe_17: -909549716
+      claw-swipe_18: 846929092
+      claw-swipe_19: 489288850
+      claw-swipe_2: 766931828
+      claw-swipe_20: -555840615
+      claw-swipe_21: -916686700
+      claw-swipe_22: 70044769
+      claw-swipe_23: -393510195
+      claw-swipe_3: 1577384619
+      claw-swipe_4: 1625244287
+      claw-swipe_5: 393962237
+      claw-swipe_6: -1701667355
+      claw-swipe_7: 1101443708
+      claw-swipe_8: 1791124123
+      claw-swipe_9: 719789858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

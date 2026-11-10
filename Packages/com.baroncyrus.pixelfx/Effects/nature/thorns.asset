@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: thorns
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: nature/thorns
+  displayName: Thorns
+  description: A seam races along the floor and hooked thorns punch up out of it one after another, each bigger than the last, in bursts of dirt and green light; they hold, then sink.
+  category: nature
+  tags:
+  - nature
+  - thorns
+  - plant
+  - spikes
+  - ground
+  - attack
+  - one-shot
+  frames:
+  - {fileID: -5929405817864647190, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -5929405817864647190, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1754124313, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1964360979, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1862418476, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 110338864, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1148821290, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1898187917, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1929397452, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 321135800, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1991662702, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1107236077, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 661880996, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -151509925, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -14251298, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 8310880, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 870223334, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 758729335, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 878261208, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1906243842, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -2055375883, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 800117699, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 314889804, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1274936189, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 845517103, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1065717769, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -633443832, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1778027686, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 2101238669, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 101219875, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1521410470, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 2009142860, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -724919190, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1719738742, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -2116812094, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1048435920, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1271738874, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 285949560, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 446228089, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1410772374, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1505653115, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -323848285, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1876798373, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -451738970, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1203938693, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -2025866474, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1714999921, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1252876754, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1120181886, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -2036240670, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -210101736, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1986570907, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -331535649, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1645025598, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 234759178, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -720933309, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -753112768, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1085885149, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 246846254, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -438765372, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 576501773, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 784031770, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 1428870881, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1316392715, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1067188122, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1955817105, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 356800608, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: 36337579, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -901944148, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1628873673, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -988227075, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1578649951, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  - {fileID: -1578649951, guid: 6987517cbea6241e7b21debfdffc5a75, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 232, y: 92}
+  origin: {x: 48, y: 78}
+  fullScreen: 0
+  previewFrame: 16
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

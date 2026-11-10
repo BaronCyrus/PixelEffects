@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: crit-number
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: ui/crit-number
+  displayName: Crit number
+  description: CRIT 128! slams in huge and white over a jagged starburst with a hard shake and speed lines, cools to fire, holds with a shine, then pops into sparks.
+  category: ui
+  tags:
+  - ui
+  - critical
+  - damage
+  - number
+  - combat
+  - text
+  - one-shot
+  frames:
+  - {fileID: 3365795527189769224, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1435581744, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 1291096658, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1068279905, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1513710200, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -16969856, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 110896005, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 210185358, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -210280828, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 1583277456, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 1045441439, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -922252031, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 355790980, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1846298369, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 2040110122, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1774114604, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 9253495, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -527345526, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 1099197003, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -651644843, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 667051026, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -149871415, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -156972059, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 1323392168, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -496515775, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 900508763, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1860953704, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 357276417, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 7335945, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1193251128, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 645660948, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 820336943, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 1398242967, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1176297942, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 1441244814, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -764796199, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1133426603, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -1043024106, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 915267637, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -2025898120, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 316848563, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: -949928699, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 1884104268, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 1058531527, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 773221402, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  - {fileID: 773221402, guid: 768c39b93646747b8b318127e1ad4cf1, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 152, y: 120}
+  origin: {x: 76, y: 60}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

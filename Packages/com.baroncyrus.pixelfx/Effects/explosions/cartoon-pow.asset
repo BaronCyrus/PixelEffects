@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: cartoon-pow
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: explosions/cartoon-pow
+  displayName: Cartoon POW
+  description: 'A comic-book hit: a jagged two-tone burst star slams in with a shake and boiling edges, POW! drops in letter by letter, action lines fly, then it all snaps away.'
+  category: explosions
+  tags:
+  - cartoon
+  - comic
+  - pow
+  - hit
+  - impact
+  - text
+  - one-shot
+  frames:
+  - {fileID: 4739573071001153520, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 2074780555, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -638183169, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 330119811, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 185229918, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 1568325820, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -1326572253, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 768368309, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -2023637680, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 122493951, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 1769513035, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -66637794, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 1552782241, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 700471726, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 1233201983, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -2068768920, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -2068768920, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -2068768920, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -596710849, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -596710849, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -2048454917, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -516412178, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -1474344489, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -234661698, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -1582263210, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -2110018545, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: -1592367032, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 711971229, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 1192642398, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 1846278962, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 1450391834, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 300154826, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  - {fileID: 300154826, guid: f683ebe101c7b43af91e3f05fe35c893, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 184, y: 144}
+  origin: {x: 92, y: 72}
+  fullScreen: 0
+  previewFrame: 1
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: blink-in
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: arcane/blink-in
+  displayName: Blink in
+  description: Glittering bits spiral in to a point of light that opens into a line, then into a white silhouette that cools into the caster.
+  category: arcane
+  tags:
+  - arcane
+  - blink
+  - teleport
+  - appear
+  - movement
+  - magic
+  - one-shot
+  frames:
+  - {fileID: -8867387962585156572, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 955585782, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -926931854, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 1118703442, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -1222121067, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 2067014301, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 156848674, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -1703506840, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 910993950, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 1371660292, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 2109929019, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 764078858, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 1332212057, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -663130400, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -1257522970, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 719580228, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -1482295269, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -696826489, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 865152797, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 1390891587, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -1879793209, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -513553124, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 2107926538, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 1824286260, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -2020086566, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 1224108823, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 1829887641, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 2085149821, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -1703091239, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 295482506, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -1441607153, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 512754350, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 2089346119, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -589443292, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 1276248312, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -175384296, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -554303986, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -1834033254, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -73429016, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: 1259802602, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -8867387962585156572, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -8867387962585156572, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  - {fileID: -8867387962585156572, guid: 87e1d45cd207d4188ad366864335fb96, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 136, y: 96}
+  origin: {x: 68, y: 80}
+  fullScreen: 0
+  previewFrame: 15
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0
+  recovery: 0
+  onBody: 1
+  hits:
+  - time: 0.48
+    freeze: 0.03
+    shake: 0.1
+    amplitude: 1
+    push: 1.2

@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: poisoned
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: status/poisoned
+  displayName: Poisoned
+  description: 'Sick to the bone: green rolls up the body in waves, dark veins creep from a wound, toxic sweat drips and hisses; every 0.8 s it wobbles, blisters pop and a ring pulses out.'
+  category: status
+  tags:
+  - status
+  - poison
+  - toxic
+  - dot
+  - debuff
+  - sick
+  - loop
+  frames:
+  - {fileID: -1978447348820421590, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -842578012, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 695086331, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 384488566, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 1870316555, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 1823284283, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 2122069672, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 509406679, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -1244810430, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 400178572, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -1735763245, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -2047444130, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -959335387, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 495447510, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -211124616, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -288106837, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -1515828232, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -780136995, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 1376241232, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -910176603, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 690559060, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -1964956864, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -1798919134, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -841611738, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -623407958, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -293484009, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -364053243, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -1398176520, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -425670960, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 51690346, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -977566007, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 866685830, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 1739557405, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 305354181, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 868247535, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 165123193, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 313131995, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -1710291383, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 1305541293, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 160756266, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 1062407580, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -979182177, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -1748756962, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -1963789922, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 87110442, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: -458128265, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 424424904, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  - {fileID: 467126866, guid: 598118e3aaba24ae98cf1dbe2adcc706, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 72, y: 64}
+  origin: {x: 36, y: 54}
+  fullScreen: 0
+  previewFrame: 3
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0
+  recovery: 0
+  onBody: 1
+  hits: []

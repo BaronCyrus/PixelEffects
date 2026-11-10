@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: chain-lightning
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: lightning/chain-lightning
+  displayName: Chain lightning
+  description: A bolt leaps from the caster's hand through three targets in turn; each flashes, sparks and grounds itself to the floor while the arcs between them flicker, then the chain snaps.
+  category: lightning
+  tags:
+  - lightning
+  - electric
+  - chain
+  - spell
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -1462819982071457065, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 69398583, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1627763392, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 977608651, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1362367697, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -646454578, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -716184042, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1831566047, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -161324105, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 918092124, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1837305412, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -24581651, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1407256676, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1966113347, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -366520367, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -764147464, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 917393429, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 346896364, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 643484064, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -522579663, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1221667894, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 780663888, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1841937439, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1041472745, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -942291014, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -179708778, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 342813873, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1335026167, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -574930554, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 754558094, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1418755265, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 2145200955, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1739061225, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -604442119, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1217165100, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -41099176, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1943397689, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -814790275, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1018382229, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1904130070, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -229639966, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1012439826, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -153727950, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1138844581, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1126534466, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -124034097, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1535293283, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1503419884, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 2047906651, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: 1829423628, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -15723557, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1462819982071457065, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1462819982071457065, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1462819982071457065, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  - {fileID: -1462819982071457065, guid: 6ad49577a9c294c9b837ddf268f323c8, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 248, y: 104}
+  origin: {x: 40, y: 82}
+  fullScreen: 0
+  previewFrame: 10
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.46
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.05
+    freeze: 0.03
+    shake: 0
+    amplitude: 0
+    push: 1.2
+  - time: 0.14
+    freeze: 0.03
+    shake: 0
+    amplitude: 0
+    push: 1.2
+  - time: 0.23
+    freeze: 0.07
+    shake: 0.14
+    amplitude: 1
+    push: 1.2
+  - time: 1.35
+    freeze: 0
+    shake: 0
+    amplitude: 0
+    push: 0

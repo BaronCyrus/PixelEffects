@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: muzzle-pistol
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: projectiles/muzzle-pistol
+  displayName: Pistol shot
+  description: 'One pistol shot from a muzzle `height` px above the floor (the origin): a spiky white-cored flash, sparks, a curl of smoke hooking up and back, a casing that bounces and settles.'
+  category: projectiles
+  tags:
+  - projectile
+  - muzzle
+  - gun
+  - pistol
+  - flash
+  - smoke
+  - casing
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 2301297173821363151, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -116561904, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -231481159, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 598199499, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -740119795, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1736699526, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 369665639, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 257377437, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 28072110, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 589818552, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 2078700334, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1438513461, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -592598451, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1615214755, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 819439841, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1446183640, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 982007814, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -182914685, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 830544143, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 515197497, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -921773444, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1716099714, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1116516605, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -384285615, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1265703867, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 902970893, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -499808479, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 700641586, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -51114811, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1806392350, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1463475859, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1952501374, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 752182988, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1128390484, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1999761979, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1089746822, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1773471751, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1732629942, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -873400975, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -663974246, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -422818184, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 159814731, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1159098458, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 2130707083, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1889117474, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -908316394, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1609974795, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: 1031551982, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -894626131, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -292416984, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -292416984, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -292416984, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1608019872, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1608019872, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  - {fileID: -1608019872, guid: 0d922b36c390e4a15966f8dd1b98622d, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 96, y: 72}
+  origin: {x: 44, y: 66}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

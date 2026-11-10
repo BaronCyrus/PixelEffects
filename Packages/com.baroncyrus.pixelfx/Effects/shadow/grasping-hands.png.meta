@@ -1,0 +1,2090 @@
+fileFormatVersion: 2
+guid: 0c0784b6ae3c34d1aab58707c5ca07a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5731652676160995719
+    second: grasping-hands_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grasping-hands_0
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 92
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4813f3c69cb2c3d75f44c05db5725407
+      internalID: 5731652676160995719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 7
+        width: 112
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeda68715e3aada65c359272751962e
+      internalID: 1666216463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4905bbe8e45fae3b20304d81e01b552
+      internalID: -601963608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 98
+        width: 128
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf4f3b2eacd3d171d0907610e1b022b
+      internalID: 128318130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 96
+        width: 132
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15463917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c65131318ef066c9dd30823033c8a
+      internalID: 1460282961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 95
+        width: 132
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1632653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2cf96de6f2cfe05d4519f79ee3b5e1
+      internalID: 445801289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_6
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 194
+        width: 138
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116e44f9474084f5392b093f1848ed59
+      internalID: 359996111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 194
+        width: 142
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d83fd7bdd184f191510c8e5d1130ee
+      internalID: 767753567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1094
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67be400b58ad1db2869ebfeaed1b066
+      internalID: -2126086046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1094
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef397556858e21cba30d4194ca2e8ba2
+      internalID: 282555712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1094
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd169b55495ab3c27eaf4e8e4af138e6
+      internalID: 856423831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_11
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1094
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bd80a5932636a18bee72d5cfd75928
+      internalID: 233847068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1094
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f3b84edd19713318e29354f3d0dba
+      internalID: 1771745559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_13
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1094
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cdcec7568911981f98e870954d4587
+      internalID: -272813912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_14
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1094
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a56e8a513c77deca92978af32e8b0
+      internalID: 1325523849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 994
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f8b6d2ead53d0caa0ca7cd4f7fb72
+      internalID: 545303271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 994
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bba8503237fcc5a30b9841c70a7bf5
+      internalID: 923348010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 994
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8584186b1eb483e16036327a65db8
+      internalID: 754594543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 994
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ee6147c114b2508f27c0113a3ea365
+      internalID: 1595753847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 994
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73b12f99eae4e93735fd6f4684ccb7
+      internalID: -502091343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 994
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b3f0f2c42320394fb2547e407b577a
+      internalID: -1203905026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_21
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 994
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a508263c0fed7e9124aab5d51ad63a9b
+      internalID: -582149383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893298db2bd30adfcc30d80031274e00
+      internalID: -633313307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 894
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f660f87d948d4af57b50b3fa708c14
+      internalID: 650856684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 894
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f111a9b819491f25fb255f8d1ac2f178
+      internalID: -189183552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 894
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb627681df63d95119008f4ff1708c
+      internalID: -1604949247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 894
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0423f1be206b15bb52571f638ac079c
+      internalID: -1543823228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_27
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 894
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24301f7cc93853f32f999ce337604c7d
+      internalID: 929476799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_28
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 894
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a940233467fbc2c45650f5328151ab
+      internalID: 1913978483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2a28609433f89e269c3572766364a
+      internalID: 1269918839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 794
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2c0ad2ccd4f905e91336acc343f396
+      internalID: 1475476805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 794
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8ed568a3f9ecf58a164b7475ce41e
+      internalID: 25266705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_32
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 794
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f788859250c1ec6157f97ed84eb4386
+      internalID: -76638718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_33
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 794
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca80bd0ee81348906ee824ec267987c
+      internalID: 2081390303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_34
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 794
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3d6d06ac3e92003179e9d963734d1
+      internalID: 1333979645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_35
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 794
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7179884747d71d33603c30c30aebef
+      internalID: 2096465714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0269ff487610b22846d72f7da19a42d1
+      internalID: 1246519145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 694
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81922d064312acc9f60debae9c34955
+      internalID: 1083254082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 694
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22e76db0ee30021429feb48e578d893
+      internalID: 786074380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_39
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 694
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a75a66eb9bdda8a6c18a416f70329c
+      internalID: 661375668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_40
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 694
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb078874680367875de7c5536706cdbe
+      internalID: 74318343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_41
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 694
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec44c997fb1bc3ab0596891d81e6e657
+      internalID: 1666209081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_42
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 694
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14feb71bf19b985a1718259c14497aa1
+      internalID: -2077351458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ec16fe6e1c37b31fd4796e840b249b
+      internalID: 193265340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 594
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed126f6b4c341fb231f7f4bc93c26fe
+      internalID: 399412786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_45
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 594
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646e525d2c4e886441554313d9068e82
+      internalID: 1775406261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_46
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 594
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bab7c6eb53ac724d3271a3894cd83d4
+      internalID: 1883119423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_47
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 594
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498cca590362ac1da5635c6be78f3a9b
+      internalID: 215878424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_48
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 594
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90fbc6a13cbb17f1600861ce38ac99a
+      internalID: 2032335243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_49
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 594
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f4900d01a4499aac6a784935e846a
+      internalID: -1906490534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacb7f5697632a500c0e5d1a4f84f388
+      internalID: -954492924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 494
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188039b75b4c2da0a01fba6ed27a795e
+      internalID: -831551481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_52
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 494
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24ced2888402d2349652ba54a31540
+      internalID: -33889482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_53
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 494
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52823036c066e30317619476d5549e70
+      internalID: 532021573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_54
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 494
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ede8a10d2d5e89fd5a6d149ba91c0d
+      internalID: -1842601766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_55
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 494
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbee87472795ef6b12eb431df71886e
+      internalID: -695586960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_56
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 494
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f8c73636c4382ab456afb9106bfd63
+      internalID: -59415825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e23fa6a3f01e1343a42c2394e746683
+      internalID: 864434193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 394
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30ae1734bbbfeaaf685f44d7d75fec3
+      internalID: -282308423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_59
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 394
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78feb8745f275011a40ff84ac977863d
+      internalID: -1157343376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_60
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 394
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d8c39fc72e953751145be7d6876697
+      internalID: -961827832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_61
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 394
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94e5ca8d18f59a0d5873e086f625e66
+      internalID: 184076739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_62
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 394
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5159ee2cb5e46ea7b626ec73789d033e
+      internalID: -1789334510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_63
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 394
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732460e53fbc22e5ef2f3d9d21052bc8
+      internalID: -248104836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31918fd227875d4db9c8a21bdd252116
+      internalID: 882708047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 294
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2092e724def938c074d37a70da4050b
+      internalID: -1896063864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 294
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3570d9705a617c3fdf109540bb9be0ba
+      internalID: 1739054352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_67
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 294
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24af71d0ece33cd31544483edfbfac6
+      internalID: 1497302123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_68
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 294
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b487c32785572e9e3141fbef2d19d09
+      internalID: 372169691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_69
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 294
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa49f1064b3b49ab1571baec7ccb7d6
+      internalID: -1391946559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_70
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 294
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7d53a9d5008a60281c564631e4806
+      internalID: 1687906292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e720b174619d574a43dda039866a26d
+      internalID: -509484553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 194
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6fe1e7b654e2e520cc18ab1971a0c8
+      internalID: 1271886438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_73
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 194
+        width: 144
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c36758fe22ceba531dc2d74b5c4cf3
+      internalID: -250419485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_74
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 194
+        width: 142
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7566ccc258d89a049be134f0fd6c97f
+      internalID: -1799932919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_75
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 194
+        width: 140
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3cf4cb412ede077a434d950adce910
+      internalID: 820186838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 136
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16161616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eb7d54822eb6aebc3786fa1553afb2
+      internalID: 1812412176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_77
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 95
+        width: 132
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1632653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66658b512d8b1b92c61d32fe8cf57bda
+      internalID: 393476328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_78
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 96
+        width: 132
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15463917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac1ca2890d3fe4e5dbb42d47b7c867
+      internalID: 1701607524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_79
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 97
+        width: 130
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc81c76989f835be404acb38dbb9785d
+      internalID: -1763884328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_80
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 98
+        width: 128
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb95d98200bef60ec8638f22ee84550
+      internalID: -959528443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_81
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 124
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fedf271b9ad231e7e2b664f7fe2cbda
+      internalID: 252751930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3
+        width: 118
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d49ac8949457492383240fac79d17a6
+      internalID: 1916950411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_83
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 11
+        width: 104
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de68415df10554fdced7bfacd59f123
+      internalID: -1687578261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grasping-hands_84
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 92
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 42, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef64320689301333d487373ceecfb7ab
+      internalID: -1254913727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d819227dc71e74195a1a48985c868d35
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      grasping-hands_0: 5731652676160995719
+      grasping-hands_1: 1666216463
+      grasping-hands_10: 856423831
+      grasping-hands_11: 233847068
+      grasping-hands_12: 1771745559
+      grasping-hands_13: -272813912
+      grasping-hands_14: 1325523849
+      grasping-hands_15: 545303271
+      grasping-hands_16: 923348010
+      grasping-hands_17: 754594543
+      grasping-hands_18: 1595753847
+      grasping-hands_19: -502091343
+      grasping-hands_2: -601963608
+      grasping-hands_20: -1203905026
+      grasping-hands_21: -582149383
+      grasping-hands_22: -633313307
+      grasping-hands_23: 650856684
+      grasping-hands_24: -189183552
+      grasping-hands_25: -1604949247
+      grasping-hands_26: -1543823228
+      grasping-hands_27: 929476799
+      grasping-hands_28: 1913978483
+      grasping-hands_29: 1269918839
+      grasping-hands_3: 128318130
+      grasping-hands_30: 1475476805
+      grasping-hands_31: 25266705
+      grasping-hands_32: -76638718
+      grasping-hands_33: 2081390303
+      grasping-hands_34: 1333979645
+      grasping-hands_35: 2096465714
+      grasping-hands_36: 1246519145
+      grasping-hands_37: 1083254082
+      grasping-hands_38: 786074380
+      grasping-hands_39: 661375668
+      grasping-hands_4: 1460282961
+      grasping-hands_40: 74318343
+      grasping-hands_41: 1666209081
+      grasping-hands_42: -2077351458
+      grasping-hands_43: 193265340
+      grasping-hands_44: 399412786
+      grasping-hands_45: 1775406261
+      grasping-hands_46: 1883119423
+      grasping-hands_47: 215878424
+      grasping-hands_48: 2032335243
+      grasping-hands_49: -1906490534
+      grasping-hands_5: 445801289
+      grasping-hands_50: -954492924
+      grasping-hands_51: -831551481
+      grasping-hands_52: -33889482
+      grasping-hands_53: 532021573
+      grasping-hands_54: -1842601766
+      grasping-hands_55: -695586960
+      grasping-hands_56: -59415825
+      grasping-hands_57: 864434193
+      grasping-hands_58: -282308423
+      grasping-hands_59: -1157343376
+      grasping-hands_6: 359996111
+      grasping-hands_60: -961827832
+      grasping-hands_61: 184076739
+      grasping-hands_62: -1789334510
+      grasping-hands_63: -248104836
+      grasping-hands_64: 882708047
+      grasping-hands_65: -1896063864
+      grasping-hands_66: 1739054352
+      grasping-hands_67: 1497302123
+      grasping-hands_68: 372169691
+      grasping-hands_69: -1391946559
+      grasping-hands_7: 767753567
+      grasping-hands_70: 1687906292
+      grasping-hands_71: -509484553
+      grasping-hands_72: 1271886438
+      grasping-hands_73: -250419485
+      grasping-hands_74: -1799932919
+      grasping-hands_75: 820186838
+      grasping-hands_76: 1812412176
+      grasping-hands_77: 393476328
+      grasping-hands_78: 1701607524
+      grasping-hands_79: -1763884328
+      grasping-hands_8: -2126086046
+      grasping-hands_80: -959528443
+      grasping-hands_81: 252751930
+      grasping-hands_82: 1916950411
+      grasping-hands_83: -1687578261
+      grasping-hands_84: -1254913727
+      grasping-hands_9: 282555712
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: force-field
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: scifi/force-field
+  displayName: Force field
+  description: 'A glassy dome of hex plates over the hero: plates glint, tracers from the right slam into it, a ripple and cracks of light race across, sparks glance off.'
+  category: scifi
+  tags:
+  - scifi
+  - shield
+  - barrier
+  - dome
+  - hex
+  - hit
+  - defense
+  - loop
+  frames:
+  - {fileID: -1665986951607498228, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -2093008449, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -655412154, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1303453614, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1600971660, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 557660641, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1668020368, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1383125146, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 802398344, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -142548767, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1594214523, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -36787555, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1455313977, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -2061370552, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 805096367, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -86741420, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1803648175, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -593811363, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 849139034, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -530805350, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -553043648, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 342466145, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1296347742, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -192927203, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1599556226, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -652839307, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 399771262, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 980642262, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 2064142744, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -137213949, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 506631479, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1188085415, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1260343190, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1820039416, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -182953155, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 610342430, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 144790966, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1275856221, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1579923243, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1656219926, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 2024027192, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1044315048, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 899369052, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1105587669, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -791569319, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -185379044, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1856915147, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 813031774, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 424149770, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1436915734, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1534193931, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 667506393, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 652189858, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -442555718, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1624001085, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1788556240, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -672716416, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -532970245, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1271207318, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1960185675, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 546535052, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 1493405713, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -2098172229, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 435091574, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -1218569456, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -69790334, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -710587526, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -2063493817, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -843871266, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -769294313, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: 195704079, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  - {fileID: -889811157, guid: c2e9fc10c15dd47cab16e6aedd1668eb, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 184, y: 104}
+  origin: {x: 76, y: 84}
+  fullScreen: 0
+  previewFrame: 16
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.42
+    freeze: 0.07
+    shake: 0.16
+    amplitude: 2
+    push: 1.2
+  - time: 1.5
+    freeze: 0.03
+    shake: 0.08
+    amplitude: 1
+    push: 1.2

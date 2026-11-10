@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: plasma-shot
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: projectiles/plasma-shot
+  displayName: Plasma shot
+  description: 'A glowing plasma blob: hot knots churning in its core, a corona crackling over its skin, its tail necking into droplets that tear off, cool and wink out behind.'
+  category: projectiles
+  tags:
+  - projectile
+  - plasma
+  - energy
+  - sci-fi
+  - directional
+  - loop
+  frames:
+  - {fileID: -1641815528135205584, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -351861132, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: 303777859, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: 1120196974, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: 1365639826, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: 828986597, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -608248653, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -38577550, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -383417306, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -177569297, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: 1306684688, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -1490063649, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -873838944, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -2127667658, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -166668363, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: 1182326998, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: 1059182057, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: 1062069726, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -390710082, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -1778005391, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -1252930016, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -381013804, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: 2117921885, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  - {fileID: -1972114566, guid: f52d4701fea234793ba538b565e7e454, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 144, y: 60}
+  origin: {x: 108, y: 30}
+  fullScreen: 0
+  previewFrame: 2
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

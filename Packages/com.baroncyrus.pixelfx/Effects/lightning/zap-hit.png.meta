@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 5b615f3faa10641ac98a7c6aae718106
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3311628722878935505
+    second: zap-hit_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zap-hit_0
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 26
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 3.409091, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7d3ffad1e46558b5a0488674100f87
+      internalID: 3311628722878935505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 17
+        width: 66
+        height: 35
+      alignment: 9
+      pivot: {x: 1.1363636, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5e6f75f2ed561c15462723788031bd
+      internalID: -1617585821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 129
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f367b2c74ad76c06191e2c1102567b
+      internalID: -174145156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 331
+        width: 124
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5967742, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b67a84fbc73b1a5e84068b71cbeb9
+      internalID: -1319767894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 121
+        height: 94
+      alignment: 9
+      pivot: {x: 0.61157024, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d02566c8f6a6f4e1fdae5e711d0a8be
+      internalID: -1703220859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 240
+        width: 117
+        height: 86
+      alignment: 9
+      pivot: {x: 0.63247865, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da80c975ec4dbae2101a8d57ad1bd25
+      internalID: -1059398235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 248
+        width: 113
+        height: 78
+      alignment: 9
+      pivot: {x: 0.65486723, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba63dc7cc822ed3756d1fb4a54db434
+      internalID: -588161664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 108
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6759259, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fda785bcfcc485253d9eba1d2f6306
+      internalID: -540659916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 169
+        width: 105
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6952381, y: 0.46774194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d7ea45f4614f81afa2facfbc66f2b9
+      internalID: 2067109125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 169
+        width: 108
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.46774194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74d542def8cdae45217dabed327d049
+      internalID: -1574821643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 64
+        height: 53
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb01d2a4e6c784ea3c60307bb029115
+      internalID: 1184240890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 107
+        width: 64
+        height: 53
+      alignment: 9
+      pivot: {x: 0.390625, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b63303f7a71620f83fd15feb933f7e
+      internalID: -2027372642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 107
+        width: 52
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b6b9a84d80f1e7e89d21347c906bf4
+      internalID: 859569206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 107
+        width: 52
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366158173d29e9a13393ee174373db14
+      internalID: 69467583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 107
+        width: 52
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19f21e22cbdd475e27c28f5212ea86
+      internalID: 594038424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 107
+        width: 52
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e833137d6ae65dce00cc36bc03d64
+      internalID: 1623827891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 52
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2725dfb9a58f52d9d4944163346eec0
+      internalID: -2024342757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 54
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b638d457de3c0c343db583d7b082cd
+      internalID: -1896414707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33922b4ff21ecf64a4d1bca14a5dcd53
+      internalID: -1324961330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 54
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5994f091c43e1f2267718e76b8620274
+      internalID: 1657231368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 54
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855dcd0c2dd366b76662a640702ae53f
+      internalID: -138351885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 54
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c024e01a408648581d817581705b80
+      internalID: 694731942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44807d9c3b2e8920f5638bfe2a27ef4
+      internalID: -1689269501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a0962fee33ad35c13f92610727eed
+      internalID: -1567743621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ea4c8fdf4f8b8bf6fd39d72f572dd
+      internalID: 2113310292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_25
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.3653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb433f6f637170d4a1ddaa693a5469e6
+      internalID: 2050643772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 15
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.3902439, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe263446e2c02a8fea220642c96bd4a
+      internalID: -527526989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zap-hit_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 51
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9434743de91b598c44a27f5b6e39a
+      internalID: -321008426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 016a1d775b05d4b7d9086e73d65b31d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zap-hit_0: 3311628722878935505
+      zap-hit_1: -1617585821
+      zap-hit_10: 1184240890
+      zap-hit_11: -2027372642
+      zap-hit_12: 859569206
+      zap-hit_13: 69467583
+      zap-hit_14: 594038424
+      zap-hit_15: 1623827891
+      zap-hit_16: -2024342757
+      zap-hit_17: -1896414707
+      zap-hit_18: -1324961330
+      zap-hit_19: 1657231368
+      zap-hit_2: -174145156
+      zap-hit_20: -138351885
+      zap-hit_21: 694731942
+      zap-hit_22: -1689269501
+      zap-hit_23: -1567743621
+      zap-hit_24: 2113310292
+      zap-hit_25: 2050643772
+      zap-hit_26: -527526989
+      zap-hit_27: -321008426
+      zap-hit_3: -1319767894
+      zap-hit_4: -1703220859
+      zap-hit_5: -1059398235
+      zap-hit_6: -588161664
+      zap-hit_7: -540659916
+      zap-hit_8: 2067109125
+      zap-hit_9: -1574821643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

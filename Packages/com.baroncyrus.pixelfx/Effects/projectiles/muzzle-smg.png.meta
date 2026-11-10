@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 2f5f450aa81d14b2f9547d7895604517
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1254417958891891581
+    second: muzzle-smg_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muzzle-smg_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 321
+        width: 68
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13543c846a60f4f551c6b96f2026edab
+      internalID: 1254417958891891581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5072464, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9ccc6bd5526490ae8b62ffb87d309d
+      internalID: -1800345242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 52
+        width: 66
+        height: 50
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60dc5b90abd8232516ec29500992815
+      internalID: 893709871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 66
+        height: 54
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.09259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fea10137a7d783e17179dacea8e247
+      internalID: 1962271250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 52
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47297296, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e95c7045b5f126fc1520d7526e1e8fd
+      internalID: -1712705930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 321
+        width: 64
+        height: 55
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbeee7b1fcae5df919beb07e9ccb3f9
+      internalID: 231549535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 103
+        width: 65
+        height: 52
+      alignment: 9
+      pivot: {x: 0.52307695, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0d329b815ffcde6f531cb88d6e573f
+      internalID: 1006315770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 67
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5074627, y: 0.06122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e643fd902774200b5e62348b380067
+      internalID: 1096381955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 266
+        width: 68
+        height: 54
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.09259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8fd0e0d4b3b6c079a72416bdd811e3
+      internalID: -1150262152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4923077, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b95e8bd76a8285612b84e55588bfd6
+      internalID: 1942703116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 265
+        width: 62
+        height: 55
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a444aedf270659ff6b5899d008bed9
+      internalID: 661706930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 103
+        width: 64
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1f34d89f536ea0ac52533771f354de
+      internalID: -596804990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 51
+        width: 63
+        height: 51
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71872ffc3a0fa624b0c2de97c29ac2e5
+      internalID: 1798573483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 210
+        width: 63
+        height: 54
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.09259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a99c9134c95cfc6c8261a72d1bbc0a
+      internalID: -538834061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 51
+        width: 57
+        height: 51
+      alignment: 9
+      pivot: {x: 0.45614034, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f84286c244d73854a14d4ca74f33ab
+      internalID: 514453993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 265
+        width: 60
+        height: 55
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e003bd5336f491ebfe641363b3045976
+      internalID: 1288448157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 103
+        width: 62
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4516129, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7549df18b3e86cdb7d7ead9a1e8a71
+      internalID: 749953075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 60
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab14ee809ffb7ed499803a11ffcd0d
+      internalID: 1166349813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 210
+        width: 63
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.09259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ab46d73c008dcd65ca01e3cf67206d
+      internalID: -612237655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 64
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd601dfa0cf013e0c9b8d4879987f39
+      internalID: 1202993518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 63
+        height: 55
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcbed54d57a1d1c7dd349246ab47d87
+      internalID: -674827633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 72
+        height: 53
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.0754717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8b0def9a966a35e1d84aa6790a0a4a
+      internalID: -770819484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 157
+        width: 80
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4, y: 0.057692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7e93c0405783a8578ed8042a1fd83b
+      internalID: 370059150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 266
+        width: 70
+        height: 54
+      alignment: 9
+      pivot: {x: 0.47142857, y: 0.09259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9360167138c9b70ae519413ca4aced5
+      internalID: -519470276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 65
+        height: 53
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.056603774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdc7d977589226e5f421fc99845dc66
+      internalID: 1748340267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 321
+        width: 65
+        height: 55
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0b12f79b7877c001e5f0572840b3e
+      internalID: 992082323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 156
+        width: 70
+        height: 53
+      alignment: 9
+      pivot: {x: 0.51428574, y: 0.0754717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76622ac6198ae9735b1861a2f077f045
+      internalID: -1596832220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5362319, y: 0.057692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeec8b513d3d31d74917eaf987fdb9a
+      internalID: -352643735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 75
+        height: 55
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0fd9ba9fd7979890a4666c705191be
+      internalID: -1483675656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muzzle-smg_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 211
+        width: 83
+        height: 53
+      alignment: 9
+      pivot: {x: 0.44578314, y: 0.056603774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b72880f0198635e6e1fa4fa0250b6f7
+      internalID: 202367877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2ec3e50b3ff0948d8a3c04531334e993
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      muzzle-smg_0: 1254417958891891581
+      muzzle-smg_1: -1800345242
+      muzzle-smg_10: 661706930
+      muzzle-smg_11: -596804990
+      muzzle-smg_12: 1798573483
+      muzzle-smg_13: -538834061
+      muzzle-smg_14: 514453993
+      muzzle-smg_15: 1288448157
+      muzzle-smg_16: 749953075
+      muzzle-smg_17: 1166349813
+      muzzle-smg_18: -612237655
+      muzzle-smg_19: 1202993518
+      muzzle-smg_2: 893709871
+      muzzle-smg_20: -674827633
+      muzzle-smg_21: -770819484
+      muzzle-smg_22: 370059150
+      muzzle-smg_23: -519470276
+      muzzle-smg_24: 1748340267
+      muzzle-smg_25: 992082323
+      muzzle-smg_26: -1596832220
+      muzzle-smg_27: -352643735
+      muzzle-smg_28: -1483675656
+      muzzle-smg_29: 202367877
+      muzzle-smg_3: 1962271250
+      muzzle-smg_4: -1712705930
+      muzzle-smg_5: 231549535
+      muzzle-smg_6: 1006315770
+      muzzle-smg_7: 1096381955
+      muzzle-smg_8: -1150262152
+      muzzle-smg_9: 1942703116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

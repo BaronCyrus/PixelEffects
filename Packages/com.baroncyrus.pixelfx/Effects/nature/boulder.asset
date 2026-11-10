@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: boulder
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: nature/boulder
+  displayName: Boulder
+  description: A spinning boulder arcs right shedding dust and pebbles, smashes into the floor in a white flash and bursts into tumbling chunks, gravel and rolling dust.
+  category: nature
+  tags:
+  - nature
+  - earth
+  - rock
+  - projectile
+  - impact
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 3682734787062045483, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 643557014, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1382600240, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1138914558, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1543007938, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1040726727, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 2003257914, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 526113993, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -783087792, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1363861618, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 403763738, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1001720442, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 223967777, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1189517787, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1423184541, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 939361171, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1983126577, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 891087309, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1959166898, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 816359735, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1629257736, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1202852708, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1325172825, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 752276761, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1539298258, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1683018483, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 779681453, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1708516225, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -884278250, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1149034748, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1873866351, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1250550480, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 2094531074, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 152008548, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1432348019, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 999486903, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 13945808, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1938805289, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 169946067, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -2009090852, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1603797823, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1612230451, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -2047140761, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1887485547, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1906609556, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1355315075, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1265855696, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1892340755, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1216402307, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1658784262, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1666307514, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 801991038, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1307707978, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1117756602, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 429935609, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 2019675814, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1849673548, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1967929665, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 746316563, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 2129924553, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1398247357, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 2121795102, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1246243409, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1168457986, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1525355638, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 558711511, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 482099490, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 1794972467, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: 225049860, guid: 97205758531464c97917bf51568752d2, type: 3}
+  - {fileID: -1648734815, guid: 97205758531464c97917bf51568752d2, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 264, y: 120}
+  origin: {x: 40, y: 104}
+  fullScreen: 0
+  previewFrame: 39
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

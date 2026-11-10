@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: thunderclap
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: lightning/thunderclap
+  displayName: Thunderclap
+  description: 'A thunderclap round the caster: a white flash, forked bolts burst out and stab the floor, a heavy shock ring tears across the ground raising dust and grit, sparks streak away.'
+  category: lightning
+  tags:
+  - lightning
+  - electric
+  - nova
+  - aoe
+  - spell
+  - shockwave
+  - one-shot
+  frames:
+  - {fileID: -8427761846188679218, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1668048067, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 104064967, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1750513374, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1053864956, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 728700951, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -511813508, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 681309962, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -660390371, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -2001581669, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 776352312, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1186611077, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 91519654, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -761669039, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1833212780, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -215607336, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 836660433, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 541658864, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 280490754, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1754475104, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -571363819, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -679859544, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 32865177, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1744897956, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 456560943, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -725420702, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -419047033, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1401127298, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -95985049, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -369540357, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1390920458, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -2051089927, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1083785654, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1175402064, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -550347047, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1182308836, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1096290334, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1154794997, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1330137386, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -165379238, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1347307439, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 988467590, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 1813685693, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1150663356, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1797169222, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 800598398, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -812372099, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1508784095, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 2068854616, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -123261321, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1530361711, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1166436704, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: 249261870, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1363553167, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -1363553167, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -8427761846188679218, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -8427761846188679218, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  - {fileID: -8427761846188679218, guid: ee7563833c6ef4a3e92409f5fdb61d21, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 288, y: 156}
+  origin: {x: 144, y: 124}
+  fullScreen: 0
+  previewFrame: 5
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.46
+  recovery: 0
+  onBody: 1
+  hits:
+  - time: 0.12
+    freeze: 0.13
+    shake: 0.3
+    amplitude: 3
+    push: 0
+  - time: 0.42
+    freeze: 0
+    shake: 0
+    amplitude: 0
+    push: 2
+  - time: 1.2
+    freeze: 0
+    shake: 0
+    amplitude: 0
+    push: 0

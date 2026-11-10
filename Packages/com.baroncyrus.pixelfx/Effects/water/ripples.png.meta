@@ -1,0 +1,1515 @@
+fileFormatVersion: 2
+guid: 2c2d45ea67ad94086899e838a6d94675
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 520278169553061724
+    second: ripples_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ripples_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412ec2f495dd6f83d3358d48ed850d65
+      internalID: 520278169553061724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 700
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6de13137eeed6be0a801733c184be1
+      internalID: 1966186017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 700
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769c29d59206e1dcc26d5c28800bf33d
+      internalID: 747359366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 700
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0510e3f0ce1a140d42fb5246f11c36ae
+      internalID: 2056922583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d971a6b3bd31df1fbb1872baf5d5644
+      internalID: 1450086133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 650
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e1b6389bca559417027d109fac0e1c
+      internalID: 99231438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 650
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4135f2f6d8a4b8956dde8060ab0f0daf
+      internalID: 1568683389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 650
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccb3a9cdd5b5c5de5fb4095fa7954c1
+      internalID: -1349009513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec4197c83b672e0491d51a3799c79ed
+      internalID: -1104541363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 600
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae108655ede183b6cd1ff1d460de9e93
+      internalID: 256689302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 600
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f848ad930dc7957b7326fe04fe0aa6c1
+      internalID: 1068562351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 600
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cb4309731ff1b670b96881ccc3ef40
+      internalID: 1895035857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5850fdde3f4f83031fa2049b8fdccae
+      internalID: -1637561298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 550
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3df48e74f769e1542264974e72cd5f
+      internalID: -1012592311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 550
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556b7ce765d0e5d9f40108eff1505392
+      internalID: 1823456539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 550
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a128f4e9c34d76bcb9df7e263f5f51
+      internalID: 1355500898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b98647881ce2e7c6af62a3532d76a
+      internalID: -1776805025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 500
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b646adbad914a3b48ff58160be6512
+      internalID: 1310593304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 500
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a0adf3aa8370c3a8b534c494039d7c
+      internalID: 2122593806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_19
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 500
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd69331df3fa5de825890f2820f88b5
+      internalID: -1510196420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33295dd6edfb07c2e54824f8f01b0e3
+      internalID: 1933397334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 450
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a86588065fd63495232c66306d5f849
+      internalID: -1212856089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 450
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a12f5f5cc7257427c45618a6723702
+      internalID: 153731214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 450
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128d7b8b847cc8cbb938c1f8e684e455
+      internalID: -1112248164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32cb5765705b7cf92106ef885011e98
+      internalID: -204429934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 400
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e30e9c972e784ae8eae9e78c8ac8edf
+      internalID: -461131484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 400
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678bd5e8a21bcc838290261936830eae
+      internalID: -1233907809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_27
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 400
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaa79aab3938b0154de3f37a7defa22
+      internalID: 271884182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a677d920b1be977c4d552a99a0a2e
+      internalID: -2074755903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 350
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22869ae861c341e26c122aaa4ce3ae48
+      internalID: 1683526390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_30
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 350
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87416cc63a10483d1c9bbe6e6b7ecd41
+      internalID: -400814448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_31
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 350
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbfbc6fccf77a1ad19f141013239d52
+      internalID: -1260383956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffefe649a1e27fab3d68a7f68f9e3f4f
+      internalID: -902657610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 300
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf6556c2ca1523b5ae7fd33e71b630e
+      internalID: 365881887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_34
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 300
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398be21768585cd0937a7d8cf1afe2a5
+      internalID: -1864324565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_35
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 300
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d4d41852e8f04b381f78166f8e26c
+      internalID: -237291470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5030566e382a16a1ae7501e3ae3ced
+      internalID: -19619021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 250
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86e73ca28056e337008b97261175070
+      internalID: -539359330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 250
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13efb5dc5d6a32bd5569a84e5c6feb7
+      internalID: 1256370583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 250
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f55254b7b0537c5f310d6573cd4dd88
+      internalID: -448843839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c137651e311431335f3147438756f411
+      internalID: 702514230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 200
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd63e90bfc1b8748e599558519d7206
+      internalID: -1694703162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 200
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b526afe31953f35c3b1ff6158b4f1aa4
+      internalID: 430411257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_43
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 200
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70baa002ef9a752c63d90f10b428a0b4
+      internalID: -111933280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d7d105f3db0b5a2a0b2b91c9351b4
+      internalID: 461581956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 150
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33608a16df4af7d82741ed3c2c81d9e
+      internalID: -1503401895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_46
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 150
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c8b8309956b46382d55b65dd5125ef
+      internalID: -1602409283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_47
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 150
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206943d613e4e05a13998a40e7d2250
+      internalID: -1392489387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46356e8b1d8f6dceb62f93cd580e146
+      internalID: -1902611729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 100
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031c6dbbdc4d95c8c898b0fd342dddf8
+      internalID: 927267410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 100
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84aeb980118af28be85f9b97231082
+      internalID: 1395527566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_51
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 100
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d74379bed6cfc593421d82fd7f5dd3d
+      internalID: 1739048652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38fde4733cdc309f32fc306ebf7db75
+      internalID: 1558544756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 50
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82f7b66b48a2d5ecd6deff0b955a59c
+      internalID: 131554707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_54
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 50
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8e636919b9aef236fa02b5ba05ac1a
+      internalID: -889803450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_55
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 50
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16075ddf073e9d6b5d191d17d5b38a7
+      internalID: 206952577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82ff48984330bf4256de30c320bd5c
+      internalID: 1028869313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02676067edddd4042cc8f46e5010f5f4
+      internalID: 1353910865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_58
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e781f54230d14d979633b83ff872e8cb
+      internalID: -909050713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ripples_59
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 126
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ab98b9e4090460567fc1ae8e7e2acd
+      internalID: 1041177659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 96ce502af4fe64bfe9dc44c331616798
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ripples_0: 520278169553061724
+      ripples_1: 1966186017
+      ripples_10: 1068562351
+      ripples_11: 1895035857
+      ripples_12: -1637561298
+      ripples_13: -1012592311
+      ripples_14: 1823456539
+      ripples_15: 1355500898
+      ripples_16: -1776805025
+      ripples_17: 1310593304
+      ripples_18: 2122593806
+      ripples_19: -1510196420
+      ripples_2: 747359366
+      ripples_20: 1933397334
+      ripples_21: -1212856089
+      ripples_22: 153731214
+      ripples_23: -1112248164
+      ripples_24: -204429934
+      ripples_25: -461131484
+      ripples_26: -1233907809
+      ripples_27: 271884182
+      ripples_28: -2074755903
+      ripples_29: 1683526390
+      ripples_3: 2056922583
+      ripples_30: -400814448
+      ripples_31: -1260383956
+      ripples_32: -902657610
+      ripples_33: 365881887
+      ripples_34: -1864324565
+      ripples_35: -237291470
+      ripples_36: -19619021
+      ripples_37: -539359330
+      ripples_38: 1256370583
+      ripples_39: -448843839
+      ripples_4: 1450086133
+      ripples_40: 702514230
+      ripples_41: -1694703162
+      ripples_42: 430411257
+      ripples_43: -111933280
+      ripples_44: 461581956
+      ripples_45: -1503401895
+      ripples_46: -1602409283
+      ripples_47: -1392489387
+      ripples_48: -1902611729
+      ripples_49: 927267410
+      ripples_5: 99231438
+      ripples_50: 1395527566
+      ripples_51: 1739048652
+      ripples_52: 1558544756
+      ripples_53: 131554707
+      ripples_54: -889803450
+      ripples_55: 206952577
+      ripples_56: 1028869313
+      ripples_57: 1353910865
+      ripples_58: -909050713
+      ripples_59: 1041177659
+      ripples_6: 1568683389
+      ripples_7: -1349009513
+      ripples_8: -1104541363
+      ripples_9: 256689302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

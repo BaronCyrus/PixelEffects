@@ -1,0 +1,1515 @@
+fileFormatVersion: 2
+guid: c45abd64c03b74456a9db45ae7235f0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1799660439864881212
+    second: stunned_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stunned_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 235
+        width: 47
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4680851, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc5d45de2f2e59d661c1be6502b7e7f
+      internalID: 1799660439864881212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 196
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd2b6d3dc6276de22642b5f90d886ee
+      internalID: -63419921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 196
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113d950d601298abe367ac842625ecf
+      internalID: -1643205747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 156
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5319149, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6558a302f481f038c8d3c740d4bd0d
+      internalID: 250237768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 156
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5106383, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274bd7d798f528e65dd3a1ef164f7f65
+      internalID: -1714558741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 156
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4893617, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e859194ad570b6e526131cca71ab4cc6
+      internalID: -1550146882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 156
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4680851, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c713d5258dd297ca335febe649e3c431
+      internalID: -10951329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 78
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.46666667, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fb0dc7cab67ffa0dc654844677a2b0
+      internalID: 649316475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 78
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.46666667, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304b41757216e032a80acb7ecf5dd7be
+      internalID: 1984887678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4883721, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375e3a25e0312fcb5936448bc3c033c2
+      internalID: 912095340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f432db6dff5b876e0ba8465e6d6dfc4
+      internalID: 913920085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 39
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9935d36bc071f851b7fc67d0f2a18
+      internalID: -816066668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 78
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51111114, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb285a09fac76be614baaf4a3abd5ec2
+      internalID: -1365916694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 46
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5217391, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f442e7d36b9ed2caa9d3f6e247cbe86f
+      internalID: 839976283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 78
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59fffff05e4b852a5ebf2a62e3653ba
+      internalID: 1773942294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 156
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5319149, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74847bb034f0b221dcdd6db50e6dc564
+      internalID: 1683078737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 156
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5106383, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9c4418ad0589d59fe5c835ad9e6028
+      internalID: -2011862584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 196
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85634ffb2022bd95f4b9a527f6b57959
+      internalID: 1125963958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 196
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47916666, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c8de78718aee3cbf9977d57584b1fb
+      internalID: 1938857592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 275
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4436f235a01179e4b89d61915b6604a7
+      internalID: -17423812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 275
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e63555e604c1727236529a9c6326e93
+      internalID: 650834499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5319149, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b4fbee9ca57f559d7c38511a25b786
+      internalID: -1189389515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_22
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 78
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f702ad645a1ab0ca41d75d95f0671ca4
+      internalID: 22955981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.51111114, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacad030a14b07f841a1cd3e23110f34
+      internalID: 857829102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 39
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31671980303166b5a2a15a6b078f0848
+      internalID: 1724658694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4883721, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bff2f5c8a908b8ed04159fe9119014
+      internalID: -1654483874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903906b110df1b0eced61d30e62755e4
+      internalID: -779325818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4883721, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005180c7319c80278ddc42fd86340c0e
+      internalID: -502938613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47727272, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f860819f710e432615bc660ab2008f
+      internalID: 1480982729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 39
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.46666667, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d570918bdf197eaffa6df3c5331a0d
+      internalID: -855736542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 117
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4680851, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859294639aa244c351699992511a67ef
+      internalID: -450989955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 196
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ecf57affe4e51f74a609809f6d1991
+      internalID: -1565530612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 196
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54efa84ec230302fb33126e61c238ebf
+      internalID: 1619653003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 117
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5319149, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adddc12425225c069a17e231a4ba4e63
+      internalID: -575965921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 117
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5106383, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f59125afeccc85f298fdd16d526cade
+      internalID: 185191588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 117
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4893617, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12fe41106d3f78c99db3dfb0f8a8738
+      internalID: -273652142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 117
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4680851, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93919b545697ffab75fe252af95ac049
+      internalID: 472473716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 39
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.46666667, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ae9fc8985e54407da7383d711112c1
+      internalID: -2053944377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 39
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.46666667, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de72fc3cf181dc8db14d87cd60903ec
+      internalID: 2121641597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 39
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.46666667, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd94570f176805179eaa6d80665d1c9
+      internalID: 1763771433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 78
+        width: 46
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45652175, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c5ac248f5f220682fe44883c6997c7
+      internalID: -1812208589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 117
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44680852, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd96f599e9a11b9999a1bfcf531d1a
+      internalID: 945482968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 48
+        height: 38
+      alignment: 9
+      pivot: {x: 0.45833334, y: -0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e048925a73f30f4bfe16b40eadff2a70
+      internalID: -1750128992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 315
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c489699c7207ecc1820bd718d6d56b1
+      internalID: -467726503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_44
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 315
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212820ab1c4137bd86dec232361e0b96
+      internalID: -1005211656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 51
+        height: 39
+      alignment: 9
+      pivot: {x: 0.49019608, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b000715c0357b1efe1469511c2ed3614
+      internalID: 245806949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 275
+        width: 49
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48979592, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6891cc3a23f7d91d235a9804b44e01ca
+      internalID: -1363182163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 275
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47916666, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b469be298abab3dc6823c813784c9e
+      internalID: 158970720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45833334, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4e6f261a028e6acea75a233a50e5e6
+      internalID: -1029557177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_49
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 315
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c24e38edbccfd851ad2f1e2aabb5fa1
+      internalID: 2003102996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 315
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a265b5d837fd73f826e0cdde0060f1f
+      internalID: -1196364668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 315
+        width: 51
+        height: 39
+      alignment: 9
+      pivot: {x: 0.49019608, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd67a9689c77f548884b8329f5d683
+      internalID: 1492674500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0949d2e1f0f44f2e0717e10640f9f1b6
+      internalID: -2099231933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_53
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 275
+        width: 49
+        height: 39
+      alignment: 9
+      pivot: {x: 0.46938777, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5dde0dc640871e68e155c51130b077
+      internalID: 111215914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 235
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45833334, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe78d8c1295f06badc31f27164981c95
+      internalID: 2110665526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 235
+        width: 47
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44680852, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe14f65f94047f8ece2c35edb602af2
+      internalID: -28590357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 235
+        width: 47
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44680852, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568351bdf6ed96691801eadf5911f33f
+      internalID: 424226206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_57
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 235
+        width: 46
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45652175, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11baab130690d36d59750c5c5ea5d44
+      internalID: 1794711344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 235
+        width: 45
+        height: 39
+      alignment: 9
+      pivot: {x: 0.46666667, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e952f9d3be556f1fe35161fc1f4fbc0
+      internalID: -2090472867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stunned_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 45
+        height: 39
+      alignment: 9
+      pivot: {x: 0.46666667, y: -0.41025642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bafdb1a9ae7cd32d5d5d5ddb6603b4
+      internalID: -1539761071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: befde4e2425974d30825b5901bd91cc9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stunned_0: 1799660439864881212
+      stunned_1: -63419921
+      stunned_10: 913920085
+      stunned_11: -816066668
+      stunned_12: -1365916694
+      stunned_13: 839976283
+      stunned_14: 1773942294
+      stunned_15: 1683078737
+      stunned_16: -2011862584
+      stunned_17: 1125963958
+      stunned_18: 1938857592
+      stunned_19: -17423812
+      stunned_2: -1643205747
+      stunned_20: 650834499
+      stunned_21: -1189389515
+      stunned_22: 22955981
+      stunned_23: 857829102
+      stunned_24: 1724658694
+      stunned_25: -1654483874
+      stunned_26: -779325818
+      stunned_27: -502938613
+      stunned_28: 1480982729
+      stunned_29: -855736542
+      stunned_3: 250237768
+      stunned_30: -450989955
+      stunned_31: -1565530612
+      stunned_32: 1619653003
+      stunned_33: -575965921
+      stunned_34: 185191588
+      stunned_35: -273652142
+      stunned_36: 472473716
+      stunned_37: -2053944377
+      stunned_38: 2121641597
+      stunned_39: 1763771433
+      stunned_4: -1714558741
+      stunned_40: -1812208589
+      stunned_41: 945482968
+      stunned_42: -1750128992
+      stunned_43: -467726503
+      stunned_44: -1005211656
+      stunned_45: 245806949
+      stunned_46: -1363182163
+      stunned_47: 158970720
+      stunned_48: -1029557177
+      stunned_49: 2003102996
+      stunned_5: -1550146882
+      stunned_50: -1196364668
+      stunned_51: 1492674500
+      stunned_52: -2099231933
+      stunned_53: 111215914
+      stunned_54: 2110665526
+      stunned_55: -28590357
+      stunned_56: 424226206
+      stunned_57: 1794711344
+      stunned_58: -2090472867
+      stunned_59: -1539761071
+      stunned_6: -10951329
+      stunned_7: 649316475
+      stunned_8: 1984887678
+      stunned_9: 912095340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

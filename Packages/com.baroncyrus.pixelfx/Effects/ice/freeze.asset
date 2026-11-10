@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: freeze
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: ice/freeze
+  displayName: Freeze
+  description: Frost races in and climbs the character, turning it to ice; a faceted block crystallizes round it pane by pane, glints, cracks and bursts, and the character thaws free.
+  category: ice
+  tags:
+  - ice
+  - freeze
+  - frozen
+  - status
+  - crowd-control
+  - one-shot
+  frames:
+  - {fileID: 3161842345059722650, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -210353680, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 2050619434, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1737255251, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1361553052, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1166272514, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1641569677, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 112912702, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 2034232838, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1061816358, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 528128967, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1713617751, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1529078381, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1743203868, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1078035611, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1862489818, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -418247967, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -2133013414, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 344991529, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1869095323, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1707324925, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 314608296, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -228906773, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1566898158, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1916162501, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -988328904, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -314798526, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -2139380456, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 422810319, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1496341784, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 201691926, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -2002178051, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1782861299, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 2017999680, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 500484544, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 663388858, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 237795213, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1620439785, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -139201228, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 539287517, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1191188942, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1581111577, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -593167892, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 939258753, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 285857742, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1624941454, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1503937859, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -720570207, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1298796503, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 353281122, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1034870597, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1038006300, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -396379563, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -699783061, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1709303390, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -2128499666, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1036623240, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1094379293, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 118189123, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1532054368, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 4770762, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 201189052, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1780821292, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 170724204, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -848345156, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 941493288, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -224188962, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1351544085, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -230809750, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1472055081, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -694656161, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -253555600, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -377218047, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1458535542, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1541941168, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1196769744, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -362120536, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1376031929, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1266679659, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -502804756, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1173640678, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1805266024, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1893812019, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 65632186, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 861983980, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1910809467, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 510739770, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 187297693, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -994898517, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 502114384, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 708846514, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 192792416, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 306580228, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -208997330, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1529568853, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1645838161, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1093758027, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1373407408, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -490897265, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -673847379, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 685044784, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 547321110, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1701327156, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 239320390, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -356491498, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -947644247, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1255955634, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1733343989, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1359179741, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 165704896, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 596209395, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 813651439, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1511933427, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1475205572, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 563033768, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1871073082, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: 1198898139, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1823686219, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1024824888, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1024824888, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  - {fileID: -1024824888, guid: 5c103b6c783544ab5b9ed08f6d748512, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 176, y: 128}
+  origin: {x: 88, y: 108}
+  fullScreen: 0
+  previewFrame: 76
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.2
+  recovery: 0
+  onBody: 1
+  hits:
+  - time: 0.62
+    freeze: 0.03
+    shake: 0.08
+    amplitude: 1
+    push: 1.2
+  - time: 2.52
+    freeze: 0.05
+    shake: 0.2
+    amplitude: 2
+    push: 1.2

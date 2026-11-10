@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: blunt-hit
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: impacts/blunt-hit
+  displayName: Blunt hit
+  description: 'A heavy, soft thud: a white-hot lumpy blob cools to cream in a warm pool of light, inked wedges jab out and snap back, a squashed ring of dust puffs swells and drifts, clods drop.'
+  category: impacts
+  tags:
+  - impact
+  - hit
+  - blunt
+  - punch
+  - club
+  - thump
+  - dust
+  - comic
+  - one-shot
+  frames:
+  - {fileID: 6296554291846114039, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -1469876850, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -1473349780, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -2134919944, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -282235987, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -161376834, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -723879364, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: 668830291, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -846096643, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -436889481, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -278294155, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: 1642078917, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: 38876748, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -1657841231, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: 1955512465, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -274120071, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -1211115852, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -757244110, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -369252078, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -1613420073, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: 1902697627, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -1087142838, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -824824775, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: 1606188832, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -1524353685, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: 659640909, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: 1506909119, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  - {fileID: -740172483, guid: 811327175d61547a59518f18b558aeda, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 128, y: 88}
+  origin: {x: 64, y: 72}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

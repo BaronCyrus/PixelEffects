@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: frost-breath
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: ice/frost-breath
+  displayName: Frost breath
+  description: 'A cone of icy wind blowing right: frost puffs billow out, swell and sink, wind streaks race through, ice crystals tumble and glint off a white-hot mouth.'
+  category: ice
+  tags:
+  - ice
+  - breath
+  - frost
+  - cone
+  - wind
+  - directional
+  - loop
+  frames:
+  - {fileID: -4404564153618856957, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 1848212828, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 605080746, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1094272121, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 1004430888, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 1039177971, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -285640135, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -496138705, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1289840046, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -303356338, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 2116838143, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -2086267249, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -201320767, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1645868837, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -180642803, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 1675957495, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -123935923, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -2018027634, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1399654939, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1890726884, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 1123395822, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1948519442, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1547718121, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 1698290867, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 1020887922, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -135610002, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 2077934643, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -2094221207, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 1662838858, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1076563238, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -406766363, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -238268341, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1249026855, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -1992805129, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: 110474365, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  - {fileID: -805566805, guid: c10814d7dcf9745719a9b1c8ab5a4264, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 184, y: 104}
+  origin: {x: 12, y: 50}
+  fullScreen: 0
+  previewFrame: 27
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

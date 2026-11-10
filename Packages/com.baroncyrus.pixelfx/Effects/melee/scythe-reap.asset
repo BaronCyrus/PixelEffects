@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: scythe-reap
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/scythe-reap
+  displayName: Scythe reap
+  description: A slow, huge dark crescent reaps round the front with a pale ghostly edge; it hangs, then tears away from the tail into curling wisps and cold vapour.
+  category: melee
+  tags:
+  - melee
+  - scythe
+  - reap
+  - dark
+  - ghost
+  - death
+  - slash
+  - combat
+  - one-shot
+  frames:
+  - {fileID: -7517230844406226214, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -762802754, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 131795534, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -752403528, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1107237285, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 857198345, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1767721604, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 965821168, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -677701575, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -945252557, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 748825654, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -124820924, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 751449799, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 2142353823, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -687660222, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1685120548, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1011731076, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1266038113, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1396506753, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 602016392, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 898297544, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 2067208554, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1764652563, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -949552941, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1029021725, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -880762557, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1374208791, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 399200317, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1359470417, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -491283973, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -956518638, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 449220151, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 394449777, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -39292827, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1517313479, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 256177209, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1314858698, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1439047054, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1086580143, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 644200133, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1294835354, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1607072354, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1883749372, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1451400144, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1029408311, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 2013456556, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1071490632, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 1171020652, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 480841145, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -153176261, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -794465211, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -952874791, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1253978012, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -1628683111, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -358099833, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: 2129403678, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -7517230844406226214, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -7517230844406226214, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -7517230844406226214, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -7517230844406226214, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -7517230844406226214, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -7517230844406226214, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -7517230844406226214, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  - {fileID: -7517230844406226214, guid: 803ad75c3f0ea4cca949f27a105c6c01, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 184, y: 116}
+  origin: {x: 84, y: 98}
+  fullScreen: 0
+  previewFrame: 13
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.56
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.14
+    freeze: 0.12
+    shake: 0.16
+    amplitude: 2
+    push: 2.4

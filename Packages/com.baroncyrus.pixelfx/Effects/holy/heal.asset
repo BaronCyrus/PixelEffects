@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: heal
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: holy/heal
+  displayName: Heal
+  description: Petals of light bloom under the feet, a hoop of light rises up the body restoring its colour and leaving sparkles, and motes spiral up and pop into tiny hearts.
+  category: holy
+  tags:
+  - holy
+  - heal
+  - restore
+  - buff
+  - petals
+  - hearts
+  - character
+  - one-shot
+  frames:
+  - {fileID: -1049461823314036041, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -417177407, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 1802589795, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 1043800345, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -68667325, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1157730499, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 612330336, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1574683727, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 468009831, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -415105400, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 913600107, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 854476206, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1493335144, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1101877489, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 2041860043, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 524919547, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 864442976, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 436156787, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 465684774, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 830056016, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -632722848, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -383541234, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 96161525, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1563748047, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 486056780, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -903852096, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -114326080, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 1168682905, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1143281755, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -844813801, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1738370596, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -873970386, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1289919798, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 1444214906, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -789662277, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1567861697, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -246812299, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 1484068291, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -941242307, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1979042851, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1221543278, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 1351552769, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1809685642, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -284057027, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 494305783, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 880577919, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 1879832280, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 275126508, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 1926460300, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -141443941, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: -1438404784, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 2131499773, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 585163139, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 585163139, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 585163139, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 585163139, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 585163139, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  - {fileID: 585163139, guid: 82e359d15566d42308a74ca34b2ef962, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 80, y: 104}
+  origin: {x: 40, y: 92}
+  fullScreen: 0
+  previewFrame: 23
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.3
+  recovery: 0
+  onBody: 1
+  hits: []

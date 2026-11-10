@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: muzzle-smg
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: projectiles/muzzle-smg
+  displayName: SMG burst
+  description: 'Sustained fire at twelve rounds a second: each shot a different spiky flash with a white core, sparks, smoke wisps piling up and drifting, brass casings bouncing on the floor.'
+  category: projectiles
+  tags:
+  - projectile
+  - muzzle
+  - gun
+  - automatic
+  - flash
+  - smoke
+  - casing
+  - directional
+  - loop
+  frames:
+  - {fileID: 1254417958891891581, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -1800345242, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 893709871, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 1962271250, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -1712705930, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 231549535, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 1006315770, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 1096381955, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -1150262152, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 1942703116, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 661706930, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -596804990, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 1798573483, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -538834061, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 514453993, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 1288448157, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 749953075, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 1166349813, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -612237655, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 1202993518, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -674827633, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -770819484, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 370059150, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -519470276, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 1748340267, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 992082323, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -1596832220, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -352643735, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: -1483675656, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  - {fileID: 202367877, guid: 2f5f450aa81d14b2f9547d7895604517, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 112, y: 72}
+  origin: {x: 56, y: 66}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

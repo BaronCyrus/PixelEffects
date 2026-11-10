@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: fireball
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: fire/fireball
+  displayName: Fireball
+  description: 'A fireball flying right: a churning white-hot head with a corona of flame, a long torn tail of flame puffs cooling into smoke, embers shed behind.'
+  category: fire
+  tags:
+  - fire
+  - fireball
+  - projectile
+  - magic
+  - directional
+  - loop
+  frames:
+  - {fileID: 5353841184698615464, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -1573760294, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -70595337, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -1829946477, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 2005674391, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1427952208, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1292355229, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -1523050843, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -2135641212, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -1212494713, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -1465133147, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -570499055, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1831046797, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 3540408, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 2023985407, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -799700753, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -1363825073, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 553358831, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 506852866, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 71854145, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -827578226, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1283648780, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -1406247682, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1420957158, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1910237557, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1384545766, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 36127716, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1317322759, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -268745152, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1185180457, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1634319629, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1885428735, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 391185206, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -1129963632, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: 1101989831, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  - {fileID: -227625062, guid: 5243dfc7ea5a94772a92b55396914f27, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 136, y: 56}
+  origin: {x: 112, y: 28}
+  fullScreen: 0
+  previewFrame: 35
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

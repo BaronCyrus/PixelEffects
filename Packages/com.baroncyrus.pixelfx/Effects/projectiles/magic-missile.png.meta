@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: e94fb9421574e4830bcac99affd032ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -816548348341720466
+    second: magic-missile_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic-missile_0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 24
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.375, y: -3.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55177384a9b4bc3df033d73dc242240a
+      internalID: -816548348341720466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_1
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 36
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3902439, y: -0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bea94dec170176b80de1c5dc016d653
+      internalID: 1739101783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 34
+        width: 41
+        height: 34
+      alignment: 9
+      pivot: {x: 0.41463414, y: -0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3bc5109a11d57bc928712cade4d8f8
+      internalID: -2085559972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 32
+        width: 37
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4864865, y: -0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157548bd0d130691bd1523d6b9fc59a5
+      internalID: -1120922991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 32
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: -0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55557dc92bb7c6a4f4bf172309c9bfb
+      internalID: -1160905791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: -0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556e6d9992cff90506a4728e5a0515f
+      internalID: 1531249727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 32
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: -0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc0e1d6f43aef82dbbee83a5ce9980c
+      internalID: 83674992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 69
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.45945945, y: -0.1891892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0634d9db7bfe1b06ea08c972f92cc6
+      internalID: 960283301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 69
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.35135135, y: -0.13513513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc01a87681e004d472ac9b5558412ee0
+      internalID: -1139486631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.24324325, y: -0.08108108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da963ec46de5d4de7846718814d43812
+      internalID: 1867367749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 38
+        height: 36
+      alignment: 9
+      pivot: {x: 0.10526316, y: -0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f02e836d3f94c005f0a99532f0831d5
+      internalID: 707085401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 69
+        width: 46
+        height: 37
+      alignment: 9
+      pivot: {x: 0.08695652, y: -0.10810811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac167aa364e694a620f905d4d47a5028
+      internalID: -212437005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 55
+        height: 37
+      alignment: 9
+      pivot: {x: 0.09090909, y: -0.1891892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08563f34f2069ac6242d500fd55454e1
+      internalID: 1541492336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 63
+        height: 37
+      alignment: 9
+      pivot: {x: 0.06349207, y: -0.2972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b087f44bf6714cdba5d207f1336da
+      internalID: 327459312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 110
+        width: 71
+        height: 39
+      alignment: 9
+      pivot: {x: 0.04225352, y: -0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef8805579c02371970cb0abc2f221ab
+      internalID: -447354138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 151
+        width: 80
+        height: 43
+      alignment: 9
+      pivot: {x: 0.025, y: -0.23255815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca925f5d9b9d7565a20e8bed964f2fa
+      internalID: -548838872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 150
+        width: 89
+        height: 44
+      alignment: 9
+      pivot: {x: 0.02247191, y: -0.20454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f1293e3ea4c641bf4a576b7021040b
+      internalID: -1389908119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 99
+        height: 42
+      alignment: 9
+      pivot: {x: 0.030303031, y: -0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de224cd35339d9da99053d1acda91e2
+      internalID: 1139481723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 109
+        width: 108
+        height: 40
+      alignment: 9
+      pivot: {x: 0.037037037, y: -0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d335dc16c47525b1c869dd9849a0cf9e
+      internalID: 1026877997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 110
+        width: 117
+        height: 39
+      alignment: 9
+      pivot: {x: 0.042735044, y: -0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559b036a2ebf131e6d4ad4e258ef17b2
+      internalID: -1718920248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 151
+        width: 110
+        height: 43
+      alignment: 9
+      pivot: {x: -0.08181818, y: -0.069767445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eebe2426bbbdcf0645f7e4b63f07d1
+      internalID: -441941395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 115
+        height: 44
+      alignment: 9
+      pivot: {x: -0.07826087, y: -0.06818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c253b5cd6166f6af7b50bc4e568ff6a
+      internalID: 1019538695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 104
+        height: 44
+      alignment: 9
+      pivot: {x: -0.23076923, y: -0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63743db917912b8267b8b254b47d985d
+      internalID: 1484261178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 195
+        width: 106
+        height: 44
+      alignment: 9
+      pivot: {x: -0.2264151, y: -0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39edc9acea1e0e16803ce6a6f6384c49
+      internalID: 194040390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 195
+        width: 107
+        height: 44
+      alignment: 9
+      pivot: {x: -0.22429906, y: -0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b65528cd01bd468ea038b943b0f403d
+      internalID: -340885451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 135
+        height: 81
+      alignment: 9
+      pivot: {x: -0.18518518, y: 0.086419754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b693ed41fb4c8ba7362cee2c37382f6a
+      internalID: 1904058660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 388
+        width: 96
+        height: 79
+      alignment: 9
+      pivot: {x: -0.6458333, y: 0.088607594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe9af2498a7502c0bb7d4e058ba109
+      internalID: 750574774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 389
+        width: 90
+        height: 78
+      alignment: 9
+      pivot: {x: -0.74444443, y: 0.08974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07837d439536e8aed21cef012d6fd77
+      internalID: -285146792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 391
+        width: 86
+        height: 76
+      alignment: 9
+      pivot: {x: -0.8023256, y: 0.09210526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e8a491f235a87a5501bcc26eaed1d6
+      internalID: 1507901470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 82
+        height: 74
+      alignment: 9
+      pivot: {x: -0.86585367, y: 0.0945946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b552caf29f5edae0e10af979bf391c6
+      internalID: -538147498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 312
+        width: 80
+        height: 73
+      alignment: 9
+      pivot: {x: -0.9, y: 0.09589041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede55d1e0e650845407cc9a9874f476e
+      internalID: -1684550118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 315
+        width: 76
+        height: 70
+      alignment: 9
+      pivot: {x: -0.9736842, y: 0.08571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e3b01b08c2a68d7cf610432b90bae
+      internalID: 751413206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 242
+        width: 72
+        height: 68
+      alignment: 9
+      pivot: {x: -1.0555556, y: 0.0882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c9f6664817290490f116a6838c3718
+      internalID: 1116612963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 242
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: -1.1470588, y: 0.073529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ada584e6bfc07c37381a26df7c5aa9
+      internalID: -441631811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 315
+        width: 64
+        height: 70
+      alignment: 9
+      pivot: {x: -1.25, y: 0.057142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57da93814f01e65362e762bb5c15452
+      internalID: -913271068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 313
+        width: 60
+        height: 72
+      alignment: 9
+      pivot: {x: -1.3666667, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1231e17358e068180a5c1d549041bb4
+      internalID: -1614308804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 59
+        height: 70
+      alignment: 9
+      pivot: {x: -1.3728814, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222d4b29b7c65c30f4989ef765510733
+      internalID: 562797132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 259
+        width: 58
+        height: 51
+      alignment: 9
+      pivot: {x: -1.3793104, y: -0.019607844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527480f4ca4eb088cf180de02cd8ff8a
+      internalID: -1642704557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 262
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: -1.6037736, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0a26bc67cd6cbd29aa58f1203473f5
+      internalID: -1186357800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 262
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: -1.6037736, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab90dd5e4b59b69b21e2c853d8373bb
+      internalID: 1736275492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 53
+        height: 37
+      alignment: 9
+      pivot: {x: -1.6037736, y: -0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9740d08e4e0dacb06850f35c3f13c9
+      internalID: -2003501183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_41
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 69
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: -1.8085107, y: -0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd84857797d2a12a795f01ec4b3a3fa
+      internalID: 1934429648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_42
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 69
+        width: 47
+        height: 37
+      alignment: 9
+      pivot: {x: -1.8085107, y: -0.3783784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f056d7013622cf355734c641a7975c58
+      internalID: 1326052139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_43
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 37
+        width: 47
+        height: 31
+      alignment: 9
+      pivot: {x: -1.8510638, y: -0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecaff71a4ab854d6cab834657740d51
+      internalID: 1063029122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_44
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 38
+        width: 47
+        height: 30
+      alignment: 9
+      pivot: {x: -1.8510638, y: -0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7cb80a701034fa65749e52d551911f
+      internalID: 1650371428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 30
+      alignment: 9
+      pivot: {x: -1.9130435, y: -0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab116f87cc30e0b7d8824206e6bc1b91
+      internalID: 41704897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 46
+        height: 30
+      alignment: 9
+      pivot: {x: -1.9130435, y: -0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9f370a71f076fd5835a8d6d0c44331
+      internalID: 439652096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_47
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: -3.1875, y: -0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be501e118b9b39acf5538ec81b8afdd8
+      internalID: 1213942805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: -3.1875, y: -0.56666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09d099e4fbeb5ab49282012f64adee1
+      internalID: 1471910208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: -3.1875, y: -0.62068963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f91c73332787b169095db05a181e63
+      internalID: -1249427499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 7
+        width: 44
+        height: 23
+      alignment: 9
+      pivot: {x: -2, y: -0.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f872152300a2d6bb1a38d7b876712029
+      internalID: -615586455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 8
+        width: 44
+        height: 22
+      alignment: 9
+      pivot: {x: -2, y: -0.8181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36c9e01da785381f09e507db96f4fa
+      internalID: -766438968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_52
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 10
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: -4.909091, y: -0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c082f6fe2c1c4c7f3cb7345605e2274b
+      internalID: 1996519569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 10
+        width: 22
+        height: 20
+      alignment: 9
+      pivot: {x: -4.909091, y: -0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e7c530c6c41bb853f049509257b9a9
+      internalID: 2025010714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_54
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 12
+        width: 9
+        height: 18
+      alignment: 9
+      pivot: {x: -12, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0fb8cd79af31b52d4b6217d21398c4
+      internalID: 1525014876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_55
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 12
+        width: 9
+        height: 18
+      alignment: 9
+      pivot: {x: -12, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e172f73275b48b28736fef705a6f25b5
+      internalID: -117366905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_56
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 13
+        width: 5
+        height: 17
+      alignment: 9
+      pivot: {x: -21.6, y: -1.117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1008c181fa7f4afad42dd7c9a5dd46
+      internalID: -959847767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-missile_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 13
+        width: 5
+        height: 17
+      alignment: 9
+      pivot: {x: -21.6, y: -1.117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2176b0d5c3c699ebf06d5a37ac0c5d
+      internalID: -1093247632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99ee04ee6d3a2436a97ef3a03af16e90
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magic-missile_0: -816548348341720466
+      magic-missile_1: 1739101783
+      magic-missile_10: 707085401
+      magic-missile_11: -212437005
+      magic-missile_12: 1541492336
+      magic-missile_13: 327459312
+      magic-missile_14: -447354138
+      magic-missile_15: -548838872
+      magic-missile_16: -1389908119
+      magic-missile_17: 1139481723
+      magic-missile_18: 1026877997
+      magic-missile_19: -1718920248
+      magic-missile_2: -2085559972
+      magic-missile_20: -441941395
+      magic-missile_21: 1019538695
+      magic-missile_22: 1484261178
+      magic-missile_23: 194040390
+      magic-missile_24: -340885451
+      magic-missile_25: 1904058660
+      magic-missile_26: 750574774
+      magic-missile_27: -285146792
+      magic-missile_28: 1507901470
+      magic-missile_29: -538147498
+      magic-missile_3: -1120922991
+      magic-missile_30: -1684550118
+      magic-missile_31: 751413206
+      magic-missile_32: 1116612963
+      magic-missile_33: -441631811
+      magic-missile_34: -913271068
+      magic-missile_35: -1614308804
+      magic-missile_36: 562797132
+      magic-missile_37: -1642704557
+      magic-missile_38: -1186357800
+      magic-missile_39: 1736275492
+      magic-missile_4: -1160905791
+      magic-missile_40: -2003501183
+      magic-missile_41: 1934429648
+      magic-missile_42: 1326052139
+      magic-missile_43: 1063029122
+      magic-missile_44: 1650371428
+      magic-missile_45: 41704897
+      magic-missile_46: 439652096
+      magic-missile_47: 1213942805
+      magic-missile_48: 1471910208
+      magic-missile_49: -1249427499
+      magic-missile_5: 1531249727
+      magic-missile_50: -615586455
+      magic-missile_51: -766438968
+      magic-missile_52: 1996519569
+      magic-missile_53: 2025010714
+      magic-missile_54: 1525014876
+      magic-missile_55: -117366905
+      magic-missile_56: -959847767
+      magic-missile_57: -1093247632
+      magic-missile_6: 83674992
+      magic-missile_7: 960283301
+      magic-missile_8: -1139486631
+      magic-missile_9: 1867367749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

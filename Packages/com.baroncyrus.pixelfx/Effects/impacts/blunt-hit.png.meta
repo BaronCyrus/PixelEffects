@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 811327175d61547a59518f18b558aeda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6296554291846114039
+    second: blunt-hit_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blunt-hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 88
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18518518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e1a0cca3b9b9c74b9b0f7f6489d26e
+      internalID: 6296554291846114039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 315
+        width: 84
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888762805359f605e2a7c7b05a47a20a
+      internalID: -1469876850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 317
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19480519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40575a709791d25a299041a935ec388b
+      internalID: -1473349780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319
+        width: 76
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e41ba99d44ac2e5cde84454aabbc9d
+      internalID: -2134919944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 72
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20547946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537715861dd98d8e28d266707d7f72a8
+      internalID: -282235987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 242
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6308f3e6b2a1f47a966a4c9e6a93585b
+      internalID: -161376834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 245
+        width: 62
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20895523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca536a1dce5fbe4586754c50421eb395
+      internalID: -723879364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 249
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53968257, y: 0.20634921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8405690a8d18ecbff327c13ce40324
+      internalID: 668830291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 253
+        width: 69
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5362319, y: 0.20338982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb96339d002fe0856e55b81f04687b12
+      internalID: -846096643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 74
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.18867925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcc4a4298929bb054fe6b9da5dfffa2
+      internalID: -436889481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 44
+        width: 78
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffa5301daefa210848b1a970d30bf40
+      internalID: -278294155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 83
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5421687, y: 0.044444446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4fe2b0f79104ceb1e6284d0a56a1e4
+      internalID: 1642078917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 91
+        width: 87
+        height: 45
+      alignment: 9
+      pivot: {x: 0.54022986, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee0c819d0bc4c16f6a9468ae58dba1
+      internalID: 38876748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 91
+        width: 86
+        height: 45
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a2b889d0c5c4f1344aa8b0a3c6f89
+      internalID: -1657841231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 138
+        width: 86
+        height: 46
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.06521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b984c4e940c88023de72d102bd57fd4a
+      internalID: 1955512465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 86
+        height: 46
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.06521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9237a3e77c653d37d57fb0519aadde8
+      internalID: -274120071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 90
+        width: 85
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5411765, y: 0.06521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833aea5cd8a502860091a80c5051b24
+      internalID: -1211115852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 86
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.06382979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ddd43fcd84248129d824a796c0b9d0
+      internalID: -757244110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 137
+        width: 86
+        height: 47
+      alignment: 9
+      pivot: {x: 0.53488374, y: 0.06382979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be13592f429b573f10a75d994e773c81
+      internalID: -369252078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 190
+        width: 85
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e75fbe89a9e64067588841a48d5cd6
+      internalID: -1613420073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 190
+        width: 82
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1904e76b2c4302928a0daa8346969f82
+      internalID: 1902697627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 190
+        width: 82
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d763b1c0fcccb95e7bcc922546b04c
+      internalID: -1087142838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 137
+        width: 80
+        height: 47
+      alignment: 9
+      pivot: {x: 0.475, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9b6337afc1853772fc20e56b978747
+      internalID: -824824775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 46
+        width: 80
+        height: 43
+      alignment: 9
+      pivot: {x: 0.475, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36be3a2a45e2f8e12310beb58066347
+      internalID: 1606188832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 46
+        width: 81
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4691358, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b9d498a1f55f7ac06140372def6922
+      internalID: -1524353685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44871795, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d4d72e5b1bc9f2a072c1701be84e1e
+      internalID: 659640909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 11
+        width: 35
+        height: 32
+      alignment: 9
+      pivot: {x: 0.94285715, y: -0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1796d68b3b04e38315ef95c4e5f0de0
+      internalID: 1506909119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blunt-hit_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 42
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c7b278169c19417dab4906a006bfdf
+      internalID: -740172483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 53b34c073ee7142998abdd6f8ff941a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blunt-hit_0: 6296554291846114039
+      blunt-hit_1: -1469876850
+      blunt-hit_10: -278294155
+      blunt-hit_11: 1642078917
+      blunt-hit_12: 38876748
+      blunt-hit_13: -1657841231
+      blunt-hit_14: 1955512465
+      blunt-hit_15: -274120071
+      blunt-hit_16: -1211115852
+      blunt-hit_17: -757244110
+      blunt-hit_18: -369252078
+      blunt-hit_19: -1613420073
+      blunt-hit_2: -1473349780
+      blunt-hit_20: 1902697627
+      blunt-hit_21: -1087142838
+      blunt-hit_22: -824824775
+      blunt-hit_23: 1606188832
+      blunt-hit_24: -1524353685
+      blunt-hit_25: 659640909
+      blunt-hit_26: 1506909119
+      blunt-hit_27: -740172483
+      blunt-hit_3: -2134919944
+      blunt-hit_4: -282235987
+      blunt-hit_5: -161376834
+      blunt-hit_6: -723879364
+      blunt-hit_7: 668830291
+      blunt-hit_8: -846096643
+      blunt-hit_9: -436889481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

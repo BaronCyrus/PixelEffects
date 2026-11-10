@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: slime
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: critters/slime
+  displayName: Slime
+  description: 'A glossy slime hops in place: it squashes to wind up, stretches into the jump, rounds out in the air, splats down flinging droplets that creep back, then wobbles and blinks.'
+  category: critters
+  tags:
+  - critter
+  - slime
+  - monster
+  - hop
+  - goo
+  - loop
+  frames:
+  - {fileID: 368543389579951487, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1669777486, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -442942716, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -722774520, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -51999925, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 34800857, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1251798276, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 2088546017, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -2067113797, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 431815776, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -908609916, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1201753230, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 2098020531, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 191750638, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 1815310007, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -782440105, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -812271409, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 1587198305, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 218681528, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -594854827, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -526791254, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -934406672, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 527369571, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 273579040, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1170156565, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -701165380, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1680969960, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -514582818, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -2108015249, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -2096876547, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -2073193012, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 898977895, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1947041205, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 1987880806, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 1711241725, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 1793337361, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 748228263, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 664179425, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1955187949, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 670254491, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1032378273, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 223884518, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -843587467, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1103007438, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 464159418, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -97807540, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 581167653, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -897109515, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1955206599, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 1206516846, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: 655625879, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1550126230, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1052441416, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  - {fileID: -1883080780, guid: 2f373e0b6dd5947beb84b6561a8c8e23, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 112, y: 88}
+  origin: {x: 56, y: 72}
+  fullScreen: 0
+  previewFrame: 44
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

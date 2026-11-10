@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: magic-missile
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: projectiles/magic-missile
+  displayName: Magic missile
+  description: Motes gather into an arcane orb at a hand `height` px above the floor (the origin); it weaves to its target trailing a twisting ribbon and bursts into a star of light.
+  category: projectiles
+  tags:
+  - projectile
+  - magic
+  - arcane
+  - missile
+  - spell
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -816548348341720466, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1739101783, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -2085559972, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1120922991, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1160905791, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1531249727, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 83674992, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 960283301, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1139486631, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1867367749, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 707085401, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -212437005, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1541492336, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 327459312, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -447354138, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -548838872, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1389908119, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1139481723, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1026877997, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1718920248, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -441941395, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1019538695, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1484261178, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 194040390, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -340885451, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1904058660, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 750574774, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -285146792, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1507901470, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -538147498, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1684550118, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 751413206, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1116612963, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -441631811, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -913271068, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1614308804, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 562797132, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1642704557, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1186357800, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1736275492, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -2003501183, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1934429648, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1326052139, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1063029122, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1650371428, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 41704897, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 439652096, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1213942805, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1471910208, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1249427499, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -615586455, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -766438968, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1996519569, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 2025010714, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: 1525014876, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -117366905, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -959847767, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  - {fileID: -1093247632, guid: e94fb9421574e4830bcac99affd032ee, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 208, y: 112}
+  origin: {x: 24, y: 104}
+  fullScreen: 0
+  previewFrame: 25
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

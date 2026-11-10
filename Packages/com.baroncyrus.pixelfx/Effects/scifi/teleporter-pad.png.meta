@@ -1,0 +1,1791 @@
+fileFormatVersion: 2
+guid: 69c530e42a9994b9db267a4b930b4443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6123244644263586359
+    second: teleporter-pad_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teleporter-pad_0
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 461
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9c7eb20740dd3d35e01ef57f8144e
+      internalID: -6123244644263586359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 461
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686262ce9f3196bddb582dc0dea13606
+      internalID: 244861331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 461
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1881539da632dbbe8a5f6eb3236f70
+      internalID: 732882077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b39cae1931d3241be33f10194f859d
+      internalID: 1987985262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 368
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef081b1e7c2a26c46c8d9e1a1467eb85
+      internalID: 1519691822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 368
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dda1e97a2a3812fe77aa49e7afea80
+      internalID: 1544609118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 368
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29a303d17c31319757e019192068274
+      internalID: -615849195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 368
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24f546900ff94615a85b146d866edb2
+      internalID: 2004177054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 368
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ca7fe909d2cac3dcb6b3e6a340d6da
+      internalID: 841152251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 368
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f368c8dcb7a6936c41b64193dad7f
+      internalID: 1019051294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 368
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1bc52a487f7b02145725fc174e378b
+      internalID: 212552830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 368
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2ba1716e36ebb03a90272a6080f985
+      internalID: -840456945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 554
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42638c46ade8f86a4709df0288da1c55
+      internalID: 284953938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 554
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b6fdc3f9d24393eb3a93319ac81a96
+      internalID: 2022517822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764a26bae4d4263b3aad8feec03cc41
+      internalID: 1618941983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 647
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f171915fb4abdde7ef7ea8545a2b6e
+      internalID: -60341974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 647
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e91f46508bb8ac5de659332707303a
+      internalID: -1470776454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 554
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10d6cb658af9f853fa834e086bf129
+      internalID: 1838047854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099db69514031f1af6acc9a3de198498
+      internalID: -1373355929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 276
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f188c33ab37565896214c57da1f7f1c
+      internalID: -629477554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 276
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e32287aa46819bf6228d296d4c6428
+      internalID: 1847611621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 276
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c24bc6aa142cfae2cf8f66f3ecd4e2a
+      internalID: 1041736999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 276
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685c920741ae6f50432ba5e2131de6f0
+      internalID: 893774303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 276
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697184fe9af489c7d65dd45660bea5bb
+      internalID: 773625320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 276
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03981bd9451d10d5b1738cf85ab3fbcd
+      internalID: 217172134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 276
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d6f2a18c14f7db5c0d97c1747adb3d
+      internalID: -1401376298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 276
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1d8568ce7d1ea344071780fdc9565b
+      internalID: 1799312498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd28c5b269ffb04ca7ebc56530367c3f
+      internalID: -1774358080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 184
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305ef5d713f204abed56709c91ca66
+      internalID: 1939987696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 184
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc7b36c2776fe08e60ab9769b9042f
+      internalID: -519337079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 554
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f25c0ee8e4f672f6fb9b3a6ed8f8da
+      internalID: -518034314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 554
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1263e521a0ab692f4de9a9275cf455
+      internalID: 1966007316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 647
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906a10cb96fb3e7b2bf7306522533070
+      internalID: 1491228388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 647
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3265c8ee3e66035aa1b40788b517339
+      internalID: -533896417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 647
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a644b1d307f29d3fb9ae3bfd3c4fdc69
+      internalID: -465944578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 554
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601e5fa1d48ee1e6972cd5b98056d3a
+      internalID: 341950188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_36
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 184
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3238376b32161684a720c5484c53dcc
+      internalID: -1533322860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 184
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf1d677cfcebf9db051ccd30f21da2
+      internalID: -1763992822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_38
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 184
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d295fa39bea64d990389e56a411a44e
+      internalID: 645173387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_39
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 184
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89b8d8d49b61bc499aa5fc7e3d5db41
+      internalID: 739014915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 184
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5497a611aaa9256f4ed9ed33d14c93e0
+      internalID: -255124270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_41
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 184
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfec3cfc8653e945d791f24875f3271
+      internalID: -2100511984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc946b8e152c654cc7fd26b0f28e33e
+      internalID: -457856803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 92
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4361943859becb9dfdb3d29d0fe61693
+      internalID: 428511562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 92
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3b57dfa288bdef455bdcff4389169
+      internalID: 1747355914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 92
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4302f30c59fe6fd9472218fa782ada
+      internalID: 1453252558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 92
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258702bdc34d639af0ca784a036daefa
+      internalID: -697553555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_47
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 92
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f97ec844344db5f0e7b26894897871
+      internalID: 159343663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35328a5fc1ba7baaaf84d827e1bca5ea
+      internalID: 1062598735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_49
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 460
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73dabdcb57b3c83a1c0c36be52027ca
+      internalID: 155097209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_50
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 647
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93db522c7e85ccb31da5bc7412681e0
+      internalID: -414297520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 647
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3827a659c401d84d21058f3c9f005f5
+      internalID: 180929679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 647
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1595667371efc2f38e22354a297f6d
+      internalID: 1615758871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 460
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b23647eb59aa329b33c7bf3ce6224dc
+      internalID: -1679642624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 92
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56ac08bb5476a52446e6d0c9dd373bf
+      internalID: -824564609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_55
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 92
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5bee976a0ceca8cbf32de488b6e24
+      internalID: -284122815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_56
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 92
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ecae0abf32d7745d031438b951ff6f
+      internalID: 1349295567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c41a25a01b2af347aea3c8e83fb3a15
+      internalID: -1515273101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60afc8c574f9a9c0479f43fe519591b8
+      internalID: 1637570840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_59
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d68e6c32449d2ebfe0eac600ecfa78
+      internalID: 1280402471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc419b330f87d805c013323cebe8d5
+      internalID: 839212917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_61
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7080f69984b361aa19a3f9f5163fcee9
+      internalID: -382620849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_62
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7412cac9ca1abc6a6cd5592b5b98aa9a
+      internalID: 2068098460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_63
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33244fc4db5c7288df3a71fb2a487dbc
+      internalID: -67651599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_64
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b359b808214535461d39204dc5be7a8a
+      internalID: 1428738980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_65
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 72
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe5225f6335da130817f3f19cd38e31
+      internalID: -942361277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_66
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 460
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e61a3e9f5b8d7617f3737073071cc4a
+      internalID: 1781126490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_67
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 460
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1392f7f2a0ed47c7f3908f56def4b143
+      internalID: -1045609655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec62758a2d39199b9072194235994d54
+      internalID: 301674090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 553
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bedd49e75689afea4b17f25501b926
+      internalID: -1323672649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 553
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625112adcca68132f1a5ce208d75bbba
+      internalID: -2018793159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teleporter-pad_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 460
+        width: 72
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d87c7ed36efd714b53daf44bae2744
+      internalID: -172373146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e9817142a7cb742b6b9fb9f4301066de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      teleporter-pad_0: -6123244644263586359
+      teleporter-pad_1: 244861331
+      teleporter-pad_10: 212552830
+      teleporter-pad_11: -840456945
+      teleporter-pad_12: 284953938
+      teleporter-pad_13: 2022517822
+      teleporter-pad_14: 1618941983
+      teleporter-pad_15: -60341974
+      teleporter-pad_16: -1470776454
+      teleporter-pad_17: 1838047854
+      teleporter-pad_18: -1373355929
+      teleporter-pad_19: -629477554
+      teleporter-pad_2: 732882077
+      teleporter-pad_20: 1847611621
+      teleporter-pad_21: 1041736999
+      teleporter-pad_22: 893774303
+      teleporter-pad_23: 773625320
+      teleporter-pad_24: 217172134
+      teleporter-pad_25: -1401376298
+      teleporter-pad_26: 1799312498
+      teleporter-pad_27: -1774358080
+      teleporter-pad_28: 1939987696
+      teleporter-pad_29: -519337079
+      teleporter-pad_3: 1987985262
+      teleporter-pad_30: -518034314
+      teleporter-pad_31: 1966007316
+      teleporter-pad_32: 1491228388
+      teleporter-pad_33: -533896417
+      teleporter-pad_34: -465944578
+      teleporter-pad_35: 341950188
+      teleporter-pad_36: -1533322860
+      teleporter-pad_37: -1763992822
+      teleporter-pad_38: 645173387
+      teleporter-pad_39: 739014915
+      teleporter-pad_4: 1519691822
+      teleporter-pad_40: -255124270
+      teleporter-pad_41: -2100511984
+      teleporter-pad_42: -457856803
+      teleporter-pad_43: 428511562
+      teleporter-pad_44: 1747355914
+      teleporter-pad_45: 1453252558
+      teleporter-pad_46: -697553555
+      teleporter-pad_47: 159343663
+      teleporter-pad_48: 1062598735
+      teleporter-pad_49: 155097209
+      teleporter-pad_5: 1544609118
+      teleporter-pad_50: -414297520
+      teleporter-pad_51: 180929679
+      teleporter-pad_52: 1615758871
+      teleporter-pad_53: -1679642624
+      teleporter-pad_54: -824564609
+      teleporter-pad_55: -284122815
+      teleporter-pad_56: 1349295567
+      teleporter-pad_57: -1515273101
+      teleporter-pad_58: 1637570840
+      teleporter-pad_59: 1280402471
+      teleporter-pad_6: -615849195
+      teleporter-pad_60: 839212917
+      teleporter-pad_61: -382620849
+      teleporter-pad_62: 2068098460
+      teleporter-pad_63: -67651599
+      teleporter-pad_64: 1428738980
+      teleporter-pad_65: -942361277
+      teleporter-pad_66: 1781126490
+      teleporter-pad_67: -1045609655
+      teleporter-pad_68: 301674090
+      teleporter-pad_69: -1323672649
+      teleporter-pad_7: 2004177054
+      teleporter-pad_70: -2018793159
+      teleporter-pad_71: -172373146
+      teleporter-pad_8: 841152251
+      teleporter-pad_9: 1019051294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

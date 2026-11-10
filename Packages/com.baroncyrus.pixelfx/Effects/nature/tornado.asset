@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: tornado
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: nature/tornado
+  displayName: Tornado
+  description: A snaking funnel of spinning wind bands under a flared, churning top that flickers with lightning; leaves and debris whirl round it front and back, dust boils at its foot.
+  category: nature
+  tags:
+  - nature
+  - wind
+  - tornado
+  - storm
+  - hazard
+  - ground
+  - loop
+  frames:
+  - {fileID: 715368135737836640, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -763010418, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 495453867, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1646274295, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -963823747, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -755794827, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1777771830, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1524154187, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1578931621, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -969510831, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1358894797, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1623860312, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1953609170, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1446471815, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -953817141, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1724417399, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1767751494, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1167380448, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1550945355, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 485370855, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1404028640, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1942027192, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 2054455208, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 540183440, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -125642673, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1566731190, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1656277347, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1637491185, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 993368053, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 2092712527, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 956235648, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -234699723, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -428755170, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 690546787, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1190054784, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -793622325, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 2126727299, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1056710311, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -208525773, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 395754812, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1022682694, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1502908981, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1557831406, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1187782617, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1785094148, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -439263225, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1222214956, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1386052033, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -298871706, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -2078474621, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1380998651, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -1116360225, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1836681210, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1163764485, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1523446265, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 1126935353, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 437958205, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 991649833, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: 2049675644, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  - {fileID: -551122822, guid: 7ea1647fd87544dd4b1b87e250d98775, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 196, y: 168}
+  origin: {x: 98, y: 152}
+  fullScreen: 0
+  previewFrame: 37
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

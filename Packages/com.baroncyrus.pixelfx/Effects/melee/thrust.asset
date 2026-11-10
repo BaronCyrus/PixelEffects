@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: thrust
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/thrust
+  displayName: Thrust
+  description: 'A piercing stab: a bundle of streaks shoots out from the hand to a point, a long four-point star flares at the tip with a pierce ring, sparks and speed lines.'
+  category: melee
+  tags:
+  - melee
+  - thrust
+  - stab
+  - spear
+  - rapier
+  - pierce
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 6024834609794013129, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 196372643, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -1510607272, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -1383971705, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -670351907, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 1341193702, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -969766825, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -753995893, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 1184667571, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -45940319, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -1248974881, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 343228244, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -1742088990, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 478362537, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -421493300, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 256167879, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 714323193, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: -2041212131, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 2040608944, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 1148054634, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 1148054634, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 1148054634, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 1148054634, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  - {fileID: 1148054634, guid: dd82396c9980b49bf973306722df7014, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 196, y: 76}
+  origin: {x: 34, y: 62}
+  fullScreen: 0
+  previewFrame: 3
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.46
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.07
+    freeze: 0.12
+    shake: 0.14
+    amplitude: 2
+    push: 2.8

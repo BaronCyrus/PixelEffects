@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: ghost
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: critters/ghost
+  displayName: Ghost
+  description: 'A sheet ghost bobs over the floor: its scalloped hem ripples and trails its drift, little arms flutter, it glances about and blinks, motes trickle off its hem.'
+  category: critters
+  tags:
+  - critter
+  - ghost
+  - spirit
+  - undead
+  - spooky
+  - float
+  - loop
+  frames:
+  - {fileID: 4448715427215634006, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1208299895, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1019478043, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1632700509, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1404610033, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 255596429, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 2044834697, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -55492755, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 2123340507, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 385726005, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 255558108, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -757886343, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1944844923, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1229107766, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 2001486200, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -294529488, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1848625631, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1622021660, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1790006295, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 180602289, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1902682224, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -936058522, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 397129441, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1920839646, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -315896971, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1953659360, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1072851329, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1390008638, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 654804012, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1595353818, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1823336911, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 832892502, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -179686931, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 724659390, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1634829170, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1035440516, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1634343786, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 626770597, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 647810001, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -334872529, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -392952540, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -2039142932, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1478610963, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -241210516, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -59862715, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1804865674, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1319581471, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 456150827, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 1527971966, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1437510795, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -979574265, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 842154109, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -451701488, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1003813712, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -299856199, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1023076384, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -39351373, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -441711287, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -605643381, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 808805643, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 2023162530, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -2093430419, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1978357688, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1457697484, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1914804292, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 77783665, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1466263761, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -1863268048, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -2048077888, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: 732812232, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -815956722, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  - {fileID: -423926023, guid: 00a637bc24a394c6eb91473b46297b24, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 96, y: 100}
+  origin: {x: 48, y: 90}
+  fullScreen: 0
+  previewFrame: 37
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

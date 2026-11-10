@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: dagger-flurry
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/dagger-flurry
+  displayName: Dagger flurry
+  description: A flurry of small quick crescents at every angle in front of the fighter, each with a flick of sparks, finished by one big cut that glints and bursts.
+  category: melee
+  tags:
+  - melee
+  - slash
+  - dagger
+  - combo
+  - flurry
+  - fast
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -3564889049391822363, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 2139390939, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -73177450, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -1689016927, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -838203722, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 1110548371, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 355418153, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 1643836876, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -1287625964, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -973510027, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 1361336567, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 313601691, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 1143433513, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 451315636, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 258578724, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -476193287, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 692685627, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -1327374991, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 1480787956, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 1835013293, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -1894991820, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -873331062, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -2059162901, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 1399311230, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 840407611, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -1562789550, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 497008573, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: 1459079812, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -3564889049391822363, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  - {fileID: -3564889049391822363, guid: d7f20854c1efb44fdaff848284b3ee59, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 148, y: 104}
+  origin: {x: 36, y: 86}
+  fullScreen: 0
+  previewFrame: 13
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.4
+  recovery: 0.1
+  onBody: 0
+  hits:
+  - time: 0.05
+    freeze: 0.015
+    shake: 0
+    amplitude: 0
+    push: 0.5
+  - time: 0.105
+    freeze: 0.015
+    shake: 0
+    amplitude: 0
+    push: -0.3
+  - time: 0.16
+    freeze: 0.015
+    shake: 0
+    amplitude: 0
+    push: 0.5
+  - time: 0.215
+    freeze: 0.015
+    shake: 0
+    amplitude: 0
+    push: -0.3
+  - time: 0.27
+    freeze: 0.015
+    shake: 0
+    amplitude: 0
+    push: 0.5
+  - time: 0.325
+    freeze: 0.015
+    shake: 0
+    amplitude: 0
+    push: -0.3
+  - time: 0.42
+    freeze: 0.12
+    shake: 0.18
+    amplitude: 2
+    push: 2.6

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: damage-number
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: ui/damage-number
+  displayName: Damage number
+  description: A red -27 punches out of a hit spark, white for a frame, arcs up, lands with a squash and a little hop, then fades as it lifts away.
+  category: ui
+  tags:
+  - ui
+  - damage
+  - number
+  - combat
+  - text
+  - hit
+  - one-shot
+  frames:
+  - {fileID: 6354149118173308737, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -1625121703, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 1942760723, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 776424584, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -1069934424, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 142247690, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -1640599457, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 1526400415, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 475504460, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 1844192602, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 1510332167, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -1078944421, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 679032755, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 904925589, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 247909715, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -530257180, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -47679188, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 492258445, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -1013755064, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -1626358880, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -2019609068, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 1903664601, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 747879941, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 747879941, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -2037742731, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -2037742731, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 2074681192, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -896720852, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 872453331, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: 1957811870, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -1028888532, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -2063735733, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  - {fileID: -2063735733, guid: 227c9447ad9d3431486da8b666f7f610, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 76, y: 68}
+  origin: {x: 30, y: 52}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: double-slash
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/double-slash
+  displayName: Double slash
+  description: 'A down cut, then an up cut that crosses it: the moment the X closes both strokes flash white, the crossing bursts with light and sparks, and a dotted X lingers.'
+  category: melee
+  tags:
+  - melee
+  - slash
+  - combo
+  - sword
+  - cross
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -7157885593535305640, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 1025762920, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 1579104498, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -1677366615, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -740307593, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -2137503204, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 715570128, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 1009402933, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 1264423074, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -2084629407, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -844333511, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -1963597142, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 1858695164, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -1154354039, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -717735492, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 374842617, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -1828937770, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 1005197380, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 1664933923, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -765546537, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: 1156635281, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -437789566, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -1173233350, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -7157885593535305640, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  - {fileID: -7157885593535305640, guid: 361f972d0f0a4478ba6d0c6e43760b4d, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 164, y: 108}
+  origin: {x: 44, y: 92}
+  fullScreen: 0
+  previewFrame: 5
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.42
+  recovery: 0.12
+  onBody: 0
+  hits:
+  - time: 0.06
+    freeze: 0.05
+    shake: 0.08
+    amplitude: 1
+    push: 1.4
+  - time: 0.16
+    freeze: 0.14
+    shake: 0.2
+    amplitude: 2
+    push: 2.8

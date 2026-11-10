@@ -1,0 +1,1814 @@
+fileFormatVersion: 2
+guid: 8ee6b9f8ae3864a15aff2c7dd5347756
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6972159332508505759
+    second: respawn-beam_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: respawn-beam_0
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 102
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e7b7827c00648c00da56ebec6da72
+      internalID: 6972159332508505759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 103
+      alignment: 9
+      pivot: {x: 0.775, y: 0.067961164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9144eeecc062a1424a239564c0e10e
+      internalID: 609682512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 105
+        width: 68
+        height: 146
+      alignment: 9
+      pivot: {x: 0.61764705, y: 0.06849315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3843293d2680e36cc40d5607d7943e08
+      internalID: 1808972820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 78
+        width: 68
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8eebc7868ca366a5bd2440a062a350
+      internalID: -122541884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 104
+        width: 58
+        height: 147
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.07482993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9caf53146e683cb3cc466cce8659eb3
+      internalID: -47860521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 62
+        height: 147
+      alignment: 9
+      pivot: {x: 0.41935483, y: 0.07482993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82f91b876d9bc0a16349a9ac1e3a87b
+      internalID: 1669814061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_6
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 53
+        width: 70
+        height: 50
+      alignment: 9
+      pivot: {x: 0.44285715, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac58c245ace0469702a641e2c4906c3
+      internalID: -1422776351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 49
+        width: 61
+        height: 54
+      alignment: 9
+      pivot: {x: 0.44262296, y: 0.2037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eed4305cd3b68812a8b34147c1964c
+      internalID: 355385255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_8
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 253
+        width: 75
+        height: 148
+      alignment: 9
+      pivot: {x: 0.52, y: 0.08108108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29a446048aa4cd5955ee9c274e7ac98
+      internalID: 1253089085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_9
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 253
+        width: 67
+        height: 148
+      alignment: 9
+      pivot: {x: 0.52238804, y: 0.08108108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13417f5fcbc42397d6486f2838dbf815
+      internalID: -1574828381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 126
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.093333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba89f882107b29734b03c885fbba26
+      internalID: 1182407514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 702
+        width: 126
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.093333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a3195832670f31ced634c5b29d9b84
+      internalID: -1356061015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 702
+        width: 124
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5, y: 0.093333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3619360bacd14178ce6dc35489b575
+      internalID: 383259960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 703
+        width: 122
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b036f4aaacf797de84af58360d5417ce
+      internalID: -924610459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 703
+        width: 120
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55508a4b7d6bcfba8dd082f23121717
+      internalID: 475856863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_15
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 703
+        width: 112
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670133a13820f9330fda8c151d4574f
+      internalID: -2019462774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 104
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedd6609e5c6dac6e3eb333d4d3237d4
+      internalID: 1804883205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 552
+        width: 96
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed93c823482e9f2ffe9e565430051901
+      internalID: 849911858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 552
+        width: 86
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eaf96903222acc0ef3f459ba7e2f1a
+      internalID: -1356739030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_19
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 552
+        width: 82
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cf4d0b69016ab294415662a0f5279f
+      internalID: 440583460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 552
+        width: 84
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22367eab9431858e07f1286bf3b2caef
+      internalID: 989675204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_21
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 552
+        width: 84
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794be2ca03206dd29eab55da5d2fea00
+      internalID: 1977005163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 552
+        width: 84
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497c41142d7f5fdd79b9dc7b1c1d74f2
+      internalID: -1902700684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 552
+        width: 84
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d835ecd998ce166d00f09b48ffba6
+      internalID: -1814684879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_24
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 552
+        width: 83
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5060241, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90acabe16eac75ebae744f58c9fac3ae
+      internalID: -1249830939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 402
+        width: 78
+        height: 149
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82ac5731e0a7925186d1ce534c4ac7
+      internalID: -2019238467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 402
+        width: 78
+        height: 149
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0391ae502b9f7f34303751070c1deecf
+      internalID: 174064709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 80
+        height: 149
+      alignment: 9
+      pivot: {x: 0.525, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd463049d985590083b4db2ae01c8cfb
+      internalID: -808509937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 402
+        width: 73
+        height: 149
+      alignment: 9
+      pivot: {x: 0.4520548, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b71d60c295f983c426fddddadbdba
+      internalID: 1188729679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 66
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366cbc82379574fc4c0ca286b42ab49
+      internalID: 496218720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_30
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 252
+        width: 62
+        height: 149
+      alignment: 9
+      pivot: {x: 0.4516129, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0c673874010f66d7ccc2ef87b8ad2c
+      internalID: 485523137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 402
+        width: 68
+        height: 149
+      alignment: 9
+      pivot: {x: 0.45588234, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e6f126f5ea059e760736569a0dff21
+      internalID: -2070030864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 402
+        width: 73
+        height: 149
+      alignment: 9
+      pivot: {x: 0.46575344, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd056d8185008b5e6f0dee0e9004c4c3
+      internalID: 12750819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_33
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 402
+        width: 67
+        height: 149
+      alignment: 9
+      pivot: {x: 0.52238804, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c10fa1a926fd4498a11434975bbbcd
+      internalID: 700783711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 252
+        width: 66
+        height: 149
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7ece924fd98ca9807e842bcfeca78c
+      internalID: -254507382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 402
+        width: 70
+        height: 149
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd8f003c7deb3e5f540741d7318e70
+      internalID: -229671319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 252
+        width: 62
+        height: 149
+      alignment: 9
+      pivot: {x: 0.38709676, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45556f89455e6485c07a14a22f8b7fd5
+      internalID: 965585630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 252
+        width: 65
+        height: 149
+      alignment: 9
+      pivot: {x: 0.41538462, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904d3eea69c24b7fd3e1510307e49505
+      internalID: 356536834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 252
+        width: 63
+        height: 149
+      alignment: 9
+      pivot: {x: 0.46031746, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8156d27e65d0f1de1566fb86b32f4795
+      internalID: 917484960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 252
+        width: 66
+        height: 149
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978686e83c777c573aa0632ff319bc3d
+      internalID: -320253034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_40
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 402
+        width: 67
+        height: 149
+      alignment: 9
+      pivot: {x: 0.47761193, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c2bbcd5f18bf967efce8b87cf72733
+      internalID: -849568978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_41
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 402
+        width: 73
+        height: 149
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c8e4d1fbbc637dfdd62521a5646446
+      internalID: 1459492262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_42
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 402
+        width: 68
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f1f04733370117b365837a789028b
+      internalID: -1317789625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_43
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 252
+        width: 62
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c2e09eda60332bcfdad3797716276e
+      internalID: 1098507674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 252
+        width: 65
+        height: 149
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.087248325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a9c3c7d570a1f2cb31760aae1811e6
+      internalID: -2118021877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_45
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 253
+        width: 64
+        height: 148
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.08108108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ecc29ac2efd6688812b8b3a4615360
+      internalID: -2103589070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 105
+        width: 68
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.06849315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ca7edde95557d830fdf31db0d99ac6
+      internalID: 1751460724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 108
+        width: 59
+        height: 143
+      alignment: 9
+      pivot: {x: 0.42372882, y: 0.04895105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376ab1abfa77d436cd831eeea94c265a
+      internalID: -184490770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 111
+        width: 58
+        height: 140
+      alignment: 9
+      pivot: {x: 0.37931034, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e60ce623f709ebd82fd3557a8a9468
+      internalID: 88337482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_49
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 112
+        width: 43
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.021582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de6f04d3543238b9d68cfe1f85697ec
+      internalID: -236809409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_50
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 112
+        width: 43
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.021582734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bbf03c022616e6eff78bc2aafe93e3
+      internalID: -79681958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_51
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 140
+        width: 46
+        height: 111
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.018018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659b88aeda83b5478b932fb6a3faf5b1
+      internalID: 1751688217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_52
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 141
+        width: 46
+        height: 110
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cd8e7ab1e61b6f0d308f981ffd36ac
+      internalID: -2130977315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_53
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 140
+        width: 46
+        height: 111
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e397724858e97e764c8b246d82fcc5ed
+      internalID: -1533295473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_54
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 145
+        width: 47
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5531915, y: -0.056603774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcfe38bec350fb2e98d5b82e9fe49e3
+      internalID: 958596672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_55
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 145
+        width: 47
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5531915, y: -0.06603774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cde5d85a0476e88345b00bd6bacbf6
+      internalID: 2110860978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_56
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 145
+        width: 47
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5531915, y: -0.0754717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702c07a5e0e6ac564b0a2d5d6da2f42d
+      internalID: 1235580407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_57
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 144
+        width: 46
+        height: 107
+      alignment: 9
+      pivot: {x: 0.54347825, y: -0.07476635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dd8bf6fd428f5426cc095a9551f098
+      internalID: 521157383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_58
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 11
+        width: 46
+        height: 92
+      alignment: 9
+      pivot: {x: 0.54347825, y: -0.097826086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff92d5e72ab070a419d686f7058f3e8
+      internalID: 1931447898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10
+        width: 43
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5116279, y: -0.09677419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2ada6573b24f22413496da5b851b7f
+      internalID: 2092898500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 9
+        width: 43
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5116279, y: -0.10638298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f6880fa80065801cba54152122a020
+      internalID: 919517096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 10
+        width: 43
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5116279, y: -0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b74380365a77976187d5f045a5d77f
+      internalID: 1369493868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 11
+        width: 43
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5116279, y: -0.1521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ba8a2fc668c0a03de751bf2e98f9e3
+      internalID: 783807810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_63
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 11
+        width: 42
+        height: 92
+      alignment: 9
+      pivot: {x: 0.52380955, y: -0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65348655fca6545602f24166ea7ed497
+      internalID: -873729289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_64
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 11
+        width: 39
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5641026, y: -0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9400ba0690db73cb1a416a2a0cb32e44
+      internalID: 1398107785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_65
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 21
+        width: 39
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5641026, y: -0.19512194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d532a7e66e05e7b42e49071ddb70bfeb
+      internalID: -347411392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 21
+        width: 32
+        height: 82
+      alignment: 9
+      pivot: {x: 0.46875, y: -0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40707f9313cff10fdaac1b45a5984a8c
+      internalID: -2112135130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_67
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 21
+        width: 30
+        height: 82
+      alignment: 9
+      pivot: {x: 0.46666667, y: -0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add2159d017fa8e51d6440d77ef526df
+      internalID: -1852227544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_68
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 21
+        width: 25
+        height: 82
+      alignment: 9
+      pivot: {x: 0.56, y: -0.2195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932f96145777ad19199b4f81d13556ab
+      internalID: 1942726608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 22
+        width: 24
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5416667, y: -0.24691358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf33ba8dddf2132691c2765ebe26a4e
+      internalID: -528708812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_70
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 66
+        width: 6
+        height: 37
+      alignment: 9
+      pivot: {x: 2, y: -1.7297298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b933bd381fd9a6ab01360ac9faabe3
+      internalID: -337492381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_71
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 101
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 5.5, y: -32.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0814e7b429abca41e11361e6b26bd53f
+      internalID: 1721250127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: respawn-beam_72
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 102
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 11, y: -66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a10a090e5813bc4a2c51a894ef7fb99
+      internalID: -2124658901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7e17708e37da248a186861015e4f950b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      respawn-beam_0: 6972159332508505759
+      respawn-beam_1: 609682512
+      respawn-beam_10: 1182407514
+      respawn-beam_11: -1356061015
+      respawn-beam_12: 383259960
+      respawn-beam_13: -924610459
+      respawn-beam_14: 475856863
+      respawn-beam_15: -2019462774
+      respawn-beam_16: 1804883205
+      respawn-beam_17: 849911858
+      respawn-beam_18: -1356739030
+      respawn-beam_19: 440583460
+      respawn-beam_2: 1808972820
+      respawn-beam_20: 989675204
+      respawn-beam_21: 1977005163
+      respawn-beam_22: -1902700684
+      respawn-beam_23: -1814684879
+      respawn-beam_24: -1249830939
+      respawn-beam_25: -2019238467
+      respawn-beam_26: 174064709
+      respawn-beam_27: -808509937
+      respawn-beam_28: 1188729679
+      respawn-beam_29: 496218720
+      respawn-beam_3: -122541884
+      respawn-beam_30: 485523137
+      respawn-beam_31: -2070030864
+      respawn-beam_32: 12750819
+      respawn-beam_33: 700783711
+      respawn-beam_34: -254507382
+      respawn-beam_35: -229671319
+      respawn-beam_36: 965585630
+      respawn-beam_37: 356536834
+      respawn-beam_38: 917484960
+      respawn-beam_39: -320253034
+      respawn-beam_4: -47860521
+      respawn-beam_40: -849568978
+      respawn-beam_41: 1459492262
+      respawn-beam_42: -1317789625
+      respawn-beam_43: 1098507674
+      respawn-beam_44: -2118021877
+      respawn-beam_45: -2103589070
+      respawn-beam_46: 1751460724
+      respawn-beam_47: -184490770
+      respawn-beam_48: 88337482
+      respawn-beam_49: -236809409
+      respawn-beam_5: 1669814061
+      respawn-beam_50: -79681958
+      respawn-beam_51: 1751688217
+      respawn-beam_52: -2130977315
+      respawn-beam_53: -1533295473
+      respawn-beam_54: 958596672
+      respawn-beam_55: 2110860978
+      respawn-beam_56: 1235580407
+      respawn-beam_57: 521157383
+      respawn-beam_58: 1931447898
+      respawn-beam_59: 2092898500
+      respawn-beam_6: -1422776351
+      respawn-beam_60: 919517096
+      respawn-beam_61: 1369493868
+      respawn-beam_62: 783807810
+      respawn-beam_63: -873729289
+      respawn-beam_64: 1398107785
+      respawn-beam_65: -347411392
+      respawn-beam_66: -2112135130
+      respawn-beam_67: -1852227544
+      respawn-beam_68: 1942726608
+      respawn-beam_69: -528708812
+      respawn-beam_7: 355385255
+      respawn-beam_70: -337492381
+      respawn-beam_71: 1721250127
+      respawn-beam_72: -2124658901
+      respawn-beam_8: 1253089085
+      respawn-beam_9: -1574828381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 8295ffc439cba442d99d5f25d524287a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8339925739292782669
+    second: aurora.6_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aurora_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526f26d541774508080c8d14af944429
+      internalID: 896233287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_212
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 692
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76514623084c1b97fb4af981fbb3dee6
+      internalID: 1648702335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_213
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 692
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4c841850457b08c8bb1945b6f3092
+      internalID: 642091637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_214
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 692
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16ef72870baa0998c76e6bcf39a5726
+      internalID: 1512136041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_215
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 692
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea38bb23589350ab70d45f1285cf07b
+      internalID: 1845993521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_216
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 692
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a4202cd27bb6c8f6aabc66a8770349
+      internalID: -2102748100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9132f44399d524ad52c936dadec2fca
+      internalID: -319801332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_218
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 519
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989e6681621ff317958d5e6f52ffaf0
+      internalID: -669072437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_219
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 519
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac5ffd4cddc3d930cce9c066fc849f2
+      internalID: -835852202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_220
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 519
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b6118816c68799f312d4283a4d5e81
+      internalID: 1151814199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_221
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 519
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407de9b8f6286f5e1c450da5ed2728e5
+      internalID: -1949320552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_293
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 519
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939e7a10431f48b7ba4ea4f65736683f
+      internalID: -661037109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_294
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445bed2bf4e6a21eb7380e987e24ee13
+      internalID: -2041917229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_295
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 346
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126935ab593aeb1331cf5e6e7474fd82
+      internalID: -495578104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_296
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 346
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c4aa2875167ca0ef0f805fa8d69f5
+      internalID: -1920308951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_297
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 346
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87344af10a851bb68120d4ea4fa45ce6
+      internalID: -594155084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_298
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 346
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44bcbb130816e32d45d342ca342263c
+      internalID: 1115989223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_299
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 346
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf2d3d33da3956aebc9d3ac3c14d93c
+      internalID: -1025745602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd27cfcd42e5a87d6ffa08df47ad5a01
+      internalID: -540421503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_301
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 173
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79d45a81d1c59f481890a66b76f920f
+      internalID: 1960892107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_302
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 173
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9327c2e831b38d5fb17afb7922af7729
+      internalID: -1813613309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_303
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 173
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da25b750b9aa92a9ec3b83a8a996323
+      internalID: 639399510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_304
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 173
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171093cd0eb5f5f7c5003c3fdeb2e0c
+      internalID: 1933908093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_305
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 173
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e34c0a8e2680604f9443022da2f2e8c
+      internalID: -690240209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_306
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dda95a846eaa87beed011e68fbb169
+      internalID: -1667727457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_307
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee4e45e7abb5b4e5e9b36c0ccab1be1
+      internalID: 1120379961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_308
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6dc7cca0d650baf5225487b8cdd93c
+      internalID: 419602899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_309
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b848c364bb4081de9e269cd6165317
+      internalID: -1407055589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_310
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ec64456b012672e025756b89c8abce
+      internalID: -1081724112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aurora_311
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 320
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f815e1d59742217fc6d2e334db1aeab4
+      internalID: 283008059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89172ea06a2d548abbdcb4eef1d01232
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aurora_211: 896233287
+      aurora_212: 1648702335
+      aurora_213: 642091637
+      aurora_214: 1512136041
+      aurora_215: 1845993521
+      aurora_216: -2102748100
+      aurora_217: -319801332
+      aurora_218: -669072437
+      aurora_219: -835852202
+      aurora_220: 1151814199
+      aurora_221: -1949320552
+      aurora_293: -661037109
+      aurora_294: -2041917229
+      aurora_295: -495578104
+      aurora_296: -1920308951
+      aurora_297: -594155084
+      aurora_298: 1115989223
+      aurora_299: -1025745602
+      aurora_300: -540421503
+      aurora_301: 1960892107
+      aurora_302: -1813613309
+      aurora_303: 639399510
+      aurora_304: 1933908093
+      aurora_305: -690240209
+      aurora_306: -1667727457
+      aurora_307: 1120379961
+      aurora_308: 419602899
+      aurora_309: -1407055589
+      aurora_310: -1081724112
+      aurora_311: 283008059
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

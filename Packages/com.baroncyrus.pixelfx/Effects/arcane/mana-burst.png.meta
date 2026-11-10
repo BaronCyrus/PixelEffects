@@ -1,0 +1,1377 @@
+fileFormatVersion: 2
+guid: b092410a01fda46c5a02c053e0eb8bf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6347145610843047043
+    second: mana-burst_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mana-burst_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 61
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: -1.0555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d0cb68faf2847f0919b17fe36ff59
+      internalID: 6347145610843047043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 185
+        width: 94
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.23404256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c91ca4124172db7829d638b0afa945
+      internalID: -1687128291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 88
+        width: 81
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4691358, y: 0.27710843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e5d3eb4550a160ba4122484b4b4e22
+      internalID: -292598842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 85
+        width: 88
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.27906978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406d09cd2d06d36115051e68602dbab7
+      internalID: 2055332213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 183
+        width: 82
+        height: 96
+      alignment: 9
+      pivot: {x: 0.46341464, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4359e0afdb02e9a4d671825183c38562
+      internalID: 535930032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 80
+        width: 78
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26373628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1402fb1a52e9744c7aeced6057091d
+      internalID: -1569307815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_6
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 88
+        width: 80
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30120483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb01590b32191f830e440ccc1a46a3b
+      internalID: -1496636661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 176
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17006803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e06fa91e67ea731d818f190bf615c6d
+      internalID: 778671868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 793
+        width: 170
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17123288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09132457c223d936ff58ce1a47d22205
+      internalID: 147841507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 794
+        width: 164
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384145cb411133ee67f618ccf4ba3931
+      internalID: -733289694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 795
+        width: 158
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1736111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ee8502c336615fc2ae10d82fc46e6
+      internalID: 356321043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_11
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 650
+        width: 152
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17730497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e8dea2493eb43d08da9954c1d338a7
+      internalID: 1955690480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 654
+        width: 144
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18248175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f708bf96b50541b535755fa012245e
+      internalID: -1561375055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 138
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18656716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d97bce79190d4d7690d4613bdb5e5
+      internalID: -1607323623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 517
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8f71178eac46174749d3e3e7e70bca
+      internalID: 1947068554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_15
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 521
+        width: 123
+        height: 126
+      alignment: 9
+      pivot: {x: 0.49593496, y: 0.1984127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2747fcc273be998dd7006444123a6a
+      internalID: 1222229242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_16
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 525
+        width: 132
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4848485, y: 0.20491803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133df0adc1ffc4fcb2a1557ccca7c346
+      internalID: -1480430398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 518
+        width: 143
+        height: 129
+      alignment: 9
+      pivot: {x: 0.48251748, y: 0.19379845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43ae3d1d6fa16238fb31d5afe9ac0d4
+      internalID: -1091754827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 656
+        width: 140
+        height: 135
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.18518518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431d2c0ee5717f8326d3bb1953737827
+      internalID: 417013157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 650
+        width: 150
+        height: 141
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.17730497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd00ffaa6e0a82a0c9840bcf39914e
+      internalID: 1346844597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 794
+        width: 158
+        height: 145
+      alignment: 9
+      pivot: {x: 0.53797466, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2181699b36d014d81ebc30184e909b
+      internalID: -263409838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 155
+        height: 143
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0.17482518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d863b4b495f1b50d338b0d6cdc5955a
+      internalID: -625050252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_22
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 528
+        width: 132
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21008404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8d63af9412700519120beee04c999
+      internalID: 756774314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 132
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21008404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276b70f21e4030b77aced12ef98b87d6
+      internalID: -371028745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 393
+        width: 131
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5038168, y: 0.21008404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5544033f99b607f7a00639fbdb3cdd
+      internalID: -1545556700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 172
+        width: 114
+        height: 107
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.23364486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cebb7798eacaf5c308a555145ff4ece
+      internalID: -75844233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_26
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 284
+        width: 118
+        height: 108
+      alignment: 9
+      pivot: {x: 0.40677965, y: 0.23148148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2a1fb25bb0d47963e96939a7342810
+      internalID: 833717816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 284
+        width: 116
+        height: 108
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.23148148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432a3a20c94a1dc294d98776420313d
+      internalID: 111547959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 172
+        width: 114
+        height: 107
+      alignment: 9
+      pivot: {x: 0.42982456, y: 0.22429906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d696ee6c01fb41a7f971f597b67d41
+      internalID: 1683850582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 284
+        width: 114
+        height: 108
+      alignment: 9
+      pivot: {x: 0.42982456, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d94baf9fe355bbe4a3e401548e2669
+      internalID: 1440091285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 282
+        width: 118
+        height: 110
+      alignment: 9
+      pivot: {x: 0.41525424, y: 0.21818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9810365e968acb523a28a47f46f66b4
+      internalID: 1289520572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 138
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4710145, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632e8bda152c3b91898a3595824ffab8
+      internalID: -243228585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_32
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 399
+        width: 140
+        height: 113
+      alignment: 9
+      pivot: {x: 0.45, y: 0.21238938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909eed640e1cceea82663a6b1b075aa4
+      internalID: 1504467796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_33
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 397
+        width: 139
+        height: 115
+      alignment: 9
+      pivot: {x: 0.43165466, y: 0.20869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8338a090c00b20e961be3bdac5535b11
+      internalID: 707093238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 396
+        width: 147
+        height: 116
+      alignment: 9
+      pivot: {x: 0.4829932, y: 0.20689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c32fd4bb4cfd6fcf57e1d2b02bbaf
+      internalID: -1032081895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 178
+        width: 132
+        height: 101
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.22772278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6771fddd8ee6c02a8af0318e8db568f
+      internalID: -1950651614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_36
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 399
+        width: 126
+        height: 113
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.20353982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df0fb7c9c6910fed309dcf9a44edf6
+      internalID: -521118716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 282
+        width: 122
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5163934, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456c3b8e72ebfca7cc45384db31919f5
+      internalID: -1625234828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 126
+        height: 107
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.20560747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78023325d52452652ca401fdb05fab8c
+      internalID: -302068201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 82
+        width: 128
+        height: 89
+      alignment: 9
+      pivot: {x: 0.53125, y: 0.056179777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91fa19b70a2403b56b346151029a884
+      internalID: 84850424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_40
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 82
+        width: 94
+        height: 89
+      alignment: 9
+      pivot: {x: 0.70212764, y: 0.02247191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a11b38f8b00602964968c1c0207544
+      internalID: 711831659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 81
+        width: 97
+        height: 90
+      alignment: 9
+      pivot: {x: 0.7010309, y: 0.011111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd9c4e36a177b19e684f8116c13950
+      internalID: 1570085813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 90
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a78ce9e3e2b2c201dabd07af8c5bd1
+      internalID: 1528574436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_43
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 187
+        width: 92
+        height: 92
+      alignment: 9
+      pivot: {x: 0.67391306, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b3642e2d4e76128630259800796d2c
+      internalID: 126078551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 79
+      alignment: 9
+      pivot: {x: 0.8767123, y: -0.16455697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ee6d9a8ac0df78048f0703d5b801a1
+      internalID: -1318017291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_45
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 92
+        width: 75
+        height: 79
+      alignment: 9
+      pivot: {x: 0.8666667, y: -0.16455697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37c34447c331bcd9efdb6a5addf9cfd
+      internalID: -933308178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 59
+        height: 76
+      alignment: 9
+      pivot: {x: 0.9830508, y: -0.19736843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eaca60ef91acd85672828a72101b92
+      internalID: -1146769052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 8
+        width: 41
+        height: 71
+      alignment: 9
+      pivot: {x: 1.4146341, y: -0.1971831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d765bbbd02c8d4d833acf066098dcbd5
+      internalID: 680747406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6
+        width: 42
+        height: 73
+      alignment: 9
+      pivot: {x: 1.4047619, y: -0.1780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aa61bbbdbe9d50b839f542b83d9107
+      internalID: 578332836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_49
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4
+        width: 43
+        height: 75
+      alignment: 9
+      pivot: {x: 1.3953488, y: -0.17333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be41b9c5b7a49fcd16aabd58348a33
+      internalID: -2139984280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3
+        width: 44
+        height: 76
+      alignment: 9
+      pivot: {x: 1.3863636, y: -0.17105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578f2531c57c3f3442d1618ede40127c
+      internalID: 1294206308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 52
+        width: 43
+        height: 27
+      alignment: 9
+      pivot: {x: 1.3953488, y: -2.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da3b197c01bdc27650ecfb5f80ef3a
+      internalID: 1456757750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_52
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 75
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 5.5, y: -21.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584f47db1272d13ab2dfbce26ba7640e
+      internalID: 1057376377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mana-burst_53
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 78
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa3f7421bb94ddd091a2116ca4f2f1
+      internalID: 135275832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0e7b835bcf3b04c8ab52274aabe0d23d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mana-burst_0: 6347145610843047043
+      mana-burst_1: -1687128291
+      mana-burst_10: 356321043
+      mana-burst_11: 1955690480
+      mana-burst_12: -1561375055
+      mana-burst_13: -1607323623
+      mana-burst_14: 1947068554
+      mana-burst_15: 1222229242
+      mana-burst_16: -1480430398
+      mana-burst_17: -1091754827
+      mana-burst_18: 417013157
+      mana-burst_19: 1346844597
+      mana-burst_2: -292598842
+      mana-burst_20: -263409838
+      mana-burst_21: -625050252
+      mana-burst_22: 756774314
+      mana-burst_23: -371028745
+      mana-burst_24: -1545556700
+      mana-burst_25: -75844233
+      mana-burst_26: 833717816
+      mana-burst_27: 111547959
+      mana-burst_28: 1683850582
+      mana-burst_29: 1440091285
+      mana-burst_3: 2055332213
+      mana-burst_30: 1289520572
+      mana-burst_31: -243228585
+      mana-burst_32: 1504467796
+      mana-burst_33: 707093238
+      mana-burst_34: -1032081895
+      mana-burst_35: -1950651614
+      mana-burst_36: -521118716
+      mana-burst_37: -1625234828
+      mana-burst_38: -302068201
+      mana-burst_39: 84850424
+      mana-burst_4: 535930032
+      mana-burst_40: 711831659
+      mana-burst_41: 1570085813
+      mana-burst_42: 1528574436
+      mana-burst_43: 126078551
+      mana-burst_44: -1318017291
+      mana-burst_45: -933308178
+      mana-burst_46: -1146769052
+      mana-burst_47: 680747406
+      mana-burst_48: 578332836
+      mana-burst_49: -2139984280
+      mana-burst_5: -1569307815
+      mana-burst_50: 1294206308
+      mana-burst_51: 1456757750
+      mana-burst_52: 1057376377
+      mana-burst_53: 135275832
+      mana-burst_6: -1496636661
+      mana-burst_7: 778671868
+      mana-burst_8: 147841507
+      mana-burst_9: -733289694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

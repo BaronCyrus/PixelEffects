@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: drip
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: water/drip
+  displayName: Drip
+  description: A bead swells under a wet stone tip and catches the light, pinches off, falls stretched by its speed and plinks into a puddle with a crown, a ring and a tiny rebound.
+  category: water
+  tags:
+  - water
+  - drip
+  - drop
+  - puddle
+  - cave
+  - ambient
+  - loop
+  frames:
+  - {fileID: 6716351390422026389, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -2073136989, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -1312562968, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 850174744, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 461540144, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -239850142, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 652272375, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 1875428492, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -2077519707, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -2003974975, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -1160156969, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -1355833382, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -1201897977, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -1527111805, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -951180998, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -1120248084, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 17282013, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 964568252, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -689042173, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -983664847, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 773266868, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 2143936074, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -1854256795, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -39379048, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -151650253, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -1281755618, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 1755986689, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 20791165, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -817099335, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 387355105, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -754398802, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 1387783113, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -519286582, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -1834248317, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 287554715, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 1377300623, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -788304323, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -2031513581, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 830210766, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -454537676, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 921625338, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -566924876, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 2111750465, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 511012773, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -88319151, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: -328772440, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 333609729, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  - {fileID: 1325102555, guid: e0fc9a88f4f174535af7dad1e9c6bf54, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 72, y: 88}
+  origin: {x: 36, y: 78}
+  fullScreen: 0
+  previewFrame: 23
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

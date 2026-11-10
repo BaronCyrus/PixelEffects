@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: heavy-landing
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: impacts/heavy-landing
+  displayName: Heavy landing
+  description: 'A character lands hard: the floor dents and cracks under their feet, two rings of dust roll out along the floor one after the other, and pebbles hop away.'
+  category: impacts
+  tags:
+  - impact
+  - landing
+  - ground
+  - stomp
+  - dust
+  - rocks
+  - actor
+  - one-shot
+  frames:
+  - {fileID: -8133405170628859870, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -2041847075, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 977689804, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -518575026, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -180137004, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -974661970, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 2054452053, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 8623612, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -1701236452, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1406319484, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -1704202645, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -650115116, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 298440742, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 846021247, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 140952827, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -1818467095, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1613377690, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 657832405, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -1061097374, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -316174524, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -1921280022, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -1439096030, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 77283900, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -485586840, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1261600989, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -424762381, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 817932645, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 611538552, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1252286580, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 777563678, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1424045586, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1961159709, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1933896886, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 14878558, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -1930483767, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1732852415, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 417040621, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 411175749, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -1422633445, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1052355068, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1915647430, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 1078006135, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -716118684, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: 71951676, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -2038032282, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -2038032282, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -2038032282, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -2038032282, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  - {fileID: -2038032282, guid: c4feffb84a5e34c2997dd654d9a1d97e, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 176, y: 80}
+  origin: {x: 88, y: 60}
+  fullScreen: 0
+  previewFrame: 9
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.26
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.005
+    freeze: 0.13
+    shake: 0.32
+    amplitude: 3
+    push: 1.2

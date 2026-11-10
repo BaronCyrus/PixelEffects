@@ -1,0 +1,2205 @@
+fileFormatVersion: 2
+guid: 21790db5b792b4c6f8b3298143ab3461
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3580106247294356074
+    second: water-orb_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water-orb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8e66897f2d2b0d83048da0f85024e3
+      internalID: -3580106247294356074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec99547eb84fa6c978678fc2680fa66
+      internalID: -983817671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd254c3d9dbe65d7f505b1b78f732284
+      internalID: -1490204882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8133779eca0d37176e47475e0efb858
+      internalID: -827562580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eba011f801eff18568e03a56ae19c45
+      internalID: 332213458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac162dd63ab8f90a5913b76e2e58852
+      internalID: -1379448684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcd031e5daf44e0528ace53ac3649b5
+      internalID: 1456211939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b300355c6e5f9029fd334da78c20a27
+      internalID: -356987924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ccba0b20e839cc6ea72aae154333f2
+      internalID: -1414804373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_9
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 848
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463f91741ab5352cb0b684bae8c18a2
+      internalID: -495490043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452167f5607850a647558775ef55807e
+      internalID: 2125042344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218ad7e65e27935fe4bcf2974696dc65
+      internalID: 2086399565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adf4d4d5aef50e3bc41e9709b23ae85
+      internalID: -860231027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33545950685d40f51b1d408d57093261
+      internalID: 1280853769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff706642eb049e98914850686115a6a1
+      internalID: -1570470362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18dd2c442fb2a504aa0c0fffa59e170
+      internalID: -1409687284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d9e3ec3f286c83b42444ed6dd481f4
+      internalID: -146896463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3c381243f2a27b9b8edd6a02089abb
+      internalID: 29310146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_18
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58d9248868810f39edb21553a20d23d
+      internalID: 1029403324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_19
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 742
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f7264ea0f7589ba391522986abb2f8
+      internalID: -1206522045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137f9d9b7af86ba3cc8fa7658718a63
+      internalID: -550980349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c716f474d1713f0377352e66c6ed7c5
+      internalID: -746895808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e0964700f124d9ae563777f506abff
+      internalID: 1105159368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a06e0ae11b9d6dc5d7afb9e67e59610
+      internalID: 1617003325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3137483cfea043356069e6104567bcd
+      internalID: -1449241225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566ae33099345bb77994d2a90efd457
+      internalID: 2111072182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_26
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec66f51931b4b2f20ef56898ab90791f
+      internalID: 2119154807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12050205767b882750e95b439e22958b
+      internalID: -689504654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_28
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64500caff53697766b4f4301ab22461
+      internalID: 167361590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc9d9b250de3d6ff42ecaf522b92390
+      internalID: 256472404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a606aff1ff9c655c88c5d08acd700c3b
+      internalID: -113675679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f703f990471603b7f2c5b2fdf31ee
+      internalID: -1895960911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbcf68236e506c6c47b336cb05c5198
+      internalID: -951449888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_33
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546cab068a0b5a3f54c8b76ea85f961e
+      internalID: 1347760794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_34
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1
+        width: 94
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.067307696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7c1e0d3c35945e4542fbe26de543d
+      internalID: -1681330081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892df0d184c51321bcc26a420b29cbfc
+      internalID: -1914121073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a862a7913c26dc7bc3352a57571fc0e1
+      internalID: 78970952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772fc14d3d41c359dbaf3df582b5532
+      internalID: 504342462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bedab8798afb0494a0de8d7687bf9b
+      internalID: -487191445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61816dc611f27adfb3bc8c770f4cd359
+      internalID: -746035736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_40
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d8247b623c99affc31e5c14941e1b4
+      internalID: 1338063602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_41
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c885c5911100f77f31c9ec580c470c
+      internalID: 1801216705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_42
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003cb22ce25f48f20598a46684dc41fd
+      internalID: 160115718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_43
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea048471b25b25f6758b037845dcb7
+      internalID: 878422847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_44
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 636
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cde2c50730ea161349ad63b8472568
+      internalID: -302320240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ad532ddda7b3a4431b51609f4f11a4
+      internalID: -433603790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2366f1e5b43c869cda72fc76f1df125f
+      internalID: -631614849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966de1c82fc1d5f52b90fb656d30422
+      internalID: 705207828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38240c1c88fd2172c6fc10f84786b685
+      internalID: 1263707447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9090e88b7b94dc2c6cfa698671df39e
+      internalID: -5506270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_50
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb8b7ca8e17faa455fc7a2f716e9f4e
+      internalID: 1245899904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_51
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da31c91d2d15982063c7cbce0bc5338
+      internalID: 139882949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_52
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadae6fbb1af04c2d67f6f8f4e32fe49
+      internalID: -1517912171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_53
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779caa45fcd1ed3e10842ac348d5891a
+      internalID: -1792667659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_54
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 530
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dadb30bf528e4eec5e086caa1d3c465
+      internalID: -587477687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1db6041e5a84e5255daf7176d1ddeb6
+      internalID: -536722432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5baa2b466c286b29741cd71081382b3
+      internalID: 851199231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_57
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d384ec8e3f713190ce9da3e935ef7323
+      internalID: 591014501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e0c1cab6b88d1462241d0f3284938c
+      internalID: 2020760599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_59
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2930d8d59ac49ce9551ff3ac562f71b
+      internalID: 107753639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_60
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3224b1db47046c0b525671d74a7b14df
+      internalID: -137951186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_61
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c6b88455dc7279c5964206e516889c
+      internalID: 2121439758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_62
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581049f8d007930c03b55ff1cf475193
+      internalID: -671607808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_63
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77b1a66b6e6bc1110d5264af5c5028b
+      internalID: -1261793449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_64
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 424
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01b22ab38687b16bc755ee8fcd0676b
+      internalID: 66329981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27c352cfd26aab8ebd3b8e1d2a99084
+      internalID: -724852979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_66
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ade9700bdf19c1b157a50056c0169
+      internalID: 1490975346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_67
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8c8d9cfc8266986323dc86b983d37
+      internalID: 1378196433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_68
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff5b2bfbe546d86757afe8a56108d69
+      internalID: -67935273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_69
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f79519b9e3172d632f5dcaabb0c0de6
+      internalID: -1935329602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9508f25dc97f46e46a290a0663b238b
+      internalID: -157562285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_71
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f9cf2c26e7ef0419c19e6eee6311f9
+      internalID: 1565934387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_72
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b879b8e79eeb260c54a2b43dfdfc23eb
+      internalID: 1218013744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_73
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c14318e4a1cd35347921fddac864132
+      internalID: -1310711457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_74
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 212
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee570d211c77999708671e57967b87
+      internalID: -548476490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03caa3c1d5b04739c3d455bd84c1a273
+      internalID: -1941315911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_76
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49522254fdb73371f5572766e143b7d9
+      internalID: 638725726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610032a68981972c31665577ade6c86
+      internalID: -192004390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_78
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb90227923ef702e59b05c8292c7f37d
+      internalID: -1172816012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_79
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963eb2f02fd562f1863895a62d4021c5
+      internalID: 545677477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_80
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16565b34c7a32ea28b037498bec51a90
+      internalID: -1031805238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_81
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397cc57d58593c54a7e136e6e1b16212
+      internalID: 1699776238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_82
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1986abc1a08c25afa1d03530d228bd30
+      internalID: 1560694032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_83
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381b4227ff81e883115daad1b64b1c18
+      internalID: -391033794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_84
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 106
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345a29f3ab415f21b1f9754eb94ba3da
+      internalID: -1806217439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a3884e878ca7ec68ef9927abb77c3
+      internalID: -196992243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_86
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6f7950b9024b77b2f22f387567dbe
+      internalID: -580663945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_87
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4d7ffd2e82e92f16a1d7e9e099c7f
+      internalID: 1589568311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_88
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f32b36f7907f0732bf2733c2c93ce
+      internalID: 1844773938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-orb_89
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 318
+        width: 96
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eaa5d2596fcd21f61ca8333c662af2
+      internalID: -49238478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ad7aa8e018a18423ea5bb1faf53b09c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      water-orb_0: -3580106247294356074
+      water-orb_1: -983817671
+      water-orb_10: 2125042344
+      water-orb_11: 2086399565
+      water-orb_12: -860231027
+      water-orb_13: 1280853769
+      water-orb_14: -1570470362
+      water-orb_15: -1409687284
+      water-orb_16: -146896463
+      water-orb_17: 29310146
+      water-orb_18: 1029403324
+      water-orb_19: -1206522045
+      water-orb_2: -1490204882
+      water-orb_20: -550980349
+      water-orb_21: -746895808
+      water-orb_22: 1105159368
+      water-orb_23: 1617003325
+      water-orb_24: -1449241225
+      water-orb_25: 2111072182
+      water-orb_26: 2119154807
+      water-orb_27: -689504654
+      water-orb_28: 167361590
+      water-orb_29: 256472404
+      water-orb_3: -827562580
+      water-orb_30: -113675679
+      water-orb_31: -1895960911
+      water-orb_32: -951449888
+      water-orb_33: 1347760794
+      water-orb_34: -1681330081
+      water-orb_35: -1914121073
+      water-orb_36: 78970952
+      water-orb_37: 504342462
+      water-orb_38: -487191445
+      water-orb_39: -746035736
+      water-orb_4: 332213458
+      water-orb_40: 1338063602
+      water-orb_41: 1801216705
+      water-orb_42: 160115718
+      water-orb_43: 878422847
+      water-orb_44: -302320240
+      water-orb_45: -433603790
+      water-orb_46: -631614849
+      water-orb_47: 705207828
+      water-orb_48: 1263707447
+      water-orb_49: -5506270
+      water-orb_5: -1379448684
+      water-orb_50: 1245899904
+      water-orb_51: 139882949
+      water-orb_52: -1517912171
+      water-orb_53: -1792667659
+      water-orb_54: -587477687
+      water-orb_55: -536722432
+      water-orb_56: 851199231
+      water-orb_57: 591014501
+      water-orb_58: 2020760599
+      water-orb_59: 107753639
+      water-orb_6: 1456211939
+      water-orb_60: -137951186
+      water-orb_61: 2121439758
+      water-orb_62: -671607808
+      water-orb_63: -1261793449
+      water-orb_64: 66329981
+      water-orb_65: -724852979
+      water-orb_66: 1490975346
+      water-orb_67: 1378196433
+      water-orb_68: -67935273
+      water-orb_69: -1935329602
+      water-orb_7: -356987924
+      water-orb_70: -157562285
+      water-orb_71: 1565934387
+      water-orb_72: 1218013744
+      water-orb_73: -1310711457
+      water-orb_74: -548476490
+      water-orb_75: -1941315911
+      water-orb_76: 638725726
+      water-orb_77: -192004390
+      water-orb_78: -1172816012
+      water-orb_79: 545677477
+      water-orb_8: -1414804373
+      water-orb_80: -1031805238
+      water-orb_81: 1699776238
+      water-orb_82: 1560694032
+      water-orb_83: -391033794
+      water-orb_84: -1806217439
+      water-orb_85: -196992243
+      water-orb_86: -580663945
+      water-orb_87: 1589568311
+      water-orb_88: 1844773938
+      water-orb_89: -49238478
+      water-orb_9: -495490043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

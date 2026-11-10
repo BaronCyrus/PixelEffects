@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: spark-arc
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: lightning/spark-arc
+  displayName: Spark arc
+  description: 'A climbing arc between two rods: it strikes white at their narrow foot, climbs on rising heat as it stretches and bows, sputters and snaps at the top, then strikes again.'
+  category: lightning
+  tags:
+  - lightning
+  - electric
+  - arc
+  - jacobs-ladder
+  - machine
+  - prop
+  - loop
+  frames:
+  - {fileID: -1020317034400852067, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 297415555, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 938459405, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1445314386, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -100675381, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -159449395, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1962165721, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1245572124, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 2077772694, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -53116676, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1666534960, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 2051740234, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1459422752, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 891759494, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 308415656, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1487197721, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1534879317, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1091449880, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 59395444, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 756643312, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1516752521, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 37709050, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -605425917, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1220583602, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1672709922, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -31377727, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -273184453, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1224901148, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -397097692, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 404204714, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 763287347, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1945083215, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1629255304, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 239531376, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -404159887, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1506366044, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 407911555, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1518100970, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -2058607034, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -2032791980, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1718702088, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1518507891, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1066765405, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -8550388, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1047209057, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1428210103, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1804964118, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1116490501, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -359749561, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -212981733, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1198349814, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 352074077, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -343148157, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 236939313, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1349068842, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1270305281, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 329783972, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -534011392, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: -1179299550, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  - {fileID: 1297332946, guid: d25289defd2414f4f8f47b125f55bdc9, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 124, y: 120}
+  origin: {x: 62, y: 108}
+  fullScreen: 0
+  previewFrame: 42
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

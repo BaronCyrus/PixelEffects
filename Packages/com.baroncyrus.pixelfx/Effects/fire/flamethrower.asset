@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: flamethrower
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: fire/flamethrower
+  displayName: Flamethrower
+  description: 'A pressurised jet shooting right: a blue pilot at the nozzle, a tight stream with surges racing down it, a sputter, burning drops falling off, a tip that curls up into smoke.'
+  category: fire
+  tags:
+  - fire
+  - flamethrower
+  - stream
+  - weapon
+  - directional
+  - loop
+  frames:
+  - {fileID: 2800715737579632502, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1240347697, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -2125501435, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1250432562, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 498241062, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 90849517, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 624261633, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 396709616, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1585710040, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 91248696, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 294906232, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1304575028, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 215642952, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 460925256, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 264575609, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -363307881, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -579176200, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 818081825, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1685902429, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -245056456, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1691209118, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1128882452, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -204040623, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 816270775, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1653260064, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1093299665, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 54434574, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1214943969, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1825798311, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1846515798, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1038546998, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1328910780, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1109118153, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 871358764, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1643064584, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1840916493, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -466279841, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1174518892, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1390833579, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1410597740, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1029986877, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -442262139, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -1929185480, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1303436206, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 2120641445, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: -61411722, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 388227359, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  - {fileID: 1150698246, guid: 2f526d904c75b4befa807ee236f11444, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 184, y: 104}
+  origin: {x: 30, y: 60}
+  fullScreen: 0
+  previewFrame: 34
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

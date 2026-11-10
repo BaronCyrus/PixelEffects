@@ -1,0 +1,3723 @@
+fileFormatVersion: 2
+guid: 08ba1878d581845fa9310b8c058343d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3581837743619561128
+    second: fireball-throw_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireball-throw_0
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 74
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae8228bce369224dc45adad3e7c39ba
+      internalID: 3581837743619561128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_1
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 165
+        width: 101
+        height: 86
+      alignment: 9
+      pivot: {x: 0.45544556, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f106856c76c0488be0da016882f365
+      internalID: -1177489465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 164
+        width: 100
+        height: 87
+      alignment: 9
+      pivot: {x: 0.45, y: 0.20689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6695c9fab49b287a0bea10dd85e9375c
+      internalID: 1702872069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_3
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 165
+        width: 97
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4329897, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff50cd94c102bc95744cf94111ce6cfe
+      internalID: -2096268539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_4
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 165
+        width: 95
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4, y: 0.22093023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42347f562f90b4391c4273f84416344b
+      internalID: -2084244313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 162
+        width: 89
+        height: 89
+      alignment: 9
+      pivot: {x: 0.38202247, y: 0.21348314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6073fe2a325cfc4c73087493dccc49
+      internalID: -277894366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_6
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 164
+        width: 80
+        height: 87
+      alignment: 9
+      pivot: {x: 0.3, y: 0.20689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574823511686de53d191fe67c10ddbd
+      internalID: -2085954595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 162
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.20224719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f303c760cc65430ef2d13c08a8e31c1c
+      internalID: 1791381926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_8
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 164
+        width: 78
+        height: 87
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.1954023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674786d3fd667da44b884000309f27ae
+      internalID: 1522827590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_9
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 166
+        width: 78
+        height: 85
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899067ab22f4cb55dfb6c1bde396f24
+      internalID: -1815405608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 164
+        width: 78
+        height: 87
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.1954023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bd93648cbb0d4e4da2b45e768e4c6e
+      internalID: -1830169201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_11
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 166
+        width: 78
+        height: 85
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094ff02ba0cd7df10d051d325043e05
+      internalID: 1165949496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 83
+        height: 82
+      alignment: 9
+      pivot: {x: 0.33734939, y: 0.2195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3869a8ba73fb6002cd7ad8df6966ec21
+      internalID: -733165302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 78
+        width: 83
+        height: 80
+      alignment: 9
+      pivot: {x: 0.33734939, y: 0.225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dd7ae555f384497b9f0a5c301f1eac
+      internalID: 1090663722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 78
+        width: 106
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3773585, y: 0.225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664eae94e9ce73d781f62f091b8dc435
+      internalID: -1157688199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_15
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 167
+        width: 107
+        height: 84
+      alignment: 9
+      pivot: {x: 0.37383178, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315fa273eba40c3f653a09bce957a767
+      internalID: 2035793305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 165
+        width: 111
+        height: 86
+      alignment: 9
+      pivot: {x: 0.3873874, y: 0.22093023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571895c1ff7cbdf1a0a1a49aa5014c61
+      internalID: -125196202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_17
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 167
+        width: 108
+        height: 84
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.22619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcfdbc9b8aa23963401ad3242909b17
+      internalID: -131764814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 78
+        width: 101
+        height: 80
+      alignment: 9
+      pivot: {x: 0.37623763, y: 0.225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd42e87832c2978963ee8861b4a119
+      internalID: -363679983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 164
+        width: 101
+        height: 87
+      alignment: 9
+      pivot: {x: 0.42574257, y: 0.20689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b685ced930f3ab3613ae33df61877b6c
+      internalID: -572104961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_20
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 167
+        width: 101
+        height: 84
+      alignment: 9
+      pivot: {x: 0.41584158, y: 0.20238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdec5085cba3b23c683cb21a2efe19d
+      internalID: 1010864175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 77
+        width: 99
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4040404, y: 0.20987654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f9e196e41bf03b15f60b35a13b3e64
+      internalID: 1008556281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 80
+        width: 95
+        height: 78
+      alignment: 9
+      pivot: {x: 0.37894738, y: 0.21794872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8117d615e8c30709e2cfe6f4ab89733
+      internalID: 2096234389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_23
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 266
+        width: 89
+        height: 94
+      alignment: 9
+      pivot: {x: 0.35955057, y: 0.18085106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d82a90fb219fde4e1fc8754607244e0
+      internalID: -1011434639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_24
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 265
+        width: 81
+        height: 95
+      alignment: 9
+      pivot: {x: 0.30864197, y: 0.18947369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18473f1cb942c98c166ec6aee73f70dc
+      internalID: 1094236685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 81
+        height: 92
+      alignment: 9
+      pivot: {x: 0.30864197, y: 0.19565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92638d62b49d7d721be16c431e1bef6
+      internalID: 796423639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 161
+        width: 85
+        height: 90
+      alignment: 9
+      pivot: {x: 0.3529412, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8d75c4b6eace65880b944e8722e7a
+      internalID: 677803214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 124
+        height: 74
+      alignment: 9
+      pivot: {x: 0.44354838, y: 0.2027027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91863571993b53366bb287828d157c90
+      internalID: -283576950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1
+        width: 124
+        height: 74
+      alignment: 9
+      pivot: {x: 0.3548387, y: 0.2027027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c17ba1235af536619a0164332478ade
+      internalID: 1743500892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_29
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 82
+        width: 120
+        height: 76
+      alignment: 9
+      pivot: {x: 0.23333333, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f1f75eca547db483f4028766f2fece
+      internalID: -1398239940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_30
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 82
+        width: 120
+        height: 76
+      alignment: 9
+      pivot: {x: 0.14166667, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a241ca9b29a6cedad24e03bf2ec87
+      internalID: -1168300007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 82
+        width: 116
+        height: 76
+      alignment: 9
+      pivot: {x: 0.00862069, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74fd05fbd60ba85fdb2e9ec2d59509b
+      internalID: 1691814739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_32
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 83
+        width: 117
+        height: 75
+      alignment: 9
+      pivot: {x: -0.07692308, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8490e927c1ead9499b97f2400ee4f
+      internalID: 43912413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_33
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 83
+        width: 117
+        height: 75
+      alignment: 9
+      pivot: {x: -0.17094018, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb1947da61c906b51fee16f2434ffc2
+      internalID: 1033663485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_34
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 83
+        width: 117
+        height: 75
+      alignment: 9
+      pivot: {x: -0.26495728, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1c6a2336263c7a75eb657ce54362dd
+      internalID: -1936119013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_35
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 83
+        width: 118
+        height: 75
+      alignment: 9
+      pivot: {x: -0.3559322, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a88eb079516c554295cf8c956e8c44
+      internalID: 1586010063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_36
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 83
+        width: 118
+        height: 75
+      alignment: 9
+      pivot: {x: -0.44915253, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b5e565392664c8face5891a4588e1
+      internalID: 1644284746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_37
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 83
+        width: 117
+        height: 75
+      alignment: 9
+      pivot: {x: -0.5555556, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1a17c24592baee425b726243202aa
+      internalID: 507121879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 117
+        height: 75
+      alignment: 9
+      pivot: {x: -0.6495727, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03578aff6d0844dd3d5a6790c3987944
+      internalID: 2018643749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 111
+        height: 75
+      alignment: 9
+      pivot: {x: -0.8468468, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a95817dbcbeef834cb2cd766fcec53
+      internalID: -331831413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_40
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 112
+        height: 75
+      alignment: 9
+      pivot: {x: -0.9285714, y: 0.21333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfa24ca9989053e76fc12fc96dde963
+      internalID: 1706004247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 255
+        width: 110
+        height: 105
+      alignment: 9
+      pivot: {x: -1.2272727, y: 0.41904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c88cf577adb1270a3cd7c7e330e86a
+      internalID: 818534356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_42
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 257
+        width: 108
+        height: 103
+      alignment: 9
+      pivot: {x: -1.2592592, y: 0.42718446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca0a1fbf6f08d559edd4fbfb8da75a6
+      internalID: 1631572361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_43
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 259
+        width: 104
+        height: 101
+      alignment: 9
+      pivot: {x: -1.3269231, y: 0.42574257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aad6e7cfea0a558163c4d90c91f6426
+      internalID: 1097384038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_44
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 261
+        width: 102
+        height: 99
+      alignment: 9
+      pivot: {x: -1.362745, y: 0.43434343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b890375b8aae0a47c7f70aabcc9533
+      internalID: -908868103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_45
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 263
+        width: 106
+        height: 97
+      alignment: 9
+      pivot: {x: -1.2924528, y: 0.4329897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f868b555e584126e69548506bc938bc
+      internalID: -1047633312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_46
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 258
+        width: 120
+        height: 102
+      alignment: 9
+      pivot: {x: -1.0833334, y: 0.4117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0edc86a1f4a37554c840398e521c40
+      internalID: -814794303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_47
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 253
+        width: 132
+        height: 107
+      alignment: 9
+      pivot: {x: -0.93939394, y: 0.38317758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035692494ec4b1c4c8241687380d343f
+      internalID: 1730975467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_48
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 480
+        width: 141
+        height: 113
+      alignment: 9
+      pivot: {x: -0.85106385, y: 0.37168142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9720aa9ac855d842da9006839952c2
+      internalID: 1521425351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_49
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 475
+        width: 148
+        height: 118
+      alignment: 9
+      pivot: {x: -0.7837838, y: 0.3644068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940927844197a6cb0c2b3f7f6eb85da2
+      internalID: -1724817553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_50
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 613
+        width: 152
+        height: 122
+      alignment: 9
+      pivot: {x: -0.75, y: 0.352459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa837ecb8466a5bb3c34cad29c3080
+      internalID: -977968456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_51
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 477
+        width: 156
+        height: 116
+      alignment: 9
+      pivot: {x: -0.71794873, y: 0.29310346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85b39bfeae61f1a3b04aec55353a79
+      internalID: 560676285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_52
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 477
+        width: 158
+        height: 116
+      alignment: 9
+      pivot: {x: -0.70253164, y: 0.27586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98306c64854d2d0d17c840cc5f86b4ac
+      internalID: 1140562349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 477
+        width: 162
+        height: 116
+      alignment: 9
+      pivot: {x: -0.6666667, y: 0.25862068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d797201d65d746a41c240ed64685b077
+      internalID: 1581691262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 165
+        height: 118
+      alignment: 9
+      pivot: {x: -0.6363636, y: 0.23728813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0636463670e366d955c1ac83f9a41f
+      internalID: -1223114017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_55
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 475
+        width: 165
+        height: 118
+      alignment: 9
+      pivot: {x: -0.630303, y: 0.21186441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0305379ecccd9ca412479ccd3d73bf29
+      internalID: -238716262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_56
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 616
+        width: 146
+        height: 119
+      alignment: 9
+      pivot: {x: -0.7123288, y: 0.18487395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf00443ab014305c2df83481b6e58bc
+      internalID: 41269999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_57
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 615
+        width: 149
+        height: 120
+      alignment: 9
+      pivot: {x: -0.6912752, y: 0.15833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4d6d4d7c3ef48e54623c0e86bf506a
+      internalID: 1114527854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_58
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 613
+        width: 154
+        height: 122
+      alignment: 9
+      pivot: {x: -0.64935064, y: 0.14754099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5216159fcf30759f89106785f2977d
+      internalID: -796085046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_59
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 610
+        width: 160
+        height: 125
+      alignment: 9
+      pivot: {x: -0.6, y: 0.144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a72ec66876dd58bba1ebcf66be30266
+      internalID: 1268991645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_60
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 606
+        width: 165
+        height: 129
+      alignment: 9
+      pivot: {x: -0.56363636, y: 0.14728682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb18b0dc2b4f4a016b05b75db54af32f
+      internalID: -248740188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_61
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 603
+        width: 171
+        height: 132
+      alignment: 9
+      pivot: {x: -0.5204678, y: 0.14393939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8caa7616f9b590c342eac54443b766d
+      internalID: -1918685292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_62
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 600
+        width: 175
+        height: 135
+      alignment: 9
+      pivot: {x: -0.49142858, y: 0.14074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d43b74eaaf1e745890417b53527800
+      internalID: -984495566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_63
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 597
+        width: 179
+        height: 138
+      alignment: 9
+      pivot: {x: -0.46368715, y: 0.13768116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e50b909a3a8cb11fddabee7f4f4bae9
+      internalID: 1837843393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 181
+        height: 141
+      alignment: 9
+      pivot: {x: -0.45856354, y: 0.13475177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bfaefdba426be269401b0f89d7e445
+      internalID: 2089799995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_65
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 754
+        width: 181
+        height: 144
+      alignment: 9
+      pivot: {x: -0.4640884, y: 0.13194445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7618d1c9ca5bbe0d450a19d9c546aa2
+      internalID: -1826461858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_66
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 752
+        width: 182
+        height: 146
+      alignment: 9
+      pivot: {x: -0.46153846, y: 0.13013698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70de390330e22e293c45e7a6405f815d
+      internalID: -843348101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_67
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 748
+        width: 183
+        height: 150
+      alignment: 9
+      pivot: {x: -0.45901638, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0350e82efcd240e3b93de9bb3af14c4e
+      internalID: 870750763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_68
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 746
+        width: 184
+        height: 152
+      alignment: 9
+      pivot: {x: -0.45652175, y: 0.13157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d5a363dca656e9753b1d0fc1922535
+      internalID: -1269480216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_69
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 744
+        width: 185
+        height: 154
+      alignment: 9
+      pivot: {x: -0.45405406, y: 0.12987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9daa5778348cbf9fffa347534a1bd1
+      internalID: 1626767333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_70
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 745
+        width: 186
+        height: 153
+      alignment: 9
+      pivot: {x: -0.4516129, y: 0.13071896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24884af052a6cd30dbb9b0b6e869e9
+      internalID: -1073295216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_71
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 743
+        width: 187
+        height: 155
+      alignment: 9
+      pivot: {x: -0.44919786, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce388293592451138c4e5dbb24267ba
+      internalID: -1897795533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 737
+        width: 188
+        height: 161
+      alignment: 9
+      pivot: {x: -0.44680852, y: 0.124223605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7709e608bca162cf05a609f6a6fbefc
+      internalID: 1029534537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_73
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 901
+        width: 189
+        height: 163
+      alignment: 9
+      pivot: {x: -0.44444445, y: 0.12269939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3685155d5c8d42c493811c9c791d67
+      internalID: 642279732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_74
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 900
+        width: 190
+        height: 164
+      alignment: 9
+      pivot: {x: -0.44210526, y: 0.11585366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69d3fd16ff00ca609c6e2afc551209
+      internalID: 1540349124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 190
+        height: 162
+      alignment: 9
+      pivot: {x: -0.4473684, y: 0.11728395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e4970087330913e3c98b9b1c2ede50
+      internalID: -2087556034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_76
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 900
+        width: 190
+        height: 164
+      alignment: 9
+      pivot: {x: -0.4473684, y: 0.11585366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580a1d6e694f71630c05beaadde86ccc
+      internalID: -1760787726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_77
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1070
+        width: 191
+        height: 166
+      alignment: 9
+      pivot: {x: -0.4450262, y: 0.09638554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7277578b168476bb866dbc490af35a0a
+      internalID: 1798557010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_78
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1070
+        width: 192
+        height: 166
+      alignment: 9
+      pivot: {x: -0.44270834, y: 0.090361446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c221eb41f27e7647ca01c1f7bd056538
+      internalID: -600539836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_79
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 901
+        width: 193
+        height: 163
+      alignment: 9
+      pivot: {x: -0.44041452, y: 0.116564415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d723999f41dfc5754f8755ca076a5b77
+      internalID: 1625716105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_80
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 900
+        width: 193
+        height: 164
+      alignment: 9
+      pivot: {x: -0.44041452, y: 0.11585366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008adace6ba66a488132f97aa7b7a00b
+      internalID: 1270054548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_81
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1066
+        width: 194
+        height: 170
+      alignment: 9
+      pivot: {x: -0.43814433, y: 0.105882354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d67eb2d4f75e793623a22e8bed5c20a
+      internalID: 1329776948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1068
+        width: 194
+        height: 168
+      alignment: 9
+      pivot: {x: -0.43814433, y: 0.08928572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67377cd9f03147c62689ff9616c8d7b
+      internalID: 909111511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_83
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 902
+        width: 195
+        height: 162
+      alignment: 9
+      pivot: {x: -0.43589744, y: 0.086419754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47150c42d373fc80fa296c683d87ebf
+      internalID: 878701361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_84
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1070
+        width: 195
+        height: 166
+      alignment: 9
+      pivot: {x: -0.44102564, y: 0.09638554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a912c149cf48a7080d991532f9f527
+      internalID: 615391762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_85
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1070
+        width: 195
+        height: 166
+      alignment: 9
+      pivot: {x: -0.44102564, y: 0.090361446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761edd3928cca6cf7d79a807b1f71a21
+      internalID: -1495783407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_86
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1243
+        width: 196
+        height: 171
+      alignment: 9
+      pivot: {x: -0.4387755, y: 0.081871346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b626ea855a326afb3ba32faba402f30d
+      internalID: -567639177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 196
+        height: 165
+      alignment: 9
+      pivot: {x: -0.4387755, y: 0.042424243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc32286a607440272f5c9935872f291
+      internalID: -891198755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_88
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 902
+        width: 197
+        height: 162
+      alignment: 9
+      pivot: {x: -0.43654823, y: 0.037037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14832ea2d64fd33b305d65f0b7551c42
+      internalID: 937194044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_89
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1243
+        width: 197
+        height: 171
+      alignment: 9
+      pivot: {x: -0.43654823, y: 0.07602339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242a517b12f3acc39e0bf932e14b5254
+      internalID: 713737792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_90
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1243
+        width: 198
+        height: 171
+      alignment: 9
+      pivot: {x: -0.43434343, y: 0.07017544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9763f2199081f0ccdc1c00fe71a7d5aa
+      internalID: 559978282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_91
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1241
+        width: 198
+        height: 173
+      alignment: 9
+      pivot: {x: -0.43434343, y: 0.06936416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d833f3689e62f765fab1f7a835b49ed7
+      internalID: 934906096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_92
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1069
+        width: 166
+        height: 167
+      alignment: 9
+      pivot: {x: -0.52409637, y: 0.029940119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65973b598b90b3ad75aee5d57d9fa0a4
+      internalID: 1687795442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1065
+        width: 164
+        height: 171
+      alignment: 9
+      pivot: {x: -0.5304878, y: 0.040935673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a656619b7f0c6cb1cb6dfbafb19de0
+      internalID: 964795164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_94
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1238
+        width: 166
+        height: 176
+      alignment: 9
+      pivot: {x: -0.52409637, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4add9d1865487d1a25fba3ff8f3d2c5b
+      internalID: -287931568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_95
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1420
+        width: 167
+        height: 177
+      alignment: 9
+      pivot: {x: -0.52095807, y: 0.056497175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d45c5b3b3bf87bf41dbeec7c5722302
+      internalID: -1907874963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_96
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1241
+        width: 166
+        height: 173
+      alignment: 9
+      pivot: {x: -0.5301205, y: 0.028901733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd62697bd85aee668fb5faa9f46144b
+      internalID: -170345619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_97
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1240
+        width: 164
+        height: 174
+      alignment: 9
+      pivot: {x: -0.5365854, y: 0.028735632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd62900b57ef09bb0fc4699712f40f7
+      internalID: -142990457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_98
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1239
+        width: 164
+        height: 175
+      alignment: 9
+      pivot: {x: -0.5365854, y: 0.022857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f158269382c3f9edd7f17cead6b06a09
+      internalID: 1905437047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_99
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1418
+        width: 166
+        height: 179
+      alignment: 9
+      pivot: {x: -0.5301205, y: 0.039106146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cfbcdeb8853b6c1c2438fbfe80938c
+      internalID: 66750705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_100
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1418
+        width: 166
+        height: 179
+      alignment: 9
+      pivot: {x: -0.5301205, y: 0.033519555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870730c6ca624664bac86fd51ce8f91f
+      internalID: -1332126206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_101
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1418
+        width: 164
+        height: 179
+      alignment: 9
+      pivot: {x: -0.5365854, y: 0.022346368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff5c13dc7ac0d1b742e6e4fe7ccd39c
+      internalID: 959198043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_102
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1417
+        width: 164
+        height: 180
+      alignment: 9
+      pivot: {x: -0.5365854, y: 0.022222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f3829557012f3d275f935ed770f467
+      internalID: -592893950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_103
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1416
+        width: 164
+        height: 181
+      alignment: 9
+      pivot: {x: -0.5365854, y: 0.022099448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada569c3a0f9984bd86599c4033a3ddc
+      internalID: 928153985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_104
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1607
+        width: 165
+        height: 182
+      alignment: 9
+      pivot: {x: -0.53939396, y: 0.021978023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcfe6c0b2dd0f8c458552054e58efd6
+      internalID: -837376872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_105
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1605
+        width: 165
+        height: 184
+      alignment: 9
+      pivot: {x: -0.53939396, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacd672ba1d49a580c7f4afcf903a34b
+      internalID: 1117140500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_106
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1604
+        width: 164
+        height: 185
+      alignment: 9
+      pivot: {x: -0.54268295, y: 0.021621622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d80a2688f5f9005abd5e17ea90f92e
+      internalID: 109998537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_107
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1603
+        width: 165
+        height: 186
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.021505376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ecec39016f8336514de0755450b7c3
+      internalID: 1370375443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_108
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1602
+        width: 165
+        height: 187
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.021390375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd2cefee23a35d71b7739042f2690e
+      internalID: -1668922152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_109
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1601
+        width: 165
+        height: 188
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.021276595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8880a41f9f48edad38e1d0164f8d4028
+      internalID: 1686849202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_110
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1600
+        width: 165
+        height: 189
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.02116402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09169b4de7eba3a43d94c60ae3b23492
+      internalID: -1033376385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_111
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1599
+        width: 165
+        height: 190
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.021052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23bc52cf6cd7d74af1ef1df36614d53
+      internalID: -1398636911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 165
+        height: 191
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.020942409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e371c6b019769458037e6ef3490e5b5f
+      internalID: -1472473685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_113
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1598
+        width: 165
+        height: 191
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.015706806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ef8674db1bce4e0be6c53c8ca79996
+      internalID: 39000160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_114
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1418
+        width: 165
+        height: 179
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.016759777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff82023078b475b7949ed2b5f39bdd
+      internalID: -784066598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_115
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1417
+        width: 165
+        height: 180
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.016666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c92ec6cc777b74abea6eb0e5b86998
+      internalID: 535678774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_116
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1416
+        width: 165
+        height: 181
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.016574586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ec9fdfcac45da52608c06f987ae4d6
+      internalID: -558050439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1415
+        width: 165
+        height: 182
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.016483517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5487c6c0151963bc871596d49a78136
+      internalID: -1430416246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1237
+        width: 165
+        height: 177
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.016949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec77a8871ee0fd873abf02818d71639
+      internalID: 28644751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_119
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 364
+        width: 165
+        height: 110
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.027272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ba80abcc8681c1a17d634afc9d9f9
+      internalID: -189795286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_120
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 363
+        width: 165
+        height: 111
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e1ca9143ec04c8d2e723041329645c
+      internalID: -62593211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_121
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 362
+        width: 165
+        height: 112
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f95c7bde320e39ac9324d5d96bedccd
+      internalID: -770746336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_122
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 480
+        width: 165
+        height: 113
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.026548672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5b598984d62679da5be72c025af12e
+      internalID: 1546782323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_123
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 254
+        width: 165
+        height: 106
+      alignment: 9
+      pivot: {x: -0.53333336, y: 0.028301887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b9210a61ed81a3c0fe38beda3aa1d7
+      internalID: 1800986142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_124
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 254
+        width: 166
+        height: 106
+      alignment: 9
+      pivot: {x: -0.52409637, y: 0.028301887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d659f63b935e7bc528dac7051c4c796
+      internalID: -2005817212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_125
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 253
+        width: 166
+        height: 107
+      alignment: 9
+      pivot: {x: -0.52409637, y: 0.028037382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916788d6930101064619884e6c5eb90d
+      internalID: -100145586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 166
+        height: 108
+      alignment: 9
+      pivot: {x: -0.52409637, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211cb7b5ba4be3c9df04a80aa7a76192
+      internalID: 808427530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_127
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 365
+        width: 166
+        height: 109
+      alignment: 9
+      pivot: {x: -0.52409637, y: 0.027522936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5290c0be53f7fd8e837bcb94349447e
+      internalID: -1238492923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_128
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 365
+        width: 166
+        height: 109
+      alignment: 9
+      pivot: {x: -0.52409637, y: 0.027522936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984a0ec359e600e57045e88cfaa3ae5b
+      internalID: 183599636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_129
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 364
+        width: 166
+        height: 110
+      alignment: 9
+      pivot: {x: -0.52409637, y: 0.027272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e2561cfd7aca6ad1b86f06092d301e
+      internalID: 478260973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_130
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 363
+        width: 166
+        height: 111
+      alignment: 9
+      pivot: {x: -0.52409637, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ade750deec3e2e5f1ac9265d98c952
+      internalID: -1097615822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_131
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 363
+        width: 147
+        height: 111
+      alignment: 9
+      pivot: {x: -0.59183675, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d25f1ad509a363e0dc942f2a56730f
+      internalID: -233704292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_132
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 362
+        width: 125
+        height: 112
+      alignment: 9
+      pivot: {x: -0.696, y: 0.026785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f067d6b23a10ac901dd544474ef1cb5
+      internalID: -499691855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 121
+        height: 113
+      alignment: 9
+      pivot: {x: -0.7107438, y: 0.026548672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af2eb7f5a2cb20ab83985d268009dbb
+      internalID: -544252427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_134
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 361
+        width: 121
+        height: 113
+      alignment: 9
+      pivot: {x: -0.7107438, y: 0.026548672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3c39af561a0150e4dce25a289bd615
+      internalID: -249375832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_135
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 479
+        width: 121
+        height: 114
+      alignment: 9
+      pivot: {x: -0.7107438, y: 0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591fe0c2f5a9bf26157539f20e79fb09
+      internalID: -1173413861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_136
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 478
+        width: 121
+        height: 115
+      alignment: 9
+      pivot: {x: -0.7107438, y: 0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307669f04338dcd41fe35f21b5bd3dfb
+      internalID: 764411157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_137
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 478
+        width: 52
+        height: 115
+      alignment: 9
+      pivot: {x: -2.9807692, y: 0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842eca3b969581c98c8fe33014cad021
+      internalID: 1397192960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_138
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 477
+        width: 52
+        height: 116
+      alignment: 9
+      pivot: {x: -2.9807692, y: 0.02586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3c7831415969ec31d572ec2e840f05
+      internalID: 1425270981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_139
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 476
+        width: 52
+        height: 117
+      alignment: 9
+      pivot: {x: -2.9807692, y: 0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d411a8333fdb86d21c854da53010498
+      internalID: -203152540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_140
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 38
+        width: 52
+        height: 37
+      alignment: 9
+      pivot: {x: -2.9807692, y: 0.08108108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a67bbd9bbad343b75909bb540cfc2ea
+      internalID: 1817707227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_141
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 72
+        width: 37
+        height: 3
+      alignment: 9
+      pivot: {x: -4.5945945, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756db312d2951fb300e0eb91571ad1c1
+      internalID: 1355960003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_142
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 72
+        width: 37
+        height: 3
+      alignment: 9
+      pivot: {x: -4.5945945, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41360eb41755721354aeacd6df4e07
+      internalID: -900039350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_143
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 72
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.0882354, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b7cb3c894679b182148834b08ef31
+      internalID: -236696628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_144
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 72
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.0882354, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc0c76b51cb94ec1a45b69a9e60695
+      internalID: 973527936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_145
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 72
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.0882354, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d743e39a3c02e8de9d1c763302c38be0
+      internalID: 2076943279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_146
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 72
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.0882354, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a05e8fa4a8bb69cce287b4f1eefd67
+      internalID: 1580381752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_147
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 72
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.0882354, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2152088092789e25f021b01caf100d25
+      internalID: 250516914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_148
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 72
+        width: 34
+        height: 3
+      alignment: 9
+      pivot: {x: -5.0882354, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0696222ea2a804dcdd566be4deb62b0e
+      internalID: 2089041022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_149
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 72
+        width: 33
+        height: 3
+      alignment: 9
+      pivot: {x: -5.2727275, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f30e7bb4dcefdc0734c952d98ceab46
+      internalID: -1472108466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_150
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 72
+        width: 31
+        height: 3
+      alignment: 9
+      pivot: {x: -5.612903, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d4d3cffa730c6718044ba9c5cea62c
+      internalID: -488385382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_151
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 72
+        width: 31
+        height: 3
+      alignment: 9
+      pivot: {x: -5.612903, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8f7bf11917bb878a9ece496ff8c21
+      internalID: -984041606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_152
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 72
+        width: 31
+        height: 3
+      alignment: 9
+      pivot: {x: -5.612903, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fce28fcc6c023695f60dc60ff777c7
+      internalID: -1616213386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_153
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 72
+        width: 29
+        height: 3
+      alignment: 9
+      pivot: {x: -6, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f3d5b57b9899acd8f42b774eb94c2d
+      internalID: 1329892306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_154
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 72
+        width: 29
+        height: 3
+      alignment: 9
+      pivot: {x: -6, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cc15c9723b159041f881b507cbc6fe
+      internalID: 1785375345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball-throw_155
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 74
+        width: 21
+        height: 1
+      alignment: 9
+      pivot: {x: -8.571428, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321082b448e2481f4695a01f5abf9703
+      internalID: -1819156222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 859f9bb9728384f1c990ed3dbe72ccd9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fireball-throw_0: 3581837743619561128
+      fireball-throw_1: -1177489465
+      fireball-throw_10: -1830169201
+      fireball-throw_100: -1332126206
+      fireball-throw_101: 959198043
+      fireball-throw_102: -592893950
+      fireball-throw_103: 928153985
+      fireball-throw_104: -837376872
+      fireball-throw_105: 1117140500
+      fireball-throw_106: 109998537
+      fireball-throw_107: 1370375443
+      fireball-throw_108: -1668922152
+      fireball-throw_109: 1686849202
+      fireball-throw_11: 1165949496
+      fireball-throw_110: -1033376385
+      fireball-throw_111: -1398636911
+      fireball-throw_112: -1472473685
+      fireball-throw_113: 39000160
+      fireball-throw_114: -784066598
+      fireball-throw_115: 535678774
+      fireball-throw_116: -558050439
+      fireball-throw_117: -1430416246
+      fireball-throw_118: 28644751
+      fireball-throw_119: -189795286
+      fireball-throw_12: -733165302
+      fireball-throw_120: -62593211
+      fireball-throw_121: -770746336
+      fireball-throw_122: 1546782323
+      fireball-throw_123: 1800986142
+      fireball-throw_124: -2005817212
+      fireball-throw_125: -100145586
+      fireball-throw_126: 808427530
+      fireball-throw_127: -1238492923
+      fireball-throw_128: 183599636
+      fireball-throw_129: 478260973
+      fireball-throw_13: 1090663722
+      fireball-throw_130: -1097615822
+      fireball-throw_131: -233704292
+      fireball-throw_132: -499691855
+      fireball-throw_133: -544252427
+      fireball-throw_134: -249375832
+      fireball-throw_135: -1173413861
+      fireball-throw_136: 764411157
+      fireball-throw_137: 1397192960
+      fireball-throw_138: 1425270981
+      fireball-throw_139: -203152540
+      fireball-throw_14: -1157688199
+      fireball-throw_140: 1817707227
+      fireball-throw_141: 1355960003
+      fireball-throw_142: -900039350
+      fireball-throw_143: -236696628
+      fireball-throw_144: 973527936
+      fireball-throw_145: 2076943279
+      fireball-throw_146: 1580381752
+      fireball-throw_147: 250516914
+      fireball-throw_148: 2089041022
+      fireball-throw_149: -1472108466
+      fireball-throw_15: 2035793305
+      fireball-throw_150: -488385382
+      fireball-throw_151: -984041606
+      fireball-throw_152: -1616213386
+      fireball-throw_153: 1329892306
+      fireball-throw_154: 1785375345
+      fireball-throw_155: -1819156222
+      fireball-throw_16: -125196202
+      fireball-throw_17: -131764814
+      fireball-throw_18: -363679983
+      fireball-throw_19: -572104961
+      fireball-throw_2: 1702872069
+      fireball-throw_20: 1010864175
+      fireball-throw_21: 1008556281
+      fireball-throw_22: 2096234389
+      fireball-throw_23: -1011434639
+      fireball-throw_24: 1094236685
+      fireball-throw_25: 796423639
+      fireball-throw_26: 677803214
+      fireball-throw_27: -283576950
+      fireball-throw_28: 1743500892
+      fireball-throw_29: -1398239940
+      fireball-throw_3: -2096268539
+      fireball-throw_30: -1168300007
+      fireball-throw_31: 1691814739
+      fireball-throw_32: 43912413
+      fireball-throw_33: 1033663485
+      fireball-throw_34: -1936119013
+      fireball-throw_35: 1586010063
+      fireball-throw_36: 1644284746
+      fireball-throw_37: 507121879
+      fireball-throw_38: 2018643749
+      fireball-throw_39: -331831413
+      fireball-throw_4: -2084244313
+      fireball-throw_40: 1706004247
+      fireball-throw_41: 818534356
+      fireball-throw_42: 1631572361
+      fireball-throw_43: 1097384038
+      fireball-throw_44: -908868103
+      fireball-throw_45: -1047633312
+      fireball-throw_46: -814794303
+      fireball-throw_47: 1730975467
+      fireball-throw_48: 1521425351
+      fireball-throw_49: -1724817553
+      fireball-throw_5: -277894366
+      fireball-throw_50: -977968456
+      fireball-throw_51: 560676285
+      fireball-throw_52: 1140562349
+      fireball-throw_53: 1581691262
+      fireball-throw_54: -1223114017
+      fireball-throw_55: -238716262
+      fireball-throw_56: 41269999
+      fireball-throw_57: 1114527854
+      fireball-throw_58: -796085046
+      fireball-throw_59: 1268991645
+      fireball-throw_6: -2085954595
+      fireball-throw_60: -248740188
+      fireball-throw_61: -1918685292
+      fireball-throw_62: -984495566
+      fireball-throw_63: 1837843393
+      fireball-throw_64: 2089799995
+      fireball-throw_65: -1826461858
+      fireball-throw_66: -843348101
+      fireball-throw_67: 870750763
+      fireball-throw_68: -1269480216
+      fireball-throw_69: 1626767333
+      fireball-throw_7: 1791381926
+      fireball-throw_70: -1073295216
+      fireball-throw_71: -1897795533
+      fireball-throw_72: 1029534537
+      fireball-throw_73: 642279732
+      fireball-throw_74: 1540349124
+      fireball-throw_75: -2087556034
+      fireball-throw_76: -1760787726
+      fireball-throw_77: 1798557010
+      fireball-throw_78: -600539836
+      fireball-throw_79: 1625716105
+      fireball-throw_8: 1522827590
+      fireball-throw_80: 1270054548
+      fireball-throw_81: 1329776948
+      fireball-throw_82: 909111511
+      fireball-throw_83: 878701361
+      fireball-throw_84: 615391762
+      fireball-throw_85: -1495783407
+      fireball-throw_86: -567639177
+      fireball-throw_87: -891198755
+      fireball-throw_88: 937194044
+      fireball-throw_89: 713737792
+      fireball-throw_9: -1815405608
+      fireball-throw_90: 559978282
+      fireball-throw_91: 934906096
+      fireball-throw_92: 1687795442
+      fireball-throw_93: 964795164
+      fireball-throw_94: -287931568
+      fireball-throw_95: -1907874963
+      fireball-throw_96: -170345619
+      fireball-throw_97: -142990457
+      fireball-throw_98: 1905437047
+      fireball-throw_99: 66750705
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

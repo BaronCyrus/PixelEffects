@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: daa17a3f8a8db4b8b893599454b29d79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5470541739141264660
+    second: heart-pickup_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heart-pickup_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 41
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.051282052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e093820a454556bac7afb31893ff7c
+      internalID: -5470541739141264660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 41
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.051282052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9436f87fd60d2a6e30c6884736848a71
+      internalID: -420756772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 48
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10638298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a45cf5729b06fedecd6a85cfabbc7fd
+      internalID: -1390945355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 124
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77a3a8e34be7fcf5a981d9dd429f439
+      internalID: -59352378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 82
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5b0988187e012e95939231d2a3aa51
+      internalID: -1508328703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea995de8095dd99557a7cbfc0766899a
+      internalID: 845805647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726807196e6614d3f2d6322698ee993
+      internalID: -1795787983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 168
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d525af49850b48c33f026b34e6b53
+      internalID: 1535718209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 168
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53982d10359c190d3ec8c0c418392611
+      internalID: -71376828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 214
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf13a4c51704df44254213928eddbae8
+      internalID: -1744363097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 167
+        width: 40
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.046511628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1704fbdfe2bfcb7f8ddc32738091db92
+      internalID: 684986987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e450456d8babbd9339c6ffcf60bc4f8b
+      internalID: 1050327207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 166
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ecea2b549cb08957c4a7b08ec15942
+      internalID: 908307800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 213
+        width: 38
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.044444446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7871361ca1e5a486f0d6cd1bf622cca1
+      internalID: 1582670261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 213
+        width: 38
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.044444446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f9f7c82ef8a9b530d8993388c35cbe
+      internalID: -273472191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 213
+        width: 38
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.044444446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717bedecc51221c1004e21de85286d66
+      internalID: -704922281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 213
+        width: 38
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.044444446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7de77c50817d23eb8389947b6843f04
+      internalID: -781539769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 166
+        width: 38
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa741326351f9d67c0eb41849e3c1493
+      internalID: -904501083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fb074a778da539ee6bee4706ad1c6f
+      internalID: 1031308197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 123
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce53dd85673ac5087b0942c517fe915
+      internalID: 369139719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 123
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f474d63b786268268803fb8993e89
+      internalID: -1468782002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47962c87a50bd2cb3d4dff2a3e60b09
+      internalID: 2074569811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55c74f32b1491f5a6dab7dd07d599e6
+      internalID: -1768957646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb47252f00f7275292ae2f02177fd34
+      internalID: -1788239895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a2f11eb355114d07a7d9de42885987
+      internalID: 443242445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131debd768a9d1f6683b1a59ec253c38
+      internalID: 1881081259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 41
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.051282052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2617de60cde9b1feae228d578de05a1
+      internalID: -1413335598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.051282052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f70875195a99d9a62550e8ff78da6
+      internalID: 1044249134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 40
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192d8eade7e68618fdd0c79549ca75ec
+      internalID: 414724780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 82
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccba7bb1acf3f0c3b1ff84243f7a821
+      internalID: -2052448769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 124
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad479966af4a847a8a2de98018c009a5
+      internalID: 1623996257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 124
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6375375418990c8b838bac7e6c8fb1
+      internalID: 998438220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 81
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a946a95149c99076a3580690966410cd
+      internalID: 840000589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_33
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 81
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a2dbf9dd2c5d7f54bd837f21f134c
+      internalID: -1625166155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 81
+        width: 38
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.048780486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3199675ea11fa15a4121374b1d2fcc91
+      internalID: -1670200280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart-pickup_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.051282052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baa06fa68f1e2c14676c6167712b6ee
+      internalID: 578914213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 43e3b4cefc77048eea1428dafe034c81
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      heart-pickup_0: -5470541739141264660
+      heart-pickup_1: -420756772
+      heart-pickup_10: 684986987
+      heart-pickup_11: 1050327207
+      heart-pickup_12: 908307800
+      heart-pickup_13: 1582670261
+      heart-pickup_14: -273472191
+      heart-pickup_15: -704922281
+      heart-pickup_16: -781539769
+      heart-pickup_17: -904501083
+      heart-pickup_18: 1031308197
+      heart-pickup_19: 369139719
+      heart-pickup_2: -1390945355
+      heart-pickup_20: -1468782002
+      heart-pickup_21: 2074569811
+      heart-pickup_22: -1768957646
+      heart-pickup_23: -1788239895
+      heart-pickup_24: 443242445
+      heart-pickup_25: 1881081259
+      heart-pickup_26: -1413335598
+      heart-pickup_27: 1044249134
+      heart-pickup_28: 414724780
+      heart-pickup_29: -2052448769
+      heart-pickup_3: -59352378
+      heart-pickup_30: 1623996257
+      heart-pickup_31: 998438220
+      heart-pickup_32: 840000589
+      heart-pickup_33: -1625166155
+      heart-pickup_34: -1670200280
+      heart-pickup_35: 578914213
+      heart-pickup_4: -1508328703
+      heart-pickup_5: 845805647
+      heart-pickup_6: -1795787983
+      heart-pickup_7: 1535718209
+      heart-pickup_8: -71376828
+      heart-pickup_9: -1744363097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

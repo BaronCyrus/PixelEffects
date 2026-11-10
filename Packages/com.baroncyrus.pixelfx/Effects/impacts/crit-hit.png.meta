@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: c78adc46221964def8d01725fa74f71e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4369011357524687277
+    second: crit-hit_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crit-hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 154
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22137405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b48444907e89da07018dbfaad3ca6ec
+      internalID: -4369011357524687277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 479
+        width: 148
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2248062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18245897adcf9d6764c392f5267c864
+      internalID: -1781418558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 481
+        width: 144
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22834645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089fbfd425b39daf530684657eece4ee
+      internalID: -746690188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 138
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23387097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d740ffd379eb8aecbb9e7e171f3b3c2
+      internalID: 766910834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 356
+        width: 132
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444234104ba500ab69e4afde8070c2b5
+      internalID: 1662066774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 359
+        width: 126
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23931624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655099f39340d06f4bedb319cd090439
+      internalID: -1862991201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 363
+        width: 124
+        height: 113
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.23893805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e583374d5ba163e525f27eff7ce155
+      internalID: 536835645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 128
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.24074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cacec61d6d0bb23909f9186bb896745
+      internalID: 212249652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 246
+        width: 132
+        height: 105
+      alignment: 9
+      pivot: {x: 0.40151516, y: 0.24761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c558f82624d9041199cf49f94bcf60
+      internalID: -1812880144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 253
+        width: 135
+        height: 98
+      alignment: 9
+      pivot: {x: 0.36296296, y: 0.23469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddc8dc33f3f473bf7004bd7f9f9f5b0
+      internalID: 1043770427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 143
+        height: 93
+      alignment: 9
+      pivot: {x: 0.35664335, y: 0.19354838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f9f66770eb9f123703d7f2fa670b8
+      internalID: -1317590730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 155
+        width: 151
+        height: 87
+      alignment: 9
+      pivot: {x: 0.3576159, y: 0.14942528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466101122a4ddafebe4d8f4f69ba44e
+      internalID: -2142816229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 76
+        width: 151
+        height: 72
+      alignment: 9
+      pivot: {x: 0.37748346, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de1985c6d7da270424888ad9c321d0
+      internalID: -1205641084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 155
+        height: 70
+      alignment: 9
+      pivot: {x: 0.38064516, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ef91b7f8ee2414d3cdf63246a48b1c
+      internalID: -537685994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 75
+        width: 124
+        height: 73
+      alignment: 9
+      pivot: {x: 0.22580644, y: 0.02739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c89f0be42d5fc2b81f154dc7304ebc
+      internalID: 705105740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 72
+        width: 108
+        height: 76
+      alignment: 9
+      pivot: {x: 0.2685185, y: 0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f227c69d90ffa4278e47d20b5e6a5
+      internalID: -1369946389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 109
+        height: 77
+      alignment: 9
+      pivot: {x: 0.27522936, y: 0.012987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a04c3a8e24b703c3311ead8c9fd29
+      internalID: -340802880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 163
+        width: 115
+        height: 79
+      alignment: 9
+      pivot: {x: 0.27826086, y: 0.012658228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24fc7e0804313d4bd9964b9b8fe20f6
+      internalID: 1811761784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 161
+        width: 120
+        height: 81
+      alignment: 9
+      pivot: {x: 0.275, y: 0.012345679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3476f8965d1be50a25b279ced1a4a7
+      internalID: -961557776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 6
+        width: 115
+        height: 64
+      alignment: 9
+      pivot: {x: 0.29565218, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7975c3c14db46dcabe5ed8805064d
+      internalID: -1114332144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 104
+        height: 65
+      alignment: 9
+      pivot: {x: 0.32692307, y: 0.015384615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8587177d336ab31a3a29aaf416c164dc
+      internalID: -389652067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_21
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 67
+        width: 27
+        height: 3
+      alignment: 9
+      pivot: {x: -1.6296296, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47157c50471ff8aa3dfbe4c9dbf493e7
+      internalID: 1058319770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 67
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: -22, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698fbea8c3f2b88f1d9c307ce11e236f
+      internalID: -260737423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 69
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: -68, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9d383af2cde09cfdb868b0137792ef
+      internalID: -449436624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crit-hit_24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 69
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d513788fe463892b0c3c0f36930b95
+      internalID: -1572362315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4495cea64d82847bb94188a4a577d8cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crit-hit_0: -4369011357524687277
+      crit-hit_1: -1781418558
+      crit-hit_10: -1317590730
+      crit-hit_11: -2142816229
+      crit-hit_12: -1205641084
+      crit-hit_13: -537685994
+      crit-hit_14: 705105740
+      crit-hit_15: -1369946389
+      crit-hit_16: -340802880
+      crit-hit_17: 1811761784
+      crit-hit_18: -961557776
+      crit-hit_19: -1114332144
+      crit-hit_2: -746690188
+      crit-hit_20: -389652067
+      crit-hit_21: 1058319770
+      crit-hit_22: -260737423
+      crit-hit_23: -449436624
+      crit-hit_24: -1572362315
+      crit-hit_3: 766910834
+      crit-hit_4: 1662066774
+      crit-hit_5: -1862991201
+      crit-hit_6: 536835645
+      crit-hit_7: 212249652
+      crit-hit_8: -1812880144
+      crit-hit_9: 1043770427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2389 @@
+fileFormatVersion: 2
+guid: 41fdde72340ce4a6faf3aeab86ce8a5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7753618657188617161
+    second: healing-bloom_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healing-bloom_0
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d045e2a31857c418bb08f0416d892f
+      internalID: 7753618657188617161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 29
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d24c5fe34534a87efe51fe8436c1e7
+      internalID: 631723823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 20
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.375, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c46d4d564d1e905653828d74e927ea1
+      internalID: -1513427129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 12
+        width: 13
+        height: 24
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24a671ca4dac2ea765604825016562
+      internalID: 1134054692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 7
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e166b34e36619777a144ff5564cca53e
+      internalID: 1669006393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac0bf4c413c7673af65036f7c760d78
+      internalID: -98557515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_6
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 62
+        width: 18
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16216215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a650aee753b6ca7d8ec69d5ec1db96c0
+      internalID: -264459845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 60
+        width: 20
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e3950d0dcb90029bed21c8d2fa4f26
+      internalID: 1137348628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 57
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5044bed1abfb4373b10a57c1baa846d6
+      internalID: -1505402113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 56
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e17c33db283af4e658be06b912e97a4
+      internalID: 1145308036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 50
+        width: 26
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b47acd5503795705f18ef39c6b6a1f4
+      internalID: 1428946514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_11
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 48
+        width: 28
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13725491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b7c2019b85a791f5e3f60304bc9528
+      internalID: -1643676826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 46
+        width: 30
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13207547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f303794a98a5abce4347c4b31ccda2
+      internalID: -149389988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 44
+        width: 38
+        height: 55
+      alignment: 9
+      pivot: {x: 0.6052632, y: 0.12727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a085fc93d3574b7d96c60c3e997dcb
+      internalID: -84417264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 43
+        width: 35
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0788c3f889002bb4dfe07ae84961812
+      internalID: 10436491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 42
+        width: 38
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4473684, y: 0.12280702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fd8b5899d33d94fae057a5870df657
+      internalID: -731938059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 41
+        width: 36
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50166f3a210f10fa0c18443a7024d27d
+      internalID: -1640107252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 113
+        width: 38
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10606061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a092e92a00f9e0879531378e691220
+      internalID: -1190386206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_18
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 115
+        width: 38
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10edca002d992ecabd041fba3488edfc
+      internalID: -1581801557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 117
+        width: 48
+        height: 62
+      alignment: 9
+      pivot: {x: 0.39583334, y: 0.11290322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70754162caaa792fb9444767e92047
+      internalID: 1777168311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_20
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 117
+        width: 46
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.11290322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc793c4330e086b133bb37e0b520bfa4
+      internalID: -353624500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_21
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 117
+        width: 42
+        height: 62
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.11290322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d974172b242d38070dd4b0ab84ff77f6
+      internalID: 1042722347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_22
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 117
+        width: 41
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.11290322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393d3d6539fbddf655003a832b9927c4
+      internalID: 796338559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_23
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 117
+        width: 41
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.11290322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02907be2523d37ee90ac931a5be92308
+      internalID: 1443003933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 41
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.11290322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ee8f9bef7728cc482bce1371a3be9
+      internalID: 1312321585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 37
+        width: 41
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.11290322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062de7304cdf59099c30fe17b426e7d4
+      internalID: 1531037618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 37
+        width: 41
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.11290322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a66bb7e494bc382df5f4de1b90db0
+      internalID: -1361449434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 37
+        width: 41
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4878049, y: 0.11290322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65be51705acb27baf2b3d04c7d6d7877
+      internalID: -167714809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_28
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 668
+        width: 119
+        height: 113
+      alignment: 9
+      pivot: {x: 0.49579832, y: 0.097345136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daedf0803059e8136e82ce2985608a1
+      internalID: -48344029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 669
+        width: 118
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09821428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caeaca393d11d345bf826d67e2638e9
+      internalID: 1879163634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 671
+        width: 117
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4957265, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24fe3b81232020ffcbc96f254b5e39f
+      internalID: -803266658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 554
+        width: 116
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10091743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21110d893eb4df4e3b2a171d2816008a
+      internalID: 153049868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 556
+        width: 115
+        height: 107
+      alignment: 9
+      pivot: {x: 0.49565217, y: 0.10280374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fee688a5e5878e0256ec2cf29d3310
+      internalID: -1756964044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 557
+        width: 112
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49107143, y: 0.10377359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c2e634a668d1e9421935ff4de5eced
+      internalID: -559547896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 559
+        width: 109
+        height: 104
+      alignment: 9
+      pivot: {x: 0.49541286, y: 0.10576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5108b24676d922b9184d9a4ea642299
+      internalID: -437043982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 106
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.106796116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520932ec6459e04939936a3260f825f2
+      internalID: 1218563022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 451
+        width: 102
+        height: 101
+      alignment: 9
+      pivot: {x: 0.49019608, y: 0.10891089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ac3928f6d5229c18d495c9864ea812
+      internalID: 574408428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 453
+        width: 99
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4949495, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a391375fe7f4ef8528bd58d24ac867d9
+      internalID: 1522184866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_38
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 454
+        width: 96
+        height: 98
+      alignment: 9
+      pivot: {x: 0.48958334, y: 0.1122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8306d26ae57c5904148c4d89e5ddac8e
+      internalID: 1368231069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 456
+        width: 92
+        height: 96
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.114583336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d1323fba13d330e28b6a5ae4a96d8
+      internalID: -1110139087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 88
+        height: 96
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.114583336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef1f374549fcb2691bd9d9fe56afd85
+      internalID: -101168314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 453
+        width: 84
+        height: 99
+      alignment: 9
+      pivot: {x: 0.48809522, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ffad7fa94cebbecdddf85e3dfeb5d6
+      internalID: -1149340070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 450
+        width: 83
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4698795, y: 0.10784314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827f3176a80e5d04d5d42e84985a339
+      internalID: -785418120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 559
+        width: 88
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4659091, y: 0.10576923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eacc39986d36bee8133a1619e7ff58
+      internalID: 2055094432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_44
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 556
+        width: 91
+        height: 107
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.10280374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f4359efcc8cfd91fdcb2cd06a942c4
+      internalID: 1746519526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 90
+        height: 110
+      alignment: 9
+      pivot: {x: 0.43333334, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872f4a3b99306b64bc91492115510223
+      internalID: 1746317407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 668
+        width: 94
+        height: 113
+      alignment: 9
+      pivot: {x: 0.43617022, y: 0.097345136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098843a8e7ade10a37e4b398b3a07321
+      internalID: 1028515162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 666
+        width: 97
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4329897, y: 0.09565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f0c0462278adb25d9e7ad829d60f6e
+      internalID: -2035515063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 101
+        height: 117
+      alignment: 9
+      pivot: {x: 0.43564355, y: 0.094017096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c679b3edfabab2aa4ce771b8e29c7c
+      internalID: -1512325087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 664
+        width: 67
+        height: 117
+      alignment: 9
+      pivot: {x: 0.53731346, y: 0.094017096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc93265fe2d7411a3fdfd521129bf951
+      internalID: -442390573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 265
+        width: 61
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6a869b1b4cbe58c4871e21d299526e
+      internalID: 722391160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_51
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 265
+        width: 61
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2057705ff38cd62b5d7bb8b267be13
+      internalID: 1693808700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 265
+        width: 61
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9433e8e7d6d71747889017368a6c91
+      internalID: 697178690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_53
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 362
+        width: 62
+        height: 86
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc32daf90d6d7d9039581d60182fa7
+      internalID: -1095132518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_54
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 362
+        width: 62
+        height: 86
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2e53816acdb79bd3e13776d968f987
+      internalID: -1348891603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_55
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 265
+        width: 61
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6286445cfa29df27887a7c24c9651675
+      internalID: 112407709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 265
+        width: 61
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4918033, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e6ce83c90a3e4694792ef7f712d6fb
+      internalID: -1353633092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_57
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 362
+        width: 62
+        height: 86
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c237cbbd6c1cbe90c84da44ca9dff5c
+      internalID: 181469300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_58
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 362
+        width: 62
+        height: 86
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff7e4b21efddc1de9fd601b24afb08e
+      internalID: 1929170577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 62
+        height: 86
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cbdf4d7db03ef1a4ba7a08c5aa9b05
+      internalID: 1600055082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_60
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 362
+        width: 63
+        height: 86
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c587151649138ed6eb13054d546d969
+      internalID: 1676593672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_61
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 362
+        width: 63
+        height: 86
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d969321591d0243d959274c006dc77
+      internalID: 1460172799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_62
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 362
+        width: 63
+        height: 86
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbedc9ed24f07e81cbd99f78ac4b598
+      internalID: 756829877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_63
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 362
+        width: 63
+        height: 86
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b459c3bdd29bbd6f234158e2614ee4
+      internalID: -594575448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_64
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 362
+        width: 63
+        height: 86
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb6dc5d9bf3dcea4f3790fe8277906f
+      internalID: -780344660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 362
+        width: 63
+        height: 86
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa40b607ddea2e058c7ed40593f6b005
+      internalID: -2049032785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_66
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 265
+        width: 62
+        height: 86
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddb6d7a837a0b7a5d2d4f981d372177
+      internalID: -174389295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_67
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 265
+        width: 62
+        height: 86
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fc70421dba0826e67d0322ec1e62a5
+      internalID: -1788755801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_68
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 265
+        width: 62
+        height: 86
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f3fb616dd8051319f20dad79fc4149
+      internalID: -1345876204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_69
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 265
+        width: 61
+        height: 86
+      alignment: 9
+      pivot: {x: 0.45901638, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42f0562531aa15fb64c424f8aa2e14
+      internalID: -530044207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_70
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 266
+        width: 61
+        height: 85
+      alignment: 9
+      pivot: {x: 0.45901638, y: 0.11764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f41765483575fe29e7aa5667e3317f
+      internalID: -2124509803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 60
+        height: 84
+      alignment: 9
+      pivot: {x: 0.45, y: 0.11904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad33af112aa4ddd1be12632f85bfb88
+      internalID: -1201223712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_72
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 180
+        width: 59
+        height: 84
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.11904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1b7c1eb1083d1217af1cd75d823629
+      internalID: 313948842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 180
+        width: 60
+        height: 84
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.11904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd963e5e15a05751679f731f2ac9a8
+      internalID: -2126127544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 181
+        width: 60
+        height: 83
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.12048193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b20b8fa6f28fcbfaa570b70685db437
+      internalID: -549780707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 182
+        width: 59
+        height: 82
+      alignment: 9
+      pivot: {x: 0.47457626, y: 0.12195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b2d665dea66f4805c04cb57f47b31
+      internalID: -69982523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_76
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 182
+        width: 59
+        height: 82
+      alignment: 9
+      pivot: {x: 0.47457626, y: 0.12195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec611f6960c7f6051a2483149ede493a
+      internalID: 586497972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_77
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 183
+        width: 57
+        height: 81
+      alignment: 9
+      pivot: {x: 0.47368422, y: 0.12345679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e560bc5fd79c224051fb43fc53a785d
+      internalID: -1081684824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_78
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 185
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.12658228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e5a7ca0e418d969b78cfe9af6a7b0a
+      internalID: 2054547383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 101
+        width: 57
+        height: 78
+      alignment: 9
+      pivot: {x: 0.49122807, y: 0.115384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1052760f90d99039d3106fa223976a6
+      internalID: -1687853271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 57
+        height: 79
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.11392405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c93f9461639ceea5c88c5af5e85a6
+      internalID: 1318084953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_81
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 100
+        width: 53
+        height: 79
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.101265825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d1481748827b832b6669aaef84083
+      internalID: 1390957181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_82
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 184
+        width: 57
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b8671af42d5e21e8d15d793f2c557
+      internalID: -344601391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_83
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 185
+        width: 59
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5254237, y: 0.088607594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9ad23e84d21e64fcf8dd24eacfe6b2
+      internalID: 1619682217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_84
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 106
+        width: 59
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5254237, y: 0.06849315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4379a3ff7b75d11d97a886828379dbbe
+      internalID: 1574034318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 182
+        width: 53
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4716981, y: 0.06097561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9f9389c9e6355e5ff595100b4a449d
+      internalID: 288444980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_86
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 183
+        width: 54
+        height: 81
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.049382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c411045b880ddd0a84877f1b7aa4064
+      internalID: -625439255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 101
+        width: 61
+        height: 78
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d0f2482e94b81e1798b93e1a55368c
+      internalID: 1590292046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_88
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 102
+        width: 57
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5614035, y: 0.012987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a255f247a76ab11fef26a9ff5831bc
+      internalID: -1160775503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_89
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 102
+        width: 49
+        height: 77
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.012987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c5b4f3ceb3cde4a7623226c20ec921
+      internalID: 769299938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_90
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 41
+        width: 55
+        height: 58
+      alignment: 9
+      pivot: {x: 0.43636364, y: -0.29310346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc076f127498d53b87f176aa0f1cf477
+      internalID: 219327648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_91
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 43
+        width: 55
+        height: 56
+      alignment: 9
+      pivot: {x: 0.43636364, y: -0.32142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381b7aca335d11dd37b11ea3462d297c
+      internalID: -258732561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_92
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 46
+        width: 49
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5102041, y: -0.35849056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08caf8d201120a8ca690ae173b50ef65
+      internalID: -1186285247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 47
+        width: 50
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: -0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fbbd88de74868769e2a33e7fadce68
+      internalID: 834099371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: -0.5833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b375922d42b5c3007438589760ed67
+      internalID: -672522464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_95
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 50
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b587b4f72277b6bfefedf9cb2dc5782a
+      internalID: 899162473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_96
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 49
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5102041, y: -0.7058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e665ff15dab3ffd58e93fe27b0fa9e
+      internalID: 1471528895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healing-bloom_97
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 7
+        width: 45
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4888889, y: -0.9655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637229ded926103e0427ba1747c69f0c
+      internalID: 1197860527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bac364a8d52e3455289c5af6b7ead9a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      healing-bloom_0: 7753618657188617161
+      healing-bloom_1: 631723823
+      healing-bloom_10: 1428946514
+      healing-bloom_11: -1643676826
+      healing-bloom_12: -149389988
+      healing-bloom_13: -84417264
+      healing-bloom_14: 10436491
+      healing-bloom_15: -731938059
+      healing-bloom_16: -1640107252
+      healing-bloom_17: -1190386206
+      healing-bloom_18: -1581801557
+      healing-bloom_19: 1777168311
+      healing-bloom_2: -1513427129
+      healing-bloom_20: -353624500
+      healing-bloom_21: 1042722347
+      healing-bloom_22: 796338559
+      healing-bloom_23: 1443003933
+      healing-bloom_24: 1312321585
+      healing-bloom_25: 1531037618
+      healing-bloom_26: -1361449434
+      healing-bloom_27: -167714809
+      healing-bloom_28: -48344029
+      healing-bloom_29: 1879163634
+      healing-bloom_3: 1134054692
+      healing-bloom_30: -803266658
+      healing-bloom_31: 153049868
+      healing-bloom_32: -1756964044
+      healing-bloom_33: -559547896
+      healing-bloom_34: -437043982
+      healing-bloom_35: 1218563022
+      healing-bloom_36: 574408428
+      healing-bloom_37: 1522184866
+      healing-bloom_38: 1368231069
+      healing-bloom_39: -1110139087
+      healing-bloom_4: 1669006393
+      healing-bloom_40: -101168314
+      healing-bloom_41: -1149340070
+      healing-bloom_42: -785418120
+      healing-bloom_43: 2055094432
+      healing-bloom_44: 1746519526
+      healing-bloom_45: 1746317407
+      healing-bloom_46: 1028515162
+      healing-bloom_47: -2035515063
+      healing-bloom_48: -1512325087
+      healing-bloom_49: -442390573
+      healing-bloom_5: -98557515
+      healing-bloom_50: 722391160
+      healing-bloom_51: 1693808700
+      healing-bloom_52: 697178690
+      healing-bloom_53: -1095132518
+      healing-bloom_54: -1348891603
+      healing-bloom_55: 112407709
+      healing-bloom_56: -1353633092
+      healing-bloom_57: 181469300
+      healing-bloom_58: 1929170577
+      healing-bloom_59: 1600055082
+      healing-bloom_6: -264459845
+      healing-bloom_60: 1676593672
+      healing-bloom_61: 1460172799
+      healing-bloom_62: 756829877
+      healing-bloom_63: -594575448
+      healing-bloom_64: -780344660
+      healing-bloom_65: -2049032785
+      healing-bloom_66: -174389295
+      healing-bloom_67: -1788755801
+      healing-bloom_68: -1345876204
+      healing-bloom_69: -530044207
+      healing-bloom_7: 1137348628
+      healing-bloom_70: -2124509803
+      healing-bloom_71: -1201223712
+      healing-bloom_72: 313948842
+      healing-bloom_73: -2126127544
+      healing-bloom_74: -549780707
+      healing-bloom_75: -69982523
+      healing-bloom_76: 586497972
+      healing-bloom_77: -1081684824
+      healing-bloom_78: 2054547383
+      healing-bloom_79: -1687853271
+      healing-bloom_8: -1505402113
+      healing-bloom_80: 1318084953
+      healing-bloom_81: 1390957181
+      healing-bloom_82: -344601391
+      healing-bloom_83: 1619682217
+      healing-bloom_84: 1574034318
+      healing-bloom_85: 288444980
+      healing-bloom_86: -625439255
+      healing-bloom_87: 1590292046
+      healing-bloom_88: -1160775503
+      healing-bloom_89: 769299938
+      healing-bloom_9: 1145308036
+      healing-bloom_90: 219327648
+      healing-bloom_91: -258732561
+      healing-bloom_92: -1186285247
+      healing-bloom_93: 834099371
+      healing-bloom_94: -672522464
+      healing-bloom_95: 899162473
+      healing-bloom_96: 1471528895
+      healing-bloom_97: 1197860527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

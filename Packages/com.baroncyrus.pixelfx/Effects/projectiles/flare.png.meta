@@ -1,0 +1,3539 @@
+fileFormatVersion: 2
+guid: cde565bdf085b4476b00ac9723b71d7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1798201039300388096
+    second: flare_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flare_0
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 102
+        width: 48
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482d1b8c4eb8ca855e430931369aac3d
+      internalID: -1798201039300388096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_1
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 99
+        width: 44
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769175dd11adc8ba1fe661b36e888bed
+      internalID: -65704111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_2
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 85
+        width: 42
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecf9f5d8cdd4669ab50961b8a24e881
+      internalID: 681565484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_3
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 70
+        width: 38
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d36f13d0a12dcd5a2a911fe8c5f1d3
+      internalID: -762996044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_4
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 57
+        width: 34
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06410257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7d0e5f4964fe2d67fdb009edfedde5
+      internalID: 1611764532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_5
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 45
+        width: 28
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d28f0c8b1161324599f470b0d59c0f6
+      internalID: 259932495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 35
+        width: 26
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa716e666410f4e2d81db5c6134a516
+      internalID: -339606046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 27
+        width: 26
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.018518519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1191061637d182965e3178f608fcc6
+      internalID: -982966392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 19
+        width: 25
+        height: 116
+      alignment: 9
+      pivot: {x: 0.48, y: 0.01724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02f562a5301d2b85f8864a4f01a3c47
+      internalID: -1645252352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_9
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 139
+        width: 25
+        height: 124
+      alignment: 9
+      pivot: {x: 0.48, y: 0.016129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adea2428b5eed9a7af62ae607e156fa
+      internalID: 1496954907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_10
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 266
+        width: 26
+        height: 131
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.015267176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49453bbad1c74a16f7300df818d435a9
+      internalID: -226214029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 398
+        width: 26
+        height: 137
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.01459854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249869e8472abc6ee3f01fca234ec161
+      internalID: 1356942458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_12
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 690
+        width: 26
+        height: 143
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.013986014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f81011f721a25d5e188e4695914b6c
+      internalID: 535515681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_13
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 686
+        width: 26
+        height: 147
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.013605442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8860de4425f6c31eb09ba35befc28d
+      internalID: 2092655711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 682
+        width: 26
+        height: 151
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.013245033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e57a706236ee5e984aa5e61565301c
+      internalID: -1998198532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 679
+        width: 26
+        height: 154
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.012987013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579502e9dc72e02bc1c7744636b34ba7
+      internalID: -542440397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_16
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 880
+        width: 26
+        height: 157
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.012738854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075beeced50e476dcdf5b17ade21335
+      internalID: 2082406654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_17
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 878
+        width: 26
+        height: 159
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.012578616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3971a98c501d748f89eb83879e543544
+      internalID: -1726387133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_18
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 876
+        width: 25
+        height: 161
+      alignment: 9
+      pivot: {x: 0.44, y: 0.0124223605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db87aba7611540402019ea7d6d7562
+      internalID: 1306790548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_19
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 875
+        width: 25
+        height: 162
+      alignment: 9
+      pivot: {x: 0.44, y: 0.012345679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30a58ed521d53abcc4c177f56a0bdb
+      internalID: 1886119138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_20
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 874
+        width: 25
+        height: 163
+      alignment: 9
+      pivot: {x: 0.44, y: 0.012269938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e453b950a644ffba4bf1154bbabd799
+      internalID: 638508704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_21
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 872
+        width: 25
+        height: 165
+      alignment: 9
+      pivot: {x: 0.44, y: 0.018181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11692194d62c1f453341b2abbe2b8cfa
+      internalID: 206314764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_22
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 872
+        width: 25
+        height: 165
+      alignment: 9
+      pivot: {x: 0.44, y: 0.018181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149dfe086313beb6dc512605e2526aaa
+      internalID: 186817124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_23
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 871
+        width: 26
+        height: 166
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.018072288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f19104f159ba9b954cdb0503da4ce9
+      internalID: -681937256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_24
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 871
+        width: 26
+        height: 166
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.018072288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab757066d0854621d1461e57e1013ba3
+      internalID: 318346248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 871
+        width: 26
+        height: 166
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.018072288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061078d09e1fd1576c1c1f694bed6f51
+      internalID: 974333347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1250
+        width: 126
+        height: 215
+      alignment: 9
+      pivot: {x: 0.4920635, y: 0.009302326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec8887dfb1362f3b20f268a630143db
+      internalID: 2091493268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 127
+        height: 215
+      alignment: 9
+      pivot: {x: 0.48818898, y: 0.009302326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cda076195206bf162677de2f478ccd
+      internalID: -1397610670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1250
+        width: 127
+        height: 215
+      alignment: 9
+      pivot: {x: 0.48818898, y: 0.009302326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a861e4d4a500378f86d68c55e4abc
+      internalID: -1964678610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_29
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1251
+        width: 126
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48412699, y: 0.009345794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafd92f85e87944851293ad061e07895
+      internalID: 384578502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_30
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1251
+        width: 127
+        height: 214
+      alignment: 9
+      pivot: {x: 0.48818898, y: 0.009345794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bcb36cb9e5ce25365f3d341694cca8
+      internalID: -1796617694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_31
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1252
+        width: 127
+        height: 213
+      alignment: 9
+      pivot: {x: 0.48818898, y: 0.0093896715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541201be27058c3d2653d060ffd0b58e
+      internalID: -1367213874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_32
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1253
+        width: 126
+        height: 212
+      alignment: 9
+      pivot: {x: 0.48412699, y: 0.009433962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db49e4a1ee46c01ee4edcefdd66f712
+      internalID: -1295534745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_33
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1253
+        width: 126
+        height: 212
+      alignment: 9
+      pivot: {x: 0.48412699, y: 0.009433962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d9d5431c251c6b0dc1ffd65f5c2d27
+      internalID: 631165119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_34
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1254
+        width: 125
+        height: 211
+      alignment: 9
+      pivot: {x: 0.48, y: 0.009478673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3c43b27f113fe55f1c188b7bd44cc
+      internalID: -2089650079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1038
+        width: 125
+        height: 211
+      alignment: 9
+      pivot: {x: 0.48, y: 0.009478673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433a8e01ec532f8c23cee3c51105292e
+      internalID: 1311299073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_36
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1254
+        width: 126
+        height: 211
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.009478673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4851779f106190ff7f5e12e441c0c
+      internalID: -982046284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_37
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1254
+        width: 128
+        height: 211
+      alignment: 9
+      pivot: {x: 0.4765625, y: 0.009478673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc31ed114742049b465ef934e55b2a0c
+      internalID: -1573392895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1039
+        width: 128
+        height: 210
+      alignment: 9
+      pivot: {x: 0.4765625, y: 0.004761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe6a25897ffb5a00acba7b01b554ca
+      internalID: 315474182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1041
+        width: 126
+        height: 208
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf0078ca75e15484e012cc5e8699b8d
+      internalID: 806415628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1044
+        width: 126
+        height: 205
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.009756098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b674a94170b538463a8238e2cff71
+      internalID: -1279845232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1044
+        width: 127
+        height: 205
+      alignment: 9
+      pivot: {x: 0.47244096, y: -0.009756098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2f50f54a9b825f31c30156793813b
+      internalID: 1293989631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_42
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1045
+        width: 125
+        height: 204
+      alignment: 9
+      pivot: {x: 0.472, y: -0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ecee6ee898cbb0547ae57317778e68
+      internalID: -619881555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_43
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1045
+        width: 125
+        height: 204
+      alignment: 9
+      pivot: {x: 0.472, y: -0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3921af5531ca303cda504975e0cc4dac
+      internalID: -1930695829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_44
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1045
+        width: 126
+        height: 204
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4a478ad6d5912aba95849ead8e70a3
+      internalID: 1291397163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_45
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1045
+        width: 126
+        height: 204
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448c3a1fa446ed4827066b409a84b394
+      internalID: -209307667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_46
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1045
+        width: 127
+        height: 204
+      alignment: 9
+      pivot: {x: 0.47244096, y: -0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a3566d1899ed289296eb8350166e5b
+      internalID: 1512891351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 126
+        height: 203
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.009852217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3733a25a525f88fe4c22335af2ea3b
+      internalID: -1216517880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_48
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1046
+        width: 128
+        height: 203
+      alignment: 9
+      pivot: {x: 0.46875, y: -0.009852217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabef6c1ce3bd3be299c5fd299493dff
+      internalID: 345489411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 834
+        width: 126
+        height: 203
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.009852217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2645ce6e96a23d4a2e4a3565beebff7
+      internalID: 97648376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 835
+        width: 126
+        height: 202
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.014851485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83334586af5763bd88885e5392b258
+      internalID: -1328950335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_51
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 836
+        width: 126
+        height: 201
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.014925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3cb0b08d7b5e12c7594f0ee24643a9
+      internalID: -1602522870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_52
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 836
+        width: 126
+        height: 201
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.014925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c88aeca8f0c64a61c89566ec9e630
+      internalID: -560267924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_53
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 836
+        width: 126
+        height: 201
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.014925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a256dc6552dfc323a13e92a81870678
+      internalID: -422602418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_54
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 837
+        width: 126
+        height: 200
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb4c94ec00c830a542243cde98aaaef
+      internalID: -899695419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_55
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 838
+        width: 127
+        height: 199
+      alignment: 9
+      pivot: {x: 0.46456692, y: -0.020100502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81e25d6ec037fc6365bd40f65660fbd
+      internalID: -1200606359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_56
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 841
+        width: 128
+        height: 196
+      alignment: 9
+      pivot: {x: 0.46875, y: -0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962f98802a074bbfb6977c032ff34967
+      internalID: 2117413778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_57
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 539
+        width: 126
+        height: 139
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.46043167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc05da51f60eff6714f3ff7118f0843
+      internalID: -185574622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 537
+        width: 126
+        height: 141
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.4397163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef46435216bf0e0ebc4e15eab3bdc18
+      internalID: 615622406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_59
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 687
+        width: 126
+        height: 146
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.39041096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b9ce103ee850588d6f0c178b153d1
+      internalID: 1647986097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 683
+        width: 126
+        height: 150
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.34666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8113b3a45742f1eb98765938224ad2c3
+      internalID: -1722207934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 126
+        height: 154
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.3051948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad61cc56c6fbbae5f38360274376b8
+      internalID: -1751483443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 136
+        width: 126
+        height: 127
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.5905512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f723e2e3a8568ab39f5f4df31fc62e
+      internalID: 2045781563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_63
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 266
+        width: 126
+        height: 131
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.53435117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a932e652817df5b9d91dd674feb11277
+      internalID: -1781774276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_64
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 399
+        width: 126
+        height: 136
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.4779412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbd68466a8e76be3006456937adb7d5
+      internalID: -1372953427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_65
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 538
+        width: 126
+        height: 140
+      alignment: 9
+      pivot: {x: 0.46825397, y: -0.43571427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0839c6a4dfde1a2cd9255c8c0e013a
+      internalID: 603455460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_66
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 399
+        width: 127
+        height: 136
+      alignment: 9
+      pivot: {x: 0.47244096, y: -0.4779412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f8f75b4d5b70c52f546231fce08816
+      internalID: -452971266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 537
+        width: 127
+        height: 141
+      alignment: 9
+      pivot: {x: 0.47244096, y: -0.42553192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5729391b23f30a935d8f9ff846c58b26
+      internalID: 96247022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_68
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 687
+        width: 127
+        height: 146
+      alignment: 9
+      pivot: {x: 0.47244096, y: -0.37671232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055b25171a05237efe26ae320f4195c
+      internalID: 1937191123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_69
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 268
+        width: 127
+        height: 129
+      alignment: 9
+      pivot: {x: 0.47244096, y: -0.55813956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a78cfc568eb2372a8f52b38121bba
+      internalID: 1140695042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_70
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 401
+        width: 127
+        height: 134
+      alignment: 9
+      pivot: {x: 0.47244096, y: -0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb27a18640536bd203b19cca8ed4bb1
+      internalID: 18599302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 398
+        width: 126
+        height: 137
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.459854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e0e4d136df3c4ecd90344d75c8c1fb
+      internalID: 1002486263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_72
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 538
+        width: 126
+        height: 140
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.42142856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f3254e37825ebe5520e04b5f6652c2
+      internalID: -1369166802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_73
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 399
+        width: 126
+        height: 136
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cad802a0049ec91b527847aa4efbb0
+      internalID: 1878701156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_74
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 138
+        width: 125
+        height: 125
+      alignment: 9
+      pivot: {x: 0.48, y: -0.592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d7a3e825987686848b1d388884386
+      internalID: 434943332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_75
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 136
+        width: 126
+        height: 127
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.56692916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3fb94009f3b7f4a8cf72788e7a93ea
+      internalID: -94634699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 265
+        width: 127
+        height: 132
+      alignment: 9
+      pivot: {x: 0.48031497, y: -0.50757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f38d60de1c15afaa48247be880afc32
+      internalID: -642095849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 127
+        height: 137
+      alignment: 9
+      pivot: {x: 0.48031497, y: -0.45255473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eab0ccc71fe5c8bd2e967e7a598fc28
+      internalID: -1314718201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_78
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 691
+        width: 127
+        height: 142
+      alignment: 9
+      pivot: {x: 0.48031497, y: -0.40140846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e578614226dfa6be14ca60ea8d666b7
+      internalID: 1514526974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_79
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 686
+        width: 126
+        height: 147
+      alignment: 9
+      pivot: {x: 0.48412699, y: -0.3537415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3deaf6211b7fdb009a6825956b062c
+      internalID: -502610607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_80
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 683
+        width: 127
+        height: 150
+      alignment: 9
+      pivot: {x: 0.48818898, y: -0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdf9c416c9ed373800d8c84ccf5c7e6
+      internalID: -1829737506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_81
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 538
+        width: 125
+        height: 140
+      alignment: 9
+      pivot: {x: 0.488, y: -0.41428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffd1aa0c9f7f8e8af81e0faa608d2fb
+      internalID: 2070348275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_82
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 398
+        width: 125
+        height: 137
+      alignment: 9
+      pivot: {x: 0.488, y: -0.4379562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a46a58a97e8f51de3e02f07e10e5e4b
+      internalID: -1514985660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 126
+        height: 133
+      alignment: 9
+      pivot: {x: 0.4920635, y: -0.48120302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f389330ff95404d6349b23ef3992a
+      internalID: -1600025928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_84
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 540
+        width: 126
+        height: 138
+      alignment: 9
+      pivot: {x: 0.4920635, y: -0.42753622}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c00bd5a3886d14a20c4c46220c561
+      internalID: -696411055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_85
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 538
+        width: 126
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4920635, y: -0.40714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d31378a82829916799f5b5a0a8c25
+      internalID: -2063104231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_86
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 688
+        width: 127
+        height: 145
+      alignment: 9
+      pivot: {x: 0.496063, y: -0.3586207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c5859ec7d654e33d468cf16a3e894f
+      internalID: 570578616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_87
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 684
+        width: 127
+        height: 149
+      alignment: 9
+      pivot: {x: 0.496063, y: -0.32214764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2ab3a0d6809eede6af99f71ef61d06
+      internalID: 1590192175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 127
+        height: 127
+      alignment: 9
+      pivot: {x: 0.496063, y: -0.54330707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcacd362addbcd13ff4a331947f85d4
+      internalID: 1638527741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 136
+        width: 127
+        height: 127
+      alignment: 9
+      pivot: {x: 0.496063, y: -0.54330707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f6e6476ed0f3ca911b4eb6c75f1db1
+      internalID: -682336425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_90
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 137
+        width: 127
+        height: 126
+      alignment: 9
+      pivot: {x: 0.496063, y: -0.54761904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf1c7ca2e8dea4d89b2d354d040e8a
+      internalID: 1187491807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_91
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 267
+        width: 126
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: -0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f413799e0ad4b4a3ba66cdaadab90149
+      internalID: -788727727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_92
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 137
+        width: 126
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: -0.53968257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59631c1e4c0f426bb997afc02f71fcf0
+      internalID: -362142544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_93
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 266
+        width: 126
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: -0.48091602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4094be15cf8cf424c6e0e15297d6fa8
+      internalID: 1226858527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_94
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 399
+        width: 126
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: -0.42647058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233826173e514981fc6b01f652c50de7
+      internalID: -568110729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_95
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 539
+        width: 127
+        height: 139
+      alignment: 9
+      pivot: {x: 0.503937, y: -0.38848922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dcdf62b212f8b5e28e783dff5ad196
+      internalID: -1508427507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_96
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 265
+        width: 126
+        height: 132
+      alignment: 9
+      pivot: {x: 0.50793654, y: -0.46212122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4779dc57ea1c453056d6305d1d19ce
+      internalID: -414359835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_97
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 399
+        width: 127
+        height: 136
+      alignment: 9
+      pivot: {x: 0.503937, y: -0.41911766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd64f69426e47c2f517d889221397b4
+      internalID: -994052190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_98
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 269
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5078125, y: -0.5078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce927dadfd04baac0d86d82882f0041f
+      internalID: -1298297597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_99
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 137
+        width: 126
+        height: 126
+      alignment: 9
+      pivot: {x: 0.50793654, y: -0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6d1791bd1614c849d96f4dec225173
+      internalID: -919947392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_100
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 268
+        width: 125
+        height: 129
+      alignment: 9
+      pivot: {x: 0.512, y: -0.48062015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd464925717349f7abe7d98b0e6ae2f
+      internalID: -1962211503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_101
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 265
+        width: 123
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5121951, y: -0.4318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce67ca6102505fd61e9768531cfd891
+      internalID: 1533859983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_102
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 399
+        width: 120
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5083333, y: -0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e606a9ee594e23997333245e04170320
+      internalID: 1750828304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_103
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 539
+        width: 117
+        height: 139
+      alignment: 9
+      pivot: {x: 0.51282054, y: -0.3381295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00639950c4dd1e6c85f8a1256c71bc9e
+      internalID: 2135700594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 115
+        height: 142
+      alignment: 9
+      pivot: {x: 0.51304346, y: -0.29577464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6815e168cf3e65acd79911a5cbd3e522
+      internalID: 650430903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_105
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 688
+        width: 111
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5135135, y: -0.2551724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4b92d415dcd59967405774ecc985ec
+      internalID: -572670272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_106
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 29
+        width: 107
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5140187, y: -0.6886792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f922ca9d16524c88b26a2bb4581b9aed
+      internalID: 1960795624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_107
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 26
+        width: 103
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5145631, y: -0.6238532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d0b2d5258248320f35fa02d355fb2
+      internalID: -992820999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_108
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 24
+        width: 98
+        height: 111
+      alignment: 9
+      pivot: {x: 0.52040815, y: -0.5675676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9188c8290b9270045539007aa3504ce6
+      internalID: -25560082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_109
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 21
+        width: 94
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5212766, y: -0.50877196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa5bb6bdcf1464a363e899213c6f55
+      internalID: -823285834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_110
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 17
+        width: 88
+        height: 118
+      alignment: 9
+      pivot: {x: 0.52272725, y: -0.44915253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3911a01fea4ef9e0f1d2f335bd12e71
+      internalID: -353151595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_111
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 141
+        width: 82
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5243902, y: -0.39344263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3984dc2ee3b74d7996f77c492e1c22a
+      internalID: 1903486766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_112
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 139
+        width: 76
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5263158, y: -0.3548387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffd44ee85cf0c36fd3f804f4dc584a8
+      internalID: 1786628032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 71
+        height: 119
+      alignment: 9
+      pivot: {x: 0.52112675, y: -0.40336135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dadd8953524e479547d903d52f7be4e
+      internalID: -865851786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_114
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 18
+        width: 64
+        height: 117
+      alignment: 9
+      pivot: {x: 0.53125, y: -0.42735043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f52fccfafcbd84a406acb75365dbe6
+      internalID: 1792452006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_115
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 142
+        width: 58
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5344828, y: -0.37190083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a931e45b90702b428fe82f23292e618
+      internalID: -1608839463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_116
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 139
+        width: 45
+        height: 124
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.33064517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b0647e3e12d0da30748e5319b3b0fd
+      internalID: -43590709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_117
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 29
+        width: 24
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5416667, y: -0.5377358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dccad9ba8fe9488bb01911d2c04628
+      internalID: 1564817451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_118
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 37
+        width: 20
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: -0.63265306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53d6900c5f310f27e47d3e32d9c20f6
+      internalID: -1540214045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_119
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 43
+        width: 20
+        height: 92
+      alignment: 9
+      pivot: {x: 0.45, y: -0.73913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b119f8a94f0fab440ffe517d292e99a7
+      internalID: 1946064065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_120
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 45
+        width: 20
+        height: 90
+      alignment: 9
+      pivot: {x: 0.45, y: -0.7777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d024d102fa33ce17d75b1421ce8faeae
+      internalID: 2031212155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_121
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 47
+        width: 20
+        height: 88
+      alignment: 9
+      pivot: {x: 0.45, y: -0.8068182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b8526de224c79519a0ff485210ca36
+      internalID: -859155300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_122
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 50
+        width: 21
+        height: 85
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.88235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512989eb009b1757e8e55c0129b3ed76
+      internalID: -316953051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_123
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 47
+        width: 21
+        height: 88
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.8068182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bcdad09b69586a77c97c185e214c03
+      internalID: 1572457503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_124
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 45
+        width: 20
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: -0.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059d4a6b16cb80834390b73b51b2204
+      internalID: -541153747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_125
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 39
+        width: 21
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.6354167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a61496ff35c32a84c2ba81e2f64a5a
+      internalID: -861152758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_126
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 35
+        width: 21
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780894b09a5a436d03976a4762b97194
+      internalID: -1129616364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_127
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 31
+        width: 21
+        height: 104
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.4903846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f264ab1bace8e04f449a77793bdc6d
+      internalID: 1770735707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_128
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 25
+        width: 21
+        height: 110
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.4181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a188d2d71358d95144f39571383eeeec
+      internalID: -211821340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_129
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 20
+        width: 21
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.35652173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d69b22a631b750f810d45f72a0ed36b
+      internalID: -701668046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_130
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 143
+        width: 21
+        height: 120
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e75d9d48dd3f95239ecff95d44134da
+      internalID: 205302135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_131
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 138
+        width: 21
+        height: 125
+      alignment: 9
+      pivot: {x: 0.47619048, y: -0.248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84673457f09a250ced0f83c80cc4505
+      internalID: -1836630230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_132
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 267
+        width: 20
+        height: 130
+      alignment: 9
+      pivot: {x: 0.45, y: -0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36539a266b8129556db4933744fee9bf
+      internalID: 1257703403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_133
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 112
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: -5.7826085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eb9d7163b25d4b9cc1fbe99b6b04a4
+      internalID: -2032335888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_134
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 113
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: -6.0454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19394d668714f5d22ccef93ed20a915
+      internalID: -995737488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_135
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 113
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5263158, y: -6.0454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8305f785df0722693205831237363183
+      internalID: 1219568169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_136
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 114
+        width: 19
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5263158, y: -6.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5b2eb574901ec96699447c6ab2b108
+      internalID: 31792503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_137
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 114
+        width: 18
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5555556, y: -6.3809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9543d9b56efeadff2fecbe11d9f614
+      internalID: -138459343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_138
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 115
+        width: 17
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5882353, y: -6.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b38165e6d2199afc91ba31323bc2ea
+      internalID: 987960150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_139
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 116
+        width: 15
+        height: 19
+      alignment: 9
+      pivot: {x: 0.6666667, y: -7.105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f0d1f29fd52f9e06ea82c5c3ce2db
+      internalID: -2079188834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_140
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 118
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 0.6666667, y: -8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e058002d8c1f7906c9dfad456749dcf
+      internalID: 874522365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_141
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 119
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.6923077, y: -8.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1668511bffb1e41c5f3c27422b020bc6
+      internalID: -964348895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.6923077, y: -9.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f38afd1f843d7c0312bdd29148ae42e
+      internalID: -1557141717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_143
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.75, y: -9.928572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c746bd93c48630f484702978fd293d
+      internalID: -193888664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_144
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 4
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.75, y: -12.727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8144bf70dec4d9220237a8d4e8083a85
+      internalID: -2042234957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_145
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 10
+        height: 9
+      alignment: 9
+      pivot: {x: 0.8, y: -15.777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc0eab734f7ffde4c80745376d6741f
+      internalID: -1543292447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_146
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 14
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 4, y: -146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d97898da42b59809321013456102b0
+      internalID: -1827957122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flare_147
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 14
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65d2932f5f40e09a3054383823460e9
+      internalID: -286631574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a11de18cf844140419ea91c9fc64d5ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      flare_0: -1798201039300388096
+      flare_1: -65704111
+      flare_10: -226214029
+      flare_100: -1962211503
+      flare_101: 1533859983
+      flare_102: 1750828304
+      flare_103: 2135700594
+      flare_104: 650430903
+      flare_105: -572670272
+      flare_106: 1960795624
+      flare_107: -992820999
+      flare_108: -25560082
+      flare_109: -823285834
+      flare_11: 1356942458
+      flare_110: -353151595
+      flare_111: 1903486766
+      flare_112: 1786628032
+      flare_113: -865851786
+      flare_114: 1792452006
+      flare_115: -1608839463
+      flare_116: -43590709
+      flare_117: 1564817451
+      flare_118: -1540214045
+      flare_119: 1946064065
+      flare_12: 535515681
+      flare_120: 2031212155
+      flare_121: -859155300
+      flare_122: -316953051
+      flare_123: 1572457503
+      flare_124: -541153747
+      flare_125: -861152758
+      flare_126: -1129616364
+      flare_127: 1770735707
+      flare_128: -211821340
+      flare_129: -701668046
+      flare_13: 2092655711
+      flare_130: 205302135
+      flare_131: -1836630230
+      flare_132: 1257703403
+      flare_133: -2032335888
+      flare_134: -995737488
+      flare_135: 1219568169
+      flare_136: 31792503
+      flare_137: -138459343
+      flare_138: 987960150
+      flare_139: -2079188834
+      flare_14: -1998198532
+      flare_140: 874522365
+      flare_141: -964348895
+      flare_142: -1557141717
+      flare_143: -193888664
+      flare_144: -2042234957
+      flare_145: -1543292447
+      flare_146: -1827957122
+      flare_147: -286631574
+      flare_15: -542440397
+      flare_16: 2082406654
+      flare_17: -1726387133
+      flare_18: 1306790548
+      flare_19: 1886119138
+      flare_2: 681565484
+      flare_20: 638508704
+      flare_21: 206314764
+      flare_22: 186817124
+      flare_23: -681937256
+      flare_24: 318346248
+      flare_25: 974333347
+      flare_26: 2091493268
+      flare_27: -1397610670
+      flare_28: -1964678610
+      flare_29: 384578502
+      flare_3: -762996044
+      flare_30: -1796617694
+      flare_31: -1367213874
+      flare_32: -1295534745
+      flare_33: 631165119
+      flare_34: -2089650079
+      flare_35: 1311299073
+      flare_36: -982046284
+      flare_37: -1573392895
+      flare_38: 315474182
+      flare_39: 806415628
+      flare_4: 1611764532
+      flare_40: -1279845232
+      flare_41: 1293989631
+      flare_42: -619881555
+      flare_43: -1930695829
+      flare_44: 1291397163
+      flare_45: -209307667
+      flare_46: 1512891351
+      flare_47: -1216517880
+      flare_48: 345489411
+      flare_49: 97648376
+      flare_5: 259932495
+      flare_50: -1328950335
+      flare_51: -1602522870
+      flare_52: -560267924
+      flare_53: -422602418
+      flare_54: -899695419
+      flare_55: -1200606359
+      flare_56: 2117413778
+      flare_57: -185574622
+      flare_58: 615622406
+      flare_59: 1647986097
+      flare_6: -339606046
+      flare_60: -1722207934
+      flare_61: -1751483443
+      flare_62: 2045781563
+      flare_63: -1781774276
+      flare_64: -1372953427
+      flare_65: 603455460
+      flare_66: -452971266
+      flare_67: 96247022
+      flare_68: 1937191123
+      flare_69: 1140695042
+      flare_7: -982966392
+      flare_70: 18599302
+      flare_71: 1002486263
+      flare_72: -1369166802
+      flare_73: 1878701156
+      flare_74: 434943332
+      flare_75: -94634699
+      flare_76: -642095849
+      flare_77: -1314718201
+      flare_78: 1514526974
+      flare_79: -502610607
+      flare_8: -1645252352
+      flare_80: -1829737506
+      flare_81: 2070348275
+      flare_82: -1514985660
+      flare_83: -1600025928
+      flare_84: -696411055
+      flare_85: -2063104231
+      flare_86: 570578616
+      flare_87: 1590192175
+      flare_88: 1638527741
+      flare_89: -682336425
+      flare_9: 1496954907
+      flare_90: 1187491807
+      flare_91: -788727727
+      flare_92: -362142544
+      flare_93: 1226858527
+      flare_94: -568110729
+      flare_95: -1508427507
+      flare_96: -414359835
+      flare_97: -994052190
+      flare_98: -1298297597
+      flare_99: -919947392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1423 @@
+fileFormatVersion: 2
+guid: fa105bbde82854712b84144ab4960182
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2251298670744733300
+    second: heavy-cleave_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavy-cleave_0
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 43
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 1.9090909, y: -3.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1815472e8ebb6c4fd4c69a7aefa51569
+      internalID: 2251298670744733300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 9
+        width: 40
+        height: 45
+      alignment: 9
+      pivot: {x: 0.9, y: -0.51111114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df40e2472d49368c373ce3ea9d2d1f5
+      internalID: 1262423525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 39
+        height: 43
+      alignment: 9
+      pivot: {x: 0.8974359, y: -0.5813953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28ec34672682af9fecb1c44fd37a5de
+      internalID: 2008233609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 14
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.90909094, y: -0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a4fd434e6a9492bd147972162fda4
+      internalID: 198412622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.9, y: -0.68292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303d61855d90a3fe5ab77a499fda992
+      internalID: -1260295845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 15
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.9302326, y: -0.74358976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ec51e3761e1c25891e680c0fec087
+      internalID: 618319461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 15
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.92105263, y: -0.74358976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43118d9513f9da39960c0e9b8180190c
+      internalID: 152125184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 124
+        width: 72
+        height: 73
+      alignment: 9
+      pivot: {x: 0.6388889, y: -0.16438356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb17a201430a93f936b9c1858d0359c
+      internalID: 483572139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 124
+        width: 73
+        height: 73
+      alignment: 9
+      pivot: {x: 0.42465752, y: -0.19178082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90484579247a0c2c7c802ccb08f619a
+      internalID: -1325367689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 125
+        width: 83
+        height: 72
+      alignment: 9
+      pivot: {x: 0.21686748, y: -0.013888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a566b3a16e98477da15f1f9d4b7b68e
+      internalID: 266414122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 204
+        width: 84
+        height: 79
+      alignment: 9
+      pivot: {x: 0.21428572, y: 0.24050634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c7b236691ff03647988975fd46a540
+      internalID: -1870476555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 374
+        width: 114
+        height: 89
+      alignment: 9
+      pivot: {x: 0.22807017, y: 0.2247191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ede7eaa3324a1bf9999ff41f850ee
+      internalID: 1653343616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 285
+        width: 111
+        height: 87
+      alignment: 9
+      pivot: {x: 0.22522523, y: 0.21839081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fb8aaf82bd40c9af7bd16fc102f4eb
+      internalID: 202251204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 198
+        width: 108
+        height: 85
+      alignment: 9
+      pivot: {x: 0.21296297, y: 0.22352941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d00f86c9409191b670d93dfe8058796
+      internalID: 1997516382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 199
+        width: 106
+        height: 84
+      alignment: 9
+      pivot: {x: 0.20754717, y: 0.22619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83233ffb12aca645491f3a295e8e32b0
+      internalID: 482347928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 200
+        width: 103
+        height: 83
+      alignment: 9
+      pivot: {x: 0.2038835, y: 0.22891566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a1767ed148a6e1c18d756d6bd3822
+      internalID: -1141914611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 102
+        height: 84
+      alignment: 9
+      pivot: {x: 0.20588236, y: 0.22619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9034bcd9174a3615b99b78fbb8f90dff
+      internalID: 1947104872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 111
+        height: 85
+      alignment: 9
+      pivot: {x: 0.24324325, y: 0.22352941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72661990550f94949eee3331a341978
+      internalID: 706085251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 286
+        width: 122
+        height: 86
+      alignment: 9
+      pivot: {x: 0.2704918, y: 0.22093023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9532f7e1839a32f6abeb47c9f4c3b2
+      internalID: -1872104628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 132
+        height: 88
+      alignment: 9
+      pivot: {x: 0.28787878, y: 0.2159091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2073dc61e6e09c2202488a5b2cf61ded
+      internalID: -1659448010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 465
+        width: 142
+        height: 91
+      alignment: 9
+      pivot: {x: 0.3028169, y: 0.20879121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1db1076401094e39ee54ec2e8837083
+      internalID: -676225063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_21
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 558
+        width: 149
+        height: 93
+      alignment: 9
+      pivot: {x: 0.31543624, y: 0.20430107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ec663fd991b1e985dd78445a52bfb5
+      internalID: 1732805774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 653
+        width: 122
+        height: 95
+      alignment: 9
+      pivot: {x: 0.23770492, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee78d6cec58857f9343720e6d8bdbb
+      internalID: 779569774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 126
+        height: 96
+      alignment: 9
+      pivot: {x: 0.24603175, y: 0.19791667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd19f05ef27a0bff7b7f93fe72995a
+      internalID: 1571808698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 653
+        width: 109
+        height: 95
+      alignment: 9
+      pivot: {x: 0.23853211, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e589994489ea48a2a9c03f1fa591a
+      internalID: -164184161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_25
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 558
+        width: 110
+        height: 93
+      alignment: 9
+      pivot: {x: 0.25454545, y: 0.20430107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0862d5fc9146329b1697b9c18b3a67a2
+      internalID: 2093074540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 557
+        width: 113
+        height: 94
+      alignment: 9
+      pivot: {x: 0.26548672, y: 0.20212767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee4d23d2d99bed37d295b8f4225bc02
+      internalID: 156925597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 557
+        width: 117
+        height: 94
+      alignment: 9
+      pivot: {x: 0.2735043, y: 0.19148937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ab77cb8e40c4dfa29e618af330894c
+      internalID: 981759457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 653
+        width: 121
+        height: 95
+      alignment: 9
+      pivot: {x: 0.28099173, y: 0.18947369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4557826b459a624a36b379abfc77d0
+      internalID: -2048879530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 653
+        width: 124
+        height: 95
+      alignment: 9
+      pivot: {x: 0.29032257, y: 0.18947369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec131303b875ef58b3ad4d00d234731
+      internalID: -1954026802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_30
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 751
+        width: 127
+        height: 96
+      alignment: 9
+      pivot: {x: 0.2913386, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1944c5505d2956779c18a4253ceb936f
+      internalID: -2138511762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 750
+        width: 130
+        height: 97
+      alignment: 9
+      pivot: {x: 0.3, y: 0.185567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca0fc23e6cc174f8bdafac0eea9b052
+      internalID: 1220923768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 750
+        width: 132
+        height: 97
+      alignment: 9
+      pivot: {x: 0.3030303, y: 0.185567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe079d70f27098939998961cf3e3f57
+      internalID: -1694462478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 465
+        width: 135
+        height: 91
+      alignment: 9
+      pivot: {x: 0.31111112, y: 0.1978022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f017db90e8088b88f234cef0dbdd7673
+      internalID: -85831501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 138
+        height: 94
+      alignment: 9
+      pivot: {x: 0.3115942, y: 0.19148937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c462bb4718d2018f1085e7f89e82e09
+      internalID: -313600220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 140
+        height: 98
+      alignment: 9
+      pivot: {x: 0.31428573, y: 0.18367347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c43f4eb9e5a00c7f10bbf461b85039d
+      internalID: 2101374495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 750
+        width: 142
+        height: 97
+      alignment: 9
+      pivot: {x: 0.31690142, y: 0.185567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3882da55d9bbd72a0fc808b6cccaed7
+      internalID: 772343826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 286
+        width: 144
+        height: 86
+      alignment: 9
+      pivot: {x: 0.31944445, y: 0.19767442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7af475ce702a53c3e31a7361e52f36
+      internalID: 1222659038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 285
+        width: 146
+        height: 87
+      alignment: 9
+      pivot: {x: 0.3219178, y: 0.1954023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df14b0fbbff382c87dff177f0e9bd6
+      internalID: 1982004682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_39
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 375
+        width: 148
+        height: 88
+      alignment: 9
+      pivot: {x: 0.3243243, y: 0.19318181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309b835b4d238ef30fda84358fe9c61
+      internalID: -1615093726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 374
+        width: 150
+        height: 89
+      alignment: 9
+      pivot: {x: 0.32666665, y: 0.17977528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd7f0750e1edf0b0b4f55375492a14b
+      internalID: 1455375255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_41
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 466
+        width: 151
+        height: 90
+      alignment: 9
+      pivot: {x: 0.33112583, y: 0.17777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0ab747cd1ce02c2346e17fcf020cc9
+      internalID: 1873462528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 465
+        width: 147
+        height: 91
+      alignment: 9
+      pivot: {x: 0.30612245, y: 0.17582418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43870878911a4cf8ab6d30df087ff5b
+      internalID: -43941341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 149
+        height: 92
+      alignment: 9
+      pivot: {x: 0.30872482, y: 0.16304348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4483daf296ce5b181c9941866be6532a
+      internalID: 181812334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 151
+        height: 77
+      alignment: 9
+      pivot: {x: 0.3112583, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0bdc3a15265eda48ed1382e6d04b65
+      internalID: 1690583256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 60
+        width: 152
+        height: 59
+      alignment: 9
+      pivot: {x: 0.31578946, y: 0.15254237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9888da5d95c4d18bec9289ae5e350
+      internalID: -925721437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 374
+        width: 147
+        height: 89
+      alignment: 9
+      pivot: {x: 0.3265306, y: 0.101123594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c430dd61fc1c7d9b64a4e34b8e19bb
+      internalID: -1505905232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 148
+        height: 90
+      alignment: 9
+      pivot: {x: 0.3310811, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fef5499f2a08edb8b59c08cedbf51e
+      internalID: 886746842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 130
+        width: 124
+        height: 67
+      alignment: 9
+      pivot: {x: 0.19354838, y: 0.13432837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0addb98c40ab959744d8c3c07b15502
+      internalID: 615605572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_49
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 131
+        width: 124
+        height: 66
+      alignment: 9
+      pivot: {x: 0.19354838, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc681401edda244579821324e7a9198
+      internalID: 899774453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 58
+        width: 125
+        height: 61
+      alignment: 9
+      pivot: {x: 0.192, y: 0.14754099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a607647477beb86b87d92b2ceda1630e
+      internalID: 104580491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 57
+        width: 126
+        height: 62
+      alignment: 9
+      pivot: {x: 0.1984127, y: 0.14516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5295bb3cd4517f9a9b5c4a7bdb490
+      internalID: -1729083160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 56
+        width: 127
+        height: 63
+      alignment: 9
+      pivot: {x: 0.19685039, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e900a22229089f1f0c1f42e4582d9
+      internalID: -571788606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 128
+        height: 64
+      alignment: 9
+      pivot: {x: 0.1953125, y: 0.140625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b6fa38780aaf6713f0112155439108
+      internalID: -456922682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 54
+      alignment: 9
+      pivot: {x: 0.22033899, y: 0.018518519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62addd3ff64432404602c7c54c436fa4
+      internalID: 1427654161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-cleave_55
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 53
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e6a694db0124229f0a99d10b032ed3
+      internalID: 384996002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: de90b61a5a798478eb106cae1827146a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      heavy-cleave_0: 2251298670744733300
+      heavy-cleave_1: 1262423525
+      heavy-cleave_10: -1870476555
+      heavy-cleave_11: 1653343616
+      heavy-cleave_12: 202251204
+      heavy-cleave_13: 1997516382
+      heavy-cleave_14: 482347928
+      heavy-cleave_15: -1141914611
+      heavy-cleave_16: 1947104872
+      heavy-cleave_17: 706085251
+      heavy-cleave_18: -1872104628
+      heavy-cleave_19: -1659448010
+      heavy-cleave_2: 2008233609
+      heavy-cleave_20: -676225063
+      heavy-cleave_21: 1732805774
+      heavy-cleave_22: 779569774
+      heavy-cleave_23: 1571808698
+      heavy-cleave_24: -164184161
+      heavy-cleave_25: 2093074540
+      heavy-cleave_26: 156925597
+      heavy-cleave_27: 981759457
+      heavy-cleave_28: -2048879530
+      heavy-cleave_29: -1954026802
+      heavy-cleave_3: 198412622
+      heavy-cleave_30: -2138511762
+      heavy-cleave_31: 1220923768
+      heavy-cleave_32: -1694462478
+      heavy-cleave_33: -85831501
+      heavy-cleave_34: -313600220
+      heavy-cleave_35: 2101374495
+      heavy-cleave_36: 772343826
+      heavy-cleave_37: 1222659038
+      heavy-cleave_38: 1982004682
+      heavy-cleave_39: -1615093726
+      heavy-cleave_4: -1260295845
+      heavy-cleave_40: 1455375255
+      heavy-cleave_41: 1873462528
+      heavy-cleave_42: -43941341
+      heavy-cleave_43: 181812334
+      heavy-cleave_44: 1690583256
+      heavy-cleave_45: -925721437
+      heavy-cleave_46: -1505905232
+      heavy-cleave_47: 886746842
+      heavy-cleave_48: 615605572
+      heavy-cleave_49: 899774453
+      heavy-cleave_5: 618319461
+      heavy-cleave_50: 104580491
+      heavy-cleave_51: -1729083160
+      heavy-cleave_52: -571788606
+      heavy-cleave_53: -456922682
+      heavy-cleave_54: 1427654161
+      heavy-cleave_55: 384996002
+      heavy-cleave_6: 152125184
+      heavy-cleave_7: 483572139
+      heavy-cleave_8: -1325367689
+      heavy-cleave_9: 266414122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: burning
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: status/burning
+  displayName: Burning
+  description: 'Burning over time: small flames lick from four hot spots, trailing sparks and thin smoke; every 0.6 s they flare, the body flashes white then orange, scorch marks spread.'
+  category: status
+  tags:
+  - status
+  - fire
+  - burn
+  - dot
+  - debuff
+  - loop
+  frames:
+  - {fileID: 6669560127030847859, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1582032120, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -344965558, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -172316364, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 909937984, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -2035533235, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 1312670284, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -571587795, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1384041878, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1919482434, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -318439119, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1775692854, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1414553819, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 1935815037, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 579099722, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1945624885, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1315022788, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 2062876977, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 784240757, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1329532620, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 933878009, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 2100278433, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1905572977, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 39739504, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 1548319209, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 1611119370, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 679184410, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -306721097, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 357932386, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 1138966137, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 117601942, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -371659829, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 1151425561, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -1463571448, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: -771319999, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  - {fileID: 446196668, guid: 8b56a104bae974b00b8c64c1ca1b51cc, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 72, y: 80}
+  origin: {x: 36, y: 70}
+  fullScreen: 0
+  previewFrame: 18
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0
+  recovery: 0
+  onBody: 1
+  hits: []

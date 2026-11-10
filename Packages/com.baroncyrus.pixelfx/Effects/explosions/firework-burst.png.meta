@@ -1,0 +1,2389 @@
+fileFormatVersion: 2
+guid: fc5fd9733aa34410a91c358862a26576
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8336945815009256934
+    second: firework-burst_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: firework-burst_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 26
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 5.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439c83de763244c1e7aa0b6f770d19b
+      internalID: 8336945815009256934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 17
+        width: 12
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a108ca9f1b9ee23fc728e4779914b
+      internalID: 1242603843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 12
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 1.925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e227dac42977a88a0cf763e944c6c
+      internalID: -1276878858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_3
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 150
+        width: 12
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc98232cf900c53fb1bbe2ce0049de7
+      internalID: 447892996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_4
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 139
+        width: 12
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2575758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ac337471fade0d5ec6026d8ae1414
+      internalID: 1002916798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_5
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 128
+        width: 12
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 1.1168832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c04513d3f19f206a0787eb0e950d99a
+      internalID: 1684187816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_6
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 119
+        width: 12
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1.0465117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562cfafe4514d3618edca25e9d6e0eca
+      internalID: 740479772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_7
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 112
+        width: 12
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b97d4c168cd6180366a29fbfa6c36c
+      internalID: 1047689624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_8
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 105
+        width: 12
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.97}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdbd4da4794fe7386701cdd0e6940e4
+      internalID: -1062864902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_9
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 138
+        width: 12
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.92537314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad41a45c4fc5c9a44512f6343dcdc84
+      internalID: 616004603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10
+        width: 12
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933f8484374ee201b9278ae7de217cc
+      internalID: -272285885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 7
+        width: 12
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.82857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724ca18bc1e4749159d08458f8c822b9
+      internalID: -1407769639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 4
+        width: 13
+        height: 38
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.84210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36c073ba81a1d6a15783a5b5256ab60
+      internalID: -1984261872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 200
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5076142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fba525b2abc2a85d171766622b798d
+      internalID: 1935684228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1446
+        width: 198
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50769234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d95a0c54865dcd7470fe19826a5a9c
+      internalID: 1080271456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1447
+        width: 196
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5051546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721e993970161b309a8e56a23668e4b
+      internalID: -1805187496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_16
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1448
+        width: 194
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479aa69e1a79096f2c4a816d5e279972
+      internalID: 970584706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_17
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1449
+        width: 192
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c8696f8df62099da4062c9206ac84f
+      internalID: 1747399711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_18
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1453
+        width: 188
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f683a9425cc1d78d2dfe0db7a180b28
+      internalID: -1850698246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1257
+        width: 186
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1f50382c8f6ab674e3403e397bfbb
+      internalID: 438416201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_20
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1259
+        width: 184
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0023a4abe781efdeed2e5961c94ad
+      internalID: 1362884334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1073
+        width: 182
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc54cffd9372d36819609712b70d4ac8
+      internalID: 1191163388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 892
+        width: 178
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24419b83a3fe945b18b5bf3979178e
+      internalID: -855045918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_23
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 894
+        width: 176
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effc9652e51dc1c732d1552b0eafc3a4
+      internalID: -94701729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_24
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 716
+        width: 174
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593d682a5a16d5e5e2e1bf6590ee2c99
+      internalID: -654836341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_25
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 544
+        width: 170
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e80e5c198a0ec29307d45150ea37877
+      internalID: -985215662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_26
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 373
+        width: 168
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a454d4243cebbfd24a907f887b29a57a
+      internalID: -208546782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 375
+        width: 166
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5f6a5b5ba378ba5af54335928b4974
+      internalID: -2061595621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 162
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9b4c3c527318677163a8ec68e5eb43
+      internalID: -1563263081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_29
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 45
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f74fff246ad81b50de2e39e7a174ed
+      internalID: 1753040800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 44
+        width: 158
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50931674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67feb9cff098e9c5d95853057db7457
+      internalID: 1336090175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 44
+        width: 155
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5032258, y: 0.5217391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a02ba0013b93e3f973c3a596afde92
+      internalID: -1564074619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_32
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 208
+        width: 155
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5096774, y: 0.5337423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fd7806e7c0bc4d7e670ca633b9d99c
+      internalID: 470519012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_33
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 208
+        width: 155
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5225806, y: 0.5460123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b0309fa7cfca412d143d3fb3a30804
+      internalID: -284530401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_34
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 207
+        width: 157
+        height: 164
+      alignment: 9
+      pivot: {x: 0.522293, y: 0.55487806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b800d79e42c2304e062f53a19ce1a6fb
+      internalID: -687607222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_35
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 206
+        width: 159
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5220126, y: 0.56969696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf45481b83267cf4fe6a7cbb74d9a96
+      internalID: -909046197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 206
+        width: 161
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.57575756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb4cd74aa15099f4ca32a3d0320f31d
+      internalID: 448807442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 206
+        width: 163
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5214724, y: 0.58787876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab07b311361b9418d5bd7def5e73549c
+      internalID: -1574790171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_38
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 375
+        width: 165
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5212121, y: 0.59638554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2812809dca28c3e4ce33860ec8b74ac9
+      internalID: 1845872806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_39
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 375
+        width: 167
+        height: 166
+      alignment: 9
+      pivot: {x: 0.52095807, y: 0.6084337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c48fbcf41b8ba54a33c17cf5f718b7
+      internalID: 756066561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 169
+        height: 165
+      alignment: 9
+      pivot: {x: 0.52071005, y: 0.6181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d1f53e5b1757f2c32360e7d62e28f
+      internalID: -2061945961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 206
+        width: 169
+        height: 165
+      alignment: 9
+      pivot: {x: 0.52071005, y: 0.630303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1a68d6c3dc8b9eeacfbc5fff8d3b85
+      internalID: -74519848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_42
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 376
+        width: 171
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5204678, y: 0.6424242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71093a323eb5b11e71e506cda64290a2
+      internalID: 1300404569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_43
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 376
+        width: 171
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5204678, y: 0.6484848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e40ef0f67f14d7e55b5f4fe2d7f516f
+      internalID: 495296923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_44
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 374
+        width: 173
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5202312, y: 0.6526946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16736820015d6bc453685154a79edc69
+      internalID: 522296710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_45
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 373
+        width: 173
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5202312, y: 0.6547619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb1438411d5737669e62a567e24a98
+      internalID: 1196883352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_46
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 544
+        width: 171
+        height: 170
+      alignment: 9
+      pivot: {x: 0.53216374, y: 0.65882355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f62a166e14b27698bc9d0d6612def1
+      internalID: 762598412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_47
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 543
+        width: 173
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5260116, y: 0.6608187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ce082f2772dca988d46c234c59b8e
+      internalID: 32239061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_48
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 717
+        width: 176
+        height: 173
+      alignment: 9
+      pivot: {x: 0.52272725, y: 0.6647399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252b59b06744ca2edac8ecaaaca681af
+      internalID: -448386489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_49
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 718
+        width: 177
+        height: 172
+      alignment: 9
+      pivot: {x: 0.519774, y: 0.6627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d29398b7ed65a0c1b24b93b9bd4c87
+      internalID: -2057932801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 175
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5257143, y: 0.6685714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b02b6aff917b4b562f397922921e6
+      internalID: -1055223105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_51
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 717
+        width: 177
+        height: 173
+      alignment: 9
+      pivot: {x: 0.519774, y: 0.6647399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680b28dc681f6bd2ef8f20345539bf5
+      internalID: -1179354761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_52
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 715
+        width: 174
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5114943, y: 0.6742857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017b6d2a8267c9ec4ce2912191390e7b
+      internalID: 2090357429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_53
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 892
+        width: 177
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5254237, y: 0.6797753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3199d33a39ac5b519dd838ddeef205f6
+      internalID: 108962951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 891
+        width: 179
+        height: 179
+      alignment: 9
+      pivot: {x: 0.51955307, y: 0.68715084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c3e010eee6229abd7e5e314dfd8e2d
+      internalID: -304709207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_55
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 892
+        width: 175
+        height: 178
+      alignment: 9
+      pivot: {x: 0.50857145, y: 0.6853933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c63ebabdacdd63926b384223c681716
+      internalID: 1635327331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_56
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1074
+        width: 178
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5280899, y: 0.6906077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e56545ef6f5556da319054e40ba0c6e
+      internalID: 1662686625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_57
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1072
+        width: 181
+        height: 183
+      alignment: 9
+      pivot: {x: 0.519337, y: 0.6939891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8879cfe512bd9fbe0c4261df8cbcecfe
+      internalID: 2027522489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_58
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1074
+        width: 177
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.6906077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f811454ea52b5ecac49131b69b0ef9af
+      internalID: -469399220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_59
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1258
+        width: 179
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5251397, y: 0.6972973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019c67b2050ba170a2a06debb1129a2
+      internalID: -1243123594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_60
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1257
+        width: 186
+        height: 186
+      alignment: 9
+      pivot: {x: 0.50537634, y: 0.6989247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f78750b6bcf6de3fcd6258d6af7db44
+      internalID: 982529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 179
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5027933, y: 0.70108694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f10303e53bfea402333f7cdf51662
+      internalID: -647518759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_62
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1256
+        width: 179
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5251397, y: 0.7112299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7e76b4dac276e3c852e3cf323f48bc
+      internalID: 2043047298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 183
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5136612, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35150badad0d80781a32ed66d088050d
+      internalID: -162723451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_64
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1451
+        width: 180
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0.73157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4081849311c8fcc99a4e8f968d62e7
+      internalID: 301974556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_65
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1452
+        width: 182
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5, y: 0.73015875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd852145bce351c344880cdfe020ab3
+      internalID: 2108819051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_66
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1072
+        width: 183
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5191257, y: 0.7431694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce1a70369043ee2859343b4829f916
+      internalID: 435757875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_67
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1075
+        width: 184
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5380435, y: 0.73888886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96856d0d41277294ae8a616d49b62c5b
+      internalID: 8047215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_68
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1258
+        width: 182
+        height: 185
+      alignment: 9
+      pivot: {x: 0.53296703, y: 0.74594593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a691586ce9db9c2b89203a2b6049352
+      internalID: -295392512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_69
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1259
+        width: 183
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5409836, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7b066adea165c09ab3080e89972286
+      internalID: -707572281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_70
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1073
+        width: 182
+        height: 182
+      alignment: 9
+      pivot: {x: 0.53296703, y: 0.75274724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0e6e150b63c19739501540468c79f
+      internalID: -1695731418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_71
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 893
+        width: 176
+        height: 177
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.7740113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77b82d7edc065bf0bb3b6faca598b52
+      internalID: 105337456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_72
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 894
+        width: 176
+        height: 176
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.76704544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acb5010f1e0245fb7c61cb965829dca
+      internalID: -1712154005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_73
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 895
+        width: 176
+        height: 175
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.7714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d536d2f744b4055a611d002b088f0c6
+      internalID: -78913553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_74
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 716
+        width: 176
+        height: 174
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.7758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a925576fe1eed1dd7f09905f5c1fb1
+      internalID: -691186941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_75
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 716
+        width: 176
+        height: 174
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.7758621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8c096a2d54575e712bfcf08af3edf9
+      internalID: 546280213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 176
+        height: 172
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.7906977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032221d5218d450eda7e8ecbae523fec
+      internalID: -2031649023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_77
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 542
+        width: 176
+        height: 172
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.7906977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef21201f4701fb2e4a1412591a9a89ea
+      internalID: -1684082985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_78
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 543
+        width: 176
+        height: 171
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.79532164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f29ce87c4d0f0b6a3afac2aceabbee
+      internalID: -78848958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_79
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 543
+        width: 175
+        height: 171
+      alignment: 9
+      pivot: {x: 0.52, y: 0.79532164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943d88760ca04722769a5f28ab9d46ae
+      internalID: -1473868508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_80
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 543
+        width: 162
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5617284, y: 0.79532164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f18a76bdaf9663e921aef67d51ca06
+      internalID: -759116019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_81
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 544
+        width: 162
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5617284, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e7f897ced18d36445826378eb6f9c4
+      internalID: 1190345595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 162
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5617284, y: 0.79881656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ee117ad630f9f49d1302ac7618fd23
+      internalID: 227638432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_83
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 206
+        width: 161
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5590062, y: 0.8181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d798011a24946892b784a92c538bae
+      internalID: -1603597785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_84
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 44
+        width: 158
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5506329, y: 0.8385093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fff46ec24983f6e45f704333c8dcfb
+      internalID: -480852302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_85
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 49
+        width: 149
+        height: 156
+      alignment: 9
+      pivot: {x: 0.52348995, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a17d9b81cefadbaab7d2718bec5b6
+      internalID: 967595410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_86
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 61
+        width: 148
+        height: 144
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.8194444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d114c55ab18a067f26798f3903b1ec4
+      internalID: -630664219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_87
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 81
+        width: 115
+        height: 124
+      alignment: 9
+      pivot: {x: 0.67826086, y: 0.7903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cb4c70c24733f89c50c07718b124f8
+      internalID: -332636054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_88
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 81
+        width: 114
+        height: 124
+      alignment: 9
+      pivot: {x: 0.6754386, y: 0.7903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c2bc5254fd9d5014acd04bfe24032b
+      internalID: -433238788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a40958a2690b0ac13460a1bd6d6c545
+      internalID: -1574284508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_90
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.36585367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68e269913cb0902e4ebece0e322ff73
+      internalID: 1297548431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988e7ca3573c46520891c777a5dbec55
+      internalID: -1506593318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_92
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 39
+        height: 42
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf05bdb75d1721235c30a0c7bdd2ceb
+      internalID: -747614067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_93
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 163
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b40d32c4a4b2d759f59ebb1267305
+      internalID: 1585076111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_94
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 163
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e19440138bfe55ad9938f0d2f77991
+      internalID: 901634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_95
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 163
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21452c0741c4dd1f19567fe8408fdf
+      internalID: 2046215061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_96
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 13
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7586207, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced42a145ccd8e6d15e170bb2a77b5b
+      internalID: -879130022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: firework-burst_97
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 41
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccfd0f063cd62121a75c82969e6bab4
+      internalID: -640525022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e2c0f8142b0942ef8196591968bb549
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      firework-burst_0: 8336945815009256934
+      firework-burst_1: 1242603843
+      firework-burst_10: -272285885
+      firework-burst_11: -1407769639
+      firework-burst_12: -1984261872
+      firework-burst_13: 1935684228
+      firework-burst_14: 1080271456
+      firework-burst_15: -1805187496
+      firework-burst_16: 970584706
+      firework-burst_17: 1747399711
+      firework-burst_18: -1850698246
+      firework-burst_19: 438416201
+      firework-burst_2: -1276878858
+      firework-burst_20: 1362884334
+      firework-burst_21: 1191163388
+      firework-burst_22: -855045918
+      firework-burst_23: -94701729
+      firework-burst_24: -654836341
+      firework-burst_25: -985215662
+      firework-burst_26: -208546782
+      firework-burst_27: -2061595621
+      firework-burst_28: -1563263081
+      firework-burst_29: 1753040800
+      firework-burst_3: 447892996
+      firework-burst_30: 1336090175
+      firework-burst_31: -1564074619
+      firework-burst_32: 470519012
+      firework-burst_33: -284530401
+      firework-burst_34: -687607222
+      firework-burst_35: -909046197
+      firework-burst_36: 448807442
+      firework-burst_37: -1574790171
+      firework-burst_38: 1845872806
+      firework-burst_39: 756066561
+      firework-burst_4: 1002916798
+      firework-burst_40: -2061945961
+      firework-burst_41: -74519848
+      firework-burst_42: 1300404569
+      firework-burst_43: 495296923
+      firework-burst_44: 522296710
+      firework-burst_45: 1196883352
+      firework-burst_46: 762598412
+      firework-burst_47: 32239061
+      firework-burst_48: -448386489
+      firework-burst_49: -2057932801
+      firework-burst_5: 1684187816
+      firework-burst_50: -1055223105
+      firework-burst_51: -1179354761
+      firework-burst_52: 2090357429
+      firework-burst_53: 108962951
+      firework-burst_54: -304709207
+      firework-burst_55: 1635327331
+      firework-burst_56: 1662686625
+      firework-burst_57: 2027522489
+      firework-burst_58: -469399220
+      firework-burst_59: -1243123594
+      firework-burst_6: 740479772
+      firework-burst_60: 982529
+      firework-burst_61: -647518759
+      firework-burst_62: 2043047298
+      firework-burst_63: -162723451
+      firework-burst_64: 301974556
+      firework-burst_65: 2108819051
+      firework-burst_66: 435757875
+      firework-burst_67: 8047215
+      firework-burst_68: -295392512
+      firework-burst_69: -707572281
+      firework-burst_7: 1047689624
+      firework-burst_70: -1695731418
+      firework-burst_71: 105337456
+      firework-burst_72: -1712154005
+      firework-burst_73: -78913553
+      firework-burst_74: -691186941
+      firework-burst_75: 546280213
+      firework-burst_76: -2031649023
+      firework-burst_77: -1684082985
+      firework-burst_78: -78848958
+      firework-burst_79: -1473868508
+      firework-burst_8: -1062864902
+      firework-burst_80: -759116019
+      firework-burst_81: 1190345595
+      firework-burst_82: 227638432
+      firework-burst_83: -1603597785
+      firework-burst_84: -480852302
+      firework-burst_85: 967595410
+      firework-burst_86: -630664219
+      firework-burst_87: -332636054
+      firework-burst_88: -433238788
+      firework-burst_89: -1574284508
+      firework-burst_9: 616004603
+      firework-burst_90: 1297548431
+      firework-burst_91: -1506593318
+      firework-burst_92: -747614067
+      firework-burst_93: 1585076111
+      firework-burst_94: 901634803
+      firework-burst_95: 2046215061
+      firework-burst_96: -879130022
+      firework-burst_97: -640525022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

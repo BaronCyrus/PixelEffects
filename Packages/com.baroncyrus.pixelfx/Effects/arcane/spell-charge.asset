@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: spell-charge
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: arcane/spell-charge
+  displayName: Spell charge
+  description: 'Energy gathers in the caster''s hand: streaks and motes spiral in, rings collapse into a swelling orb that crackles with arcs, ready to fire.'
+  category: arcane
+  tags:
+  - arcane
+  - charge
+  - spell
+  - orb
+  - cast
+  - magic
+  - loop
+  frames:
+  - {fileID: -52047617208902389, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1909258394, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1053049743, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 745865768, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 1288905356, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1006794156, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1399969898, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -2059349243, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 49096791, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 463617534, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 677368152, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 1630858827, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 651067295, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -202852870, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1816896529, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -444380771, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 311345211, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -2144308114, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 1262544383, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 435193425, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1943734150, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -979474325, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 323084060, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -254521385, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1976562981, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -954188114, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 247006302, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 1118385476, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 38384212, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -614909627, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 972806816, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -705537878, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 1164724004, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 843166899, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1707404752, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1453458660, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -673352668, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1212906046, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1568479498, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1184663339, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1192566195, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 1703313717, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -69345947, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -474338797, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 183830769, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 311548001, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: 1259456401, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  - {fileID: -1286490271, guid: d63e01f8dbe374e538bbfb7db444fdb3, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 120, y: 86}
+  origin: {x: 44, y: 80}
+  fullScreen: 0
+  previewFrame: 15
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.46
+  recovery: 0
+  onBody: 0
+  hits: []

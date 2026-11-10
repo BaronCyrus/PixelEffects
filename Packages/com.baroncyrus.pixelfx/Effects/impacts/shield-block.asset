@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: shield-block
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: impacts/shield-block
+  displayName: Shield block
+  description: 'A blow is caught on a half-dome of energy in front of the character: its diamond lattice flashes, a ripple runs over it, sparks glance off, then it blinks out cell by cell.'
+  category: impacts
+  tags:
+  - impact
+  - block
+  - shield
+  - barrier
+  - energy
+  - ripple
+  - actor
+  - one-shot
+  frames:
+  - {fileID: 3723751574849854226, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1464918976, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 2040595521, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -345562514, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -543346577, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1117709178, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -849629834, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -1294971524, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -777834227, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1410976592, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 39941919, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -1321831536, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -788702404, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -2070925551, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -69868751, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -1785353416, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 819309229, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 115396539, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1666631336, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -486902989, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1452930010, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -1825513611, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1455244726, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -1377328891, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -1566301574, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -157150988, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -2053376175, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -1753625472, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1784360505, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1277897124, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 151664951, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1298604251, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: 1780412361, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  - {fileID: -1900427577, guid: cb2967f4e29b746069899eab9993dfb2, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 148, y: 104}
+  origin: {x: 40, y: 88}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.36
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.005
+    freeze: 0.09
+    shake: 0.2
+    amplitude: 2
+    push: 1.2

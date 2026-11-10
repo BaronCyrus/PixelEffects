@@ -1,0 +1,3493 @@
+fileFormatVersion: 2
+guid: f3af9ad755d2b4f1180a0ba93c435f55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6103957685093546286
+    second: smoke-bomb_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoke-bomb_0
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 25
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 11, y: -3.235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04ee5151f80e93ad957eca1c3aa11e4
+      internalID: 6103957685093546286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_1
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 25
+        width: 12
+        height: 17
+      alignment: 9
+      pivot: {x: 9.666667, y: -3.3529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbab943e5bb70b510bc704134cafd34
+      internalID: -2079075480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 26
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 8.071428, y: -3.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0319ff4012a4ec6c3912d8804252fd2
+      internalID: 1301961952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_3
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 27
+        width: 20
+        height: 15
+      alignment: 9
+      pivot: {x: 5.7, y: -3.8666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d759dbdda9dd6c074adee6a8e1f237
+      internalID: 710534091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 25
+        width: 27
+        height: 17
+      alignment: 9
+      pivot: {x: 4.259259, y: -3.3529413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b30098978a47d51728d395d6868c1f
+      internalID: -213055713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_5
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 22
+        width: 33
+        height: 20
+      alignment: 9
+      pivot: {x: 3.5151515, y: -2.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8248f48570c58c6f8832f5cb12a39c2
+      internalID: 1981101103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_6
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 19
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 3.6333334, y: -2.2608695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff13ec697a2de622a1f3c3efb0a9de7b
+      internalID: -1068178611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 14
+        width: 34
+        height: 28
+      alignment: 9
+      pivot: {x: 3.1764705, y: -1.6785715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf443364ce279393a4c03950303e058
+      internalID: -67678310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_8
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 16
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 4.736842, y: -1.5769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888fc8a298544446e4f11483272dac1
+      internalID: -575694819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 10
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 3.7916667, y: -1.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a22e2807c89ba7b79fd9df58a4f24a2
+      internalID: -19151054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 3.2857144, y: -0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e534348bcada99f1ccaf91c898ea8
+      internalID: 1079356287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_11
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 20
+        width: 14
+        height: 22
+      alignment: 9
+      pivot: {x: 5.357143, y: -0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27d3500e2bf6d0ea90a77f54023d0d4
+      internalID: -861507510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_12
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 11
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 4.625, y: -0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27357d8b07c01444396fdcd2530f7e33
+      internalID: 402354648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 20
+        height: 42
+      alignment: 9
+      pivot: {x: 3.75, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05452bb79362783c01893d3b991283c
+      internalID: 711551202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 57
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 3.409091, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc202031c935b66d46797f690590ecad
+      internalID: -661811263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 2.96, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c56a0bab149db76cfaf43ae2f6731f
+      internalID: -550974680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_16
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 2.7692308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb2a77d262b40164f5b181104fc6d36
+      internalID: 170032493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 2.4333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cfa8a326aaf2829ed7ea69797fedc1
+      internalID: 1783626820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 2.2121212, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483a03d94768915d2086f48404eb8456
+      internalID: 473983130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2
+        width: 37
+        height: 40
+      alignment: 9
+      pivot: {x: 1.972973, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d5243e98722d97d001e8f73777f57a
+      internalID: -708653444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 1.825, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47bc38414b6b93499576a80849784e9
+      internalID: -1426442347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 1.6976744, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645a5247bf0ea26ced5db0bd929c7b54
+      internalID: -1804470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1
+        width: 46
+        height: 41
+      alignment: 9
+      pivot: {x: 1.5869565, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d90a1ec478c54052a5089851c5e9c5
+      internalID: 767526530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1
+        width: 48
+        height: 41
+      alignment: 9
+      pivot: {x: 1.5208334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb16bda931f6366bf6665d1b29d5088
+      internalID: -616598948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 51
+        height: 42
+      alignment: 9
+      pivot: {x: 1.4313725, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04f87cd58e65c7ae1bf3ad5a70a0e1
+      internalID: 1267175588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 42
+      alignment: 9
+      pivot: {x: 1.3773584, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd10ba2dc2a7a7ced37803272448766
+      internalID: 1520933041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_26
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 60
+        width: 59
+        height: 42
+      alignment: 9
+      pivot: {x: 1.2372881, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa48cf07a4d4dd6f624ee35fdfdb6d0
+      internalID: 2140535745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_27
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 59
+        width: 63
+        height: 43
+      alignment: 9
+      pivot: {x: 1.1587301, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc146846a6d422e5fdd05202400737
+      internalID: 1325303958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_28
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 59
+        width: 67
+        height: 43
+      alignment: 9
+      pivot: {x: 1.1044776, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1952ff222547921ba0476a4e57f54bc
+      internalID: -592302854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 393
+        width: 113
+        height: 84
+      alignment: 9
+      pivot: {x: 0.65486723, y: 0.22619048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44940c06a8deaa6b2eb08ff03d5bd3c
+      internalID: 1683608406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_30
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 313
+        width: 103
+        height: 79
+      alignment: 9
+      pivot: {x: 0.6699029, y: 0.24050634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d4c0e67350cd63c3d0fb8c53005974
+      internalID: -1550867671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 92
+        height: 74
+      alignment: 9
+      pivot: {x: 0.6847826, y: 0.25675675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283e05c028f2aada92062a7ae0c3f370
+      internalID: -200503725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_32
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 169
+        width: 88
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.27941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e820da1e0ac8d3a5cc062e21281ffef
+      internalID: 1829470545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_33
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 107
+        width: 86
+        height: 60
+      alignment: 9
+      pivot: {x: 0.68604654, y: 0.28333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f45b829b9dcc2e8cc007ecd05ded19b
+      internalID: -2133913639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 89
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6966292, y: 0.18644068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7400a8b2dfd060939441071d907b72
+      internalID: -1497974263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_35
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 106
+        width: 95
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7157895, y: 0.13114753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4bdcb8af7fef95e7f1fa751eacda21
+      internalID: -2142514208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 104
+        width: 102
+        height: 63
+      alignment: 9
+      pivot: {x: 0.7254902, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf435fa38cb2a48021e918bd7023caae
+      internalID: -231517719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_37
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 171
+        width: 111
+        height: 66
+      alignment: 9
+      pivot: {x: 0.7117117, y: 0.10606061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af513e994141e3b3b926286e5d56a6c
+      internalID: 1960957985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_38
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 170
+        width: 119
+        height: 67
+      alignment: 9
+      pivot: {x: 0.7058824, y: 0.08955224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81424eb78db4e045e0a9d25ba8a8ada5
+      internalID: -1336830180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 103
+        width: 126
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6984127, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c62fb7ba72dfc026575335a30a0842
+      internalID: -497498091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 123
+        height: 41
+      alignment: 9
+      pivot: {x: 0.7479675, y: 0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca98284302212b7714c23a62af00dc
+      internalID: -29454724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_41
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 58
+        width: 101
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6732673, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c746c0058fe4030c482aaa67b653165
+      internalID: -161378897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_42
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 56
+        width: 105
+        height: 46
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.02173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698c9d9111c5716157eb7a2004ea7bcd
+      internalID: -829269122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 54
+        width: 109
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6605505, y: 0.020833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d60f59042bf756594505d5f2755b5f
+      internalID: -1526240503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_44
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 52
+        width: 112
+        height: 50
+      alignment: 9
+      pivot: {x: 0.65178573, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89236262afa0b6125887992557f8a66e
+      internalID: -1096611418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_45
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 50
+        width: 115
+        height: 52
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0.01923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3171fd13c786b643fc4432afd13cf1
+      internalID: -2104319357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 118
+        height: 54
+      alignment: 9
+      pivot: {x: 0.6440678, y: 0.018518519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535638056d9c4c9a0949fb20dc80b3f7
+      internalID: 1065971170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_47
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 46
+        width: 121
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6446281, y: 0.017857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9291aea3e1c6e990300bca2b9bac8c5
+      internalID: 752436422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 45
+        width: 123
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6422764, y: 0.01754386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f340f018996eb35abe2479a074f4f56
+      internalID: 968043289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_49
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 108
+        width: 125
+        height: 59
+      alignment: 9
+      pivot: {x: 0.64, y: 0.016949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8be4c670101cd6b4827004244c9b8
+      internalID: 353436424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_50
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 107
+        width: 127
+        height: 60
+      alignment: 9
+      pivot: {x: 0.63779527, y: 0.016666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5bf79b52e85703ba8694cb748c8d9e
+      internalID: 2109661996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_51
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 106
+        width: 129
+        height: 61
+      alignment: 9
+      pivot: {x: 0.6356589, y: 0.016393442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f472c8ccb635ed8ad2b5aae1f7b86
+      internalID: 1351291502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_52
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 105
+        width: 131
+        height: 62
+      alignment: 9
+      pivot: {x: 0.6335878, y: 0.016129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553c09d6f5471748b70ea32e5a4ee26
+      internalID: 433813884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_53
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 104
+        width: 133
+        height: 63
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.015873017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6df6e67e2de67e0d47fb3ad0e5e217
+      internalID: 1015574562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 133
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6315789, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032183a64896f367c493528d1e1f47b3
+      internalID: 2074325481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_55
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 172
+        width: 135
+        height: 65
+      alignment: 9
+      pivot: {x: 0.6296296, y: 0.015384615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b00c14a064ad4f8743cc711d8df8e42
+      internalID: -1342323157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_56
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 171
+        width: 137
+        height: 66
+      alignment: 9
+      pivot: {x: 0.6277372, y: 0.015151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61395db76f544ac9b88c700dddca8dea
+      internalID: -1502696902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_57
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 170
+        width: 137
+        height: 67
+      alignment: 9
+      pivot: {x: 0.6277372, y: 0.014925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237278784d88d80b997e6e80a51515cc
+      internalID: 559546377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 169
+        width: 139
+        height: 68
+      alignment: 9
+      pivot: {x: 0.62589926, y: 0.014705882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a2fe17f9d7e7b5bfcd2c2bc6326e2
+      internalID: 1817631447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_59
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 169
+        width: 139
+        height: 68
+      alignment: 9
+      pivot: {x: 0.62589926, y: 0.014705882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f708e8dc28b4020cb7fad0f0412383
+      internalID: -332000816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 141
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6241135, y: 0.014492754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9587f0f76aa36b5fd56074501fdfc546
+      internalID: 775685411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_61
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 242
+        width: 141
+        height: 70
+      alignment: 9
+      pivot: {x: 0.6241135, y: 0.014285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ada69f2be737408ef4125b31d51c472
+      internalID: -1717990344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_62
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 241
+        width: 143
+        height: 71
+      alignment: 9
+      pivot: {x: 0.62237763, y: 0.028169014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6b0c185d8f2acc099fb6b45c4133c
+      internalID: 786794882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_63
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 240
+        width: 143
+        height: 72
+      alignment: 9
+      pivot: {x: 0.62237763, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937b2c862a3a38b5e5252ce83bc115b
+      internalID: -557746595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_64
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 240
+        width: 144
+        height: 72
+      alignment: 9
+      pivot: {x: 0.625, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a2da1777f6ec118844fe529d32f75a
+      internalID: 58156096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 239
+        width: 145
+        height: 73
+      alignment: 9
+      pivot: {x: 0.62068963, y: 0.02739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591a2382b7766320de5ed86bc77f52a0
+      internalID: -1282534209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 239
+        width: 146
+        height: 73
+      alignment: 9
+      pivot: {x: 0.6232877, y: 0.02739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0133eb3b3f3d75c2714d70a2940abf57
+      internalID: 2124544601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_67
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 318
+        width: 147
+        height: 74
+      alignment: 9
+      pivot: {x: 0.61904764, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f48f995bec50adebe605245ef8f04e
+      internalID: 993112733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_68
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 239
+        width: 148
+        height: 73
+      alignment: 9
+      pivot: {x: 0.6216216, y: 0.01369863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e69353b205199dca890f6a5f0276dbb
+      internalID: -162820948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_69
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 317
+        width: 148
+        height: 75
+      alignment: 9
+      pivot: {x: 0.6216216, y: 0.026666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1193400f65b2460304c5701b67af42b2
+      internalID: 2035521013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_70
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 316
+        width: 149
+        height: 76
+      alignment: 9
+      pivot: {x: 0.61744964, y: 0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc39290642dd3220409d7de0a995c9a
+      internalID: -791966254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_71
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 316
+        width: 150
+        height: 76
+      alignment: 9
+      pivot: {x: 0.62, y: 0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b4c7acc4f3060e9e9d181a144d726
+      internalID: -1319950606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_72
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 315
+        width: 151
+        height: 77
+      alignment: 9
+      pivot: {x: 0.615894, y: 0.025974026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857a395c6d9b8cc222994b7f45884b21
+      internalID: -14999504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 314
+        width: 151
+        height: 78
+      alignment: 9
+      pivot: {x: 0.615894, y: 0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be4257f145e01fcfdd9ed729164196
+      internalID: -1886473058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 152
+        height: 79
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.025316456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adb63344b204aa424678bb1ddf5495f
+      internalID: -1512023705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_75
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 398
+        width: 153
+        height: 79
+      alignment: 9
+      pivot: {x: 0.6143791, y: 0.025316456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3811f016300f1e38b4b3a5ba468dc8
+      internalID: 928536581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_76
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 397
+        width: 153
+        height: 80
+      alignment: 9
+      pivot: {x: 0.6143791, y: 0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb3c9bb4bb053b6c47c9ab8e3e9324b
+      internalID: 1476559959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_77
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 396
+        width: 154
+        height: 81
+      alignment: 9
+      pivot: {x: 0.6103896, y: 0.024691358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4baa26600af7fdadfed7aa8a37e1bf7
+      internalID: -1512365529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_78
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 395
+        width: 154
+        height: 82
+      alignment: 9
+      pivot: {x: 0.6103896, y: 0.024390243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa97968ba87baf97fa66d419b5be5d
+      internalID: -1410229030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_79
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 394
+        width: 156
+        height: 83
+      alignment: 9
+      pivot: {x: 0.60897434, y: 0.024096385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f89cbbd71f67e860e27968b66a59a
+      internalID: -1690658060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 156
+        height: 84
+      alignment: 9
+      pivot: {x: 0.60897434, y: 0.023809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c7e47e268a6eba76d0731cb56036db
+      internalID: -1584667408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_81
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 482
+        width: 156
+        height: 85
+      alignment: 9
+      pivot: {x: 0.60897434, y: 0.023529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ba0491fcf76bf299adc511df725de
+      internalID: 441765105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_82
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 482
+        width: 157
+        height: 85
+      alignment: 9
+      pivot: {x: 0.60509557, y: 0.023529412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29b6729e035736d86523e59ffe474c2
+      internalID: -269121666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_83
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 481
+        width: 157
+        height: 86
+      alignment: 9
+      pivot: {x: 0.60509557, y: 0.023255814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccdaae1fb4c8cc5b7233cc0da14d328
+      internalID: -1644984897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_84
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 480
+        width: 158
+        height: 87
+      alignment: 9
+      pivot: {x: 0.60126585, y: 0.022988506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f55ebd8a7e3c7b429a8a504bf541d33
+      internalID: -970039794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 479
+        width: 158
+        height: 88
+      alignment: 9
+      pivot: {x: 0.60126585, y: 0.022727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67abf29f014d3c2ca0d9c5661cb3224
+      internalID: -1226895625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 159
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5974843, y: 0.02247191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346f1c3174ce59124819114a72d528de
+      internalID: -822929549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_87
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 572
+        width: 159
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5974843, y: 0.022222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30102f52cd398b3b783c34b7ee41f214
+      internalID: 406855990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 478
+        width: 159
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5974843, y: 0.011235955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cfecb72fec50fb55689638ea32781e
+      internalID: -1751610500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_89
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 572
+        width: 160
+        height: 90
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.011111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998204446d122abe1052dbb6b5e95984
+      internalID: 1667664165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_90
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 571
+        width: 160
+        height: 91
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.010989011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b978a78d65e9dea8d96a7fab510c66b
+      internalID: -428950514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_91
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 570
+        width: 160
+        height: 92
+      alignment: 9
+      pivot: {x: 0.59375, y: 0.010869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6664fb2e007f150f7b7c3329734d7c
+      internalID: 1968532070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_92
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 570
+        width: 161
+        height: 92
+      alignment: 9
+      pivot: {x: 0.59006214, y: 0.010869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ac60203c8d2b69754c530a914c5c50
+      internalID: -264053350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 569
+        width: 161
+        height: 93
+      alignment: 9
+      pivot: {x: 0.59006214, y: 0.010752688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05fce56ce872c94f63744203870c9d6
+      internalID: 466090150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 161
+        height: 94
+      alignment: 9
+      pivot: {x: 0.59006214, y: 0.010638298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7f691341a9269e5d874b39217a6e4c
+      internalID: 888421617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_95
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 667
+        width: 162
+        height: 94
+      alignment: 9
+      pivot: {x: 0.58641976, y: 0.010638298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1255232c002a8566c71f23dbdf450f41
+      internalID: -494918068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_96
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 666
+        width: 162
+        height: 95
+      alignment: 9
+      pivot: {x: 0.58641976, y: 0.010526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f4bf621d84ae7ce47c77851768f3f0
+      internalID: 951644289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_97
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 665
+        width: 161
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5838509, y: 0.010416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1612c905ada50d2023cc9502cdc433f3
+      internalID: 1302819577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_98
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 665
+        width: 162
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5802469, y: 0.010416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be096a4927f457bbf4dc975cba7eee
+      internalID: -387449454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_99
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 664
+        width: 162
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5802469, y: 0.010309278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a0ea17db38b0f8d34c3a796486ba1
+      internalID: -1632711526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_100
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 664
+        width: 162
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5802469, y: 0.010309278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95f53f4238f357862854143e1c9939e
+      internalID: 605961872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 162
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5802469, y: 0.010204081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c034dbfe9042dcc76d9fc128d071b8a
+      internalID: 2100061331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_102
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 764
+        width: 163
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5766871, y: 0.010204081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7440fb10613e1a20f8694d0c2a65e848
+      internalID: 1164958412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_103
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 763
+        width: 163
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5766871, y: 0.01010101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa9f7fe6e8609ca317874fe6191ef92
+      internalID: -2070817294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_104
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 763
+        width: 162
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5740741, y: 0.01010101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3cf946af539c8fba0dcab554c3e51d
+      internalID: -656568081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 157
+        height: 100
+      alignment: 9
+      pivot: {x: 0.57961786, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67524e33cc8c2a7da35fca15205f96e5
+      internalID: 236229874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_106
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 762
+        width: 157
+        height: 100
+      alignment: 9
+      pivot: {x: 0.57961786, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aab312125de21aa8d9d74376c3e0c7
+      internalID: -1130555733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_107
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 864
+        width: 158
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5759494, y: 0.00990099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae940d53b73b9a8cc0009b7bc1e539b4
+      internalID: -1279633367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_108
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 864
+        width: 158
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5759494, y: 0.00990099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a24e3141592429f551ca3c98cb1754
+      internalID: 595557572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_109
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 968
+        width: 158
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5759494, y: 0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4a8f76310782990793fb3f7e6d64b
+      internalID: 165168629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_110
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 967
+        width: 158
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5759494, y: 0.009708738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecafbdd6dc6e32e092d84e33302af9da
+      internalID: -591807779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_111
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1072
+        width: 148
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6148649, y: 0.009615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae89ccb88e85fb92a9e3226a7d2a3f1
+      internalID: 779167193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_112
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1179
+        width: 147
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6122449, y: 0.00952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c57ee6ed89c4a10cfcf437a4d2814ce
+      internalID: -428317825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_113
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1178
+        width: 147
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6122449, y: 0.009433962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a706cfdd78b4739c63b4e3c15c331e4f
+      internalID: -716645986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_114
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1178
+        width: 145
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6, y: 0.009433962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f960f1fdc7ebce6db3927e309d52ed
+      internalID: 155983852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1177
+        width: 145
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6, y: 0.009345794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fef11c8c74f4c83fc83585d3519f4c
+      internalID: 556905623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_116
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 762
+        width: 145
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f35fcf5ebada3359ea6bf6b285c3b9e
+      internalID: -1315278403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_117
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 762
+        width: 143
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5944056, y: 0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527dbd1940c9ab3efd0b1df688dc336f
+      internalID: 712473326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_118
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 864
+        width: 140
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5857143, y: 0.00990099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b641ea6bf3d815db1fd7053b51f830b
+      internalID: 1832754698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_119
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 864
+        width: 141
+        height: 101
+      alignment: 9
+      pivot: {x: 0.58156025, y: 0.00990099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5598f6b66edf79799aa2e675e243c76b
+      internalID: 1028677204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_120
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 864
+        width: 141
+        height: 101
+      alignment: 9
+      pivot: {x: 0.58156025, y: 0.00990099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3873531ec6645f5de767b71aabd9c347
+      internalID: -1641281465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_121
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 968
+        width: 142
+        height: 102
+      alignment: 9
+      pivot: {x: 0.58450705, y: 0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1402e146f28c26ffd94591e9e792644
+      internalID: -606730709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 142
+        height: 102
+      alignment: 9
+      pivot: {x: 0.58450705, y: 0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5231444d69c48f3dfb766be78e4b81
+      internalID: 801070914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_123
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 863
+        width: 142
+        height: 102
+      alignment: 9
+      pivot: {x: 0.58450705, y: 0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e3af966cc2bc445eaef0e39f8800c7
+      internalID: -199724628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_124
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 863
+        width: 142
+        height: 102
+      alignment: 9
+      pivot: {x: 0.58450705, y: 0.009803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc63e87b5a7220890664bb61b3762015
+      internalID: 242444065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_125
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 967
+        width: 143
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5804196, y: 0.009708738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1e3c475d8098b471077ada879b700b
+      internalID: -137348964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_126
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 967
+        width: 143
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5804196, y: 0.009708738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63398f7ef10e7bf15b3ac7dc191d9dfd
+      internalID: -748933975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_127
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 967
+        width: 144
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.009708738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b5f78654d2b239ec01138d9e83b955
+      internalID: 927043804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_128
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 967
+        width: 144
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.009708738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7e2e9c69b0c6ddc01e76429ff25c0d
+      internalID: 1646941261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_129
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1072
+        width: 144
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.009615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443acf0af270dbf36d6bb862574b0e1f
+      internalID: 659913152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_130
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1072
+        width: 145
+        height: 104
+      alignment: 9
+      pivot: {x: 0.57931036, y: 0.009615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c79ae81a15aa4d6ddaef1c1a47d361f
+      internalID: -2118456368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_131
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1072
+        width: 128
+        height: 104
+      alignment: 9
+      pivot: {x: 0.65625, y: 0.009615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9efd67a698257f49effc69a89e97027
+      internalID: 3642932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 966
+        width: 121
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.009615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca943eac4c587dcebcd818cbfadb0d
+      internalID: 692860359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1071
+        width: 121
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.00952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8663dd37e7d521f112e37b8a3ed6891a
+      internalID: 448184432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_134
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1071
+        width: 121
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.00952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7dcf69e83b9bf8086f89e6f44a1549
+      internalID: 48241077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_135
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1071
+        width: 118
+        height: 105
+      alignment: 9
+      pivot: {x: 0.62711865, y: 0.00952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d0d72ad1f4edcab6217f12c8a9dd76
+      internalID: 744694265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_136
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1071
+        width: 119
+        height: 105
+      alignment: 9
+      pivot: {x: 0.6302521, y: 0.00952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5484d5009d26a3bd395b4d9f64d5ad8d
+      internalID: 745379497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_137
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1071
+        width: 120
+        height: 105
+      alignment: 9
+      pivot: {x: 0.625, y: 0.00952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c1823217ebfda0497f9c8f466b1627
+      internalID: 1327147203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_138
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1178
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.625, y: 0.009433962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53f15d9102ed05b257406e38ec7734
+      internalID: 1252595401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_139
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1178
+        width: 120
+        height: 106
+      alignment: 9
+      pivot: {x: 0.625, y: 0.009433962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7399044b2f98f95411fad6c699c559
+      internalID: 596827235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_140
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1178
+        width: 106
+        height: 106
+      alignment: 9
+      pivot: {x: 0.7075472, y: 0.009433962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b487370847ab9b6eaf1f794ce6441741
+      internalID: 1187435055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_141
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1178
+        width: 107
+        height: 106
+      alignment: 9
+      pivot: {x: 0.71028036, y: 0.009433962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7a4c0c52a7e1342fef5948a828916c
+      internalID: -1912870382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_142
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1177
+        width: 85
+        height: 107
+      alignment: 9
+      pivot: {x: 0.63529414, y: 0.009345794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacbea48a880177513b33010764c517b
+      internalID: -655211975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_143
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 397
+        width: 85
+        height: 80
+      alignment: 9
+      pivot: {x: 0.63529414, y: -0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3842d7a51fe0ba1185f62935ab5f68
+      internalID: -1082758202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_144
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 397
+        width: 85
+        height: 80
+      alignment: 9
+      pivot: {x: 0.63529414, y: -0.325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8dfe0a8b41547834a26fb092aeba98
+      internalID: 185641272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke-bomb_145
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 41
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b1e02fd7badf9d8d3d0bf56633d2e1
+      internalID: -1964185242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9003637e552d5449aaa21816c869a246
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      smoke-bomb_0: 6103957685093546286
+      smoke-bomb_1: -2079075480
+      smoke-bomb_10: 1079356287
+      smoke-bomb_100: 605961872
+      smoke-bomb_101: 2100061331
+      smoke-bomb_102: 1164958412
+      smoke-bomb_103: -2070817294
+      smoke-bomb_104: -656568081
+      smoke-bomb_105: 236229874
+      smoke-bomb_106: -1130555733
+      smoke-bomb_107: -1279633367
+      smoke-bomb_108: 595557572
+      smoke-bomb_109: 165168629
+      smoke-bomb_11: -861507510
+      smoke-bomb_110: -591807779
+      smoke-bomb_111: 779167193
+      smoke-bomb_112: -428317825
+      smoke-bomb_113: -716645986
+      smoke-bomb_114: 155983852
+      smoke-bomb_115: 556905623
+      smoke-bomb_116: -1315278403
+      smoke-bomb_117: 712473326
+      smoke-bomb_118: 1832754698
+      smoke-bomb_119: 1028677204
+      smoke-bomb_12: 402354648
+      smoke-bomb_120: -1641281465
+      smoke-bomb_121: -606730709
+      smoke-bomb_122: 801070914
+      smoke-bomb_123: -199724628
+      smoke-bomb_124: 242444065
+      smoke-bomb_125: -137348964
+      smoke-bomb_126: -748933975
+      smoke-bomb_127: 927043804
+      smoke-bomb_128: 1646941261
+      smoke-bomb_129: 659913152
+      smoke-bomb_13: 711551202
+      smoke-bomb_130: -2118456368
+      smoke-bomb_131: 3642932
+      smoke-bomb_132: 692860359
+      smoke-bomb_133: 448184432
+      smoke-bomb_134: 48241077
+      smoke-bomb_135: 744694265
+      smoke-bomb_136: 745379497
+      smoke-bomb_137: 1327147203
+      smoke-bomb_138: 1252595401
+      smoke-bomb_139: 596827235
+      smoke-bomb_14: -661811263
+      smoke-bomb_140: 1187435055
+      smoke-bomb_141: -1912870382
+      smoke-bomb_142: -655211975
+      smoke-bomb_143: -1082758202
+      smoke-bomb_144: 185641272
+      smoke-bomb_145: -1964185242
+      smoke-bomb_15: -550974680
+      smoke-bomb_16: 170032493
+      smoke-bomb_17: 1783626820
+      smoke-bomb_18: 473983130
+      smoke-bomb_19: -708653444
+      smoke-bomb_2: 1301961952
+      smoke-bomb_20: -1426442347
+      smoke-bomb_21: -1804470
+      smoke-bomb_22: 767526530
+      smoke-bomb_23: -616598948
+      smoke-bomb_24: 1267175588
+      smoke-bomb_25: 1520933041
+      smoke-bomb_26: 2140535745
+      smoke-bomb_27: 1325303958
+      smoke-bomb_28: -592302854
+      smoke-bomb_29: 1683608406
+      smoke-bomb_3: 710534091
+      smoke-bomb_30: -1550867671
+      smoke-bomb_31: -200503725
+      smoke-bomb_32: 1829470545
+      smoke-bomb_33: -2133913639
+      smoke-bomb_34: -1497974263
+      smoke-bomb_35: -2142514208
+      smoke-bomb_36: -231517719
+      smoke-bomb_37: 1960957985
+      smoke-bomb_38: -1336830180
+      smoke-bomb_39: -497498091
+      smoke-bomb_4: -213055713
+      smoke-bomb_40: -29454724
+      smoke-bomb_41: -161378897
+      smoke-bomb_42: -829269122
+      smoke-bomb_43: -1526240503
+      smoke-bomb_44: -1096611418
+      smoke-bomb_45: -2104319357
+      smoke-bomb_46: 1065971170
+      smoke-bomb_47: 752436422
+      smoke-bomb_48: 968043289
+      smoke-bomb_49: 353436424
+      smoke-bomb_5: 1981101103
+      smoke-bomb_50: 2109661996
+      smoke-bomb_51: 1351291502
+      smoke-bomb_52: 433813884
+      smoke-bomb_53: 1015574562
+      smoke-bomb_54: 2074325481
+      smoke-bomb_55: -1342323157
+      smoke-bomb_56: -1502696902
+      smoke-bomb_57: 559546377
+      smoke-bomb_58: 1817631447
+      smoke-bomb_59: -332000816
+      smoke-bomb_6: -1068178611
+      smoke-bomb_60: 775685411
+      smoke-bomb_61: -1717990344
+      smoke-bomb_62: 786794882
+      smoke-bomb_63: -557746595
+      smoke-bomb_64: 58156096
+      smoke-bomb_65: -1282534209
+      smoke-bomb_66: 2124544601
+      smoke-bomb_67: 993112733
+      smoke-bomb_68: -162820948
+      smoke-bomb_69: 2035521013
+      smoke-bomb_7: -67678310
+      smoke-bomb_70: -791966254
+      smoke-bomb_71: -1319950606
+      smoke-bomb_72: -14999504
+      smoke-bomb_73: -1886473058
+      smoke-bomb_74: -1512023705
+      smoke-bomb_75: 928536581
+      smoke-bomb_76: 1476559959
+      smoke-bomb_77: -1512365529
+      smoke-bomb_78: -1410229030
+      smoke-bomb_79: -1690658060
+      smoke-bomb_8: -575694819
+      smoke-bomb_80: -1584667408
+      smoke-bomb_81: 441765105
+      smoke-bomb_82: -269121666
+      smoke-bomb_83: -1644984897
+      smoke-bomb_84: -970039794
+      smoke-bomb_85: -1226895625
+      smoke-bomb_86: -822929549
+      smoke-bomb_87: 406855990
+      smoke-bomb_88: -1751610500
+      smoke-bomb_89: 1667664165
+      smoke-bomb_9: -19151054
+      smoke-bomb_90: -428950514
+      smoke-bomb_91: 1968532070
+      smoke-bomb_92: -264053350
+      smoke-bomb_93: 466090150
+      smoke-bomb_94: 888421617
+      smoke-bomb_95: -494918068
+      smoke-bomb_96: 951644289
+      smoke-bomb_97: 1302819577
+      smoke-bomb_98: -387449454
+      smoke-bomb_99: -1632711526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

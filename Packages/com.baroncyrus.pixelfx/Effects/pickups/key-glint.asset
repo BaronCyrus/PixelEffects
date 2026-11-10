@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: key-glint
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: pickups/key-glint
+  displayName: Key glint
+  description: An ornate silver key hovering and rocking; a glint runs from its bow down the shaft to the teeth and bursts off the tip as falling sparks.
+  category: pickups
+  tags:
+  - pickup
+  - key
+  - unlock
+  - item
+  - loop
+  frames:
+  - {fileID: 5024630266445979158, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -717860118, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1177899548, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1515875814, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1936537209, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 816209217, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1029597812, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -432515247, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -904957860, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -534367399, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 274735898, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1376117333, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 663815494, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -871543926, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 387274746, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -447542510, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1699848534, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1549544372, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1327688852, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 638115055, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 103978805, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1298017856, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1677316157, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1719147138, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1664569770, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -663194675, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 439270602, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -436151401, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -378541579, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1034497489, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -2050965086, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 642188300, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -2039091147, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1143377711, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1825566538, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 201218765, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1648253489, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -844426257, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1262550944, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1740152667, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -2130139369, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1512177022, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -44999303, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1028110544, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 800419227, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 651764616, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1446107849, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 151990368, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1532930338, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1151951176, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -289922052, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -3347754, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 2033119012, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1873826190, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -1011606237, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -947396433, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 2030319925, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1274757386, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: 1860606737, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  - {fileID: -822596937, guid: a90abb37ed53d41fa9a21a01a73846f2, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 72, y: 60}
+  origin: {x: 36, y: 54}
+  fullScreen: 0
+  previewFrame: 30
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

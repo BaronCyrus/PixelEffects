@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: arrow
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: projectiles/arrow
+  displayName: Arrow
+  description: 'An arrow in flight: a steel broadhead catching the light, a wooden shaft, fletching fluttering in the wind, streaks of air peeling off its head and swirling off its feathers.'
+  category: projectiles
+  tags:
+  - projectile
+  - arrow
+  - bow
+  - medieval
+  - directional
+  - loop
+  frames:
+  - {fileID: -765150924802650856, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -884827394, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -1054213643, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -1536322630, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: 768886714, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -808376449, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -734251253, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -231764262, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: 1701874803, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: 397994231, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: 1837226809, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -1018466939, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: 1812493984, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -833299389, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -2075564591, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: 190841055, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -881893516, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  - {fileID: -1839058721, guid: f8cdeb9d769df493ba27542421fb4206, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 112, y: 32}
+  origin: {x: 92, y: 16}
+  fullScreen: 0
+  previewFrame: 10
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

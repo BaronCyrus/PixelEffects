@@ -1,0 +1,2182 @@
+fileFormatVersion: 2
+guid: 5ba7993ac054842da8b52a29b6d5b4bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5748384739582424959
+    second: quake_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quake_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 26
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2c8efbd5d642a1fe98bd30338eeb97
+      internalID: -5748384739582424959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1002
+        width: 108
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd72115d3d2506beb00ed8ba9b22e4c
+      internalID: -729777777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 104
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3061754aaa8b0c29ff91207dfaba4b30
+      internalID: -1670834831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 723
+        width: 100
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2238806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c9c78491c4cb25e754c4c2ec9302a1
+      internalID: -1047675726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 96
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5093c7bdd04fd5179d0c7308ea88a80d
+      internalID: -1867121937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_5
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 659
+        width: 99
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46464646, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c73fe54c6106809690d88386fd0222c
+      internalID: 2077276681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 595
+        width: 102
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.24590164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cf9c6abbce55073a79395cc62f0117
+      internalID: -1440979218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 107
+        height: 58
+      alignment: 9
+      pivot: {x: 0.48598132, y: 0.25862068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e61b58529d95a5472af519a1afc885b
+      internalID: 2024130149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 360
+        width: 125
+        height: 56
+      alignment: 9
+      pivot: {x: 0.472, y: 0.26785713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49bc82663818c1d5f90e65107e51978
+      internalID: -1402410722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 306
+        width: 125
+        height: 53
+      alignment: 9
+      pivot: {x: 0.472, y: 0.28301886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9c576292e5aa2bbe97f0db01117fd3
+      internalID: -52944238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_10
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 309
+        width: 129
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b097f729c51c2a1337b8082d9c7bf35c
+      internalID: 1596397629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 113
+        width: 128
+        height: 46
+      alignment: 9
+      pivot: {x: 0.484375, y: 0.3043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e89a856d99b15e5536aec1bb2734e2
+      internalID: 2020099038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 71
+        width: 129
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.31707317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53bc31e9671ff3dd4231d3f3c2fca2d
+      internalID: -859997612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 73
+        width: 128
+        height: 39
+      alignment: 9
+      pivot: {x: 0.484375, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a902c5e2eb6fc086e2831e603c27bd05
+      internalID: -1278629655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_14
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1003
+        width: 153
+        height: 71
+      alignment: 9
+      pivot: {x: 0.503268, y: 0.22535211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10159075655072cdcf9df7c1fae407ab
+      internalID: -254818776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 791
+        width: 153
+        height: 68
+      alignment: 9
+      pivot: {x: 0.503268, y: 0.22058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f277e5070e09f51d1cbb28c13fc0ee5
+      internalID: -1344368939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 724
+        width: 153
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50980395, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d80a705a57ab36890c829a398aae868
+      internalID: -41109090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 658
+        width: 165
+        height: 64
+      alignment: 9
+      pivot: {x: 0.47878787, y: 0.234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8beadd96f538cdb6c8312f329dc76f4
+      internalID: -1896647147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_18
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 660
+        width: 186
+        height: 62
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.24193548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9d6f3ab74dbe11785850e5a117dce
+      internalID: -183441040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_19
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 596
+        width: 190
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49473685, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da3c80e18b4cbb09e122f57628f2b8
+      internalID: 77790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 418
+        width: 210
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4952381, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d67893744f32a72ba78b512b32bdf98
+      internalID: -1672473619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_21
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 476
+        width: 231
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4978355, y: 0.25862068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f3017e0f29c4fb55787125e56c057d
+      internalID: 187107581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_22
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 596
+        width: 233
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49356222, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9831c4c97665f76fefaab25f6d3cea
+      internalID: 896745663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 362
+        width: 236
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.25925925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452206345783bdf53aef32504caf0c2c
+      internalID: 2044421122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 419
+        width: 236
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c86c162fabadd5eac99e1f659f0c1
+      internalID: 659712835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_25
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 419
+        width: 236
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.23214285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd589cfa3995639c8f4451c1a256a85
+      internalID: 559675996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_26
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 419
+        width: 236
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49644788dd4da6142339bbc72b17ba25
+      internalID: 2133590777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 931
+        width: 250
+        height: 69
+      alignment: 9
+      pivot: {x: 0.512, y: 0.2173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e584c8395fb0bb4ada909c43d5503b86
+      internalID: -816597713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 792
+        width: 249
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.2238806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a390ba7ae85794958d52d0fc6caa3
+      internalID: -607295966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 725
+        width: 248
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5201613, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7661435e56da4a3c0e3716b97e462f9
+      internalID: 1107623800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 659
+        width: 248
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5241935, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738e6270827de1bca96a6fc9f3a776ef
+      internalID: -636846138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 658
+        width: 248
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5241935, y: 0.234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a722e0560e7203418ef09f65a4dc100b
+      internalID: -340970224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_32
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 725
+        width: 248
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5241935, y: 0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7f7cef432c506621ede2c5f32aedb9
+      internalID: 243588094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 249
+        height: 67
+      alignment: 9
+      pivot: {x: 0.52208835, y: 0.2238806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e89e0065b0f4f7bcecf8fe5da9cb73
+      internalID: -1970028657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_34
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 861
+        width: 249
+        height: 68
+      alignment: 9
+      pivot: {x: 0.52208835, y: 0.22058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39770b39d28ce3c3d526b7dfadf2239f
+      internalID: -1452565671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 249
+        height: 68
+      alignment: 9
+      pivot: {x: 0.52208835, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf06c8114a0ce3f11a0b79a15b904ec
+      internalID: -244720086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 931
+        width: 249
+        height: 69
+      alignment: 9
+      pivot: {x: 0.52208835, y: 0.20289855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1986ac73bcad0d6ebb635f257ac71
+      internalID: -257925224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 931
+        width: 249
+        height: 69
+      alignment: 9
+      pivot: {x: 0.52208835, y: 0.1884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18342acab6e338314fd676967c77ce70
+      internalID: -2011953195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 249
+        height: 69
+      alignment: 9
+      pivot: {x: 0.52208835, y: 0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca073a5e6cd3f1ac3ee800d1785580
+      internalID: 1851675457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 860
+        width: 249
+        height: 69
+      alignment: 9
+      pivot: {x: 0.52208835, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3703a8454d18c2daf79de0b5d22e63e8
+      internalID: -1900137131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 791
+        width: 249
+        height: 68
+      alignment: 9
+      pivot: {x: 0.52208835, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845c7fad9fa0f4393ebc7ed1b0a5d99a
+      internalID: 1056116077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 860
+        width: 249
+        height: 69
+      alignment: 9
+      pivot: {x: 0.52208835, y: 0.14492753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5d015506e19f0c3f065d1d7585705d
+      internalID: -1344599614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_42
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1003
+        width: 248
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5201613, y: 0.15492958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8db0022eb5595c7d39022eb72edb053
+      internalID: 364097715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_43
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1002
+        width: 248
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5201613, y: 0.15277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30810115ce31f49f64c9e022f56bc463
+      internalID: 1772579498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1001
+        width: 237
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4978903, y: 0.15068494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25d90cb722d779f58f83e680c4b8bc
+      internalID: 1495607848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_45
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1077
+        width: 238
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf1086cdc4cc7b05448624c65de5718
+      internalID: -16289416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_46
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1076
+        width: 237
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4978903, y: 0.14666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecadb5f5b9f38ac14044eaea9fb3788e
+      internalID: 850566224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1075
+        width: 236
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.14473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae93129c1aa4fb490ed20c7c28d9892
+      internalID: -688078880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_48
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1075
+        width: 236
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724f72e12f1cf52d3e5d180e99c36cd3
+      internalID: 1660440583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_49
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 536
+        width: 236
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.18965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f3c98f8e791d4e7b2cf60a3582d36
+      internalID: -1381136753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_50
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 536
+        width: 236
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbe131f85d2a9942b076df06a9177a6
+      internalID: 1390151497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 236
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528c1cf5ef3ac422f84aa6943f0adfbb
+      internalID: -1380208737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 236
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.16949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1129eaba0f21824aad0ac4d8e3471
+      internalID: -350990471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_53
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 476
+        width: 236
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0301c437b1b89c3dead88b297e65c4b8
+      internalID: 1990521130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_54
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 476
+        width: 236
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.1724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a4c4dd07543f8dc5eee4d5ffbb6542
+      internalID: 265481330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_55
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 535
+        width: 236
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d2c36789d03fbaf948fd6408e5af23
+      internalID: 1957515347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 596
+        width: 236
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35d835980eabef900bfd1d5d1e08fff
+      internalID: -1334016146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 236
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.16393442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0576af76612110a047099a5e68b234c6
+      internalID: -1547034508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 361
+        width: 236
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d16ba5c889a2852f2c98479429150a
+      internalID: 950834595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 236
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86edc17eabea6c16f26273bfaea8e374
+      internalID: -2081745845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_60
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 307
+        width: 236
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34549e52f9e709d0614d8393dea603
+      internalID: -1930102216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 236
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.18867925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130d489eb953aed0123aa33c686244c
+      internalID: 1690890637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_62
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 309
+        width: 236
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a0845d5ba47cd903e6077284245f6e
+      internalID: 1780497388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_63
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 114
+        width: 236
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5153d2defceb092c1235ff711f4980
+      internalID: 594163217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_64
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 161
+        width: 236
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.19565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a07119e57e5f7b0ccd3e1614dffcb
+      internalID: 208361302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 236
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa788d7003aeca4f0764dd97a5279a8
+      internalID: -737249794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_66
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 209
+        width: 236
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.19148937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2f3a32023c81f0fc02d2fdbfcc324b
+      internalID: -121430827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 209
+        width: 236
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17021276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3cde9aeb67ea0788023fa82f60d4f6
+      internalID: 951906268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_68
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 257
+        width: 236
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1294eb179460315df52f6bf558a27c43
+      internalID: -456855094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_69
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 209
+        width: 236
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b16d4abc6414abf5c5c252085b9bd2
+      internalID: 1416238254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 236
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12765957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fec6404955de21fe9d881fcd557c2c
+      internalID: -2141019949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 237
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5021097, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f69b0de3612baceaafd960ae402e42
+      internalID: 362246209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_72
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 257
+        width: 236
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.104166664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b08a8a3aa1de70df39dfc11a2dde09
+      internalID: 99214594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_73
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 257
+        width: 236
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.104166664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef3c46c998b17525d01bff2a718a721
+      internalID: 358042585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_74
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 114
+        width: 236
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427bf126def7525448d0347f0076036e
+      internalID: 1309216749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 236
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f29d771c1ce7257c2e104c734328e
+      internalID: -906170613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_76
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 160
+        width: 236
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3329006bab1d2705010ed5b736e18dcd
+      internalID: 446869606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_77
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 160
+        width: 236
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f856d64d993d558428724715263b79d2
+      internalID: 1463049394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 235
+        height: 48
+      alignment: 9
+      pivot: {x: 0.506383, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a3e395823320e4487ad8cac91886c
+      internalID: 838153928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 36
+        width: 236
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899b655dc8c5a303341cd410275356d0
+      internalID: -1432905143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_80
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 38
+        width: 233
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5064378, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a492c3feedbf2bba899cb902eeb3a08
+      internalID: -1390878026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_81
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 73
+        width: 238
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5042017, y: 0.12820514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a13f843f9a8570fffbf827a7910b4
+      internalID: 243931227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 236
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5127119, y: 0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f43a89239cce1b20c36eaaa6e19f6
+      internalID: 392390154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_83
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 73
+        width: 236
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5127119, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3521fcc0b7a7f7d6b01facf072b8ce
+      internalID: 1525472764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_84
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 39
+        width: 229
+        height: 27
+      alignment: 9
+      pivot: {x: 0.48908296, y: 0.037037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41541996acbc022e62c4d3f4d4ac78a4
+      internalID: -1547617187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 198
+        height: 27
+      alignment: 9
+      pivot: {x: 0.56060606, y: 0.037037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc834cb05f869094e84eb0f0ffd2177
+      internalID: 168844544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_86
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 28
+        width: 36
+        height: 38
+      alignment: 9
+      pivot: {x: 3.3888888, y: 0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c85a8d9c2c5cf09cc6e974668aa125
+      internalID: -1024500652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_87
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 11.75, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79b2eba9bb183ed283ad561de904ede
+      internalID: -1595330876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quake_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: -28, y: -8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1704dc5f743e5bf7d4d7fbd31ca8cc67
+      internalID: 1113526834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae989aef3748942f3adc917107f7d6ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      quake_0: -5748384739582424959
+      quake_1: -729777777
+      quake_10: 1596397629
+      quake_11: 2020099038
+      quake_12: -859997612
+      quake_13: -1278629655
+      quake_14: -254818776
+      quake_15: -1344368939
+      quake_16: -41109090
+      quake_17: -1896647147
+      quake_18: -183441040
+      quake_19: 77790
+      quake_2: -1670834831
+      quake_20: -1672473619
+      quake_21: 187107581
+      quake_22: 896745663
+      quake_23: 2044421122
+      quake_24: 659712835
+      quake_25: 559675996
+      quake_26: 2133590777
+      quake_27: -816597713
+      quake_28: -607295966
+      quake_29: 1107623800
+      quake_3: -1047675726
+      quake_30: -636846138
+      quake_31: -340970224
+      quake_32: 243588094
+      quake_33: -1970028657
+      quake_34: -1452565671
+      quake_35: -244720086
+      quake_36: -257925224
+      quake_37: -2011953195
+      quake_38: 1851675457
+      quake_39: -1900137131
+      quake_4: -1867121937
+      quake_40: 1056116077
+      quake_41: -1344599614
+      quake_42: 364097715
+      quake_43: 1772579498
+      quake_44: 1495607848
+      quake_45: -16289416
+      quake_46: 850566224
+      quake_47: -688078880
+      quake_48: 1660440583
+      quake_49: -1381136753
+      quake_5: 2077276681
+      quake_50: 1390151497
+      quake_51: -1380208737
+      quake_52: -350990471
+      quake_53: 1990521130
+      quake_54: 265481330
+      quake_55: 1957515347
+      quake_56: -1334016146
+      quake_57: -1547034508
+      quake_58: 950834595
+      quake_59: -2081745845
+      quake_6: -1440979218
+      quake_60: -1930102216
+      quake_61: 1690890637
+      quake_62: 1780497388
+      quake_63: 594163217
+      quake_64: 208361302
+      quake_65: -737249794
+      quake_66: -121430827
+      quake_67: 951906268
+      quake_68: -456855094
+      quake_69: 1416238254
+      quake_7: 2024130149
+      quake_70: -2141019949
+      quake_71: 362246209
+      quake_72: 99214594
+      quake_73: 358042585
+      quake_74: 1309216749
+      quake_75: -906170613
+      quake_76: 446869606
+      quake_77: 1463049394
+      quake_78: 838153928
+      quake_79: -1432905143
+      quake_8: -1402410722
+      quake_80: -1390878026
+      quake_81: 243931227
+      quake_82: 392390154
+      quake_83: 1525472764
+      quake_84: -1547617187
+      quake_85: 168844544
+      quake_86: -1024500652
+      quake_87: -1595330876
+      quake_88: 1113526834
+      quake_9: -52944238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

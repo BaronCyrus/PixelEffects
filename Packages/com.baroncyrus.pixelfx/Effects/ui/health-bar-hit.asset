@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: health-bar-hit
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: ui/health-bar-hit
+  displayName: Health bar hit
+  description: 'A segmented health bar takes a hit: it jolts and dips, the lost chunk flashes white and sheds chips, holds, then drains away behind a sparking edge.'
+  category: ui
+  tags:
+  - ui
+  - health
+  - hud
+  - damage
+  - bar
+  - one-shot
+  frames:
+  - {fileID: -7099239208829376931, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 673793171, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -1110121, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -1525911264, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 475249583, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 475249583, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 475249583, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -1812146416, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1085590615, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -321198253, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -977814458, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1405753475, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -1061920782, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -894553302, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 556935099, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -130417619, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 961579822, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -962887674, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -1607799515, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 16592879, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1113429580, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 70703880, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -681695130, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -818904829, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1586093554, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -564164961, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 753447741, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -791010351, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 950159940, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 2093513972, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -1676212850, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1927410751, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1927177827, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 720065140, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -1839660037, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1981260752, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 887319795, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 1094104784, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -1057243345, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: 568436019, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -1629665893, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -283188892, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -7099239208829376931, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -7099239208829376931, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -7099239208829376931, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -7099239208829376931, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -7099239208829376931, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -7099239208829376931, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  - {fileID: -7099239208829376931, guid: ffdca31fc99874ac1a3553bc77a9589a, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 160, y: 64}
+  origin: {x: 80, y: 30}
+  fullScreen: 0
+  previewFrame: 7
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

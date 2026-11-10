@@ -1,0 +1,1331 @@
+fileFormatVersion: 2
+guid: 4812beabbc480479080de0e20a670f55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6064271430816330737
+    second: arcane-missiles_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arcane-missiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: -0.33333334, y: -0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbecd5d868e71fc9768986277ea290a
+      internalID: 6064271430816330737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_1
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 47
+        width: 155
+        height: 29
+      alignment: 9
+      pivot: {x: -0.012903226, y: -0.37931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635cc65e1a6285dbead46719caee5357
+      internalID: 736730805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 28
+        width: 169
+        height: 48
+      alignment: 9
+      pivot: {x: 0.053254437, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105600555eca3b7fcda0110f1c5e4c89
+      internalID: -291636411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 28
+        width: 169
+        height: 48
+      alignment: 9
+      pivot: {x: 0.03550296, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbf3816f6285c1781cf5b7588721c21
+      internalID: -1174095837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 29
+        width: 164
+        height: 47
+      alignment: 9
+      pivot: {x: 0.0121951215, y: -0.14893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0819c833cd85c4b5fbe0b14711bcde44
+      internalID: 907956070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 171
+        height: 57
+      alignment: 9
+      pivot: {x: 0.05263158, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a1a426d01a6081a38eface3d598a92
+      internalID: 802425676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 86
+        width: 168
+        height: 63
+      alignment: 9
+      pivot: {x: 0.035714287, y: 0.04761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c25cbb3f51b3c1b6024944e345553
+      internalID: -1462519746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 82
+        width: 164
+        height: 67
+      alignment: 9
+      pivot: {x: 0.0121951215, y: 0.07462686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbed954bb38fcdfc96ea61b34c33aab3
+      internalID: 1153285107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 171
+        height: 72
+      alignment: 9
+      pivot: {x: 0.05263158, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dbe0dd0836babfacd862b826055dd4
+      internalID: -981546021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 153
+        width: 168
+        height: 75
+      alignment: 9
+      pivot: {x: 0.035714287, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33ae39d90384e5dcd33cf20135c9c8f
+      internalID: 1637384587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 164
+        height: 78
+      alignment: 9
+      pivot: {x: 0.0121951215, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7451c570d16a0ba8d7b187bd1cb710
+      internalID: -518685560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 231
+        width: 170
+        height: 80
+      alignment: 9
+      pivot: {x: 0.047058824, y: 0.1625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b7878c82743aa5934eb350703bcc8d
+      internalID: -1367045892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 230
+        width: 167
+        height: 81
+      alignment: 9
+      pivot: {x: 0.029940119, y: 0.17283951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47242b3db3d64789d714a2d254854f75
+      internalID: -77562477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 163
+        height: 82
+      alignment: 9
+      pivot: {x: 0.006134969, y: 0.18292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff8a8f5b470ad7176e76f516cc2364
+      internalID: -1291318112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 318
+        width: 170
+        height: 82
+      alignment: 9
+      pivot: {x: 0.047058824, y: 0.18292683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ca82a38e25435ca345b34c7aae7535
+      internalID: -54453481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_15
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 230
+        width: 167
+        height: 81
+      alignment: 9
+      pivot: {x: 0.029940119, y: 0.18518518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3206b7bc41e03394a321592642ff1397
+      internalID: 1464370061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 317
+        width: 165
+        height: 83
+      alignment: 9
+      pivot: {x: 0.018181818, y: 0.21686748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f68a0d8e5d879f4a6d4ad445d5950
+      internalID: -871143902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 316
+        width: 164
+        height: 84
+      alignment: 9
+      pivot: {x: 0.0121951215, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e46ec9854cce34dc849cb7e509ede6c
+      internalID: -1901989207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 161
+        height: 88
+      alignment: 9
+      pivot: {x: -0.0062111802, y: 0.23863636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c7e31542b5c9e7a72fae8c8ab9199
+      internalID: -1045408434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 408
+        width: 159
+        height: 92
+      alignment: 9
+      pivot: {x: -0.018867925, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d46dbd8c44785f4092035fd2d2faf4
+      internalID: 1586917325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 405
+        width: 156
+        height: 95
+      alignment: 9
+      pivot: {x: -0.03846154, y: 0.24210526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9ad84abaea467aa57dffe56650795
+      internalID: -1817620683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 403
+        width: 152
+        height: 97
+      alignment: 9
+      pivot: {x: -0.065789476, y: 0.2371134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5dddbd3399dd86aac3865e7f21197d
+      internalID: -1634927035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 149
+        height: 99
+      alignment: 9
+      pivot: {x: -0.087248325, y: 0.23232323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d266a662791818a8e605e58f4284d9c
+      internalID: -1075485140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 505
+        width: 155
+        height: 100
+      alignment: 9
+      pivot: {x: -0.090322584, y: 0.23}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d744c230e78e9695883314a379c64b
+      internalID: 438929417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 198
+        height: 113
+      alignment: 9
+      pivot: {x: -0.07070707, y: 0.23893805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784a39a547f88e17844cd6a6f42a6d48
+      internalID: -1082196640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 718
+        width: 196
+        height: 110
+      alignment: 9
+      pivot: {x: -0.071428575, y: 0.23636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f30768dadb542e0fee6edf7a0a22d11
+      internalID: -130782130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_26
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 829
+        width: 197
+        height: 113
+      alignment: 9
+      pivot: {x: -0.07614213, y: 0.23893805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed2ecc99ecd7e67ee22f0aa5b2be8a
+      internalID: -2146326220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_27
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 718
+        width: 195
+        height: 110
+      alignment: 9
+      pivot: {x: -0.07692308, y: 0.23636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df8c33f19f928c1459c67de10258d67
+      internalID: -1141828032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 609
+        width: 187
+        height: 107
+      alignment: 9
+      pivot: {x: -0.112299465, y: 0.24299066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a614ebab8ec81ab8b642cd32c90115
+      internalID: -103162102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717
+        width: 190
+        height: 111
+      alignment: 9
+      pivot: {x: -0.11578947, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf14c7f3ef20b38f557bedb9d6e4fc
+      internalID: -1780861865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 607
+        width: 189
+        height: 109
+      alignment: 9
+      pivot: {x: -0.11640212, y: 0.24770643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87202470a87f8ced608072da151eb863
+      internalID: 568145197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 187
+        height: 104
+      alignment: 9
+      pivot: {x: -0.11764706, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898ba0b0cdcd5130c4e783c02a5d5df
+      internalID: -1420628707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_32
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 506
+        width: 160
+        height: 99
+      alignment: 9
+      pivot: {x: -0.28125, y: 0.25252524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caff8e2623a78dec5fa2f74a0bff3714
+      internalID: 371153111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 829
+        width: 168
+        height: 113
+      alignment: 9
+      pivot: {x: -0.26190478, y: 0.23893805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612a7b60101eb25989a29f824eebcf8
+      internalID: -409069401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 717
+        width: 167
+        height: 111
+      alignment: 9
+      pivot: {x: -0.26347306, y: 0.24324325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca4853b172ffb654c047609aabe59b1
+      internalID: -1793940913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_35
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 609
+        width: 166
+        height: 107
+      alignment: 9
+      pivot: {x: -0.26506025, y: 0.24299066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a235c14e4e8da7c72e60b407f7cb4e
+      internalID: 750381029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 503
+        width: 152
+        height: 102
+      alignment: 9
+      pivot: {x: -0.3618421, y: 0.24509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca36c5da550bd8ce9537ca195c6609a2
+      internalID: 743855449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_37
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 829
+        width: 130
+        height: 113
+      alignment: 9
+      pivot: {x: -0.63076925, y: 0.23893805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1200a47349bdfad12a297c84c073a86
+      internalID: -772991629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 130
+        height: 110
+      alignment: 9
+      pivot: {x: -0.6230769, y: 0.23636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed91d3e1c7eb50cd810a01c28b1b7de7
+      internalID: 1331911514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_39
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 609
+        width: 129
+        height: 107
+      alignment: 9
+      pivot: {x: -0.62015504, y: 0.23364486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fae5283b116eeb5d29767a45495d8e
+      internalID: -1319439777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 504
+        width: 125
+        height: 101
+      alignment: 9
+      pivot: {x: -0.64, y: 0.22772278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dfb63aae1d7382dee1fb83e705f04a
+      internalID: 2325424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_41
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 408
+        width: 97
+        height: 92
+      alignment: 9
+      pivot: {x: -1.0824742, y: 0.20652173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d7475c9e957edc84398ce8a05dfb67
+      internalID: -1485102276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 315
+        width: 100
+        height: 85
+      alignment: 9
+      pivot: {x: -1.05, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d23727ecacd131e45c72c3c29b801c
+      internalID: 973885989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 151
+        width: 104
+        height: 77
+      alignment: 9
+      pivot: {x: -1.0096154, y: 0.20779221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2166df8a5d87987ab91ae9224b6b0c
+      internalID: -554362062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_44
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 154
+        width: 108
+        height: 74
+      alignment: 9
+      pivot: {x: -0.9537037, y: 0.2027027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5297cc18d6301af4535beeb5db86db28
+      internalID: -1706359640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 153
+        width: 111
+        height: 75
+      alignment: 9
+      pivot: {x: -0.9099099, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3712388aed1b02aa041743c031f844
+      internalID: -1743746418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_46
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 155
+        width: 101
+        height: 73
+      alignment: 9
+      pivot: {x: -1.1089109, y: 0.1780822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf08a4d728dae162013f323781d6189
+      internalID: -252031416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 78
+        width: 86
+        height: 71
+      alignment: 9
+      pivot: {x: -1.3023256, y: 0.16901408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6619dfd8ff163786abb639d888422cff
+      internalID: -1968144525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 79
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: -1.9264706, y: 0.12857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454b03fb0a8baba6b5a5a5c1a6a19af3
+      internalID: 1983463529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 81
+        width: 27
+        height: 68
+      alignment: 9
+      pivot: {x: -4.9259257, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17acae22ae9f85c3517cbfc46bae38a
+      internalID: -32597146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 15
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: -44.333332, y: -20.666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba30c3ad0a9ea92c974b19bf51b1fba
+      internalID: -1008787481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arcane-missiles_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032e071d98e8c1299c6d112e9acc8b6c
+      internalID: -1109517483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 813c191c86de644c1a5997491480fee9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arcane-missiles_0: 6064271430816330737
+      arcane-missiles_1: 736730805
+      arcane-missiles_10: -518685560
+      arcane-missiles_11: -1367045892
+      arcane-missiles_12: -77562477
+      arcane-missiles_13: -1291318112
+      arcane-missiles_14: -54453481
+      arcane-missiles_15: 1464370061
+      arcane-missiles_16: -871143902
+      arcane-missiles_17: -1901989207
+      arcane-missiles_18: -1045408434
+      arcane-missiles_19: 1586917325
+      arcane-missiles_2: -291636411
+      arcane-missiles_20: -1817620683
+      arcane-missiles_21: -1634927035
+      arcane-missiles_22: -1075485140
+      arcane-missiles_23: 438929417
+      arcane-missiles_24: -1082196640
+      arcane-missiles_25: -130782130
+      arcane-missiles_26: -2146326220
+      arcane-missiles_27: -1141828032
+      arcane-missiles_28: -103162102
+      arcane-missiles_29: -1780861865
+      arcane-missiles_3: -1174095837
+      arcane-missiles_30: 568145197
+      arcane-missiles_31: -1420628707
+      arcane-missiles_32: 371153111
+      arcane-missiles_33: -409069401
+      arcane-missiles_34: -1793940913
+      arcane-missiles_35: 750381029
+      arcane-missiles_36: 743855449
+      arcane-missiles_37: -772991629
+      arcane-missiles_38: 1331911514
+      arcane-missiles_39: -1319439777
+      arcane-missiles_4: 907956070
+      arcane-missiles_40: 2325424
+      arcane-missiles_41: -1485102276
+      arcane-missiles_42: 973885989
+      arcane-missiles_43: -554362062
+      arcane-missiles_44: -1706359640
+      arcane-missiles_45: -1743746418
+      arcane-missiles_46: -252031416
+      arcane-missiles_47: -1968144525
+      arcane-missiles_48: 1983463529
+      arcane-missiles_49: -32597146
+      arcane-missiles_5: 802425676
+      arcane-missiles_50: -1008787481
+      arcane-missiles_51: -1109517483
+      arcane-missiles_6: -1462519746
+      arcane-missiles_7: 1153285107
+      arcane-missiles_8: -981546021
+      arcane-missiles_9: 1637384587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

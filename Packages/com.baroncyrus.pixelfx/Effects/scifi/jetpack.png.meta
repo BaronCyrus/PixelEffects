@@ -1,0 +1,1515 @@
+fileFormatVersion: 2
+guid: 1d8307ceefa81467b80b679657fe83dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8534383977859336329
+    second: jetpack_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jetpack_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 291
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2197b7946568ab8702ecb97489ce8
+      internalID: -8534383977859336329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 194
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c4402b9a6d32d0d11dabac7b37433
+      internalID: 268152284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 291
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dd180f8cc6dc5c1727f5374a87bd03
+      internalID: -255590320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 291
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda6af2cbaa4c316fb0413c6df7e675d
+      internalID: -1873673428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 390
+        width: 58
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75510204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42889ce9f04e74be60fb3353225d31fe
+      internalID: 1638622055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 291
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8038a7aab4d8b01d6fe9eb38199b6fce
+      internalID: -1622157844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 194
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2224b83fa5b4bea1eb0ea5b9d5aa93
+      internalID: -1502647434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 495
+        width: 58
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7745098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aeea13a2e0f50c00c6e43cf7f07d04
+      internalID: -764699680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 490
+        width: 58
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.78504676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a7c536d2f9060e2df43030c96a5462
+      internalID: -748264263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 194
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f4f78d958887ddbd09c3bb37b0dc3
+      internalID: -1820938983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75789475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665964acc1ab72497ef6354c5093d567
+      internalID: 1870995212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1
+        width: 58
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7659575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e690ff475977fa631d914dfad2fa4545
+      internalID: 1249159379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 58
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75789475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef7c4a536e20852a634b7c6de16aca
+      internalID: 1125719511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 58
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75789475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92959edc8e04470e2badd2a3369d037b
+      internalID: 229724556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_14
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 194
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a715e2c0cb19bdae0d3b5b86ac88cfe
+      internalID: 736556535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 497
+        width: 58
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5adf8ab7d5736673aa0194f93ff8d6
+      internalID: 8127323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 492
+        width: 58
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b3762881b52c30db8c6c74f22da9dd
+      internalID: -653325472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7604167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da601b8a1f85644a4ffd98225fbc4ecb
+      internalID: 461642057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_18
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 495
+        width: 58
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7745098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce0fb3ad09bc1d03895ccc4dc38462
+      internalID: 1889529100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 58
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9804754b7c6abcb861ebd689cf189
+      internalID: 1646672629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 492
+        width: 58
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b02720ffbd5a5c5c7e2964e13282e5c
+      internalID: -339215860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_21
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 493
+        width: 58
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.78846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d18b0830070748c2da24d5bbbf00a
+      internalID: 1522491037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 58
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75789475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789aa985b60b77eb6f7b8bddb3605810
+      internalID: -1329208075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7604167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c62bf52f9bf219030f629df9873046
+      internalID: -60838974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 291
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7525773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1c2b40d039561206572591013f6fa7
+      internalID: -1421068901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7604167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c66290bfe409a6f8eab01f74ef2ed1
+      internalID: -1543568310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775e3a397df0a889476fed54c8885bdc
+      internalID: -498096012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 291
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e76aa07b676719278d8c4fbfc2b9b
+      internalID: 720259552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 291
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d6f077bbcd9976126669332c9022a0
+      internalID: 202967807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 390
+        width: 59
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.75510204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8501344dc1a60d46e7db0e183e9c03a3
+      internalID: 1780651393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 59
+        height: 97
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8d4167f2b2d63ecdb0cd8908da00a
+      internalID: -1288097382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 194
+        width: 60
+        height: 96
+      alignment: 9
+      pivot: {x: 0.48333332, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc14178bbcaa08c2731519f698a365d
+      internalID: 1613627009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_32
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 497
+        width: 58
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4711fbf8dc488097112e6306ff5443f3
+      internalID: 151043147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_33
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 291
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df3797ac3002103fd06c95abd4add1a
+      internalID: 1154784809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 58
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75c957935f9bd15072ddb1e6ec0358a
+      internalID: -1251801825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_35
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 390
+        width: 58
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c19f0ac77e06f7d3e55ad88edf224e
+      internalID: -1443011915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfdec9d7462fc47f9f65cab6376e2ea
+      internalID: 1253958026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_37
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 391
+        width: 60
+        height: 97
+      alignment: 9
+      pivot: {x: 0.51666665, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c39af66e8cd7f567afb2d0d7fe8726
+      internalID: -685592184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_38
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 391
+        width: 60
+        height: 97
+      alignment: 9
+      pivot: {x: 0.51666665, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a4b1332a552479936844748ec7c5b2
+      internalID: 74550081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 390
+        width: 58
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75510204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8730f630dc6555eec36bfa1e5921f54
+      internalID: 1385108532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_40
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 291
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f8a25a5204924e1c83d1f7b2a89e90
+      internalID: -1667392758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_41
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95f7dfa56d56162e81302ce230c9535
+      internalID: -951040898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad7642a5a230f02e9bca72d9cdcdd5f
+      internalID: -860087969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 390
+        width: 59
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c98d30a53ff7ec7403ff6d51fd48c2
+      internalID: -1074759059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_44
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 498
+        width: 59
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892184e195e8faecc25317df44059b3a
+      internalID: -1464897271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_45
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 390
+        width: 58
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f314e4d233e84bbae3e8af4b9f1d625c
+      internalID: 640270175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 193
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77319586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df200bf0d9249035cc0ab4414d05439
+      internalID: -1406373098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_47
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 58
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8de831e921dd08479955f651bf744f
+      internalID: 1990401563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_48
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 58
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7553192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353de94c064209e871b650a76d7ba312
+      internalID: 1821512858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_49
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 58
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ba3c9d530269313b822506d2043bdb
+      internalID: 1323582854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_50
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 58
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75789475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad3367707f2291d55c3a6ee6274fbb3
+      internalID: 1854485792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_51
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1
+        width: 58
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7659575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0ed0eb7f2ad2f5f1591b24ffbc04df
+      internalID: -1113552549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_52
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7604167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7e17e7c3118b52d0982ec4e6da7dd
+      internalID: -19249634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_53
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7604167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae465cd4af8a997e79db22b843bcd2a
+      internalID: 478485356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 193
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7525773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb32f7d51d6de40bfd8ee5173ad56075
+      internalID: -240151283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_55
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7604167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd9bb9280ffcf9114fd8b21609fa04
+      internalID: -1078361868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_56
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 96
+        width: 58
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7708333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d741b732bcfee2429a7aded4e6ff27
+      internalID: -269053797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 193
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61ab4b0eeece48d0d77e27d2ab32aa5
+      internalID: 409058512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 193
+        width: 58
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7628866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb33b65229426bed65c96e5f52a44fc2
+      internalID: 196346037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jetpack_59
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 390
+        width: 58
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75510204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf98cfd9de1319b4c2a91195a56979
+      internalID: 1776255413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2181c78e8b7bb4368a257ac3ffda3d74
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jetpack_0: -8534383977859336329
+      jetpack_1: 268152284
+      jetpack_10: 1870995212
+      jetpack_11: 1249159379
+      jetpack_12: 1125719511
+      jetpack_13: 229724556
+      jetpack_14: 736556535
+      jetpack_15: 8127323
+      jetpack_16: -653325472
+      jetpack_17: 461642057
+      jetpack_18: 1889529100
+      jetpack_19: 1646672629
+      jetpack_2: -255590320
+      jetpack_20: -339215860
+      jetpack_21: 1522491037
+      jetpack_22: -1329208075
+      jetpack_23: -60838974
+      jetpack_24: -1421068901
+      jetpack_25: -1543568310
+      jetpack_26: -498096012
+      jetpack_27: 720259552
+      jetpack_28: 202967807
+      jetpack_29: 1780651393
+      jetpack_3: -1873673428
+      jetpack_30: -1288097382
+      jetpack_31: 1613627009
+      jetpack_32: 151043147
+      jetpack_33: 1154784809
+      jetpack_34: -1251801825
+      jetpack_35: -1443011915
+      jetpack_36: 1253958026
+      jetpack_37: -685592184
+      jetpack_38: 74550081
+      jetpack_39: 1385108532
+      jetpack_4: 1638622055
+      jetpack_40: -1667392758
+      jetpack_41: -951040898
+      jetpack_42: -860087969
+      jetpack_43: -1074759059
+      jetpack_44: -1464897271
+      jetpack_45: 640270175
+      jetpack_46: -1406373098
+      jetpack_47: 1990401563
+      jetpack_48: 1821512858
+      jetpack_49: 1323582854
+      jetpack_5: -1622157844
+      jetpack_50: 1854485792
+      jetpack_51: -1113552549
+      jetpack_52: -19249634
+      jetpack_53: 478485356
+      jetpack_54: -240151283
+      jetpack_55: -1078361868
+      jetpack_56: -269053797
+      jetpack_57: 409058512
+      jetpack_58: 196346037
+      jetpack_59: 1776255413
+      jetpack_6: -1502647434
+      jetpack_7: -764699680
+      jetpack_8: -748264263
+      jetpack_9: -1820938983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

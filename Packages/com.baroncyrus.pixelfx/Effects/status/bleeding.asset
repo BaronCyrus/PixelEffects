@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: bleeding
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: status/bleeding
+  displayName: Bleeding
+  description: 'Bleeding out: beads swell at three wounds, run, let go and fall to spatter into a glossy pool that ripples; each heartbeat spurts a little and flashes the body red.'
+  category: status
+  tags:
+  - status
+  - bleed
+  - blood
+  - dot
+  - debuff
+  - wound
+  - loop
+  frames:
+  - {fileID: 8344740937980804128, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1565032035, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 823992526, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1013330775, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1004355328, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -589542523, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1542124439, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -2022436882, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1551303343, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 433642418, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -51858283, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -819986198, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 117771404, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -821782579, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 455265029, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1869029616, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -760173858, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1961417183, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 616596482, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 465848834, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1928741662, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -2084947735, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 782948314, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -2080392170, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1942752430, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 952925052, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 910674617, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 2022302615, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 2022302615, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1626267472, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1157848863, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1157848863, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -475259392, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1651818503, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1570284924, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1460418678, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -924792388, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1567899794, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 246188738, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -547001734, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 2022355393, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -918571859, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1432954581, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 2105151491, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1030330665, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 678704654, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1336495247, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1439128818, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1522905717, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1173112351, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1727818891, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 765783801, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1740343660, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 333617793, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1874801202, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 101437516, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 97786072, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -942788798, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -942788798, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -192156651, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1347777507, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1347777507, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1835829919, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1639014956, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1639014956, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1273208961, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 900003073, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 1388475515, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 350428314, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1418044274, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: -1285909922, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  - {fileID: 585921833, guid: 2189bb5b6723648c390b609d10697fb7, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 60, y: 56}
+  origin: {x: 30, y: 46}
+  fullScreen: 0
+  previewFrame: 36
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0
+  recovery: 0
+  onBody: 1
+  hits: []

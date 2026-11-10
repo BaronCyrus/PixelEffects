@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: egg-hatch
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: spawn/egg-hatch
+  displayName: Egg hatch
+  description: 'A speckled egg rocks three times, each rock cracking it further with warm light leaking out, then pops: light pours out of the opening and lit shell halves tumble away.'
+  category: spawn
+  tags:
+  - spawn
+  - egg
+  - hatch
+  - birth
+  - crack
+  - shell
+  - light
+  - ground
+  - one-shot
+  frames:
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 4694733464789116562, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -102940807, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1227820245, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1226834272, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1807641523, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1698543848, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1177374541, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -956560757, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -486921453, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 106138256, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -557535020, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 357908798, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 936619768, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 456925680, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1929702803, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1510968054, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -100086318, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1864219814, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 347832883, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1039196424, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1659951499, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -967611220, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1856260959, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -947321384, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1524289560, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 2098333507, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1317767231, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 980553459, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1099484464, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 458736821, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1208266867, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -245626577, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1556060739, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 401724321, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 409269654, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1555233716, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -57046093, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1042394039, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1334826507, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -693318995, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1979306466, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1170053020, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1801741162, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 259181319, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 865649058, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1556564673, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 2117593431, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1811768000, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1263490648, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1386299370, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 77528872, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1050076743, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1269382563, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1630400375, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 231368651, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 263750476, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -201855572, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -898426078, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 327616894, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -60684509, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 931634150, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1249145694, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1676176487, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 378831340, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -225944681, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -743546224, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1336698047, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -906564493, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 842822247, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -350076207, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1944666263, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 475022786, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1547714586, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -1405629238, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -523008373, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -83532299, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1846582491, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -2095634115, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 147961952, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 1986395379, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 435843887, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: 608299688, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -947798796, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -173704418, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  - {fileID: -20393210, guid: 729006de8bc8045ac8ed03e7f97b17f0, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 120, y: 96}
+  origin: {x: 60, y: 84}
+  fullScreen: 0
+  previewFrame: 60
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

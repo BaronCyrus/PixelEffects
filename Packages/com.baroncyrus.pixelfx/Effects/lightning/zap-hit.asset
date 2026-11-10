@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: zap-hit
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: lightning/zap-hit
+  displayName: Zap hit
+  description: 'A contact zap: an arc snaps in from the left, the hit point overloads into a knot of tiny crackling zigzags, a fern of burn marks glows outward, sparks jink away, ozone puffs.'
+  category: lightning
+  tags:
+  - lightning
+  - electric
+  - hit
+  - impact
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 3311628722878935505, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -1617585821, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -174145156, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -1319767894, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -1703220859, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -1059398235, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -588161664, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -540659916, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 2067109125, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -1574821643, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 1184240890, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -2027372642, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 859569206, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 69467583, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 594038424, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 1623827891, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -2024342757, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -1896414707, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -1324961330, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 1657231368, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -138351885, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 694731942, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -1689269501, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -1567743621, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 2113310292, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: 2050643772, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -527526989, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  - {fileID: -321008426, guid: 5b615f3faa10641ac98a7c6aae718106, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 144, y: 112}
+  origin: {x: 76, y: 56}
+  fullScreen: 0
+  previewFrame: 2
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

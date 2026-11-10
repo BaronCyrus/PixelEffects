@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: 6b3d5ccfec1da4bc3b8b0837fcd13564
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4292495330238500785
+    second: cannonball_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cannonball_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 178
+        width: 82
+        height: 68
+      alignment: 9
+      pivot: {x: 0.35365853, y: 0.19117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa3e5a8871f2d1f27f531ed4c135d50
+      internalID: -4292495330238500785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 180
+        width: 78
+        height: 66
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.1969697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3b2866a2f400779520fa003aed0ce9
+      internalID: 474309705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_2
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 182
+        width: 74
+        height: 64
+      alignment: 9
+      pivot: {x: 0.33783785, y: 0.203125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6318a85a629770f300b9ef24c590e28a
+      internalID: 762823940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 115
+        width: 70
+        height: 62
+      alignment: 9
+      pivot: {x: 0.32857144, y: 0.20967741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518e923cb5de98c1c17b4e0400e4698
+      internalID: -676241590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 53
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: 0.29166666, y: 0.21666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a311b645e4301c296f490862bd4500aa
+      internalID: -1431262743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 57
+        width: 80
+        height: 56
+      alignment: 9
+      pivot: {x: 0.225, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32e2984cde3e18a83a3a286ebcd06df
+      internalID: -1890237508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 60
+        width: 88
+        height: 53
+      alignment: 9
+      pivot: {x: 0.18181819, y: 0.20754717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c111d005803195c0c78200051f48de26
+      internalID: -1236414535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 95
+        height: 52
+      alignment: 9
+      pivot: {x: 0.1368421, y: 0.1923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ba2a1cb016481e86a204134d63b2a
+      internalID: 1482758968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 52
+      alignment: 9
+      pivot: {x: 0.0882353, y: 0.13461539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1adf8f43ecfb1435b57d1386dc8c40
+      internalID: -1784821251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 106
+        height: 51
+      alignment: 9
+      pivot: {x: 0.028301887, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e85a854e7d91315c4268cd337036fa
+      internalID: 1493665087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 60
+        width: 104
+        height: 53
+      alignment: 9
+      pivot: {x: -0.086538464, y: 0.03773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f437bba08eb616605047a4d908e8120
+      internalID: 1085703233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 57
+        width: 115
+        height: 56
+      alignment: 9
+      pivot: {x: -0.07826087, y: 0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d745b384198042391779d804814a8df6
+      internalID: -1543293027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 56
+        width: 124
+        height: 57
+      alignment: 9
+      pivot: {x: -0.08064516, y: 0.01754386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9340774b7d2658e7c1fe5d15939e06ef
+      internalID: -224900569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 116
+        width: 134
+        height: 61
+      alignment: 9
+      pivot: {x: -0.07462686, y: 0.032786883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a42c5a2ea0af085b7950746919146bb
+      internalID: -1721462298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 144
+        height: 63
+      alignment: 9
+      pivot: {x: -0.06944445, y: 0.031746034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44788b102a912fc8f2906a5864430030
+      internalID: 1018342139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 181
+        width: 136
+        height: 65
+      alignment: 9
+      pivot: {x: -0.073529415, y: 0.03076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172c6481f6731af46cc2121edf35889
+      internalID: 599513551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 179
+        width: 135
+        height: 67
+      alignment: 9
+      pivot: {x: -0.074074075, y: 0.029850746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4c6f9e6aaf149bef1eca248227a4d0
+      internalID: 1325229926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 135
+        height: 68
+      alignment: 9
+      pivot: {x: -0.074074075, y: 0.029411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3005c9ea1cd37b5f902fab5797ead29e
+      internalID: 1013786370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_18
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 250
+        width: 135
+        height: 70
+      alignment: 9
+      pivot: {x: -0.074074075, y: 0.028571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400f662425846bd711ecd86e9764756
+      internalID: -1683325049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 248
+        width: 135
+        height: 72
+      alignment: 9
+      pivot: {x: -0.074074075, y: 0.027777778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dde96233ebdcb550cc3a31f148511e
+      internalID: -607029257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_20
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 322
+        width: 134
+        height: 73
+      alignment: 9
+      pivot: {x: -0.07462686, y: 0.02739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c26c7f83170881f54f4188f5c0a62fa
+      internalID: 502694901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 134
+        height: 74
+      alignment: 9
+      pivot: {x: -0.07462686, y: 0.027027028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82651933076d60e781da624c2bee5a98
+      internalID: -900402254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 397
+        width: 134
+        height: 76
+      alignment: 9
+      pivot: {x: -0.07462686, y: 0.02631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ede859aa92cd984e28f81e31b364431
+      internalID: 2000530768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 134
+        height: 77
+      alignment: 9
+      pivot: {x: -0.07462686, y: 0.025974026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc51ff2c741b52e800808bad5d1a435
+      internalID: 588636649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 475
+        width: 134
+        height: 78
+      alignment: 9
+      pivot: {x: -0.07462686, y: 0.025641026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d7f8d95059554dd8f25d7f9cc486e8
+      internalID: -2015875639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_25
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 475
+        width: 133
+        height: 78
+      alignment: 9
+      pivot: {x: -0.075187966, y: 0.012820513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b42f654e04c2875107b9002ba98d1c
+      internalID: -2078783696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_26
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 556
+        width: 133
+        height: 79
+      alignment: 9
+      pivot: {x: -0.075187966, y: 0.012658228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc1bb057191e35371fb9e2c5a7439d5
+      internalID: -1934846657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 322
+        width: 133
+        height: 73
+      alignment: 9
+      pivot: {x: -0.075187966, y: -0.08219178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7afe49979c1b4023ffb62b1c477e6b
+      internalID: -416784322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 321
+        width: 133
+        height: 74
+      alignment: 9
+      pivot: {x: -0.075187966, y: -0.08108108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd45d73dc36e075e217e48929529c63f
+      internalID: 348979720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_29
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 398
+        width: 134
+        height: 75
+      alignment: 9
+      pivot: {x: -0.06716418, y: -0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f2b515db143b1bec0fb20d95f7627c
+      internalID: 1316001444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 397
+        width: 133
+        height: 76
+      alignment: 9
+      pivot: {x: -0.067669176, y: -0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810d25038d0b1b79e7ceb5417e9e50b1
+      internalID: -1262700703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_31
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 397
+        width: 129
+        height: 76
+      alignment: 9
+      pivot: {x: -0.069767445, y: -0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645437710c821027653dbab727109a34
+      internalID: 1560582994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 396
+        width: 129
+        height: 77
+      alignment: 9
+      pivot: {x: -0.069767445, y: -0.077922076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a44255a63fbdf5bbc0ed86d5040eca
+      internalID: -611487701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 475
+        width: 129
+        height: 78
+      alignment: 9
+      pivot: {x: -0.069767445, y: -0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a6d3669a07d10f34647d97767212c7
+      internalID: -1014438936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_34
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 475
+        width: 116
+        height: 78
+      alignment: 9
+      pivot: {x: -0.06896552, y: -0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd271500a77f05300adda31478f3b1d
+      internalID: 19113966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 116
+        height: 79
+      alignment: 9
+      pivot: {x: -0.06896552, y: -0.07594936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab76136518a408e8e52bf86d6b657839
+      internalID: 2100058563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 474
+        width: 110
+        height: 79
+      alignment: 9
+      pivot: {x: -0.07272727, y: -0.07594936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d212e9dc3df8ac6d74f9c827b51cdc5c
+      internalID: 1386768330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_37
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 555
+        width: 110
+        height: 80
+      alignment: 9
+      pivot: {x: -0.07272727, y: -0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e591c47fedc7930ccb4a2f7dad105c3d
+      internalID: -1888955794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 555
+        width: 111
+        height: 80
+      alignment: 9
+      pivot: {x: -0.072072074, y: -0.075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01d9fccd32df3dbdc79660168e5f686
+      internalID: -833890084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 554
+        width: 111
+        height: 81
+      alignment: 9
+      pivot: {x: -0.072072074, y: -0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db316730d9b2f081936f4b6bf894b0c9
+      internalID: 320409126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 112
+        height: 81
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.074074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cd2c2ce628bd4c429429a950696706
+      internalID: -371479218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_41
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 637
+        width: 112
+        height: 82
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb73181a2ac4418e919f63d599998f0
+      internalID: -923239154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_42
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 637
+        width: 112
+        height: 82
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.07317073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50497c1e7af22524d01f022379055ff6
+      internalID: -1189507632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_43
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 721
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.072289154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92adf5188bcb45100aa435410643d97
+      internalID: -659741761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_44
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 721
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.072289154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462dbd1d3d1be315ed70d5c787746d86
+      internalID: -1933067911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_45
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 721
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.072289154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f45dbafb2678708a8b137b1f9ee7a2
+      internalID: 1715880766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.084337346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aab483adb4766b6c5f0ac321aa028ec
+      internalID: 2091154772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_47
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 636
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.084337346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62daf86a84b1dcee7728b47a88e40e2
+      internalID: -1012703345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_48
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 636
+        width: 113
+        height: 83
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.084337346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc51139f2b2b86e39520ef69f99c640
+      internalID: 106914432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 720
+        width: 113
+        height: 84
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea39947b5ac5cdb06a5ca557b4f31d8
+      internalID: -1104900758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 806
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bcafa9fe52426306925a1633ebccbf
+      internalID: 1709047349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_51
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 806
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8253df73dd4c74709913d23c3a3d883a
+      internalID: -795406965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 806
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0558fc9646f2446174c2de87f3692b70
+      internalID: -1113362440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 891
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.08235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffd95fb851795954760eba2325024b8
+      internalID: 1836973298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_54
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 891
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.08235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173dfbe7725a9872fe07b6f2baa8848d
+      internalID: 21140146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_55
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 891
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.08235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65890562d05c1a8a4d5e2d7ffa622d0
+      internalID: 1695064851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_56
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 891
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.08235294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c26e5ece6b50021556f80411c04d145
+      internalID: 248578495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_57
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 806
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.0952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e43d17b96e797c5f762ff97185169e
+      internalID: 589253369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_58
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 891
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.09411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfcc4de2416a35c546f0c1e2057cd3e
+      internalID: -1767216898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_59
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 891
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.09411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ddb6854301e60af23f7d8266907cbf
+      internalID: 5814687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_60
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 891
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.09411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ecb5fcf03339509f471a6822b0fdd2
+      internalID: -483821078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.09411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10595f603fbe1b2016d85ae775ad33bd
+      internalID: 1523937676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 805
+        width: 114
+        height: 85
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.09411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa167e5459aba49e12583ba4ec2a2918
+      internalID: 1526459293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_63
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 806
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.10714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4dec9bafd45a873d9fc8b01eef9d76
+      internalID: 122507818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.10714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea5b0118d0cc443c7db77017f96b1d9
+      internalID: -1417658589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 720
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.10714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc880c468347c6de72605292a5eb8ed3
+      internalID: -807187422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_66
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 720
+        width: 114
+        height: 84
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.10714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104397ef5cc05ad295ad15117ffe49d0
+      internalID: 1530582090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_67
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 637
+        width: 114
+        height: 82
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.12195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe770c8d4bae1384c20087533e6a20
+      internalID: -1493854076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_68
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 637
+        width: 114
+        height: 82
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.12195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b28b362278f22be10b04264414ed93
+      internalID: 1645771670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_69
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 638
+        width: 114
+        height: 81
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.12345679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8af2d74d0b89dfbb3bbc90b7cc9857
+      internalID: 714860612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_70
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 555
+        width: 114
+        height: 80
+      alignment: 9
+      pivot: {x: -0.05263158, y: -0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1ce5e270db8f2f7ea6697dc5c0976
+      internalID: -1339327085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_71
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 555
+        width: 113
+        height: 80
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0260db2d6d5c765600e2ec4c455c24
+      internalID: 137522808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_72
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 475
+        width: 113
+        height: 78
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b8d41cf775a178e6d692dfd3c6ad46
+      internalID: -83172914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_73
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 397
+        width: 113
+        height: 76
+      alignment: 9
+      pivot: {x: -0.061946902, y: -0.14473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053f55cba985166ab2ead4dbd237a5a2
+      internalID: -515375688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_74
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 321
+        width: 112
+        height: 74
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.14864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c39bdb6bb04e93d9d9ccf8595a2a1ec
+      internalID: 1941963944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_75
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 322
+        width: 112
+        height: 73
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.16438356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a984902464ee4cf10921899d642f09ab
+      internalID: -2106249150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_76
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 322
+        width: 112
+        height: 73
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.16438356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107c16bc68b4b369bc3fc8c682b4cef
+      internalID: 30236624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 112
+        height: 73
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.16438356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd771c29e5c7d4fae9ec6c21905b20
+      internalID: -989919509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_78
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 248
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.18055555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf7195dfe358aff8290e80bb5589b10
+      internalID: -442043315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_79
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 248
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.18055555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bdb08bfc8e324e365d678129d18a70
+      internalID: -104487343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_80
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 250
+        width: 112
+        height: 70
+      alignment: 9
+      pivot: {x: -0.0625, y: -0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0dd9e16ee624b7cdeed39b394e4f4a
+      internalID: 93718421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_81
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 251
+        width: 111
+        height: 69
+      alignment: 9
+      pivot: {x: -0.06306306, y: -0.2173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7ec4caade307b27abdd53dbc3c23e3
+      internalID: -233338064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_82
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 179
+        width: 111
+        height: 67
+      alignment: 9
+      pivot: {x: -0.06306306, y: -0.23880596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dddb7ada0d8dfb2a77344ed1b1eae89
+      internalID: -503168477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_83
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 182
+        width: 111
+        height: 64
+      alignment: 9
+      pivot: {x: -0.06306306, y: -0.28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58fe4e03988f4db05d09e61b368245e
+      internalID: -790834116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_84
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 114
+        width: 109
+        height: 63
+      alignment: 9
+      pivot: {x: -0.07339449, y: -0.3015873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809da354f74305e7da16a68a86ce3a5a
+      internalID: -2000730586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_85
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 115
+        width: 109
+        height: 62
+      alignment: 9
+      pivot: {x: -0.07339449, y: -0.30645162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ab50ee66f95fa9ba59c868b71c7ba
+      internalID: 1551088575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_86
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 116
+        width: 108
+        height: 61
+      alignment: 9
+      pivot: {x: -0.074074075, y: -0.32786885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559cda9777aee74706492d25c1347471
+      internalID: -652768342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_87
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 116
+        width: 105
+        height: 61
+      alignment: 9
+      pivot: {x: -0.08571429, y: -0.32786885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0c8d87ab3c08af28e140004a52d11f
+      internalID: -815692742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_88
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 116
+        width: 103
+        height: 61
+      alignment: 9
+      pivot: {x: -0.08737864, y: -0.32786885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa3ba00882abc5221276f5b3f0a7ca7
+      internalID: -1387462601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 75
+        height: 60
+      alignment: 9
+      pivot: {x: -0.13333334, y: -0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea1652357e7ec65fa53eadb08536e62
+      internalID: -1140541969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 54
+        width: 74
+        height: 59
+      alignment: 9
+      pivot: {x: -0.14864865, y: -0.37288135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0331b7a26e9a9513d0cf18ed7a036
+      internalID: 1356303409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 55
+        width: 72
+        height: 58
+      alignment: 9
+      pivot: {x: -0.16666667, y: -0.37931034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e08dc929a07c97aa53344064866e628
+      internalID: -823879283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_92
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 58
+        width: 69
+        height: 55
+      alignment: 9
+      pivot: {x: -0.17391305, y: -0.4181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2aa1afe1c436ddf692b3e59eb2ecf4
+      internalID: -443596513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_93
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2
+        width: 63
+        height: 50
+      alignment: 9
+      pivot: {x: -0.20634921, y: -0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090450abf461e813fe9d8ded307d3693
+      internalID: 197821903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_94
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 31
+        width: 54
+        height: 21
+      alignment: 9
+      pivot: {x: -0.25925925, y: -1.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e666e4851e2b66a983e5fcddd417267
+      internalID: 1103461993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_95
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 34
+        width: 22
+        height: 18
+      alignment: 9
+      pivot: {x: -0.72727275, y: -1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b3fef1dcb62a5e53fb7cc184f3dfee
+      internalID: -1257418278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 38
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: -1.5, y: -2.142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c2c43ed8d4580c15e91bffd8c8f74
+      internalID: -210503108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_97
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 44
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: -3.125, y: -4.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d08a0fd527b7d7827ff3a40906fb0fd
+      internalID: -2034181522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cannonball_98
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 51
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd79fdd72e6f066f434ee4d0258035
+      internalID: 225240385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 39bf60fbac597429daa392986f285b2c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cannonball_0: -4292495330238500785
+      cannonball_1: 474309705
+      cannonball_10: 1085703233
+      cannonball_11: -1543293027
+      cannonball_12: -224900569
+      cannonball_13: -1721462298
+      cannonball_14: 1018342139
+      cannonball_15: 599513551
+      cannonball_16: 1325229926
+      cannonball_17: 1013786370
+      cannonball_18: -1683325049
+      cannonball_19: -607029257
+      cannonball_2: 762823940
+      cannonball_20: 502694901
+      cannonball_21: -900402254
+      cannonball_22: 2000530768
+      cannonball_23: 588636649
+      cannonball_24: -2015875639
+      cannonball_25: -2078783696
+      cannonball_26: -1934846657
+      cannonball_27: -416784322
+      cannonball_28: 348979720
+      cannonball_29: 1316001444
+      cannonball_3: -676241590
+      cannonball_30: -1262700703
+      cannonball_31: 1560582994
+      cannonball_32: -611487701
+      cannonball_33: -1014438936
+      cannonball_34: 19113966
+      cannonball_35: 2100058563
+      cannonball_36: 1386768330
+      cannonball_37: -1888955794
+      cannonball_38: -833890084
+      cannonball_39: 320409126
+      cannonball_4: -1431262743
+      cannonball_40: -371479218
+      cannonball_41: -923239154
+      cannonball_42: -1189507632
+      cannonball_43: -659741761
+      cannonball_44: -1933067911
+      cannonball_45: 1715880766
+      cannonball_46: 2091154772
+      cannonball_47: -1012703345
+      cannonball_48: 106914432
+      cannonball_49: -1104900758
+      cannonball_5: -1890237508
+      cannonball_50: 1709047349
+      cannonball_51: -795406965
+      cannonball_52: -1113362440
+      cannonball_53: 1836973298
+      cannonball_54: 21140146
+      cannonball_55: 1695064851
+      cannonball_56: 248578495
+      cannonball_57: 589253369
+      cannonball_58: -1767216898
+      cannonball_59: 5814687
+      cannonball_6: -1236414535
+      cannonball_60: -483821078
+      cannonball_61: 1523937676
+      cannonball_62: 1526459293
+      cannonball_63: 122507818
+      cannonball_64: -1417658589
+      cannonball_65: -807187422
+      cannonball_66: 1530582090
+      cannonball_67: -1493854076
+      cannonball_68: 1645771670
+      cannonball_69: 714860612
+      cannonball_7: 1482758968
+      cannonball_70: -1339327085
+      cannonball_71: 137522808
+      cannonball_72: -83172914
+      cannonball_73: -515375688
+      cannonball_74: 1941963944
+      cannonball_75: -2106249150
+      cannonball_76: 30236624
+      cannonball_77: -989919509
+      cannonball_78: -442043315
+      cannonball_79: -104487343
+      cannonball_8: -1784821251
+      cannonball_80: 93718421
+      cannonball_81: -233338064
+      cannonball_82: -503168477
+      cannonball_83: -790834116
+      cannonball_84: -2000730586
+      cannonball_85: 1551088575
+      cannonball_86: -652768342
+      cannonball_87: -815692742
+      cannonball_88: -1387462601
+      cannonball_89: -1140541969
+      cannonball_9: 1493665087
+      cannonball_90: 1356303409
+      cannonball_91: -823879283
+      cannonball_92: -443596513
+      cannonball_93: 197821903
+      cannonball_94: 1103461993
+      cannonball_95: -1257418278
+      cannonball_96: -210503108
+      cannonball_97: -2034181522
+      cannonball_98: 225240385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

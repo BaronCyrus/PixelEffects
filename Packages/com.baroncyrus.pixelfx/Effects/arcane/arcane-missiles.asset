@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: arcane-missiles
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: arcane/arcane-missiles
+  displayName: Arcane missiles
+  description: A volley of violet bolts fans out of the hand, curls round on twisting ribbons and pops on the target one after another.
+  category: arcane
+  tags:
+  - arcane
+  - missile
+  - projectile
+  - homing
+  - volley
+  - magic
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 6064271430816330737, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 736730805, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -291636411, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1174095837, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 907956070, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 802425676, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1462519746, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 1153285107, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -981546021, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 1637384587, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -518685560, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1367045892, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -77562477, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1291318112, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -54453481, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 1464370061, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -871143902, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1901989207, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1045408434, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 1586917325, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1817620683, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1634927035, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1075485140, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 438929417, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1082196640, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -130782130, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -2146326220, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1141828032, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -103162102, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1780861865, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 568145197, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1420628707, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 371153111, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -409069401, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1793940913, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 750381029, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 743855449, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -772991629, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 1331911514, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1319439777, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 2325424, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1485102276, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 973885989, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -554362062, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1706359640, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1743746418, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -252031416, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1968144525, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: 1983463529, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -32597146, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1008787481, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1109517483, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1109517483, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  - {fileID: -1109517483, guid: 4812beabbc480479080de0e20a670f55, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 240, y: 116}
+  origin: {x: 26, y: 88}
+  fullScreen: 0
+  previewFrame: 26
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.52
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.77
+    freeze: 0.02
+    shake: 0
+    amplitude: 0
+    push: 0.7
+  - time: 0.85
+    freeze: 0.02
+    shake: 0
+    amplitude: 0
+    push: 0.7
+  - time: 0.95
+    freeze: 0.02
+    shake: 0
+    amplitude: 0
+    push: 0.7
+  - time: 1.08
+    freeze: 0.02
+    shake: 0
+    amplitude: 0
+    push: 0.7
+  - time: 1.2
+    freeze: 0.07
+    shake: 0.14
+    amplitude: 1
+    push: 1.4

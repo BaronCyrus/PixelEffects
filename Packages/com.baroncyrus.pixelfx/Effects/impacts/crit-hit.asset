@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: crit-hit
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: impacts/crit-hit
+  displayName: Critical hit
+  description: 'A critical hit: a jagged starburst slams in white and overshoots, a ring breaks into flying arcs, sparks streak off, shards tumble to the floor under a big flare.'
+  category: impacts
+  tags:
+  - impact
+  - hit
+  - crit
+  - critical
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -4369011357524687277, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1781418558, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -746690188, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: 766910834, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: 1662066774, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1862991201, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: 536835645, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: 212249652, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1812880144, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: 1043770427, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1317590730, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -2142816229, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1205641084, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -537685994, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: 705105740, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1369946389, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -340802880, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: 1811761784, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -961557776, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1114332144, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -389652067, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: 1058319770, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -260737423, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -260737423, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -449436624, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1572362315, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1572362315, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  - {fileID: -1572362315, guid: c78adc46221964def8d01725fa74f71e, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 216, y: 136}
+  origin: {x: 84, y: 106}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

@@ -1,0 +1,1791 @@
+fileFormatVersion: 2
+guid: c2e9fc10c15dd47cab16e6aedd1668eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1665986951607498228
+    second: force-field_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: force-field_0
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 332
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04e8e7cee173cbffcbcc3235a473269
+      internalID: -1665986951607498228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb5c149e04ba96a4b945546408b114
+      internalID: -2093008449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 249
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b92e39a59f806c0f088586d09ff93ff
+      internalID: -655412154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 249
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48cb7cef9edc3f43adf35e2153ab87f
+      internalID: -1303453614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 249
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5df121a00db43d344c6742680bb44
+      internalID: 1600971660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 249
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f34a74c512378823599ffa64154557
+      internalID: 557660641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 249
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144f1d618487a081dd1b092df5f39e1
+      internalID: -1668020368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 249
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd7d6449db9e9b8e5858cbf594f31b1
+      internalID: 1383125146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d52bb49bca828bf960719ce34149553
+      internalID: 802398344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 166
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7251fe32de0dfa69420aaf7e39d0c9d7
+      internalID: -142548767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 582
+        width: 167
+        height: 82
+      alignment: 9
+      pivot: {x: 0.36526945, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ab7c4276bedd94ee2c5ce5256093ce
+      internalID: 1594214523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_11
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 498
+        width: 144
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4236111, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ff1c79b04ed68f09df8bdc707b5d9
+      internalID: -36787555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 166
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903bec62829180313ef517af55057195
+      internalID: -1455313977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 843
+        width: 133
+        height: 90
+      alignment: 9
+      pivot: {x: 0.45864663, y: 0.21111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca3a0880a9eee2eb799bbc74c5b92b3
+      internalID: -2061370552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 753
+        width: 131
+        height: 88
+      alignment: 9
+      pivot: {x: 0.46564886, y: 0.2159091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d749a9e99ca843ee2ff1656bcf301b
+      internalID: 805096367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 754
+        width: 128
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4765625, y: 0.21839081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24e4064d09e3a6fdc27ab004225e9a4
+      internalID: -86741420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 126
+        height: 86
+      alignment: 9
+      pivot: {x: 0.48412699, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfaebcd168203041bc62235447c1d2f
+      internalID: -1803648175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 665
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4919355, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac2ac66c86f519b1e35206bdb06f5ba
+      internalID: -593811363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 665
+        width: 122
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78789c98d120dea0eebe05eaabcf9fd4
+      internalID: 849139034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_19
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 666
+        width: 122
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74816a716a668d557d58159c4e53646
+      internalID: -530805350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 666
+        width: 122
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d6835a9bc12bfa4491cab7e3226610
+      internalID: -553043648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_21
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 754
+        width: 124
+        height: 87
+      alignment: 9
+      pivot: {x: 0.4919355, y: 0.20689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c95549cc9e3ef7e13ec3920d567ec3f
+      internalID: 342466145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 127
+        height: 89
+      alignment: 9
+      pivot: {x: 0.48031497, y: 0.20224719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ab92f94e83f8808499b0011e693ec5
+      internalID: 1296347742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 843
+        width: 130
+        height: 90
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5270a8174f293881f7f82ac8b86be2a2
+      internalID: -192927203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_24
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 842
+        width: 133
+        height: 91
+      alignment: 9
+      pivot: {x: 0.45864663, y: 0.1978022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6d38f18612dd0ddc3c88b8779797a0
+      internalID: 1599556226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 842
+        width: 136
+        height: 91
+      alignment: 9
+      pivot: {x: 0.44852942, y: 0.1978022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526eb066c5bcb37f1deadde09c730b5
+      internalID: -652839307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 138
+        height: 91
+      alignment: 9
+      pivot: {x: 0.442029, y: 0.1978022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a141aba20f35b46338fb42eed8488f
+      internalID: 399771262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 844
+        width: 140
+        height: 89
+      alignment: 9
+      pivot: {x: 0.43571427, y: 0.19101124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5f918b471f3a5458f00584a0646f74
+      internalID: 980642262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 753
+        width: 142
+        height: 88
+      alignment: 9
+      pivot: {x: 0.42957747, y: 0.19318181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea217bb5126bcbd213b4212f190768b
+      internalID: 2064142744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 754
+        width: 143
+        height: 87
+      alignment: 9
+      pivot: {x: 0.42657343, y: 0.1954023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348e3e8d2dc60366970c48f1bacd7ef9
+      internalID: -137213949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 666
+        width: 143
+        height: 85
+      alignment: 9
+      pivot: {x: 0.42657343, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468398602f358b9551117a1b8c72325f
+      internalID: 506631479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_31
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 668
+        width: 144
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4236111, y: 0.20481928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb14be122835bba257462e5c0c837a0d
+      internalID: 1188085415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_32
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 415
+        width: 133
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45864663, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af18fbfe061c41dd0214ad9a59bd4ec
+      internalID: 1260343190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 132
+        height: 82
+      alignment: 9
+      pivot: {x: 0.46212122, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643b464b0c595abe3f251d959cc16c51
+      internalID: -1820039416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 166
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572b8b31520f9e92dab580928647fab9
+      internalID: -182953155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 166
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a026304a5cfe46604936e339c579aa
+      internalID: 610342430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_36
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 166
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fad0dea343488966325b716739008c
+      internalID: 144790966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_37
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 166
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff0416f8abad2ae24e38466f9d1ecd
+      internalID: -1275856221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb76b237be6df074cff78294a3656ba
+      internalID: 1579923243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_39
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 83
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43203a05baafaa3c407e72f0f031c37
+      internalID: 1656219926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_40
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 83
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db65301feeaea79a2cebbdcdbb7db32
+      internalID: 2024027192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_41
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 83
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29868970cec9ed8c7072c758568853f
+      internalID: 1044315048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_42
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 582
+        width: 169
+        height: 82
+      alignment: 9
+      pivot: {x: 0.36094674, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b214dc307971ff589cb8c5a7e4f2d10
+      internalID: 899369052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_43
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 582
+        width: 159
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3836478, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e39ad768323b15ff8654cee46677d1
+      internalID: -1105587669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_44
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 415
+        width: 135
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45185184, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43f0f0014b39330bb709802ec100f01
+      internalID: -791569319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 126
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48412699, y: 0.21686748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2bfd5a6fb327b3b96a5a11c2acd9a9
+      internalID: -185379044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 581
+        width: 125
+        height: 83
+      alignment: 9
+      pivot: {x: 0.488, y: 0.21686748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37c3a4e0faec2ea5b33c041addb2ab4
+      internalID: -1856915147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_47
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 332
+        width: 123
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49593496, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934533df2376c96fdd1097d09fdb994
+      internalID: 813031774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_48
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 83
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd545b91e9dd38b7066cd384195825
+      internalID: 424149770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_49
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 83
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6825f6be5c422b38af86b6267ed20cd3
+      internalID: 1436915734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_50
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 332
+        width: 124
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4919355, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eca344b0f11354bb31534fd037e41e
+      internalID: 1534193931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 332
+        width: 129
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4728682, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a688e1a0d604182dcdec5d45d17975
+      internalID: 667506393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_52
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 415
+        width: 133
+        height: 82
+      alignment: 9
+      pivot: {x: 0.45864663, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de342630b9c1e46bd3da34109cd591a0
+      internalID: 652189858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 415
+        width: 137
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4452555, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ae3f165faca4ba6638febf2bea6f0a
+      internalID: -442555718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 415
+        width: 141
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4326241, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a780017ba4053e0e9b201274b85c69f
+      internalID: 1624001085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 144
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4236111, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84826529924fb45bb52214654944523
+      internalID: 1788556240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_56
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 498
+        width: 147
+        height: 82
+      alignment: 9
+      pivot: {x: 0.414966, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3793e36e31c6277152ec5d57d12091cc
+      internalID: -672716416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_57
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 498
+        width: 150
+        height: 82
+      alignment: 9
+      pivot: {x: 0.40666667, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399ee79a97e8d8bf1a6af13c0d2f84db
+      internalID: -532970245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 498
+        width: 153
+        height: 82
+      alignment: 9
+      pivot: {x: 0.39869282, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a843c543ba54641ebcfd37d1bdcab6a
+      internalID: -1271207318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_59
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 498
+        width: 155
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3935484, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ca7c5733cde0c12879d0c81c2b8f2
+      internalID: 1960185675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 157
+        height: 82
+      alignment: 9
+      pivot: {x: 0.38853502, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed3e51d84ff7508ea66837b337d7c37
+      internalID: 546535052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_61
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 582
+        width: 159
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3836478, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca06518c54deb9c332e5f4331d3e66d
+      internalID: 1493405713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 332
+        width: 125
+        height: 82
+      alignment: 9
+      pivot: {x: 0.488, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed78c10adb6649ba1cbfef1b8c1c3a4
+      internalID: -2098172229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_63
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 332
+        width: 124
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4919355, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0383cbc902078fcd8934749a289fd4
+      internalID: 435091574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_64
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 83
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129aa695f3a5d35dedb75b8c4bda5689
+      internalID: -1218569456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467c669652b532ecdb88fb0d2ca946cb
+      internalID: -69790334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_66
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37bac7ba86e2914ac0c9ff0e4c0ac69
+      internalID: -710587526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_67
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62feeec8d6957374deac92dd50f7fa26
+      internalID: -2063493817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_68
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00886e09e179da65e01f8b20639e2b51
+      internalID: -843871266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91cb4c175594dcfd01e058f6bd8421c
+      internalID: -769294313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_70
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e57e34eef11a36286b10bd2871cbfc
+      internalID: 195704079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: force-field_71
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 122
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20731707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1307e17941ab70d883627ef4aaea7a8
+      internalID: -889811157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ded9b8f77aeb4abe836ef06495beae9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      force-field_0: -1665986951607498228
+      force-field_1: -2093008449
+      force-field_10: 1594214523
+      force-field_11: -36787555
+      force-field_12: -1455313977
+      force-field_13: -2061370552
+      force-field_14: 805096367
+      force-field_15: -86741420
+      force-field_16: -1803648175
+      force-field_17: -593811363
+      force-field_18: 849139034
+      force-field_19: -530805350
+      force-field_2: -655412154
+      force-field_20: -553043648
+      force-field_21: 342466145
+      force-field_22: 1296347742
+      force-field_23: -192927203
+      force-field_24: 1599556226
+      force-field_25: -652839307
+      force-field_26: 399771262
+      force-field_27: 980642262
+      force-field_28: 2064142744
+      force-field_29: -137213949
+      force-field_3: -1303453614
+      force-field_30: 506631479
+      force-field_31: 1188085415
+      force-field_32: 1260343190
+      force-field_33: -1820039416
+      force-field_34: -182953155
+      force-field_35: 610342430
+      force-field_36: 144790966
+      force-field_37: -1275856221
+      force-field_38: 1579923243
+      force-field_39: 1656219926
+      force-field_4: 1600971660
+      force-field_40: 2024027192
+      force-field_41: 1044315048
+      force-field_42: 899369052
+      force-field_43: -1105587669
+      force-field_44: -791569319
+      force-field_45: -185379044
+      force-field_46: -1856915147
+      force-field_47: 813031774
+      force-field_48: 424149770
+      force-field_49: 1436915734
+      force-field_5: 557660641
+      force-field_50: 1534193931
+      force-field_51: 667506393
+      force-field_52: 652189858
+      force-field_53: -442555718
+      force-field_54: 1624001085
+      force-field_55: 1788556240
+      force-field_56: -672716416
+      force-field_57: -532970245
+      force-field_58: -1271207318
+      force-field_59: 1960185675
+      force-field_6: -1668020368
+      force-field_60: 546535052
+      force-field_61: 1493405713
+      force-field_62: -2098172229
+      force-field_63: 435091574
+      force-field_64: -1218569456
+      force-field_65: -69790334
+      force-field_66: -710587526
+      force-field_67: -2063493817
+      force-field_68: -843871266
+      force-field_69: -769294313
+      force-field_7: 1383125146
+      force-field_70: 195704079
+      force-field_71: -889811157
+      force-field_8: 802398344
+      force-field_9: -142548767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1952 @@
+fileFormatVersion: 2
+guid: 1be40c25f644d4297a1002b1ba008670
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1149715235600682867
+    second: charge-up_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charge-up_0
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 61
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: -0.18181819, y: -0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0caf0081a91b9815bda15e412e132
+      internalID: -1149715235600682867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_1
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 21
+        width: 57
+        height: 62
+      alignment: 9
+      pivot: {x: 0.3859649, y: -0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cdc85a7e3d85412aa606da391f72a5
+      internalID: -1062314878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 24
+        width: 110
+        height: 59
+      alignment: 9
+      pivot: {x: 0.4181818, y: -0.084745765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5787e06b2f849d96f7c2afbc7332af
+      internalID: -2020630606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_3
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 97
+        width: 111
+        height: 71
+      alignment: 9
+      pivot: {x: 0.3243243, y: -0.04225352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08dd150abb2339182b7ff6fae0ed4f7
+      internalID: 727442095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 15
+        width: 94
+        height: 68
+      alignment: 9
+      pivot: {x: 0.29787233, y: -0.014705882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9e0e1b9eadb68cfa42eb2318fde108
+      internalID: 1995750682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_5
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 99
+        width: 85
+        height: 69
+      alignment: 9
+      pivot: {x: 0.28235295, y: -0.072463766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a94453b8288efcba3b8bd5552f89423
+      internalID: -962387441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 17
+        width: 100
+        height: 66
+      alignment: 9
+      pivot: {x: 0.21, y: -0.015151516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b88320eb96cd71b29fb5cdf997f2e8
+      internalID: -677422488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 18
+        width: 104
+        height: 65
+      alignment: 9
+      pivot: {x: 0.32692307, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbc369a31ba522a31804d2c4fe700cc
+      internalID: 758316170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 96
+        width: 89
+        height: 72
+      alignment: 9
+      pivot: {x: 0.31460676, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c33632b7b9fc1878e48d2057cb247a
+      internalID: -1633794802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 74
+        height: 69
+      alignment: 9
+      pivot: {x: 0.2837838, y: 0.17391305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f9e1ec892c7cddd92c3d03ad6e97e
+      internalID: 1202407594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 17
+        width: 91
+        height: 66
+      alignment: 9
+      pivot: {x: 0.16483517, y: 0.21212122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efca810105655fc4a7323a558e490ed
+      internalID: -1865564368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 171
+        width: 81
+        height: 88
+      alignment: 9
+      pivot: {x: 0.14814815, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd2472a46432bf160ee0f785c230cc9
+      internalID: -626347403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_12
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 172
+        width: 76
+        height: 87
+      alignment: 9
+      pivot: {x: 0.18421052, y: 0.20689656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe08f3515272ccbadc36160f772bfe5f
+      internalID: 448813520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 89
+        height: 84
+      alignment: 9
+      pivot: {x: 0.16853933, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e8a87ce5394fa033401806b05fe5ac
+      internalID: -59516064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 88
+        width: 101
+        height: 80
+      alignment: 9
+      pivot: {x: 0.32673267, y: 0.2625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558d37687bab9944d23a6024b356ff79
+      internalID: 1805175196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 92
+        width: 107
+        height: 76
+      alignment: 9
+      pivot: {x: 0.42056075, y: 0.28947368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f22a3076612fdd65c71e431a42206d0
+      internalID: 835400664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 357
+        width: 112
+        height: 98
+      alignment: 9
+      pivot: {x: 0.45535713, y: 0.23469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f569b740f71c867da3341b5595b3c9
+      internalID: -352979145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_17
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 171
+        width: 114
+        height: 88
+      alignment: 9
+      pivot: {x: 0.37719297, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76557912d6090948bd72a46006d69572
+      internalID: 813911713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 91
+        width: 97
+        height: 77
+      alignment: 9
+      pivot: {x: 0.36082473, y: 0.3116883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d163e4d96abe3b3e9b869ef572ad9970
+      internalID: -1003239227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 260
+        width: 90
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d39c78cf835ee56b9f251ad891bc2
+      internalID: 1585172817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_20
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 171
+        width: 93
+        height: 88
+      alignment: 9
+      pivot: {x: 0.22580644, y: 0.29545453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815cf0ac8fad18594c9f8fe602f5e520
+      internalID: -758809324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 480
+        width: 87
+        height: 103
+      alignment: 9
+      pivot: {x: 0.25287357, y: 0.2524272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e7a284d98bd60e15d45f42c0b53f4f
+      internalID: -1938136157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 357
+        width: 94
+        height: 98
+      alignment: 9
+      pivot: {x: 0.23404256, y: 0.2755102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090afabc4b58dd2cb9d8d43a34712307
+      internalID: -45512192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_23
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 264
+        width: 89
+        height: 91
+      alignment: 9
+      pivot: {x: 0.25842696, y: 0.2967033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fa77638e4321350f2af67257221e4a
+      internalID: -85429491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_24
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 481
+        width: 82
+        height: 102
+      alignment: 9
+      pivot: {x: 0.2804878, y: 0.27450982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b4083204ae684f192da143de199b5
+      internalID: 604894182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_25
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 359
+        width: 90
+        height: 96
+      alignment: 9
+      pivot: {x: 0.42222223, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc80aecaad09bb4ea322ff94a1d4b81
+      internalID: -1956251389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_26
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 264
+        width: 98
+        height: 91
+      alignment: 9
+      pivot: {x: 0.41836736, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9cf76446fb16a18547c8f8f55390d
+      internalID: -699398222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 169
+        width: 87
+        height: 90
+      alignment: 9
+      pivot: {x: 0.35632184, y: 0.32222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb54f1da6fe69c581442c589448623e2
+      internalID: -131811053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_28
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 359
+        width: 97
+        height: 96
+      alignment: 9
+      pivot: {x: 0.30927834, y: 0.30208334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ae983029a73a1569f10f92389e848f
+      internalID: 795890672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 170
+        width: 93
+        height: 89
+      alignment: 9
+      pivot: {x: 0.26881722, y: 0.3258427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3abaed47d49c37687d3ea679938328
+      internalID: 54366648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 90
+        height: 99
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.2929293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7450d6ee8c38c7f43483811e2048f
+      internalID: 1651408349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 262
+        width: 105
+        height: 93
+      alignment: 9
+      pivot: {x: 0.32380953, y: 0.32258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2138db50ae89791d857e52514a8b311
+      internalID: 559717689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_32
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 359
+        width: 101
+        height: 96
+      alignment: 9
+      pivot: {x: 0.36633664, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6d4930b3f2b8f13940614b861dc317
+      internalID: -2108505512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_33
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 483
+        width: 94
+        height: 100
+      alignment: 9
+      pivot: {x: 0.32978722, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25331f249baa9ab54bef5aaf8b748ec
+      internalID: 863479068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_34
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 264
+        width: 102
+        height: 91
+      alignment: 9
+      pivot: {x: 0.34313726, y: 0.32967034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6ee26bf1a45d3199f422e53d8dd7a7
+      internalID: 524456155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_35
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 482
+        width: 91
+        height: 101
+      alignment: 9
+      pivot: {x: 0.31868133, y: 0.3069307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d852c5c46c52fb4fb4ef31c6f4e4ab20
+      internalID: 185447175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 358
+        width: 93
+        height: 97
+      alignment: 9
+      pivot: {x: 0.2795699, y: 0.31958762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8142ddbedc69cee8eee698af649722d8
+      internalID: 1625692501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 358
+        width: 95
+        height: 97
+      alignment: 9
+      pivot: {x: 0.34736842, y: 0.31958762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f874345495da7b55bdee2a4597bb918
+      internalID: 122217595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 96
+        height: 90
+      alignment: 9
+      pivot: {x: 0.28125, y: 0.34444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6619d25fd9e6a43205bd7868fcd2a5
+      internalID: -779524519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_39
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 173
+        width: 91
+        height: 86
+      alignment: 9
+      pivot: {x: 0.35164836, y: 0.3604651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e564bbf0e1e410eb4fb8ca434b7603
+      internalID: 880115003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 261
+        width: 78
+        height: 94
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.32978722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff513407f5c19009859c0c04ac201e92
+      internalID: -1686485282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_41
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 358
+        width: 91
+        height: 97
+      alignment: 9
+      pivot: {x: 0.2967033, y: 0.31958762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9d7b3a44031c318ea8dd79a5471a60
+      internalID: 671310322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 169
+        width: 85
+        height: 90
+      alignment: 9
+      pivot: {x: 0.31764707, y: 0.35555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d056ef77f40844480c517ba4c5051bf
+      internalID: 271448298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 96
+        height: 95
+      alignment: 9
+      pivot: {x: 0.36458334, y: 0.33684212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f465336d8ca5d7e6b4bd09c91f5203
+      internalID: 1001616973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_44
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 262
+        width: 84
+        height: 93
+      alignment: 9
+      pivot: {x: 0.3452381, y: 0.34408602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fef7676f5b84a3f5f53526cefc124c
+      internalID: -686864798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_45
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 169
+        width: 86
+        height: 90
+      alignment: 9
+      pivot: {x: 0.3139535, y: 0.35555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3267f4fc86e5de9b6f49410c1d5219a
+      internalID: 1355589038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_46
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 481
+        width: 83
+        height: 102
+      alignment: 9
+      pivot: {x: 0.33734939, y: 0.3137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc097284f11aaf318442b2ff4c1d1431
+      internalID: 799755836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 260
+        width: 82
+        height: 95
+      alignment: 9
+      pivot: {x: 0.34146342, y: 0.33684212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d689d2eec39cf9e10f8cbde8df7bb4a
+      internalID: -1297802318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_48
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 263
+        width: 81
+        height: 92
+      alignment: 9
+      pivot: {x: 0.34567901, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b9bba7ef581eb3a43e047505a0b0a
+      internalID: 1836927268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 198
+        height: 155
+      alignment: 9
+      pivot: {x: 0.42424244, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1aadb9d78bc9f337579258d5a8a390
+      internalID: -1346059830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 872
+        width: 190
+        height: 151
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.23178808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1426ede7d3d0f95b384ee60c2db05cd0
+      internalID: 1437209413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 876
+        width: 182
+        height: 147
+      alignment: 9
+      pivot: {x: 0.41758242, y: 0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d9041193cf689f26cf7df7543e8301
+      internalID: -721024713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 724
+        width: 174
+        height: 143
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.24475524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbfcbfac3413eeef77af7107be83608
+      internalID: 2135804440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_53
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 727
+        width: 168
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4107143, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab887864a15db7e81b770f6010ce37bf
+      internalID: -1035622620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 586
+        width: 160
+        height: 136
+      alignment: 9
+      pivot: {x: 0.40625, y: 0.25735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d600b322f3928e7847b7f241c1cbf72
+      internalID: -1490638846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_55
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 587
+        width: 158
+        height: 135
+      alignment: 9
+      pivot: {x: 0.4050633, y: 0.25925925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ade679748009aeed53f8e71917d1d00
+      internalID: -1870005553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 166
+        height: 138
+      alignment: 9
+      pivot: {x: 0.40963855, y: 0.24637681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a88af42beb7e6e5540a227a9c902b0
+      internalID: -1196497873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_57
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 727
+        width: 174
+        height: 140
+      alignment: 9
+      pivot: {x: 0.42528737, y: 0.24285714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f635b4e23ab4f530f5493a989d42268
+      internalID: 1232501637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_58
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 726
+        width: 185
+        height: 141
+      alignment: 9
+      pivot: {x: 0.44864866, y: 0.23404256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9086543b9f6a1313e0a9ffde7a8e9ef
+      internalID: 290073910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 193
+        height: 144
+      alignment: 9
+      pivot: {x: 0.4715026, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc24d981d44f35dfaa5f0dbd306c4d44
+      internalID: 71892965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_60
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 879
+        width: 208
+        height: 144
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.1736111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312af74e3eca4f078c39a03f5b284040
+      internalID: -1413299607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 462
+        width: 222
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.10743801}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e316e4af19f08c7ba591a679355714
+      internalID: 944434846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 203
+        height: 127
+      alignment: 9
+      pivot: {x: 0.56650245, y: 0.11811024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd6cb2ce98658806bf5f1cc3b86407
+      internalID: -1153298588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_63
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 593
+        width: 193
+        height: 129
+      alignment: 9
+      pivot: {x: 0.626943, y: 0.093023255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7888ee1f1b541936d44e179abfbad585
+      internalID: -1237445992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_64
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 588
+        width: 101
+        height: 134
+      alignment: 9
+      pivot: {x: 0.26732674, y: 0.09701493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86511d42d694db7f6b45740dbd260687
+      internalID: -635016272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_65
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 94
+        width: 92
+        height: 74
+      alignment: 9
+      pivot: {x: 0.17391305, y: 0.16216215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe0a0177c841ccaa3314c4fea5e659
+      internalID: -1047628923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 93
+        width: 95
+        height: 75
+      alignment: 9
+      pivot: {x: 0.17894737, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11f91e041c6198b599c5382f3b99fa8
+      internalID: -1461291956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_67
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 34
+        width: 88
+        height: 49
+      alignment: 9
+      pivot: {x: 0.09090909, y: 0.26530612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d2a2d49181f80356eec1ced21de9c2
+      internalID: 1841582268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_68
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 62
+        width: 82
+        height: 21
+      alignment: 9
+      pivot: {x: 0.0121951215, y: -0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d68f4e84f470b7d3f70662935db3bf3
+      internalID: -1298591884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_69
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 66
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.05, y: -1.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3222041adbb9d5b069bd51218b5b317
+      internalID: 1191432137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_70
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 69
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: -0.5833333, y: -1.6428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaec2865b745be90b98d57483c0ba10
+      internalID: -1857770385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_71
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 70
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: -0.46153846, y: -1.9230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef06c6c4ab318a60b43be648eede646
+      internalID: 271980571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_72
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 70
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: -0.46153846, y: -1.9230769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339150c9784e4ec62d443a24b6f9991
+      internalID: 1344205919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_73
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 70
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: -0.46153846, y: -2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b85ff566ab416c35ad3bf9eded7610
+      internalID: -514170759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_74
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 70
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: -0.46153846, y: -2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a11db2747eed4c8191ba52900810480
+      internalID: 2122788921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: -0.3846154, y: -2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca471fdba57114c58814fb90e04d1b
+      internalID: 347216401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: -0.3846154, y: -2.0769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a11e5d3885cb9db7b1910f2165019
+      internalID: -684214983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: -0.3846154, y: -2.0769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30347f7326e0a1f07db9a5a78a073eb
+      internalID: 2070683898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charge-up_78
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfaa8e4829adf5c9c00db8d69a5c7c4
+      internalID: 1469608299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 529557ce8878649cdb067c0bdbe5759c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      charge-up_0: -1149715235600682867
+      charge-up_1: -1062314878
+      charge-up_10: -1865564368
+      charge-up_11: -626347403
+      charge-up_12: 448813520
+      charge-up_13: -59516064
+      charge-up_14: 1805175196
+      charge-up_15: 835400664
+      charge-up_16: -352979145
+      charge-up_17: 813911713
+      charge-up_18: -1003239227
+      charge-up_19: 1585172817
+      charge-up_2: -2020630606
+      charge-up_20: -758809324
+      charge-up_21: -1938136157
+      charge-up_22: -45512192
+      charge-up_23: -85429491
+      charge-up_24: 604894182
+      charge-up_25: -1956251389
+      charge-up_26: -699398222
+      charge-up_27: -131811053
+      charge-up_28: 795890672
+      charge-up_29: 54366648
+      charge-up_3: 727442095
+      charge-up_30: 1651408349
+      charge-up_31: 559717689
+      charge-up_32: -2108505512
+      charge-up_33: 863479068
+      charge-up_34: 524456155
+      charge-up_35: 185447175
+      charge-up_36: 1625692501
+      charge-up_37: 122217595
+      charge-up_38: -779524519
+      charge-up_39: 880115003
+      charge-up_4: 1995750682
+      charge-up_40: -1686485282
+      charge-up_41: 671310322
+      charge-up_42: 271448298
+      charge-up_43: 1001616973
+      charge-up_44: -686864798
+      charge-up_45: 1355589038
+      charge-up_46: 799755836
+      charge-up_47: -1297802318
+      charge-up_48: 1836927268
+      charge-up_49: -1346059830
+      charge-up_5: -962387441
+      charge-up_50: 1437209413
+      charge-up_51: -721024713
+      charge-up_52: 2135804440
+      charge-up_53: -1035622620
+      charge-up_54: -1490638846
+      charge-up_55: -1870005553
+      charge-up_56: -1196497873
+      charge-up_57: 1232501637
+      charge-up_58: 290073910
+      charge-up_59: 71892965
+      charge-up_6: -677422488
+      charge-up_60: -1413299607
+      charge-up_61: 944434846
+      charge-up_62: -1153298588
+      charge-up_63: -1237445992
+      charge-up_64: -635016272
+      charge-up_65: -1047628923
+      charge-up_66: -1461291956
+      charge-up_67: 1841582268
+      charge-up_68: -1298591884
+      charge-up_69: 1191432137
+      charge-up_7: 758316170
+      charge-up_70: -1857770385
+      charge-up_71: 271980571
+      charge-up_72: 1344205919
+      charge-up_73: -514170759
+      charge-up_74: 2122788921
+      charge-up_75: 347216401
+      charge-up_76: -684214983
+      charge-up_77: 2070683898
+      charge-up_78: 1469608299
+      charge-up_8: -1633794802
+      charge-up_9: 1202407594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: pixel-dissolve
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: transitions/pixel-dissolve
+  displayName: Pixel dissolve
+  description: Clumps of blocks wink in, each drawn in a white outline that fills black and cools, with glints; then they wink out, outlines collapsing, the last small ones sparkling away.
+  category: transitions
+  tags:
+  - transition
+  - screen
+  - dissolve
+  - pixel
+  - blocks
+  - glint
+  - one-shot
+  frames:
+  - {fileID: 2661856043524481797, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 2661856043524481797, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 6095711, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1450849000, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -2128964063, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 512107718, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 2075454478, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1969029169, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -27008828, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 866938526, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 932011237, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 644887089, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1170928918, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1163859158, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -409295497, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 946803791, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1875402271, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1850260547, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 854183656, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1657076617, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 807877549, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1493898634, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 105501078, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1564061952, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 726231522, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1098376900, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -901554897, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1502536525, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 760326283, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -979767362, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1136017745, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -146680471, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1916579410, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1574274464, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -120424816, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 28708604, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1518007260, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1913080643, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1743281279, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 856577101, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1380373104, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1931271229, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -770657551, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1298204059, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 189705002, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1361383555, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -954626016, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -426834930, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -430503465, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1825443271, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1818343212, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1288122412, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -802870956, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 591073645, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 2122909794, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1648108957, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1793396976, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1649438917, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 2123363400, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -584677568, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -1186125957, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 96372053, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: -834712546, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 1399100504, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 2661856043524481797, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 2661856043524481797, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  - {fileID: 2661856043524481797, guid: fd5cb82db1f3a4810afd63fa6c42628d, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 320, y: 180}
+  origin: {x: 0, y: 0}
+  fullScreen: 1
+  previewFrame: 26
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

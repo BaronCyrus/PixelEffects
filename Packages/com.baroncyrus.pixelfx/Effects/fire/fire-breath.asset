@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: fire-breath
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: fire/fire-breath
+  displayName: Fire breath
+  description: 'A roaring cone of fire streaming right from the mouth: white-hot at the lips, billowing out and cooling to red and smoke at its edges, sparks thrown out ahead.'
+  category: fire
+  tags:
+  - fire
+  - breath
+  - dragon
+  - stream
+  - cone
+  - directional
+  - loop
+  frames:
+  - {fileID: 7486083125957326677, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -627308339, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 2037275592, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1747312366, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -222862715, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 870632848, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 574016561, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1114957889, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -612893818, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1843194153, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 966974603, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 1067750294, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -972929554, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 69458832, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 337775128, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -42268213, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1313255577, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 957962757, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 1641203405, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -492082700, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 736127771, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1739343554, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -685522824, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1165273213, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -823584301, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 2116711037, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1352148596, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 2018399364, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 191917897, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1385191683, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -533836400, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -294213759, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 156011127, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 926066077, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1090443752, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 1644594171, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -745948251, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 592541365, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -1075104464, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -541766052, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 777637779, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: -423372358, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 1835634332, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 1276025555, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  - {fileID: 1001945239, guid: 1657b51416a834b99896f904a152fa37, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 160, y: 116}
+  origin: {x: 12, y: 72}
+  fullScreen: 0
+  previewFrame: 37
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

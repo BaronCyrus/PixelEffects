@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: blinds
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: transitions/blinds
+  displayName: Blinds
+  description: Slats catch the light edge-on, then tilt shut top to bottom, lit rims glinting as warm light squeezes through the closing gaps with dust in it; then they tilt open and fade.
+  category: transitions
+  tags:
+  - transition
+  - screen
+  - blinds
+  - slats
+  - light
+  - wipe
+  - one-shot
+  frames:
+  - {fileID: 7062084055012043771, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1228170713, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -892943609, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -214141581, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1226804446, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1778850812, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1262437380, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1555710876, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -510866847, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 971743477, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1120831827, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 920660681, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1433989530, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1645257190, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 2074848389, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 2113224634, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 479535885, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -893494396, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -63642827, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 988050517, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1205143633, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 2117782350, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 93001806, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1441379376, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 76989554, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1128850111, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 665108100, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -306628502, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1905038687, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1663824304, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -525563320, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1167621915, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1085974912, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1534688475, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1004562668, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1122392495, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -520530341, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1781428438, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -608431843, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -863210536, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 789492048, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 1368471288, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1162466586, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 946164337, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: -1082243352, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 7062084055012043771, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  - {fileID: 7062084055012043771, guid: 4285ff7a84ecc440988565edf07a4ff0, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 320, y: 180}
+  origin: {x: 0, y: 0}
+  fullScreen: 1
+  previewFrame: 18
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

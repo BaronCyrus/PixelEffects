@@ -1,0 +1,33 @@
+{
+  "name": "com.baroncyrus.pixelfx",
+  "version": "0.1.0",
+  "displayName": "PixelFX",
+  "description": "244 pixel art effects (fire, explosions, magic, weather, UI, pickups, critters and more) as ready-to-use sprites, assets and prefabs, with a player component, a premultiplied glow shader and an editor gallery.\n\nAn unofficial Unity port of patch-gg/pixelfx (MIT). The effects are baked from pixelfx 0.3.1.",
+  "unity": "2022.3",
+  "license": "MIT",
+  "keywords": [
+    "pixel art",
+    "vfx",
+    "effects",
+    "sprites",
+    "2d",
+    "particles"
+  ],
+  "author": {
+    "name": "BaronCyrus",
+    "url": "https://github.com/BaronCyrus"
+  },
+  "documentationUrl": "https://github.com/BaronCyrus/PixelEffects#readme",
+  "changelogUrl": "https://github.com/BaronCyrus/PixelEffects/blob/main/Packages/com.baroncyrus.pixelfx/CHANGELOG.md",
+  "licensesUrl": "https://github.com/BaronCyrus/PixelEffects/blob/main/LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BaronCyrus/PixelEffects.git"
+  },
+  "dependencies": {
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0"
+  }
+}

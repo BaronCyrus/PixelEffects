@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: f52d4701fea234793ba538b565e7e454
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1641815528135205584
+    second: plasma-shot_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plasma-shot_0
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 114
+        width: 91
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6813187, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d2ba59c39d224e3be9fb06d145a30
+      internalID: -1641815528135205584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 90
+        height: 56
+      alignment: 9
+      pivot: {x: 0.67777777, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a2fd151ff92807cdf84cdec4cacf8
+      internalID: -351861132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 171
+        width: 97
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7010309, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a77918067d1ec189eedb77adbc0552f
+      internalID: 303777859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 228
+        width: 105
+        height: 56
+      alignment: 9
+      pivot: {x: 0.72380954, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18654141f5f8023f48c13bfe8bc2677f
+      internalID: 1120196974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 114
+        width: 93
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6989247, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317836f348d357f0708e0baa20d15400
+      internalID: 1365639826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 102
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7254902, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b18aed738b64efade035b6b18329bcf
+      internalID: 828986597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 285
+        width: 112
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7410714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040bf0faef0e59684000a467988c50cc
+      internalID: -608248653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 342
+        width: 118
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7542373, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a325112386a0db59b93a02cf74b679c1
+      internalID: -38577550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 128
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7734375, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb776cd486e68c81142159a6c190858
+      internalID: -383417306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 171
+        width: 99
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7070707, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8a075753001736d09d8e25ecc23ee3
+      internalID: -177569297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 106
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7358491, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52bb6123cf23c93c23d29b701b0d73d
+      internalID: 1306684688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 113
+        height: 56
+      alignment: 9
+      pivot: {x: 0.7522124, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08fa20649bf93af3e569f714445cf5
+      internalID: -1490063649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 342
+        width: 116
+        height: 56
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec4bf3b3ff76ca8215e2213d458990
+      internalID: -873838944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 86
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6627907, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114ce1cfb281cb7791102ca3d09e75d7
+      internalID: -2127667658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 57
+        width: 89
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6741573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa196d537f816ed17e6e86b34b5a9aa
+      internalID: -166668363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 114
+        width: 94
+        height: 56
+      alignment: 9
+      pivot: {x: 0.69148934, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e56bee8094e27658ede7943304aa29d
+      internalID: 1182326998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 82
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6585366, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d759c90b815b168e851e38adf7ec6
+      internalID: 1059182057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 57
+        width: 90
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6888889, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7285031fc9a3d3b2fe1c9c7aa1461f0a
+      internalID: 1062069726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 57
+        width: 89
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6741573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d4e6a5293f4c841e4446225aae949
+      internalID: -390710082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 89
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6741573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7d2348bf8f14fc3ff25cc3b3554a0
+      internalID: -1778005391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 96
+        height: 56
+      alignment: 9
+      pivot: {x: 0.6979167, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab1db49c4cb1c72c27d2e98250eb9b
+      internalID: -1252930016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 228
+        width: 104
+        height: 56
+      alignment: 9
+      pivot: {x: 0.72115386, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de21c2cbac8519a19f38a4612598579d
+      internalID: -381013804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 285
+        width: 112
+        height: 56
+      alignment: 9
+      pivot: {x: 0.75, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d71108029a6a1e7ccdd19c073161f1c
+      internalID: 2117921885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasma-shot_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 85
+        height: 56
+      alignment: 9
+      pivot: {x: 0.67058825, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969624c8f518313349fd5acd4ec96a9e
+      internalID: -1972114566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e3f8efc6f96d4e16bfa2ddb54782ac0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plasma-shot_0: -1641815528135205584
+      plasma-shot_1: -351861132
+      plasma-shot_10: 1306684688
+      plasma-shot_11: -1490063649
+      plasma-shot_12: -873838944
+      plasma-shot_13: -2127667658
+      plasma-shot_14: -166668363
+      plasma-shot_15: 1182326998
+      plasma-shot_16: 1059182057
+      plasma-shot_17: 1062069726
+      plasma-shot_18: -390710082
+      plasma-shot_19: -1778005391
+      plasma-shot_2: 303777859
+      plasma-shot_20: -1252930016
+      plasma-shot_21: -381013804
+      plasma-shot_22: 2117921885
+      plasma-shot_23: -1972114566
+      plasma-shot_3: 1120196974
+      plasma-shot_4: 1365639826
+      plasma-shot_5: 828986597
+      plasma-shot_6: -608248653
+      plasma-shot_7: -38577550
+      plasma-shot_8: -383417306
+      plasma-shot_9: -177569297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

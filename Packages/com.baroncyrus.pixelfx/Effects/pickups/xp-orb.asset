@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: xp-orb
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: pickups/xp-orb
+  displayName: XP orb
+  description: A small glowing orb races a figure-eight, a comet tail tapering behind it along its path, flecks shed from the tail winking out, its light following it over the floor.
+  category: pickups
+  tags:
+  - pickup
+  - xp
+  - orb
+  - experience
+  - energy
+  - loop
+  frames:
+  - {fileID: 342743840272838050, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1655001238, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -957731053, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -128277971, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 397993178, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 462823402, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -2012603772, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 936205713, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1576804705, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 250158248, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 464548172, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 791613233, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1174989476, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1710551102, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -964429061, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -985428237, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1625472407, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 81451020, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1125753156, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -494590476, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1803996832, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 868853493, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 386388049, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -17487714, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1642684126, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1718731744, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 832968105, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1673566250, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -617874628, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1103350731, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 495826628, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1746097471, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1402314166, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1754180947, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -959391805, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -812717026, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1181750783, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -281657958, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 361650193, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1944093719, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1651363406, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1364927991, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1550463842, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 239904083, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1646179322, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1739937244, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: 1853760564, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1792274017, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1692288682, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1794142197, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -812635971, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -537224719, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -1442894867, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  - {fileID: -709440924, guid: 48238aa213f67464aaee836ee900df4f, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 72, y: 56}
+  origin: {x: 36, y: 48}
+  fullScreen: 0
+  previewFrame: 5
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

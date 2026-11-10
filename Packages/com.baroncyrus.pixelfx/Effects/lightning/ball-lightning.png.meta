@@ -1,0 +1,2895 @@
+fileFormatVersion: 2
+guid: 4f558ef4cfe8845518c89a3a365a23e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6596595974781381869
+    second: ball-lightning_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ball-lightning_0
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 277
+        width: 87
+        height: 72
+      alignment: 9
+      pivot: {x: 0.6091954, y: 0.15277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b077bbe744fdc8296237fee6db3e28
+      internalID: -6596595974781381869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 203
+        width: 90
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5888889, y: 0.15492958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8f4cef866891e9613ff9483ffffc3
+      internalID: -2094725964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 92
+        height: 71
+      alignment: 9
+      pivot: {x: 0.57608694, y: 0.15492958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08186a3be23c13f01dc21f9bceca2f64
+      internalID: 549743415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 204
+        width: 93
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5591398, y: 0.15714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c9a9ddf0c74381d598da7ac159b9c9
+      internalID: 1275369948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 91
+        height: 68
+      alignment: 9
+      pivot: {x: 0.51648355, y: 0.16176471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de47bdd0b64b0a99fde67199b200eb5a
+      internalID: 1360136906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 66
+        width: 93
+        height: 65
+      alignment: 9
+      pivot: {x: 0.50537634, y: 0.16923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae6c2f25ffadb6ee10b55e2e3722761
+      internalID: -2059422794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 67
+        width: 95
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49473685, y: 0.171875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fb6fb419be83efd7aaf51451ea43bc
+      internalID: 360880659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 68
+        width: 96
+        height: 63
+      alignment: 9
+      pivot: {x: 0.48958334, y: 0.17460318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d98db1255c854efc682bf10d1143dbe
+      internalID: 1507153641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.21538462, y: 0.18032786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb25d214f7b089d6e8dbaa5404c5b522
+      internalID: -1710930326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 67
+        height: 61
+      alignment: 9
+      pivot: {x: 0.20895523, y: 0.18032786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85c946f0c7cd994cb426e3701d74aa4
+      internalID: -2040099933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 68
+        height: 61
+      alignment: 9
+      pivot: {x: 0.20588236, y: 0.18032786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595e8351b7615e822b4f660fe945a74d
+      internalID: -2072388594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 62
+      alignment: 9
+      pivot: {x: 0.21428572, y: 0.17741935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635591a00c26065849f60b3d898751ac
+      internalID: -1115757102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_12
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 69
+        width: 71
+        height: 62
+      alignment: 9
+      pivot: {x: 0.2112676, y: 0.17741935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a379c90965a1430733f694a3d962d1
+      internalID: 1568246086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_13
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 68
+        width: 72
+        height: 63
+      alignment: 9
+      pivot: {x: 0.20833333, y: 0.17460318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa041bdccf6a9faa40e9e470720cc0b
+      internalID: -2055613723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 73
+        height: 65
+      alignment: 9
+      pivot: {x: 0.20547946, y: 0.16923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c6c3817d844305ad1c56de5bd359d8
+      internalID: 602089131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 65
+        width: 73
+        height: 66
+      alignment: 9
+      pivot: {x: 0.20547946, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69555d82954ca8d62766ac35bf78a0
+      internalID: 1967418690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 75
+        height: 67
+      alignment: 9
+      pivot: {x: 0.21333334, y: 0.1641791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f4c13e1e7a50a87acd5563cd971d9
+      internalID: 1447884987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 133
+        width: 75
+        height: 69
+      alignment: 9
+      pivot: {x: 0.21333334, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c634dcf316900a1f6ce5a359a61646ff
+      internalID: -535787559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 203
+        width: 76
+        height: 71
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.15492958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca14622623f2aa8446c8f0805cbd2e07
+      internalID: 997510383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_19
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 276
+        width: 76
+        height: 73
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.15068494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1974956bf7bbcaad3ad6854847e79f
+      internalID: 58139576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 352
+        width: 76
+        height: 75
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.14666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e70673f708e153ebd9895dfc14430b1
+      internalID: 1023997156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 351
+        width: 76
+        height: 76
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.14473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27482bf10232c0aeeab206482e46d77
+      internalID: -290976279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 430
+        width: 76
+        height: 78
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dc4bd5e759489825cf9d62ec6b8cbb
+      internalID: 1132770541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 76
+        height: 80
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.1375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108644047079e14e6aae2d91d3c45525
+      internalID: 749023337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 512
+        width: 53
+        height: 82
+      alignment: 9
+      pivot: {x: -0.11320755, y: 0.13414635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02791e6f8bedaf50d1c57e1704930f38
+      internalID: -1943963359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 510
+        width: 53
+        height: 84
+      alignment: 9
+      pivot: {x: -0.11320755, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373582eb3e1b6acd2276b326f7e56519
+      internalID: -597749967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_26
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 599
+        width: 53
+        height: 85
+      alignment: 9
+      pivot: {x: -0.11320755, y: 0.12941177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a4eaff9b8868da3438a96acf103730
+      internalID: -2063900715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 597
+        width: 53
+        height: 87
+      alignment: 9
+      pivot: {x: -0.094339624, y: 0.12643678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a05f45da15c7608b661022bdbd9e41
+      internalID: 356484228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 596
+        width: 53
+        height: 88
+      alignment: 9
+      pivot: {x: -0.094339624, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28173ef9936d9f42220cb85d9f3bf8a
+      internalID: -1979770547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 53
+        height: 89
+      alignment: 9
+      pivot: {x: -0.0754717, y: 0.123595506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04e74bfbaeba0eeec986ce4f0892370
+      internalID: 1298890827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_30
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 687
+        width: 53
+        height: 90
+      alignment: 9
+      pivot: {x: -0.0754717, y: 0.12222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d34a812f5404e5cf9d32159809d14c
+      internalID: -818336878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 686
+        width: 53
+        height: 91
+      alignment: 9
+      pivot: {x: -0.056603774, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6020c1be74dc29495c6cc8e161496b0
+      internalID: -2055788159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_32
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 686
+        width: 53
+        height: 91
+      alignment: 9
+      pivot: {x: -0.056603774, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2aac63a91dda30f511ccc794eeccd2
+      internalID: 627972027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 686
+        width: 53
+        height: 91
+      alignment: 9
+      pivot: {x: -0.03773585, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4266200557a790be55cd1da18de8208
+      internalID: 2028866561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_34
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 783
+        width: 53
+        height: 92
+      alignment: 9
+      pivot: {x: -0.03773585, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9550c7eb2030e19a06cb97d07a43fd
+      internalID: -1266221615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 53
+        height: 92
+      alignment: 9
+      pivot: {x: -0.018867925, y: 0.11956522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6389461fe3a377263daf016f0d9f8906
+      internalID: -513074073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_36
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 686
+        width: 53
+        height: 91
+      alignment: 9
+      pivot: {x: -0.018867925, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8c71d8b59af4a88f34393591f34419
+      internalID: 1637411655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 686
+        width: 53
+        height: 91
+      alignment: 9
+      pivot: {x: 0, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec51f584304e9fc1b14f09da6ae02b5a
+      internalID: -1730354236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 686
+        width: 54
+        height: 91
+      alignment: 9
+      pivot: {x: 0.018518519, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88128e8299561c5df07caeb0cfe67950
+      internalID: -1444104842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_39
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 687
+        width: 53
+        height: 90
+      alignment: 9
+      pivot: {x: 0.018867925, y: 0.12222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7181c9fb0b32ea5fccb83a02f9b4ea4
+      internalID: 411689270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_40
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 687
+        width: 53
+        height: 90
+      alignment: 9
+      pivot: {x: 0.03773585, y: 0.12222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ae7bf4aa364283c6ccfe70058691fb
+      internalID: -179059600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 595
+        width: 53
+        height: 89
+      alignment: 9
+      pivot: {x: 0.03773585, y: 0.123595506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f15be241e017895c675a0f3e0f210
+      internalID: -1597947834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 596
+        width: 53
+        height: 88
+      alignment: 9
+      pivot: {x: 0.056603774, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616c297ae5638437fd38983dc2689b5
+      internalID: 996146794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_43
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 597
+        width: 53
+        height: 87
+      alignment: 9
+      pivot: {x: 0.056603774, y: 0.12643678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69b1f304991a865ca0a1b6ae4e9d1c2
+      internalID: 426823908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_44
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 597
+        width: 53
+        height: 87
+      alignment: 9
+      pivot: {x: 0.0754717, y: 0.12643678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8461cd05d0d08ad4844418a7caadeb45
+      internalID: 1904107449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_45
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 598
+        width: 54
+        height: 86
+      alignment: 9
+      pivot: {x: 0.09259259, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2c1ead114b755748942a6e315469e1
+      internalID: 791456647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 509
+        width: 53
+        height: 85
+      alignment: 9
+      pivot: {x: 0.094339624, y: 0.12941177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2e27ac0c201eaafb60d8b062676a12
+      internalID: 1093024161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 510
+        width: 53
+        height: 84
+      alignment: 9
+      pivot: {x: 0.11320755, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a601471051d765d97776c948e0ee6c
+      internalID: -208878218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_48
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 511
+        width: 53
+        height: 83
+      alignment: 9
+      pivot: {x: 0.11320755, y: 0.13253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c181b67e32f5850ee96e861f5797fa70
+      internalID: -811764340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_49
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 511
+        width: 53
+        height: 83
+      alignment: 9
+      pivot: {x: 0.13207547, y: 0.13253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a4356428bbc818b1bc2de0b352a290
+      internalID: 1963052595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_50
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 512
+        width: 53
+        height: 82
+      alignment: 9
+      pivot: {x: 0.1509434, y: 0.13414635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dd9a725c713a67dd7fad01cfd1ce86
+      internalID: 678880005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_51
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 513
+        width: 53
+        height: 81
+      alignment: 9
+      pivot: {x: 0.16981132, y: 0.13580246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c27e465eac9e622db533ae627daf2
+      internalID: 1693472974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_52
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 513
+        width: 53
+        height: 81
+      alignment: 9
+      pivot: {x: 0.18867925, y: 0.13580246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27e40dd1ec567ed4598d849227f793
+      internalID: 1232227766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_53
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 428
+        width: 54
+        height: 80
+      alignment: 9
+      pivot: {x: 0.2037037, y: 0.1375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6c002f5b052b3e555dea52f672f4c
+      internalID: 2089085626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 428
+        width: 54
+        height: 80
+      alignment: 9
+      pivot: {x: 0.22222222, y: 0.1375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33408ed276dc1411f7394f6801325bb4
+      internalID: -1798925805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 429
+        width: 53
+        height: 79
+      alignment: 9
+      pivot: {x: 0.24528302, y: 0.1392405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5a51a73ef7bfdaa8727d2c1f4a046
+      internalID: 2044685923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_56
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 429
+        width: 53
+        height: 79
+      alignment: 9
+      pivot: {x: 0.26415095, y: 0.1392405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411b7270eb9924cb718107db436e1ebe
+      internalID: 597698453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 429
+        width: 53
+        height: 79
+      alignment: 9
+      pivot: {x: 0.28301886, y: 0.1392405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab908fe3f98b9c666e4ed68a90e2ff8
+      internalID: 1710845106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_58
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 430
+        width: 53
+        height: 78
+      alignment: 9
+      pivot: {x: 0.3018868, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7dfbe8fce784418a7f5df4d552eac6
+      internalID: -1309058453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_59
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 430
+        width: 54
+        height: 78
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1512722d9490d90b98a46350701e8358
+      internalID: -527787666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 350
+        width: 53
+        height: 77
+      alignment: 9
+      pivot: {x: 0.35849056, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a450220a4e884b2fafd02c3b3a168f94
+      internalID: 640852647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_61
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 350
+        width: 53
+        height: 77
+      alignment: 9
+      pivot: {x: 0.3773585, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0493a8d852a2d160685ea9f29e8a7b27
+      internalID: -1452360814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 66
+        height: 77
+      alignment: 9
+      pivot: {x: 0.530303, y: 0.15584415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4c16ebfc3a62f92174068722f6170f
+      internalID: -320566148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_63
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 350
+        width: 63
+        height: 77
+      alignment: 9
+      pivot: {x: 0.53968257, y: 0.15584415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86150d78818963ef4f9fc80de619fe7f
+      internalID: 1224755706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_64
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 351
+        width: 64
+        height: 76
+      alignment: 9
+      pivot: {x: 0.546875, y: 0.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43b7867c5f8a924385073b8d5ddac84
+      internalID: 1669124941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_65
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 352
+        width: 63
+        height: 75
+      alignment: 9
+      pivot: {x: 0.53968257, y: 0.14666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2595a78607685895dcdfe872a09e7e7b
+      internalID: 466674265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 275
+        width: 59
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.14864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a5d96ad2b2039a9936b03a86bc43d
+      internalID: -885613649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_67
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 275
+        width: 61
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.14864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017ebb4d9e92776011c5d08cb551005d
+      internalID: -2131852097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_68
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 276
+        width: 63
+        height: 73
+      alignment: 9
+      pivot: {x: 0.52380955, y: 0.15068494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c4b86ca6294fd27da5015fa2f8e1b3
+      internalID: -73503817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_69
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 276
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.15068494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9182a802ff16d59a3b039a0c406505
+      internalID: 1702889101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_70
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 277
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5671642, y: 0.15277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b9a59993d5a1d824298edd85d9c948
+      internalID: -973981625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_71
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 203
+        width: 68
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.15492958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f17c5b4626cde24c6876ab5d6acd23f
+      internalID: -1326745553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_72
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 203
+        width: 72
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.15492958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf011e080ed52b5e801f84ce5688e41
+      internalID: -1210693331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_73
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 204
+        width: 76
+        height: 70
+      alignment: 9
+      pivot: {x: 0.57894737, y: 0.15714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8291c88cfe4d4efae42cefcf9edda12
+      internalID: -1994613626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_74
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 204
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5822785, y: 0.15714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c12db20c624f44663a2d238903ec3c
+      internalID: 1154658802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 133
+        width: 83
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5903614, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d60f1ad236ab22aa00c86306bcea51
+      internalID: 866002908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_76
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 133
+        width: 72
+        height: 69
+      alignment: 9
+      pivot: {x: 0.7083333, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2255953a578b58acfae0e1845057d637
+      internalID: 885144505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_77
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 133
+        width: 64
+        height: 69
+      alignment: 9
+      pivot: {x: 0.828125, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef74bb485c00798f6d4e816a4cdce3e
+      internalID: -749305677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_78
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 133
+        width: 66
+        height: 69
+      alignment: 9
+      pivot: {x: 0.8333333, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a540a53aa5d22d1a4963833696eeab79
+      internalID: 517484517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 133
+        width: 68
+        height: 69
+      alignment: 9
+      pivot: {x: 0.8382353, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bc74bcbb447d27682a17894b544831
+      internalID: -1911015909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_80
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 133
+        width: 70
+        height: 69
+      alignment: 9
+      pivot: {x: 0.8428571, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac5f28430917ef52f16ca5037cefc1
+      internalID: -247367381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 72
+        height: 69
+      alignment: 9
+      pivot: {x: 0.8472222, y: 0.1594203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefbc179afd0b56e47377680aeb658cf
+      internalID: 642638850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_82
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 132
+        width: 74
+        height: 70
+      alignment: 9
+      pivot: {x: 0.8513514, y: 0.15714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd445b96653478bdb3c4967102b2718
+      internalID: 1535632875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 75
+        height: 70
+      alignment: 9
+      pivot: {x: 0.85333335, y: 0.15714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a837c9b1fc6b47870bbf51fef2be4a7f
+      internalID: 1219866154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_84
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 203
+        width: 77
+        height: 71
+      alignment: 9
+      pivot: {x: 0.84415585, y: 0.15492958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a871f55253b6b54763b5611ff8d06d44
+      internalID: -202166186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_85
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 277
+        width: 76
+        height: 72
+      alignment: 9
+      pivot: {x: 0.8552632, y: 0.15277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e0b04338ee51223b854d6109c3b5b
+      internalID: -1600696085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 276
+        width: 77
+        height: 73
+      alignment: 9
+      pivot: {x: 0.85714287, y: 0.15068494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598adafe3c8b297b8188fd29089e6caf
+      internalID: 1040057738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_87
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 352
+        width: 72
+        height: 75
+      alignment: 9
+      pivot: {x: 0.9166667, y: 0.14666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4b9dcf7e5c029dbd15f316b8570c08
+      internalID: 1623133567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_88
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 351
+        width: 73
+        height: 76
+      alignment: 9
+      pivot: {x: 0.9041096, y: 0.14473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0585f77bd93f2644ce42c57af2ce1cde
+      internalID: -1354980306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_89
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 430
+        width: 74
+        height: 78
+      alignment: 9
+      pivot: {x: 0.9054054, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3654cb5b43e8a6b6a57efaabb203156
+      internalID: -1877533022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_90
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 429
+        width: 74
+        height: 79
+      alignment: 9
+      pivot: {x: 0.9054054, y: 0.1392405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57dcf1097e1fb5533a8857a71a5bb8b
+      internalID: 1132167405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_91
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 513
+        width: 74
+        height: 81
+      alignment: 9
+      pivot: {x: 0.9054054, y: 0.13580246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf84beab5d756d0b43fbc7d92b5af0f
+      internalID: -944693715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_92
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 511
+        width: 74
+        height: 83
+      alignment: 9
+      pivot: {x: 0.9054054, y: 0.13253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f42490396655d24cd9d50345acc1975
+      internalID: -1298055084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_93
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 599
+        width: 74
+        height: 85
+      alignment: 9
+      pivot: {x: 0.9054054, y: 0.12941177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2ed8b8466e87b5bc11168b5ae32a73
+      internalID: 245178982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_94
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 598
+        width: 47
+        height: 86
+      alignment: 9
+      pivot: {x: 1.4255319, y: 0.12790698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4672e097a70b8e0a193a6269439855aa
+      internalID: -1108836113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 596
+        width: 48
+        height: 88
+      alignment: 9
+      pivot: {x: 1.3958334, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd8d19db5ff6b61ad78e5a3a94e7129
+      internalID: -379800847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_96
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 687
+        width: 48
+        height: 90
+      alignment: 9
+      pivot: {x: 1.3958334, y: 0.12222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcd40fce928d31affec29590a4686b0
+      internalID: 279290250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_97
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 686
+        width: 48
+        height: 91
+      alignment: 9
+      pivot: {x: 1.375, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331adb55a18ada52d87450e839ca8195
+      internalID: -465977913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_98
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 782
+        width: 49
+        height: 93
+      alignment: 9
+      pivot: {x: 1.3469387, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26007c82168824d25ccd5d0610099b
+      internalID: 1730113206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_99
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 781
+        width: 50
+        height: 94
+      alignment: 9
+      pivot: {x: 1.32, y: 0.11702128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7ce6e40a53100bdffcf9b9470e8102
+      internalID: -866938866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_100
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 780
+        width: 51
+        height: 95
+      alignment: 9
+      pivot: {x: 1.2745098, y: 0.11578947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f8e95c7647f86dac2e20ad60595a40
+      internalID: -1977763732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_101
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 779
+        width: 52
+        height: 96
+      alignment: 9
+      pivot: {x: 1.25, y: 0.114583336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca6bee303c1971ee96f28f5bf9937a8
+      internalID: 1308508863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 778
+        width: 53
+        height: 97
+      alignment: 9
+      pivot: {x: 1.2075472, y: 0.11340206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00b9116d248c7efc0a59352b5034fbd
+      internalID: 797625701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_103
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 778
+        width: 53
+        height: 97
+      alignment: 9
+      pivot: {x: 1.1698114, y: 0.11340206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8417b4346e83f3496b867604cafbc88
+      internalID: -904122812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_104
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 778
+        width: 53
+        height: 97
+      alignment: 9
+      pivot: {x: 1.1320754, y: 0.11340206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af41eb1ea79d324e5ecba780ed268a
+      internalID: -1864571731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_105
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 778
+        width: 53
+        height: 97
+      alignment: 9
+      pivot: {x: 1.0943396, y: 0.11340206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671d5ed780c40ad4c7f234c92dfb9336
+      internalID: -1553331768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_106
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 778
+        width: 53
+        height: 97
+      alignment: 9
+      pivot: {x: 1.0566038, y: 0.11340206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0fe17ecb44492d551302f436ac41b3
+      internalID: 1104684868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_107
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 779
+        width: 53
+        height: 96
+      alignment: 9
+      pivot: {x: 1.018868, y: 0.114583336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b646ac407ec24cab396fd93c235864c
+      internalID: 287708101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_108
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 780
+        width: 54
+        height: 95
+      alignment: 9
+      pivot: {x: 0.962963, y: 0.11578947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a74bf2c2373d6580e955ea19e10358
+      internalID: -1905378597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_109
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 781
+        width: 56
+        height: 94
+      alignment: 9
+      pivot: {x: 0.9285714, y: 0.11702128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0645546f1e4d7ed2e63ee9ad3c12a0
+      internalID: 577648162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_110
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 782
+        width: 59
+        height: 93
+      alignment: 9
+      pivot: {x: 0.88135594, y: 0.11827957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc3fecd6925657b4d6fcfa9c17c8e31
+      internalID: 53334010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_111
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 686
+        width: 62
+        height: 91
+      alignment: 9
+      pivot: {x: 0.83870965, y: 0.12087912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcb0fda17e217fe490ecf5d0aa6ba6b
+      internalID: -2109958737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_112
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 688
+        width: 65
+        height: 89
+      alignment: 9
+      pivot: {x: 0.8, y: 0.123595506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8de9677059cd21fb3de7a14d62d95d2
+      internalID: -1091816981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_113
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 597
+        width: 67
+        height: 87
+      alignment: 9
+      pivot: {x: 0.7761194, y: 0.12643678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd6404c18718352f04107a66c69b8d
+      internalID: 147008795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_114
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 599
+        width: 70
+        height: 85
+      alignment: 9
+      pivot: {x: 0.74285716, y: 0.12941177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9c1a6af6a1d464f27fb405ca5a082f
+      internalID: -403248096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_115
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 511
+        width: 73
+        height: 83
+      alignment: 9
+      pivot: {x: 0.7123288, y: 0.13253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196483bd1d3e7e4297778c79db7a9940
+      internalID: 1475352732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_116
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 513
+        width: 77
+        height: 81
+      alignment: 9
+      pivot: {x: 0.6883117, y: 0.13580246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b78bec80c2d9c0098a0bc48660ebfb1
+      internalID: -1181871448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_117
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 430
+        width: 79
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6708861, y: 0.14102565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64555e1c25c458883377164955faf518
+      internalID: -767558074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_118
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 351
+        width: 82
+        height: 76
+      alignment: 9
+      pivot: {x: 0.64634144, y: 0.14473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cc3635f7664c917a9dfdf8204ec2e2
+      internalID: -121782346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ball-lightning_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 85
+        height: 74
+      alignment: 9
+      pivot: {x: 0.62352943, y: 0.14864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20a5e505c56e874b4dd9c8fa84112cf
+      internalID: 776787718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a8cedd78e7714094b228a8c72da77e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ball-lightning_0: -6596595974781381869
+      ball-lightning_1: -2094725964
+      ball-lightning_10: -2072388594
+      ball-lightning_100: -1977763732
+      ball-lightning_101: 1308508863
+      ball-lightning_102: 797625701
+      ball-lightning_103: -904122812
+      ball-lightning_104: -1864571731
+      ball-lightning_105: -1553331768
+      ball-lightning_106: 1104684868
+      ball-lightning_107: 287708101
+      ball-lightning_108: -1905378597
+      ball-lightning_109: 577648162
+      ball-lightning_11: -1115757102
+      ball-lightning_110: 53334010
+      ball-lightning_111: -2109958737
+      ball-lightning_112: -1091816981
+      ball-lightning_113: 147008795
+      ball-lightning_114: -403248096
+      ball-lightning_115: 1475352732
+      ball-lightning_116: -1181871448
+      ball-lightning_117: -767558074
+      ball-lightning_118: -121782346
+      ball-lightning_119: 776787718
+      ball-lightning_12: 1568246086
+      ball-lightning_13: -2055613723
+      ball-lightning_14: 602089131
+      ball-lightning_15: 1967418690
+      ball-lightning_16: 1447884987
+      ball-lightning_17: -535787559
+      ball-lightning_18: 997510383
+      ball-lightning_19: 58139576
+      ball-lightning_2: 549743415
+      ball-lightning_20: 1023997156
+      ball-lightning_21: -290976279
+      ball-lightning_22: 1132770541
+      ball-lightning_23: 749023337
+      ball-lightning_24: -1943963359
+      ball-lightning_25: -597749967
+      ball-lightning_26: -2063900715
+      ball-lightning_27: 356484228
+      ball-lightning_28: -1979770547
+      ball-lightning_29: 1298890827
+      ball-lightning_3: 1275369948
+      ball-lightning_30: -818336878
+      ball-lightning_31: -2055788159
+      ball-lightning_32: 627972027
+      ball-lightning_33: 2028866561
+      ball-lightning_34: -1266221615
+      ball-lightning_35: -513074073
+      ball-lightning_36: 1637411655
+      ball-lightning_37: -1730354236
+      ball-lightning_38: -1444104842
+      ball-lightning_39: 411689270
+      ball-lightning_4: 1360136906
+      ball-lightning_40: -179059600
+      ball-lightning_41: -1597947834
+      ball-lightning_42: 996146794
+      ball-lightning_43: 426823908
+      ball-lightning_44: 1904107449
+      ball-lightning_45: 791456647
+      ball-lightning_46: 1093024161
+      ball-lightning_47: -208878218
+      ball-lightning_48: -811764340
+      ball-lightning_49: 1963052595
+      ball-lightning_5: -2059422794
+      ball-lightning_50: 678880005
+      ball-lightning_51: 1693472974
+      ball-lightning_52: 1232227766
+      ball-lightning_53: 2089085626
+      ball-lightning_54: -1798925805
+      ball-lightning_55: 2044685923
+      ball-lightning_56: 597698453
+      ball-lightning_57: 1710845106
+      ball-lightning_58: -1309058453
+      ball-lightning_59: -527787666
+      ball-lightning_6: 360880659
+      ball-lightning_60: 640852647
+      ball-lightning_61: -1452360814
+      ball-lightning_62: -320566148
+      ball-lightning_63: 1224755706
+      ball-lightning_64: 1669124941
+      ball-lightning_65: 466674265
+      ball-lightning_66: -885613649
+      ball-lightning_67: -2131852097
+      ball-lightning_68: -73503817
+      ball-lightning_69: 1702889101
+      ball-lightning_7: 1507153641
+      ball-lightning_70: -973981625
+      ball-lightning_71: -1326745553
+      ball-lightning_72: -1210693331
+      ball-lightning_73: -1994613626
+      ball-lightning_74: 1154658802
+      ball-lightning_75: 866002908
+      ball-lightning_76: 885144505
+      ball-lightning_77: -749305677
+      ball-lightning_78: 517484517
+      ball-lightning_79: -1911015909
+      ball-lightning_8: -1710930326
+      ball-lightning_80: -247367381
+      ball-lightning_81: 642638850
+      ball-lightning_82: 1535632875
+      ball-lightning_83: 1219866154
+      ball-lightning_84: -202166186
+      ball-lightning_85: -1600696085
+      ball-lightning_86: 1040057738
+      ball-lightning_87: 1623133567
+      ball-lightning_88: -1354980306
+      ball-lightning_89: -1877533022
+      ball-lightning_9: -2040099933
+      ball-lightning_90: 1132167405
+      ball-lightning_91: -944693715
+      ball-lightning_92: -1298055084
+      ball-lightning_93: 245178982
+      ball-lightning_94: -1108836113
+      ball-lightning_95: -379800847
+      ball-lightning_96: 279290250
+      ball-lightning_97: -465977913
+      ball-lightning_98: 1730113206
+      ball-lightning_99: -866938866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

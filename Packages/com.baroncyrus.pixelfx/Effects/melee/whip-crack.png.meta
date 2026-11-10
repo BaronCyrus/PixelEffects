@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: eb1cfcdca14c04606986a3de1653bdee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9098479021814585052
+    second: whip-crack_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: whip-crack_0
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 18
+        width: 50
+        height: 21
+      alignment: 9
+      pivot: {x: -0.06, y: -0.23809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a0bb92dee1212e1f36fca0bcc407b6
+      internalID: -9098479021814585052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 17
+        width: 50
+        height: 22
+      alignment: 9
+      pivot: {x: -0.06, y: -0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d0cbd241461ab74420d4b75d9f3f89
+      internalID: 70508053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 51
+        height: 22
+      alignment: 9
+      pivot: {x: -0.09803922, y: -0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb20be2c33aa184f8d007ceafe89879a
+      internalID: 448052096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 50
+        height: 22
+      alignment: 9
+      pivot: {x: -0.22, y: -0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4142a44f7d77f6d834d0723f59e4b05b
+      internalID: 55672689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 18
+        width: 59
+        height: 21
+      alignment: 9
+      pivot: {x: -0.18644068, y: -0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b6d327ef143c1ab6175aace9b3400a
+      internalID: -1333003726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 76
+        width: 70
+        height: 22
+      alignment: 9
+      pivot: {x: -0.15714286, y: -0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a24dcc44338ca5e44358aa7d3e013b
+      internalID: -1549724305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 85
+        height: 22
+      alignment: 9
+      pivot: {x: -0.12941177, y: -0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd82229616d16bc29dc0a0db2091b40c
+      internalID: 1397588271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 116
+        height: 73
+      alignment: 9
+      pivot: {x: -0.094827585, y: 0.15068494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd41b6deb1f23465f32b06be41bc20ab
+      internalID: 405333695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 290
+        width: 114
+        height: 70
+      alignment: 9
+      pivot: {x: -0.096491225, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cc93e20a637d617290e4a9ba81ae9c
+      internalID: 1145266262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 111
+        height: 67
+      alignment: 9
+      pivot: {x: -0.0990991, y: 0.14925373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e6a487312ae43ce527185f6a902e6
+      internalID: 115650391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 110
+        height: 62
+      alignment: 9
+      pivot: {x: -0.1, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0029e477dbc573bb1f5bff579e097e28
+      internalID: 503928097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 99
+        width: 117
+        height: 58
+      alignment: 9
+      pivot: {x: -0.094017096, y: 0.12068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500b9e76e1281f552dcbaedce0b93018
+      internalID: -481991549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 121
+        height: 58
+      alignment: 9
+      pivot: {x: -0.11570248, y: 0.05172414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570363ba354e4088d2dce3540e79669
+      internalID: 2140882221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 75
+        height: 59
+      alignment: 9
+      pivot: {x: -0.88, y: 0.033898305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784cc9dfdeac67242a45c89a02f7370b
+      internalID: -453010996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: -1.0416666, y: 0.016666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470a65afe189cdce6630ccc69849e384
+      internalID: -377818803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 159
+        width: 69
+        height: 59
+      alignment: 9
+      pivot: {x: -1.2028985, y: -0.016949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb58122f77e44514f58ec61a5410b4
+      internalID: 2048400470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 72
+        height: 58
+      alignment: 9
+      pivot: {x: -1.1527778, y: -0.01724138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cba43d364666457c47f85d2f9e20cd
+      internalID: -595025829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 21
+        height: 15
+      alignment: 9
+      pivot: {x: -3.7142856, y: -1.2666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3905f66bb61f30994dcb3a2bb6e1d138
+      internalID: -1328660557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 22
+        height: 15
+      alignment: 9
+      pivot: {x: -3.5454545, y: -1.2666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a0e1e4002fd0a3b20f6783e7a1fbc
+      internalID: 572219465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 12
+        height: 15
+      alignment: 9
+      pivot: {x: -7.3333335, y: -1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abdb33586b82735e1c090a41dd31668
+      internalID: 1037853572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: -6.769231, y: -1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938cfed4d6b177c6a6c30effc523a0cb
+      internalID: 1954470982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: -7.4166665, y: -1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f2478e08033b768f09b6eaf934d3fb
+      internalID: 963041983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 22
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: -6.8461537, y: -1.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65245919fc29532627886552ee01f0a
+      internalID: -1127789060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: -7.4166665, y: -2.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e27f073750068a13e622e209dcc8d
+      internalID: -2007349037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: -8.272727, y: -2.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7634f0f881d09bc26e795b3764d0d4
+      internalID: -1453503841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: whip-crack_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0913cd63de6bedb5df48041ed8899a6f
+      internalID: 957648921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 092bfa00a478949a3bd26165180f4ba8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      whip-crack_0: -9098479021814585052
+      whip-crack_1: 70508053
+      whip-crack_10: 503928097
+      whip-crack_11: -481991549
+      whip-crack_12: 2140882221
+      whip-crack_13: -453010996
+      whip-crack_14: -377818803
+      whip-crack_15: 2048400470
+      whip-crack_16: -595025829
+      whip-crack_17: -1328660557
+      whip-crack_18: 572219465
+      whip-crack_19: 1037853572
+      whip-crack_2: 448052096
+      whip-crack_20: 1954470982
+      whip-crack_21: 963041983
+      whip-crack_22: -1127789060
+      whip-crack_23: -2007349037
+      whip-crack_24: -1453503841
+      whip-crack_25: 957648921
+      whip-crack_3: 55672689
+      whip-crack_4: -1333003726
+      whip-crack_5: -1549724305
+      whip-crack_6: 1397588271
+      whip-crack_7: 405333695
+      whip-crack_8: 1145266262
+      whip-crack_9: 115650391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

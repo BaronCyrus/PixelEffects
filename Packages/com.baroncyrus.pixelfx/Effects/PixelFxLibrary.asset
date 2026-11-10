@@ -1,0 +1,347 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc16a135400a040579b8e138ecdb20a7, type: 3}
+  m_Name: PixelFxLibrary
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxLibrary
+  source: https://github.com/patch-gg/pixelfx
+  sourceVersion: 0.3.1
+  sourceCommit: 044e12a45dc9cc312cec50ee606dfc98afe5adc2
+  pixelsPerUnit: 16
+  categories:
+  - id: moves
+    name: moves
+    blurb: whole attacks, wind-up to recovery, chained from the effects below
+    effects:
+    - {fileID: 11400000, guid: 1837ca31f73904c89b688b0655ae099c, type: 2}
+    - {fileID: 11400000, guid: b62b9ba1821a64b72891db02f84f9c7e, type: 2}
+    - {fileID: 11400000, guid: 98395b96bcd164512b8e01526585425e, type: 2}
+    - {fileID: 11400000, guid: f28f95ed40be541e4af089d39ad98046, type: 2}
+    - {fileID: 11400000, guid: 056da8fe4eb13422aaecff3f79efb192, type: 2}
+    - {fileID: 11400000, guid: 9b90f4ca7c26c4541a6e2d0080be7919, type: 2}
+    - {fileID: 11400000, guid: e879d28420b3140cba1a8bce751e4ed4, type: 2}
+    - {fileID: 11400000, guid: 05ae87b448ae94beabd31ce585f019d0, type: 2}
+    - {fileID: 11400000, guid: 36279ecd4ea9d4e88ad444b80877f37d, type: 2}
+    - {fileID: 11400000, guid: 40020b3a5654a47a5ae8cb8a90c3a0ba, type: 2}
+    - {fileID: 11400000, guid: e734d53860b564498b2b7382ccef8c97, type: 2}
+    - {fileID: 11400000, guid: c3b5c0fed163546f897e1fb3f0efcda7, type: 2}
+  - id: fire
+    name: fire
+    blurb: torches, breath, pillars, walls of flame
+    effects:
+    - {fileID: 11400000, guid: b1444e4fb57604826a097001e97bf806, type: 2}
+    - {fileID: 11400000, guid: fc6b2251b405d4d0ea882781ddd7b5a1, type: 2}
+    - {fileID: 11400000, guid: 6f1ecac61d42a418badc9ae2499de5a3, type: 2}
+    - {fileID: 11400000, guid: 5c7fd6b0a3a2443718d8ec6878ec2796, type: 2}
+    - {fileID: 11400000, guid: ffe76fade551947da9b18ee90bf79864, type: 2}
+    - {fileID: 11400000, guid: 0637b79c8fd724b178ecc8462c6ddf76, type: 2}
+    - {fileID: 11400000, guid: cddaa070dc5174e7886b80637d2bacc7, type: 2}
+    - {fileID: 11400000, guid: f664603d43b734bf69e7e6625d1c221c, type: 2}
+    - {fileID: 11400000, guid: d5060394d7d91476f8e4592487d5eff7, type: 2}
+    - {fileID: 11400000, guid: 27fb29d05d6484803bf1c15bee0b8360, type: 2}
+    - {fileID: 11400000, guid: 569baa2b146ff4a558eee4927bb5cd5f, type: 2}
+    - {fileID: 11400000, guid: ff5973a9b241a4e6d80a320b3c17a684, type: 2}
+  - id: explosions
+    name: explosions
+    blurb: blasts, smoke, fireworks, mushroom clouds
+    effects:
+    - {fileID: 11400000, guid: e24cf0cecd0d14d1eb8fe2252ea93988, type: 2}
+    - {fileID: 11400000, guid: 88134960aa2fb4fffb7ffdfc8b3923e5, type: 2}
+    - {fileID: 11400000, guid: 465e77c17048b4d5d96c12518dc6c466, type: 2}
+    - {fileID: 11400000, guid: e81fe971cd2a04b61bb5377746fade5c, type: 2}
+    - {fileID: 11400000, guid: e1501be8ce08942cea5c6940168c3a40, type: 2}
+    - {fileID: 11400000, guid: 4864581bf108744fd9ef1085746645fc, type: 2}
+    - {fileID: 11400000, guid: 53d52c978f7c84d3a8f617d04a58ac92, type: 2}
+    - {fileID: 11400000, guid: c1aae12ab5c664f1c9a4ac0faa2d6d03, type: 2}
+    - {fileID: 11400000, guid: 6c6be4697bad542888af431fcdc9a94d, type: 2}
+    - {fileID: 11400000, guid: d726ba123753f4469951134e547add53, type: 2}
+    - {fileID: 11400000, guid: e2dbf3f326ac64014975ca9976a98f7e, type: 2}
+    - {fileID: 11400000, guid: 63a53b5e9f4b24f69b1e1831eaff5c77, type: 2}
+  - id: water
+    name: water
+    blurb: splashes, falls, fountains, waves
+    effects:
+    - {fileID: 11400000, guid: 0790544051f454e5ea5f3e859673b659, type: 2}
+    - {fileID: 11400000, guid: 7c62e5900f10c4007b78db243d1ab4d3, type: 2}
+    - {fileID: 11400000, guid: 3c5a58a07b31c4e21a65d3e3cfb52218, type: 2}
+    - {fileID: 11400000, guid: 01f0dbcb6abb0471499766d699422373, type: 2}
+    - {fileID: 11400000, guid: 77aa9610ce0b44ed08b3ecd8f33f89c8, type: 2}
+    - {fileID: 11400000, guid: fa8eb5987e0834c29aa83c4325a60c67, type: 2}
+    - {fileID: 11400000, guid: 4c1d11dfc0ca4438b823aea5d1097c08, type: 2}
+    - {fileID: 11400000, guid: 776c8a04a63ba4080bb64526b849f6c7, type: 2}
+    - {fileID: 11400000, guid: fba764130a2ad495c957c13c09a78eb5, type: 2}
+    - {fileID: 11400000, guid: 93adda9c622b24a948541a9655de9677, type: 2}
+    - {fileID: 11400000, guid: 365ba94c3cccb45e799ddb0f1500ee2f, type: 2}
+    - {fileID: 11400000, guid: 007b314255aa442e4be2b757cf6c044d, type: 2}
+  - id: ice
+    name: ice
+    blurb: spikes, novas, freezing, shattering
+    effects:
+    - {fileID: 11400000, guid: 3c94da6bc60bd4f1db7f8769bd850513, type: 2}
+    - {fileID: 11400000, guid: 8bb38e4dbdc754b75bfbed470f40bd0a, type: 2}
+    - {fileID: 11400000, guid: c2c470c5e05734f4eaf4020e11b82ecf, type: 2}
+    - {fileID: 11400000, guid: af59e5d433fea44a3a77f7174139f40b, type: 2}
+    - {fileID: 11400000, guid: d8f990155c6ec474fae14a76ee359687, type: 2}
+    - {fileID: 11400000, guid: 69d50b9af16394bd5aff7a2d23a68e5f, type: 2}
+    - {fileID: 11400000, guid: b30ff0517ba4942c2a344112b3a17440, type: 2}
+    - {fileID: 11400000, guid: 95ab9bf406cb04271b39166f8c5d3d52, type: 2}
+    - {fileID: 11400000, guid: e386373ec814f4bdbb7c4b57d87c7345, type: 2}
+    - {fileID: 11400000, guid: d3c6a493da091432e97984ff25dc1832, type: 2}
+  - id: lightning
+    name: lightning
+    blurb: strikes, arcs, coils, storms
+    effects:
+    - {fileID: 11400000, guid: e7c82b32a04c144c3b29eb395e8257d8, type: 2}
+    - {fileID: 11400000, guid: d8bd983c71517419e9f8114052476df4, type: 2}
+    - {fileID: 11400000, guid: cd7503c783e8d4d37a508868f7c9e012, type: 2}
+    - {fileID: 11400000, guid: b1e2f208230824f959d651833da083de, type: 2}
+    - {fileID: 11400000, guid: 5ec4324d0cd1f46668362dfb0ee89429, type: 2}
+    - {fileID: 11400000, guid: ad780583c674e4762a91df2e866c244f, type: 2}
+    - {fileID: 11400000, guid: 4a14191f3d1d447acb4835e50eac729d, type: 2}
+    - {fileID: 11400000, guid: 9cc05e797e33148abb4e644c7ba24603, type: 2}
+    - {fileID: 11400000, guid: df7bb0beaf5f94e0e88995c98bbc7ad2, type: 2}
+    - {fileID: 11400000, guid: 891f6e0618b7e42159cd9738792a32c1, type: 2}
+    - {fileID: 11400000, guid: 332ea36a931e54e7d9c0b23dd154ca51, type: 2}
+  - id: scifi
+    name: sci-fi
+    blurb: holograms, shields, scanners, warps
+    effects:
+    - {fileID: 11400000, guid: 69c96264897c74277973634a496d614d, type: 2}
+    - {fileID: 11400000, guid: 96e942bbcd12743ee93996280ad345b2, type: 2}
+    - {fileID: 11400000, guid: 84982deba409d46278aeaa13f713408a, type: 2}
+    - {fileID: 11400000, guid: 6a4c52730dfb34041a4cb4a980bcf005, type: 2}
+    - {fileID: 11400000, guid: 8ff3b72d8a1b8447a9f416afb30b73eb, type: 2}
+    - {fileID: 11400000, guid: 73ca781972e8e421dbec2affbb6b98ce, type: 2}
+    - {fileID: 11400000, guid: 75fcedfaef66642e9a085fac2f159891, type: 2}
+    - {fileID: 11400000, guid: cec93627812be43faaa2147e610a533d, type: 2}
+    - {fileID: 11400000, guid: d5de76d1405cc4e1da5c8f9c65856b5d, type: 2}
+    - {fileID: 11400000, guid: 10f4b758765aa4070aa536d858d4253c, type: 2}
+    - {fileID: 11400000, guid: f3d47e870851047c6924ae0a71e99223, type: 2}
+    - {fileID: 11400000, guid: 387febfda1e1542ebbf9d95f36762637, type: 2}
+  - id: melee
+    name: melee
+    blurb: slashes, smears, cleaves, combos
+    effects:
+    - {fileID: 11400000, guid: af0c14667d99145cd9be8c5d05a0047a, type: 2}
+    - {fileID: 11400000, guid: eb72c3b11dadd4656be929b7049ce22d, type: 2}
+    - {fileID: 11400000, guid: fbfd7398e0a6d4237b8b3bba892e3d7b, type: 2}
+    - {fileID: 11400000, guid: e815f3152a76847f5a87c1f9be1d3ae0, type: 2}
+    - {fileID: 11400000, guid: 0f8317361372c4e7c89a516537a003fa, type: 2}
+    - {fileID: 11400000, guid: 5b76a7d415f5148a69c268aa957da89f, type: 2}
+    - {fileID: 11400000, guid: f0e00e6c8b31242ffb01a5af176d3a46, type: 2}
+    - {fileID: 11400000, guid: 46c421be0106c41c3a0451601821319b, type: 2}
+    - {fileID: 11400000, guid: a1846f84db96a4ee98a825a6a3ef08f7, type: 2}
+    - {fileID: 11400000, guid: ddebcc609b6d748cf97078166e0f2164, type: 2}
+    - {fileID: 11400000, guid: e83d9a7082b8f4a5bb4a8743ce624c58, type: 2}
+    - {fileID: 11400000, guid: 17b01e2221be341e2be31c97f89d791c, type: 2}
+  - id: impacts
+    name: impacts
+    blurb: hit sparks, shockwaves, landings
+    effects:
+    - {fileID: 11400000, guid: 09b714fcc09c6463db04a12d3b684699, type: 2}
+    - {fileID: 11400000, guid: abb30dd107b494931b1be14f0900fb65, type: 2}
+    - {fileID: 11400000, guid: 1d5d22434fa0d4df191985d1c89bbca0, type: 2}
+    - {fileID: 11400000, guid: d3267180a90b949fab506a7f0f09d782, type: 2}
+    - {fileID: 11400000, guid: aefd87a7852f4469c927674332e1276a, type: 2}
+    - {fileID: 11400000, guid: 98ffd6bd1cc304b44b8776517dcf30c0, type: 2}
+    - {fileID: 11400000, guid: 94bee93660b7d43f9b034d30489d7381, type: 2}
+    - {fileID: 11400000, guid: 0a452e993adf34c62a9e9a3ac40dc04b, type: 2}
+    - {fileID: 11400000, guid: 5dfb78779bcab4b12b5ce33f4b0c0d77, type: 2}
+    - {fileID: 11400000, guid: 6d3402d621310473e85e473a12561d6b, type: 2}
+    - {fileID: 11400000, guid: 37a04d710f5c54ecbb34645455c3f752, type: 2}
+  - id: projectiles
+    name: projectiles
+    blurb: bullets, rockets, lasers, arrows
+    effects:
+    - {fileID: 11400000, guid: eeb089853d1124b8ea0653b48edda07d, type: 2}
+    - {fileID: 11400000, guid: 694e75def562e4e9e807d1a53aea4aa0, type: 2}
+    - {fileID: 11400000, guid: c47b1e9a1e413473cb69e8ba3b7b9a23, type: 2}
+    - {fileID: 11400000, guid: 1c996311a57454534a6b23cd3bdd816a, type: 2}
+    - {fileID: 11400000, guid: b6c7d1429873c460aab52a9c72e1b63e, type: 2}
+    - {fileID: 11400000, guid: 4df4af553da4f44e5b01663088c08446, type: 2}
+    - {fileID: 11400000, guid: 8c16de1431dce4534b45a54f65826950, type: 2}
+    - {fileID: 11400000, guid: 97c47ddd06ae8432c97cbfb564f713d7, type: 2}
+    - {fileID: 11400000, guid: d14e0b1fb25494faaa13c29fb23a8cbd, type: 2}
+    - {fileID: 11400000, guid: 67246360bc9bb48eca5b96304ef1ba02, type: 2}
+    - {fileID: 11400000, guid: cbdb6281fd2b446a289511a903b9aacd, type: 2}
+    - {fileID: 11400000, guid: dd7560003b42e4850a8475880bdd4940, type: 2}
+    - {fileID: 11400000, guid: 0363f57f215694bdea85ac6524ea7918, type: 2}
+  - id: spawn
+    name: spawn & death
+    blurb: poofs, portals, souls, shatters
+    effects:
+    - {fileID: 11400000, guid: 80964c71e66c643feb559cc3416cd255, type: 2}
+    - {fileID: 11400000, guid: 6f619567e3ffe4e25ab7da22e2aab025, type: 2}
+    - {fileID: 11400000, guid: d1762ebf453ba492280128c4928fcef5, type: 2}
+    - {fileID: 11400000, guid: e8e4c23d7560b40518d470c9ce007e1e, type: 2}
+    - {fileID: 11400000, guid: eb14ecf7d4e554be3817522e8317eb37, type: 2}
+    - {fileID: 11400000, guid: 4c9f9268f51b84edd82fd01a1295b13f, type: 2}
+    - {fileID: 11400000, guid: 806147cc37cfb431aac1d1c511ab894e, type: 2}
+    - {fileID: 11400000, guid: dfc88167cfe1d4cff8901a84b20ac24e, type: 2}
+    - {fileID: 11400000, guid: d93162719d6954be1afef6c7b44dff18, type: 2}
+    - {fileID: 11400000, guid: 76137321ebe3140649402a7f54b009f5, type: 2}
+  - id: arcane
+    name: arcane
+    blurb: portals, runes, missiles, beams
+    effects:
+    - {fileID: 11400000, guid: b37fdc8661e88427880ae53c9a09daf6, type: 2}
+    - {fileID: 11400000, guid: 9899a2dec9b594d84abaa297581b4e06, type: 2}
+    - {fileID: 11400000, guid: 9c64c0a095ebe41d1a2557c286e5bfc5, type: 2}
+    - {fileID: 11400000, guid: 66d8d207ef31a4893af3f3a1040b8503, type: 2}
+    - {fileID: 11400000, guid: 27dffca20c149479b856ca7d53ab5f27, type: 2}
+    - {fileID: 11400000, guid: ef4b0110d858849b99a4dfecf038a853, type: 2}
+    - {fileID: 11400000, guid: d338eae20411b412794a941fc82e8e19, type: 2}
+    - {fileID: 11400000, guid: badcc04d8bc8b4a3082ae753ec3921c7, type: 2}
+    - {fileID: 11400000, guid: dbd4d8003fe1a4f80bb091b679ff0deb, type: 2}
+    - {fileID: 11400000, guid: 0011d24e23b3148aca5df64b3af31900, type: 2}
+    - {fileID: 11400000, guid: 75d408e2cb837448bb48f9fabd455fc6, type: 2}
+    - {fileID: 11400000, guid: e984ce1e9c4024f2aa4929d4dd45dd01, type: 2}
+  - id: holy
+    name: holy
+    blurb: heals, halos, pillars of light
+    effects:
+    - {fileID: 11400000, guid: ce77b7b11a495489992a89567e17a18e, type: 2}
+    - {fileID: 11400000, guid: 8fed22e011084409da9ca92664df9480, type: 2}
+    - {fileID: 11400000, guid: d3d9ba3a6959b4e53b34307a4713e86c, type: 2}
+    - {fileID: 11400000, guid: 9e7cf6324da36411293eca74ef66ca54, type: 2}
+    - {fileID: 11400000, guid: e5e9361408f454e6989608e9bc1edccf, type: 2}
+    - {fileID: 11400000, guid: 4300d973693664f1caa6af5e1df4ea35, type: 2}
+    - {fileID: 11400000, guid: e287116ef45094977bba11a766c59c89, type: 2}
+    - {fileID: 11400000, guid: 1c97814c1d323465cb3c369cc4fefea6, type: 2}
+    - {fileID: 11400000, guid: 40dfeabc4e15c4a8db5ab4e9020182ae, type: 2}
+    - {fileID: 11400000, guid: 6b5f2eb09c1ed4cd7a88afaf7887e2c7, type: 2}
+  - id: shadow
+    name: shadow
+    blurb: curses, voids, tendrils, souls
+    effects:
+    - {fileID: 11400000, guid: 3019adc22871546c0b6ad98e5513f1bd, type: 2}
+    - {fileID: 11400000, guid: 3d9bcfba484594e0f8208c4581472da6, type: 2}
+    - {fileID: 11400000, guid: e2a71a4b76da24d17b9b64d5ee1f215c, type: 2}
+    - {fileID: 11400000, guid: 832f666e6756a4a9785f121e4998590b, type: 2}
+    - {fileID: 11400000, guid: 6d43d9df11bc64939a5ebbd7b4139999, type: 2}
+    - {fileID: 11400000, guid: b8e115999b5b44d48acc13839dec32a7, type: 2}
+    - {fileID: 11400000, guid: 616099cc6f92d40c6ad0769269e557ab, type: 2}
+    - {fileID: 11400000, guid: 37e1dfc2747b84d57a486bc641306f4c, type: 2}
+    - {fileID: 11400000, guid: f79229ea47f7242ff8d6c67b257d3d6e, type: 2}
+    - {fileID: 11400000, guid: a5c98f7c3f09b4bb5bb91bf521138827, type: 2}
+    - {fileID: 11400000, guid: 668f70710af114345aba91b3ab58627e, type: 2}
+    - {fileID: 11400000, guid: 44c461cfab764400498a4ae1893b322b, type: 2}
+  - id: status
+    name: status
+    blurb: burning, frozen, poisoned, asleep
+    effects:
+    - {fileID: 11400000, guid: e7d2f525f181a47f0828b7ae9a56500a, type: 2}
+    - {fileID: 11400000, guid: 04acf1e3a5f004011a4d69da9a4a49d1, type: 2}
+    - {fileID: 11400000, guid: 07fbf2869516341c890a8fefe1ba486d, type: 2}
+    - {fileID: 11400000, guid: 4b37c5d50f6f34435871f88d4f4836f4, type: 2}
+    - {fileID: 11400000, guid: 99304887c1bd5462bb8de755ae7d7358, type: 2}
+    - {fileID: 11400000, guid: d62f85ad3cafe4a6fab2c546c93bfbbe, type: 2}
+    - {fileID: 11400000, guid: 69319e1927bcc44939b069b90f8933f9, type: 2}
+    - {fileID: 11400000, guid: 7f9623ecde62c4b58897a3dbe4f01220, type: 2}
+    - {fileID: 11400000, guid: c48ed82d41782498da5635fa547d86b9, type: 2}
+    - {fileID: 11400000, guid: ca1d080b2a4b949c3b87dc7eed4c4100, type: 2}
+    - {fileID: 11400000, guid: 882c267f380344e1e939992e83ffa4b3, type: 2}
+    - {fileID: 11400000, guid: 5bd3f0c2bcc2041079787115d54389a3, type: 2}
+    - {fileID: 11400000, guid: 88fb75d4058e54d8e971f781fce65c2f, type: 2}
+  - id: nature
+    name: nature
+    blurb: poison, vines, thorns, quakes
+    effects:
+    - {fileID: 11400000, guid: 6ca8f64a697c1462b9ff4f73a3719a2b, type: 2}
+    - {fileID: 11400000, guid: cd26cf569de27487aa64e9d5ba674aee, type: 2}
+    - {fileID: 11400000, guid: 6b46b36a2c9f54dbdba895a901d9d1b2, type: 2}
+    - {fileID: 11400000, guid: 4f8721024eafe48cc85e10965bf7c9ca, type: 2}
+    - {fileID: 11400000, guid: 323c72449b825468aa03bf97e360bbc9, type: 2}
+    - {fileID: 11400000, guid: 1f6500c5b88244383a7e454b60ffb0b7, type: 2}
+    - {fileID: 11400000, guid: babbdd2a475bd470a8b7cc0dc7d8aa26, type: 2}
+    - {fileID: 11400000, guid: f9342c9ea378b49229034f41e020f769, type: 2}
+    - {fileID: 11400000, guid: 7cfcc3b26574341e88f2d80dc1c30091, type: 2}
+    - {fileID: 11400000, guid: a6f58847e98604214b9fcb5d97c09221, type: 2}
+    - {fileID: 11400000, guid: e8d166cc99ee84ed6895764ed09bc783, type: 2}
+    - {fileID: 11400000, guid: c4ec10ac7d6f74ab7b18e6801ea91237, type: 2}
+    - {fileID: 11400000, guid: e6b1e5acabbf04ac393d825127264f39, type: 2}
+  - id: weather
+    name: weather
+    blurb: rain, snow, fog, aurora
+    effects:
+    - {fileID: 11400000, guid: 708794aab3aac4f74adbb6077a9b94a7, type: 2}
+    - {fileID: 11400000, guid: 72716116064084c82bcc7d4d11361ab5, type: 2}
+    - {fileID: 11400000, guid: 099109e3366014fe9b60cd1b7a34c170, type: 2}
+    - {fileID: 11400000, guid: 8cc9bf9a170054029b9509ee692cc2a5, type: 2}
+    - {fileID: 11400000, guid: ff5ff00358c80421fb66c70ecd3080d6, type: 2}
+    - {fileID: 11400000, guid: 9f516271aab7146499d4ac889e39901e, type: 2}
+    - {fileID: 11400000, guid: 1b4a5780c857145a1bf5e2f50678598d, type: 2}
+    - {fileID: 11400000, guid: 849ae2523427f4359a83f0c899959eee, type: 2}
+    - {fileID: 11400000, guid: be8871e81cd9442f7af1d35a052b582a, type: 2}
+    - {fileID: 11400000, guid: 1d2ecfdac406b4b73aa273f697e823c5, type: 2}
+    - {fileID: 11400000, guid: 8fc007807bb1f478fb546b9eb51c40a6, type: 2}
+    - {fileID: 11400000, guid: 7cb5441a88d874e979a8f7968da0ccd8, type: 2}
+  - id: ui
+    name: ui
+    blurb: level ups, numbers, toasts, countdowns
+    effects:
+    - {fileID: 11400000, guid: 26325ddac935945eb9dfc57e036000eb, type: 2}
+    - {fileID: 11400000, guid: 80ae5cb045777484dba15f589ac1d12d, type: 2}
+    - {fileID: 11400000, guid: 91f8c55ee09e247dc8f85b082a4e6e4a, type: 2}
+    - {fileID: 11400000, guid: fea9bce190b694c749b0e0e38e909c81, type: 2}
+    - {fileID: 11400000, guid: 55371c7c6da114197a610c6eb504a1bb, type: 2}
+    - {fileID: 11400000, guid: f05f1350d6b3d458092f503c0e225588, type: 2}
+    - {fileID: 11400000, guid: b3b4e87efa5404b56b1167004c6a2246, type: 2}
+    - {fileID: 11400000, guid: ceba22b9ab5ac43e3b2f0d6eae14c97a, type: 2}
+    - {fileID: 11400000, guid: c97b80eab50174cd7bd31db3002da425, type: 2}
+    - {fileID: 11400000, guid: 2f454860f4fd64200be4f3dd1775e65c, type: 2}
+    - {fileID: 11400000, guid: 60ce65c347be348a985e06a14e5b41c5, type: 2}
+    - {fileID: 11400000, guid: af792a0f9d95c486da63b2fab0be48be, type: 2}
+  - id: pickups
+    name: pickups
+    blurb: coins, gems, chests, potions
+    effects:
+    - {fileID: 11400000, guid: 117730e7cfff54af19ca085033a0706c, type: 2}
+    - {fileID: 11400000, guid: 4c27c50cbca984415bc89490bb03f9fa, type: 2}
+    - {fileID: 11400000, guid: dcd3d360bf2744d1c9b6148e39d38857, type: 2}
+    - {fileID: 11400000, guid: bdd09c07a92c142cc9d809fd2ca09f49, type: 2}
+    - {fileID: 11400000, guid: 852ce0c7a6bd945ad85eebe65abd9f3d, type: 2}
+    - {fileID: 11400000, guid: 7a3b367aaf4f74b789f24ce9006f6cb8, type: 2}
+    - {fileID: 11400000, guid: ec32aa869b2604045891f800935e434f, type: 2}
+    - {fileID: 11400000, guid: 8481a4067544841eba9299f48bb19c1a, type: 2}
+    - {fileID: 11400000, guid: 70bf99fc346fc4f93838bf4f867447c7, type: 2}
+    - {fileID: 11400000, guid: 3178dec38627e45788963af4519fb472, type: 2}
+    - {fileID: 11400000, guid: d89925cd1e52a4654964597caf63d9d2, type: 2}
+  - id: transitions
+    name: transitions
+    blurb: wipes, irises, dissolves
+    effects:
+    - {fileID: 11400000, guid: 67e0a7d275d574e18ab93dede3890888, type: 2}
+    - {fileID: 11400000, guid: f37d99fcb08e04adcab5e769e2141e6c, type: 2}
+    - {fileID: 11400000, guid: afd597c5fc0c647c9a3f360c1fcc712b, type: 2}
+    - {fileID: 11400000, guid: cfd7ff26656bd498d88f372c72e49199, type: 2}
+    - {fileID: 11400000, guid: b517cad9142ad498eb0a856dd09a3008, type: 2}
+    - {fileID: 11400000, guid: c508ebaac072d40a7b76dd59d9536ec6, type: 2}
+    - {fileID: 11400000, guid: 66d95fc9598e844db90f10857cd42e3f, type: 2}
+    - {fileID: 11400000, guid: 7cbccc6d1b760433abdee4fca2573a0a, type: 2}
+    - {fileID: 11400000, guid: 4778a5f0f1f5043e5a03b1a04fe660fa, type: 2}
+    - {fileID: 11400000, guid: 3f635e35a0a234e358a0211d11dfa7b4, type: 2}
+  - id: critters
+    name: critters
+    blurb: slimes, bats, ghosts, frogs
+    effects:
+    - {fileID: 11400000, guid: e0313d6e15c19464b8e0594c8f033d53, type: 2}
+    - {fileID: 11400000, guid: d312b32470b2845539e9fe04b9f4ac6f, type: 2}
+    - {fileID: 11400000, guid: 0691116b8df654c3ca22e1decec0696f, type: 2}
+    - {fileID: 11400000, guid: 61a99b1107773476aa474d5de59dad00, type: 2}
+    - {fileID: 11400000, guid: 896fb57a9c8e04715b3ab01913166d2d, type: 2}
+    - {fileID: 11400000, guid: 01e7c9dbcd6c9477a81dc89ef1ef0c38, type: 2}
+    - {fileID: 11400000, guid: b0e17b1270e534d67b40eaaf9d25f088, type: 2}
+    - {fileID: 11400000, guid: 6893dde0bd7ae430fa03919a5a567dca, type: 2}
+    - {fileID: 11400000, guid: 92f780b64fc384ff7aa4422502debd44, type: 2}
+    - {fileID: 11400000, guid: bf127f61431e44808bccb44a22ff3663, type: 2}
+    - {fileID: 11400000, guid: ee9ec0e8012bc4513bf33be3c9dcb4d0, type: 2}
+    - {fileID: 11400000, guid: 23e83680ff3b9479fbc9873a9cf35bed, type: 2}

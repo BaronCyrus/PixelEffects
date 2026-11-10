@@ -1,0 +1,1607 @@
+fileFormatVersion: 2
+guid: 50d589a83b8574219814197015277a2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3336007884956061163
+    second: life-steal_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: life-steal_0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 256
+        width: 54
+        height: 54
+      alignment: 9
+      pivot: {x: -1.425926, y: 0.055555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c7c8194bd329857b0979aef76fbc4a
+      internalID: 3336007884956061163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 91
+        height: 79
+      alignment: 9
+      pivot: {x: -0.61538464, y: 0.088607594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a9b031a0f31db08135b27119c6832
+      internalID: 2103047846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 553
+        width: 88
+        height: 77
+      alignment: 9
+      pivot: {x: -0.65909094, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54288d18cf1789c588f154f7005d6805
+      internalID: -1974776291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 555
+        width: 85
+        height: 75
+      alignment: 9
+      pivot: {x: -0.7058824, y: 0.093333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80de6b3f12b77f81d58ef0686b9b49f
+      internalID: 1801144881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 558
+        width: 81
+        height: 72
+      alignment: 9
+      pivot: {x: -0.7777778, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7ca95026fa6365263b00a870c24573
+      internalID: -366197616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 561
+        width: 76
+        height: 69
+      alignment: 9
+      pivot: {x: -0.8684211, y: 0.10144927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447ed362d8ea18f17edfe42c9609357d
+      internalID: -340016717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 564
+        width: 72
+        height: 66
+      alignment: 9
+      pivot: {x: -0.9444444, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b436a825d4565d713a44b15a295ce
+      internalID: 348891467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 64
+        height: 61
+      alignment: 9
+      pivot: {x: -1.125, y: 0.08196721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f896815e17c4e5062eb5f877b4940506
+      internalID: -868262525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 311
+        width: 59
+        height: 57
+      alignment: 9
+      pivot: {x: -1.2881356, y: 0.07017544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8807710c08bf9b2ac38ccb8142317c
+      internalID: 1200308725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 312
+        width: 58
+        height: 56
+      alignment: 9
+      pivot: {x: -1.3448275, y: 0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941be028eeaa81aa9c94a112ec82b0a4
+      internalID: 1194824592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: -1.2833333, y: 0.03508772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512184f682453bde3285671d7039f03d
+      internalID: 1394355209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 370
+        width: 61
+        height: 58
+      alignment: 9
+      pivot: {x: -1.2622951, y: 0.03448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae4b991ea6829ec5c1f71ded9e0a6f
+      internalID: -890755850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 62
+        height: 59
+      alignment: 9
+      pivot: {x: -1.2258065, y: 0.033898305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663558e9b7c2d579fa6cfa428043370c
+      internalID: -828183186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 429
+        width: 64
+        height: 59
+      alignment: 9
+      pivot: {x: -1.171875, y: 0.033898305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d6cfc717171e8b682ae28714df73ba
+      internalID: 868084080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 429
+        width: 66
+        height: 59
+      alignment: 9
+      pivot: {x: -1.1212121, y: 0.016949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c310a30a6d044d2e6705c173769fbfe8
+      internalID: -1469442445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_15
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 429
+        width: 68
+        height: 59
+      alignment: 9
+      pivot: {x: -1.0588236, y: 0.016949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea55299893b60a59f24180437cdf22e
+      internalID: 2122352981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 429
+        width: 70
+        height: 59
+      alignment: 9
+      pivot: {x: -1, y: 0.016949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1a406b3678df94f840e602d5e14073
+      internalID: 1613466708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 429
+        width: 75
+        height: 59
+      alignment: 9
+      pivot: {x: -0.88, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e0247c7ede426339fd1f8b338afe2
+      internalID: 1571527841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 429
+        width: 80
+        height: 59
+      alignment: 9
+      pivot: {x: -0.7625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d6f9086299cc099743968c444f6c9
+      internalID: 796440312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 87
+        height: 59
+      alignment: 9
+      pivot: {x: -0.62068963, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bf593f1c305c39578392328e3d5e5e
+      internalID: -1141256095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 491
+        width: 95
+        height: 59
+      alignment: 9
+      pivot: {x: -0.48421052, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ca4e45600352d66ce4c6fb9f806a29
+      internalID: 1168707817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 370
+        width: 105
+        height: 58
+      alignment: 9
+      pivot: {x: -0.34285715, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecde4e1bc3b5e7405487098516c649b
+      internalID: -106137165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 371
+        width: 117
+        height: 57
+      alignment: 9
+      pivot: {x: -0.20512821, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b4784854b7c8716e10757eac674ed6
+      internalID: 1530312852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 312
+        width: 130
+        height: 56
+      alignment: 9
+      pivot: {x: -0.08461539, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dade26e1fc4ddc8f2b7096a124f159fb
+      internalID: 1567817742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 255
+        width: 145
+        height: 55
+      alignment: 9
+      pivot: {x: 0.03448276, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43f96407eaef0d980dd7f420eac716
+      internalID: 559911456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 491
+        width: 163
+        height: 59
+      alignment: 9
+      pivot: {x: 0.15337424, y: 0.084745765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6800332af1c3a0c5a5526ec32d49db7
+      internalID: 1114912972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 491
+        width: 164
+        height: 59
+      alignment: 9
+      pivot: {x: 0.15853658, y: 0.084745765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe91a41cc63c9475884b5390dfbcce9
+      internalID: 1758083347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 370
+        width: 161
+        height: 58
+      alignment: 9
+      pivot: {x: 0.14906833, y: 0.0862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741588d8ea23a31b6638f99a62797fb4
+      internalID: 1185588301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 312
+        width: 161
+        height: 56
+      alignment: 9
+      pivot: {x: 0.14906833, y: 0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377bdbaec100e833f2aa47ba4b473e9a
+      internalID: 905231188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 161
+        height: 55
+      alignment: 9
+      pivot: {x: 0.1552795, y: 0.09090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a700a4e97eb2195febf23a4a5bcc9460
+      internalID: 1033158934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 202
+        width: 158
+        height: 52
+      alignment: 9
+      pivot: {x: 0.15189873, y: 0.07692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215cc506d8719a6a67a6a60bde5ded86
+      internalID: -1181326332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 202
+        width: 158
+        height: 52
+      alignment: 9
+      pivot: {x: 0.16455697, y: 0.09615385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8379023b9895c0ccf6f56820088918fe
+      internalID: -1356856886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_32
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 257
+        width: 154
+        height: 53
+      alignment: 9
+      pivot: {x: 0.16883117, y: 0.11320755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33be5a4ce5e3faa12dfb83386b04773
+      internalID: -1621469293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 149
+        height: 51
+      alignment: 9
+      pivot: {x: 0.16778524, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca5fe010bbdfe0559af371eba43e48
+      internalID: 1389365485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 145
+        height: 53
+      alignment: 9
+      pivot: {x: 0.17931035, y: 0.11320755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f86d3c7b82ad02537dc4ca01c11684
+      internalID: 1657100722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 149
+        width: 137
+        height: 51
+      alignment: 9
+      pivot: {x: 0.18248175, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d64985f45e1c6d5a1a965838aafc724
+      internalID: -674962243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 127
+        height: 49
+      alignment: 9
+      pivot: {x: 0.18897638, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f2d346cb46db7073db5aa5d327ef04
+      internalID: -1950196438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 149
+        width: 118
+        height: 51
+      alignment: 9
+      pivot: {x: 0.21186441, y: 0.09803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1986a1060e34ef1a5867d05433e05d
+      internalID: -778122288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 99
+        width: 100
+        height: 49
+      alignment: 9
+      pivot: {x: 0.24, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca1e185fd63d3d985257e0365b1f8e
+      internalID: -1562911220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_39
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 99
+        width: 85
+        height: 49
+      alignment: 9
+      pivot: {x: 0.28235295, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda7099ac2a39c9774d58a227405e005
+      internalID: -1366064169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 99
+        width: 64
+        height: 49
+      alignment: 9
+      pivot: {x: 0.375, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c7d25e1f740330a6a588d91891c7a
+      internalID: -183323997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 99
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.48, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980391e516bb672e4aea07aa8c21479a
+      internalID: 1231492840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_42
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 99
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.48, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c0688101fefec8cc23cdd01445aed
+      internalID: 1581156928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_43
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 99
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.48, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdc45247807c7704f7d7f565abccbf7
+      internalID: -525264172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.48, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393af101e5e32d800c0b56c79314d25
+      internalID: 995987637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.48, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11420e5f5d09afee6d458e984fcf67e
+      internalID: 563417922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 49
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.48, y: 0.08163265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9510ceae23ef1515af298e2a165943
+      internalID: -1209405890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_47
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 50
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1526cdd74048d59663b06a030a7e9c4
+      internalID: -408869819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_48
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 50
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b15fbdfeebcb285fbf2a916275ff4f
+      internalID: -767861626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 50
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47916666, y: 0.083333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60464a8bbccd93e50ee3a0862adb572
+      internalID: -2086855617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_50
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 50
+        width: 46
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e967f6337771667b2f120779b6e922
+      internalID: -164308577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 46
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.06122449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427fd686c785175b0c4b4735a1845f52
+      internalID: -190471758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 48
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.041666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92bfc513f037ed950cf993252c0ebdc
+      internalID: -355664386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 44
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.040816326}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583b6b8320d409b1265f0f3db2c04cef
+      internalID: 571321450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 49
+        width: 42
+        height: 49
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.020408163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3d07db709876802eb421f604292f8c
+      internalID: 1603906296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 40
+        height: 47
+      alignment: 9
+      pivot: {x: 0.475, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5b4ec6ee2de0eacad1a5740fbd01b6
+      internalID: -322341636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49
+        width: 36
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3776cd6e75386916814dbd906e678dc6
+      internalID: -352548386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_57
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 150
+        width: 30
+        height: 50
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630cbe3a11242c5f576b425aa3da3120
+      internalID: 270457124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_58
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 2.1666667, y: -2.3333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22636e6cd88795be1decd06d7405b3fe
+      internalID: 2095997845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 38
+        width: 30
+        height: 10
+      alignment: 9
+      pivot: {x: 0.46666667, y: -2.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730175fb8561b7bcf3a99a6bc43a4969
+      internalID: 132769508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 28
+        width: 19
+        height: 20
+      alignment: 9
+      pivot: {x: 0.21052632, y: -1.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f55f097054a4f3a8ca1992e8cc182a
+      internalID: -1734731780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 44
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0.375, y: -11.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dab44f4ad73d36c548cc0e746d7f82
+      internalID: 1279277012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 45
+        width: 4
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5, y: -15.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdcf53bdda730181399e495e7fa0692
+      internalID: 1726214875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: life-steal_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 47
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c30199ded006f9a83177243f0fd002
+      internalID: -189337695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5ac45f721a7994b878feba38f58eef23
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      life-steal_0: 3336007884956061163
+      life-steal_1: 2103047846
+      life-steal_10: 1394355209
+      life-steal_11: -890755850
+      life-steal_12: -828183186
+      life-steal_13: 868084080
+      life-steal_14: -1469442445
+      life-steal_15: 2122352981
+      life-steal_16: 1613466708
+      life-steal_17: 1571527841
+      life-steal_18: 796440312
+      life-steal_19: -1141256095
+      life-steal_2: -1974776291
+      life-steal_20: 1168707817
+      life-steal_21: -106137165
+      life-steal_22: 1530312852
+      life-steal_23: 1567817742
+      life-steal_24: 559911456
+      life-steal_25: 1114912972
+      life-steal_26: 1758083347
+      life-steal_27: 1185588301
+      life-steal_28: 905231188
+      life-steal_29: 1033158934
+      life-steal_3: 1801144881
+      life-steal_30: -1181326332
+      life-steal_31: -1356856886
+      life-steal_32: -1621469293
+      life-steal_33: 1389365485
+      life-steal_34: 1657100722
+      life-steal_35: -674962243
+      life-steal_36: -1950196438
+      life-steal_37: -778122288
+      life-steal_38: -1562911220
+      life-steal_39: -1366064169
+      life-steal_4: -366197616
+      life-steal_40: -183323997
+      life-steal_41: 1231492840
+      life-steal_42: 1581156928
+      life-steal_43: -525264172
+      life-steal_44: 995987637
+      life-steal_45: 563417922
+      life-steal_46: -1209405890
+      life-steal_47: -408869819
+      life-steal_48: -767861626
+      life-steal_49: -2086855617
+      life-steal_5: -340016717
+      life-steal_50: -164308577
+      life-steal_51: -190471758
+      life-steal_52: -355664386
+      life-steal_53: 571321450
+      life-steal_54: 1603906296
+      life-steal_55: -322341636
+      life-steal_56: -352548386
+      life-steal_57: 270457124
+      life-steal_58: 2095997845
+      life-steal_59: 132769508
+      life-steal_6: 348891467
+      life-steal_60: -1734731780
+      life-steal_61: 1279277012
+      life-steal_62: 1726214875
+      life-steal_63: -189337695
+      life-steal_7: -868262525
+      life-steal_8: 1200308725
+      life-steal_9: 1194824592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

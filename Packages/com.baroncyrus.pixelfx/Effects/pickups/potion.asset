@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: potion
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: pickups/potion
+  displayName: Potion
+  description: 'A round glass flask of glowing brew rocks in the air: the brew sloshes behind the rock, bubbles rise and pop, light glows through the glass, wisps curl off the cork.'
+  category: pickups
+  tags:
+  - pickup
+  - potion
+  - flask
+  - brew
+  - magic
+  - loop
+  frames:
+  - {fileID: 731806605160617493, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 704252643, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -458985976, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -2111252197, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1259376668, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 218328470, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 634267345, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1342111994, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 902687332, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1434129629, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 706053069, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1285528080, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -2140245570, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1140021447, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -796011813, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 948517217, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1311172576, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -906587431, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1912864866, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -920709621, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1271759938, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 12045113, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1727010929, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1226370600, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 316077539, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1805182533, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1898582912, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -670569673, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1255647397, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -726476052, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 115083263, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -746091734, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1115241576, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 2123253377, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 129807486, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 365880117, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1308727939, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1972867074, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -287092812, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -693500917, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -460587070, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1880749630, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -2001995628, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 389440190, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 438449775, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -787978730, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 2139824183, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -461656709, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1651509421, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1666684167, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1255292915, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1988045595, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 62348708, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 999506889, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -850986694, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1499791313, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 823628617, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -732972308, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1205822790, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -363250017, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1473861087, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 409675576, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1869769794, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -927427811, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 140119585, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1352537399, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1274307891, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: 1747145835, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -2040183751, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1184224503, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1900251633, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  - {fileID: -1032613597, guid: c92ce75391a2b42a3ac644758912b54b, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 56, y: 72}
+  origin: {x: 28, y: 64}
+  fullScreen: 0
+  previewFrame: 65
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

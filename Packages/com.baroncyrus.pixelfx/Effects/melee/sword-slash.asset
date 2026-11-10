@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: sword-slash
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/sword-slash
+  displayName: Sword slash
+  description: A tilted crescent whips round in two frames, cools from white to deep blue as it trails off, glints at the tip and throws sparks.
+  category: melee
+  tags:
+  - melee
+  - slash
+  - sword
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 9153436397326096152, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 918594086, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 1691370840, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: -20199783, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 1481100447, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 1597401243, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 812717992, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: -312333045, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: -1943578338, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 669000795, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: -748163522, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 663895588, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: -2079821640, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: -1365745320, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 567076212, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 456774735, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: -2046464471, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 1134406876, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 170532705, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 170532705, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 170532705, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 170532705, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 170532705, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  - {fileID: 170532705, guid: e4598ea4311a2452a9dc17c35b3ff055, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 136, y: 104}
+  origin: {x: 44, y: 92}
+  fullScreen: 0
+  previewFrame: 2
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.55
+  recovery: 0.11
+  onBody: 0
+  hits:
+  - time: 0.06
+    freeze: 0.14
+    shake: 0.18
+    amplitude: 2
+    push: 2.8

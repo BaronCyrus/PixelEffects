@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: arcane-beam
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: arcane/arcane-beam
+  displayName: Arcane beam
+  description: 'A beam fires right from the hand: a white core, strands twisting round it, pulses running down it, a flaring source and an end that sprays sparks.'
+  category: arcane
+  tags:
+  - arcane
+  - beam
+  - laser
+  - ray
+  - magic
+  - directional
+  - loop
+  frames:
+  - {fileID: 2830002394132203024, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 1267964767, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -269227623, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 1512264510, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -1790431951, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -92409792, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -143993648, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -1514445150, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -112784704, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -217095704, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 145264882, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 1246411371, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -171288306, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 1817400395, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 274038344, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -1644990788, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 986879044, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -797976418, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -1028637736, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 163109942, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -539044865, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 2068840705, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 654787340, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -1314384538, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 797118928, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -1802710605, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 1672556377, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 1783555715, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -322744818, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -2068675600, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 1374445629, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 48318356, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -1031418666, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: 442150283, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -34567622, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  - {fileID: -1203359285, guid: f873e984e46f64a4c877de78a183f8ab, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 264, y: 100}
+  origin: {x: 26, y: 84}
+  fullScreen: 0
+  previewFrame: 5
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.62
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.1
+    freeze: 0
+    shake: 0
+    amplitude: 0
+    push: 0.5
+  - time: 0.7
+    freeze: 0
+    shake: 0
+    amplitude: 0
+    push: 0.5

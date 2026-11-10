@@ -1,0 +1,2228 @@
+fileFormatVersion: 2
+guid: 2ce4589dd1a3345c5a700264c9f9cbb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6270605713877927988
+    second: warp-in_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warp-in_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 84
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3cd4513a2d81d82a92b70c85d2acf2
+      internalID: 6270605713877927988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ae0904b5520b056597f379ada6715
+      internalID: 2027933883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 236
+        width: 75
+        height: 144
+      alignment: 9
+      pivot: {x: 0.48, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b349cb9e245d828e5a7dc6d1fa0622
+      internalID: -4583537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_3
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 230
+        width: 98
+        height: 150
+      alignment: 9
+      pivot: {x: 0.41836736, y: 0.14666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4628f75e706d1e66d70a906b5948bf
+      internalID: -515991394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 227
+        width: 107
+        height: 153
+      alignment: 9
+      pivot: {x: 0.46728972, y: 0.1633987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d39a5363e6f2e65fc081a8dd1221541
+      internalID: -1025399140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_5
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 225
+        width: 96
+        height: 155
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.17419355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30ac3cc057e47acf20cbf67ab26767b
+      internalID: -1524259929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 224
+        width: 93
+        height: 156
+      alignment: 9
+      pivot: {x: 0.49462366, y: 0.17948718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d02cb7ae4292894db6d9901bd34786
+      internalID: -237738364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 223
+        width: 94
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18471338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e8d663da8c4b0e4a3bae72086e2c1f
+      internalID: -867514171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 223
+        width: 96
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18471338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc87fce127a899916fccd3ab5da021d9
+      internalID: 1839683098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_9
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 541
+        width: 96
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b605d14d242a6774abfab07191c265
+      internalID: 992469730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 541
+        width: 96
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8f41aa3c1edd07fdc768eb88127c9
+      internalID: 824836004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1191
+        width: 190
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23353294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2134d44dd6a80cae15adc8a2477a3fc1
+      internalID: 316027382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1191
+        width: 188
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23353294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45c5dcf129e1401edd4a2a14d6de7b3
+      internalID: -1391699844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1191
+        width: 188
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23353294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f528f4fd9508b1b5ddc05e535fd0e753
+      internalID: -1388586330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_14
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1191
+        width: 186
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23353294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d763703eb08909958d2a1e1ee4e267
+      internalID: -82709959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1191
+        width: 184
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23353294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5da17fa81623742d100eac62beab270
+      internalID: -1776761960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_16
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1192
+        width: 180
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22891566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1edb167c35d4fa71cbf9dc923b6e01d
+      internalID: 2127799100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 172
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22891566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41db9ceac83d18228938a0d38c7d468
+      internalID: -1071327160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1025
+        width: 164
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22424242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c9b2ad4b7f0d81a6e0bcb5f0db7997
+      internalID: 2083519212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1026
+        width: 166
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2195122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac2759ba9f2fbf14c4b3f2d8b6e6abf
+      internalID: -433375616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 172
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e561063d72e1e11a261cf8a71109f
+      internalID: -481299039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 541
+        width: 176
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6313912cf17ac8ff141059f7079e374
+      internalID: 615313499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 180
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18471338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab6c38a21146b0e19dbf8953f507136
+      internalID: 2071633789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_23
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 382
+        width: 182
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18471338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df32d0d6ea39d948afd416ca9642f3b6
+      internalID: 733513684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_24
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 382
+        width: 184
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18471338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5252f9fc83e0dfba7e87f8ede03d7c3f
+      internalID: -1007448204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_25
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 382
+        width: 183
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5027322, y: 0.18471338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404cd36fd8782e8d37bc7d816993e102
+      internalID: -2123707128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 541
+        width: 183
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5027322, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c634ca9146ce3c88cea44aaf9575490
+      internalID: 561296230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_27
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 541
+        width: 132
+        height: 158
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eefe46f6de1975372310a9ff4ada2b
+      internalID: 1085733625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 541
+        width: 133
+        height: 158
+      alignment: 9
+      pivot: {x: 0.45112783, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3883606c5f97e1db3ddafb6b749b973
+      internalID: 993486647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_29
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 702
+        width: 134
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4477612, y: 0.19496855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d89b0ce66bb385d54785de5428c6f
+      internalID: -241107843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_30
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 702
+        width: 107
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5233645, y: 0.19496855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444ad9ff6498f36ce9501786f62a7051
+      internalID: -1394073237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_31
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 702
+        width: 98
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19496855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4076adc9c9ebee94154ecad236eedb
+      internalID: -389269384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 701
+        width: 100
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65029f17bc9292d382ff8ffec502c0f4
+      internalID: -1648262087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 701
+        width: 102
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bba28f242a540aa7aecfbb810225bd
+      internalID: 1056677236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_34
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 862
+        width: 102
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075e04ec12a46f75ba7e4edc855b3a4
+      internalID: -555354329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 862
+        width: 104
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae6f6d29ce677d039d4696528ef93c
+      internalID: 76940285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 862
+        width: 106
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4041c9f50945df887b961d44ae14a6
+      internalID: 1471584967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_37
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1028
+        width: 106
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20987654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421f6fd7818e665ad8d7c84b49cc7fe8
+      internalID: -633382519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_38
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1028
+        width: 106
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20987654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec9cbf941f6f99e2eee3a98858472ac
+      internalID: 287351113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_39
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1028
+        width: 106
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20987654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1ec172ec25dce3a220b4ac50a356c8
+      internalID: 178724296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_40
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1028
+        width: 106
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20987654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c83f8eca0e9aea6ed7b345b64dad588
+      internalID: -1965718565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_41
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1028
+        width: 106
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20987654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a25deb9de1b939e52d8331d9a285c2
+      internalID: -1694911102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_42
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1028
+        width: 106
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20987654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166ad841de0bb016b52e8c513839cd13
+      internalID: -1134811108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 862
+        width: 104
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a222d549173d17dcf598f209b4971bf
+      internalID: 15827009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_44
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 862
+        width: 104
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f33198f94c92a3ceca0fd88c31eff7a
+      internalID: 974182377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_45
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 862
+        width: 102
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41489c3e8c0510f9f0701b1b67de68e6
+      internalID: -2005763647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 701
+        width: 102
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6e0ab736e0952e4df5dbac2fc39c65
+      internalID: -1249418882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_47
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 701
+        width: 100
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f225950c36b9b4f58c22759bbb4ed9
+      internalID: -1378969249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_48
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 702
+        width: 98
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19496855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749062607b55dc14b4e7062f5cd28b47
+      internalID: 1352700110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_49
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 540
+        width: 96
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19496855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f31c1ebb377186bc19321b8409160
+      internalID: 2262704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_50
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 541
+        width: 96
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324bdaba0a03587f8d2de43e17a0d726
+      internalID: -1838368650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_51
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 381
+        width: 94
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf4baeff7da125483853ddf02880c4
+      internalID: -2068505619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 381
+        width: 94
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f104c02201bcc1c554448b15923eb96
+      internalID: 1219931852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 381
+        width: 94
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac4b61a4d45d4f709a6c9d5bfba7e31
+      internalID: 784119488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_54
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 223
+        width: 92
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18471338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2d14cc44f831f9ae5be145df72a12
+      internalID: -2046398186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_55
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 223
+        width: 92
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18471338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c30e26c0d09043e81616f9564c89a
+      internalID: -1947854639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_56
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 223
+        width: 92
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18471338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d150b8e63c41782ce0a7430e1c91676
+      internalID: 1994033913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_57
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 381
+        width: 94
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1214ed26023a93ea79c70ccfb321a2
+      internalID: 684309166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_58
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 381
+        width: 94
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9f7a94d0faed04ef3bbb1f5119d4c
+      internalID: -390481580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_59
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 381
+        width: 94
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e805e0f4dc567b25f6881f98bb35e9
+      internalID: 2004014047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 96
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18987341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912da38afb6c0988c3bdc28711b57f29
+      internalID: -552972633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 98
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19496855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf2ddbe4a44ae47a9fec366878e8301
+      internalID: 1282473510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 540
+        width: 98
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19496855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0b503381dc49ed34b8a9a595827198
+      internalID: 1159211799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_63
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 701
+        width: 100
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360bb0b68ade28addce59ba0f70d6d4e
+      internalID: 329888041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_64
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 701
+        width: 102
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aa56f6ea7a9dfad4f67f3ce39224b2
+      internalID: -1782574122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 102
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5468612d01b58135f4db9281be263f7
+      internalID: 1032459587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_66
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 862
+        width: 104
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c6b57e403d481e938aec51fd4f6e45
+      internalID: 991707980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_67
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 862
+        width: 104
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de92162077c677e77f970daff215dde
+      internalID: 1276266092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_68
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 862
+        width: 104
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305dc102b17cd2ab4194cd917366a2
+      internalID: -1660096481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_69
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 862
+        width: 106
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20496894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f52c935dfc4ca9660f262e70a7b39e
+      internalID: 2135256862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_70
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 90
+        width: 104
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eae7797fb5bfcdefa5559435aaf6c35
+      internalID: 405280740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_71
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 89
+        width: 104
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24812031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290596b41e014a9735048e80b801f79d
+      internalID: -2012437849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_72
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 90
+        width: 102
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595bcac6525add970990ea8546f7229c
+      internalID: -1920872512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_73
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 90
+        width: 100
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23484848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec32bcdd6d347f9f64733bc913aae1fb
+      internalID: -1992606177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_74
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 243
+        width: 100
+        height: 137
+      alignment: 9
+      pivot: {x: 0.49, y: 0.2189781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d980b53086985bfcdcf01fe0c7af87e
+      internalID: -1080217306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 101
+        height: 136
+      alignment: 9
+      pivot: {x: 0.46534654, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5130bfaaaf3ceabda07886fcb03425
+      internalID: 18480649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 88
+        width: 102
+        height: 134
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.19402985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36676f69c977cb45711f120bdf829dd
+      internalID: 511726527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_77
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 92
+        width: 100
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4, y: 0.16923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5abedb6af8234f14b175870003d9e71
+      internalID: 365657804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 99
+        width: 99
+        height: 123
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.11382114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1080f1dc5e7290b769827b2e2acc7877
+      internalID: 1867401188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_79
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 111
+        width: 93
+        height: 111
+      alignment: 9
+      pivot: {x: 0.30107528, y: 0.018018018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb1e979a81c03a333ca4655b7d6a3b
+      internalID: -644931923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_80
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 115
+        width: 94
+        height: 107
+      alignment: 9
+      pivot: {x: 0.30851063, y: 0.009345794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f430ddacda9b17ab6f8a883cbfdabc0
+      internalID: -1852651844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_81
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 120
+        width: 47
+        height: 102
+      alignment: 9
+      pivot: {x: 0.63829786, y: -0.04901961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8d6a57f55dce0cc6c639f24f7a3a91
+      internalID: -238027368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_82
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 120
+        width: 47
+        height: 102
+      alignment: 9
+      pivot: {x: 0.63829786, y: -0.04901961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d08e931600825f8cf1bd9ee70cfd4
+      internalID: 537708243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_83
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 120
+        width: 33
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e3e7472b476a959cff63c7b762c418
+      internalID: -699415912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_84
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 119
+        width: 33
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5151515, y: -0.058252428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc9be3be642cd6e2e70d010bca6882d
+      internalID: -815553968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_85
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 135
+        width: 26
+        height: 87
+      alignment: 9
+      pivot: {x: 0.65384614, y: -0.26436782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f088516542ccb9de9b89a426713f8c
+      internalID: -1765112341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 26
+        height: 83
+      alignment: 9
+      pivot: {x: 0.65384614, y: -0.3253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b369649cee91afc83142e3bfa8a3b5
+      internalID: -673833935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 16
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: -0.33734939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699ce33340e2383987e8be624b824daf
+      internalID: 1832009238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_88
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 9
+        height: 82
+      alignment: 9
+      pivot: {x: 0.7777778, y: -0.35365853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5e675bfe93999ff5317e816e0b6e60
+      internalID: 40514093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_89
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 13
+        width: 9
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7777778, y: -0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ce73ad8049ab94d5f359a804b2753b
+      internalID: 2009416591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warp-in_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 83
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 0.5, y: -20.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7473670d6ac12a6bf3434b16eee923c2
+      internalID: 368925184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0fa56a63eb1044fc19bc6dbe9172903b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      warp-in_0: 6270605713877927988
+      warp-in_1: 2027933883
+      warp-in_10: 824836004
+      warp-in_11: 316027382
+      warp-in_12: -1391699844
+      warp-in_13: -1388586330
+      warp-in_14: -82709959
+      warp-in_15: -1776761960
+      warp-in_16: 2127799100
+      warp-in_17: -1071327160
+      warp-in_18: 2083519212
+      warp-in_19: -433375616
+      warp-in_2: -4583537
+      warp-in_20: -481299039
+      warp-in_21: 615313499
+      warp-in_22: 2071633789
+      warp-in_23: 733513684
+      warp-in_24: -1007448204
+      warp-in_25: -2123707128
+      warp-in_26: 561296230
+      warp-in_27: 1085733625
+      warp-in_28: 993486647
+      warp-in_29: -241107843
+      warp-in_3: -515991394
+      warp-in_30: -1394073237
+      warp-in_31: -389269384
+      warp-in_32: -1648262087
+      warp-in_33: 1056677236
+      warp-in_34: -555354329
+      warp-in_35: 76940285
+      warp-in_36: 1471584967
+      warp-in_37: -633382519
+      warp-in_38: 287351113
+      warp-in_39: 178724296
+      warp-in_4: -1025399140
+      warp-in_40: -1965718565
+      warp-in_41: -1694911102
+      warp-in_42: -1134811108
+      warp-in_43: 15827009
+      warp-in_44: 974182377
+      warp-in_45: -2005763647
+      warp-in_46: -1249418882
+      warp-in_47: -1378969249
+      warp-in_48: 1352700110
+      warp-in_49: 2262704
+      warp-in_5: -1524259929
+      warp-in_50: -1838368650
+      warp-in_51: -2068505619
+      warp-in_52: 1219931852
+      warp-in_53: 784119488
+      warp-in_54: -2046398186
+      warp-in_55: -1947854639
+      warp-in_56: 1994033913
+      warp-in_57: 684309166
+      warp-in_58: -390481580
+      warp-in_59: 2004014047
+      warp-in_6: -237738364
+      warp-in_60: -552972633
+      warp-in_61: 1282473510
+      warp-in_62: 1159211799
+      warp-in_63: 329888041
+      warp-in_64: -1782574122
+      warp-in_65: 1032459587
+      warp-in_66: 991707980
+      warp-in_67: 1276266092
+      warp-in_68: -1660096481
+      warp-in_69: 2135256862
+      warp-in_7: -867514171
+      warp-in_70: 405280740
+      warp-in_71: -2012437849
+      warp-in_72: -1920872512
+      warp-in_73: -1992606177
+      warp-in_74: -1080217306
+      warp-in_75: 18480649
+      warp-in_76: 511726527
+      warp-in_77: 365657804
+      warp-in_78: 1867401188
+      warp-in_79: -644931923
+      warp-in_8: 1839683098
+      warp-in_80: -1852651844
+      warp-in_81: -238027368
+      warp-in_82: 537708243
+      warp-in_83: -699415912
+      warp-in_84: -815553968
+      warp-in_85: -1765112341
+      warp-in_86: -673833935
+      warp-in_87: 1832009238
+      warp-in_88: 40514093
+      warp-in_89: 2009416591
+      warp-in_9: 992469730
+      warp-in_90: 368925184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

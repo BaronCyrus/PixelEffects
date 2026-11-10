@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: coin-spin
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: pickups/coin-spin
+  displayName: Coin spin
+  description: 'A thick gold coin turning on its edge: an embossed star face, a reeded rim showing as it goes edge-on, a flash sweeping the face, bobbing over its shadow.'
+  category: pickups
+  tags:
+  - pickup
+  - coin
+  - gold
+  - money
+  - loop
+  frames:
+  - {fileID: 350974371119579366, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1084098168, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1918704726, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1849776835, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1965457696, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1557692843, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -497672468, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -2010834021, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1528769832, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 348704043, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1457802858, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -2120081117, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1011361145, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 907768800, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 2142814085, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1920647962, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1285037341, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 957121889, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -542262238, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1723087066, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -50501414, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -529500430, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1339209552, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -264910812, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 197040859, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 950490225, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 331209341, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 355154469, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1168353140, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1805776108, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -477950963, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1542278187, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1448472868, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 551075967, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 694032559, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1507965899, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1198823684, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 2140356645, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1347505788, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 110071666, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -605616503, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 614141125, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1861297575, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 526474667, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -607503465, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: -1282963073, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 1502589528, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  - {fileID: 191877950, guid: 3e90a9aa0483e4eacb09985c21d5b677, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 56, y: 56}
+  origin: {x: 28, y: 48}
+  fullScreen: 0
+  previewFrame: 46
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

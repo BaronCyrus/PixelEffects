@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: portal
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: arcane/portal
+  displayName: Portal
+  description: 'An upright rift: fibrous spiral arms wind down into the dark, a lit rim wobbles, motes and streaks are pulled in, the floor glows.'
+  category: arcane
+  tags:
+  - arcane
+  - portal
+  - rift
+  - teleport
+  - magic
+  - ground
+  - loop
+  frames:
+  - {fileID: -5816642994671486895, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -724888111, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 2090309196, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 326822868, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1570749351, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -795786463, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1507795251, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1352695412, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -880162979, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -2037483461, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1943582443, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 823803402, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1084320649, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1826101211, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 54090810, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 718039889, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1954744, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 981660528, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 897699597, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1075355710, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1533461954, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1037265837, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 505249072, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 335713451, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1243781420, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1366757080, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1771484205, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 827668448, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -965099971, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 388899511, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 2106929947, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 803565275, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -502524647, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1685006071, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1273110350, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -846805955, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1186387906, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 212785287, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1052139779, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1895727295, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1857971469, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 340022662, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1177507514, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -990257427, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -720755415, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 569993819, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 218438653, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1777253810, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1644861161, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 838116714, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1256247996, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 980065518, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1903175544, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -2000060282, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 574491848, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1325144211, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -60881419, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -930458104, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 580878183, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1394323421, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1454866091, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 647273234, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -2117477223, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -2017113799, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 631092570, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 785250049, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 1939215600, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1595018470, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 670028709, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: 2137694678, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -950735298, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  - {fileID: -1046991611, guid: 20b85ae8c21bb43e2931547e765f9901, type: 3}
+  frameRate: 30
+  loop: 1
+  size: {x: 152, y: 116}
+  origin: {x: 76, y: 106}
+  fullScreen: 0
+  previewFrame: 44
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

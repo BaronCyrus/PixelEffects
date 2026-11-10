@@ -1,0 +1,2021 @@
+fileFormatVersion: 2
+guid: 60e1d48b0abcf4832b7e1e8ec3b39c78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 746069171122562881
+    second: coin-drop_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coin-drop_0
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 473
+        width: 82
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a5aff85f4724b06ef4b7ec1496f1bf
+      internalID: 746069171122562881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 475
+        width: 78
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.140625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d003e42dcdc5568bbec39419aba0349
+      internalID: 980880043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 405
+        width: 74
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb760a8e4c5605c48504b7d96e945ab3
+      internalID: -1214155363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 407
+        width: 70
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373737ca08cf5301574cecd2faa7bc7
+      internalID: -812016569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 409
+        width: 66
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15517241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86562f71f3c5b6f2d94671ed14021c55
+      internalID: -285830049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 62
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64c7ad8b6b7d3da1d663e8d2b5403f
+      internalID: 35038926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 348
+        width: 58
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476f36e5816e9dbe114a73c11cfb41e2
+      internalID: -973432712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 409
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12068965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f21c93228315996dd1919aa6f7c9e
+      internalID: -482029858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 406
+        width: 48
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09836066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d515530019c29a00cc526d641d363b6
+      internalID: 1970203220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 47
+        height: 64
+      alignment: 9
+      pivot: {x: 0.42553192, y: 0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fbfc401eeb80d734ef05aad9addcd2
+      internalID: 1308920868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 472
+        width: 53
+        height: 67
+      alignment: 9
+      pivot: {x: 0.43396226, y: 0.104477614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29140f96b8f932c69602d2ca820ce44
+      internalID: 1978219153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 469
+        width: 57
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4385965, y: 0.114285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7593a1e5267087680842c84d3ac60dab
+      internalID: -1087392942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 469
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.43548387, y: 0.114285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412bc7ead760a2aed431af412973b8d7
+      internalID: -1827526822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 68
+        height: 71
+      alignment: 9
+      pivot: {x: 0.44117647, y: 0.12676056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65674bdecc93374615d1456202092d52
+      internalID: 2115502175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 470
+        width: 72
+        height: 69
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783462350ab44aba499be6f37121edc
+      internalID: -1850834972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_15
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 410
+        width: 77
+        height: 57
+      alignment: 9
+      pivot: {x: 0.44155845, y: -0.01754386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd4e308ba984681600e138228c12467
+      internalID: -1312448764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 348
+        width: 81
+        height: 54
+      alignment: 9
+      pivot: {x: 0.44444445, y: -0.018518519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2776038d466f075c99acac8bc5de5d04
+      internalID: -1926644769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 351
+        width: 86
+        height: 51
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2b55974b800f32fcb722851dddb2f5
+      internalID: 1510761275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 349
+        width: 94
+        height: 53
+      alignment: 9
+      pivot: {x: 0.43617022, y: 0.13207547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b81b038d189c49292c51e566ab00ef
+      internalID: 251658323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 356
+        width: 95
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4526316, y: 0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2b5740a9e219ddbaf70cc275ecfbe8
+      internalID: 673908279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 98
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45918366, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b20549d3b50eff4548b0e5b6923d6d
+      internalID: 819992850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 308
+        width: 105
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.18421052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d246a41ea806fe361e4dc1820f6c7
+      internalID: -1231145609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 309
+        width: 105
+        height: 37
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.16216215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a82aaab22493057113cfe41b67f332
+      internalID: -1276939014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 309
+        width: 108
+        height: 37
+      alignment: 9
+      pivot: {x: 0.46296296, y: 0.1891892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66c8aa8d9e833c1e1ecad5bda7a16e4
+      internalID: 1970271989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 111
+        height: 35
+      alignment: 9
+      pivot: {x: 0.45945945, y: 0.17142858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83da98dd346309e58125b2ed44e1d2
+      internalID: -2007621646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 113
+        height: 22
+      alignment: 9
+      pivot: {x: 0.460177, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ccfde97904b40b4a6216a037d72ae9
+      internalID: -1574462231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 218
+        width: 118
+        height: 24
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3d024801d7e54c57a8476761cd380b
+      internalID: 759915629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 118
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4661017, y: 0.20833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758cdf2db478d71e438aa64aad12da14
+      internalID: -583753250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_28
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 244
+        width: 117
+        height: 26
+      alignment: 9
+      pivot: {x: 0.47863248, y: 0.26923078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7857de4cc185ab71802131c0a08d68bd
+      internalID: -1997463683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 118
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67c5c68e2972337f83c97cdc9950bcd
+      internalID: -1813134979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_30
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 218
+        width: 122
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb51e11bb153a213194bd69080afdfe
+      internalID: -850142914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 124
+        width: 121
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d797780c8e0f1f557fb9f2e4c8586d
+      internalID: 1110751740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 104
+        width: 121
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99349a944ddd52eca23af5a5a87464a1
+      internalID: -2105853311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 122
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33af32adc3de3d7d05a5e3c5cd8f0399
+      internalID: 90466223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 125
+        width: 125
+        height: 19
+      alignment: 9
+      pivot: {x: 0.52, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b913674255d6463a2852cd668db876a7
+      internalID: -1834997288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_35
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 49
+        width: 124
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5080645, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b780676195d758703dc2720cc639429
+      internalID: -1165249528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 125
+        height: 19
+      alignment: 9
+      pivot: {x: 0.496, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c2e47a2a106261ab9be9bf355ab2b7
+      internalID: -1317154729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 146
+        width: 124
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4919355, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c4dbf37fa88c9b55134e58b87d575c
+      internalID: 400713414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_38
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 85
+        width: 122
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c844024a86470158ec5e7b591fbbf9b9
+      internalID: 627778003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 49
+        width: 121
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a59eefe6d4f3aa491f3f62af6d773
+      internalID: 1582256683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 121
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f104fe563015e905f50cdc2cad601c
+      internalID: -1188352741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 66
+        width: 121
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f824318e5f4188f9aaeb23988a3b11
+      internalID: 530433554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 31
+        width: 121
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983b327ee44a8245091cd74048453c54
+      internalID: 607670567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 66
+        width: 121
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d66fe5ada4e2c90ed65a8bf0517fc4
+      internalID: 645339536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_44
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 66
+        width: 121
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1719363c8c48e82b346e7f89dcdc594d
+      internalID: 678500551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 121
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e5ef402b9c06b137fb38fceb1bb92e
+      internalID: 1849825206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 16
+        width: 121
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5363751a5df350ef5950dde72328e470
+      internalID: -803255105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 31
+        width: 121
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167bb68cc0b8c2acec8b49e5fe132aa4
+      internalID: -1688826584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 85
+        width: 123
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fc8c4686d1832080b384a7eef0199f
+      internalID: -190409546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 105
+        width: 125
+        height: 18
+      alignment: 9
+      pivot: {x: 0.52, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76f1142d293516bce2eae3ad62bf21f
+      internalID: 284953952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_50
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 105
+        width: 125
+        height: 18
+      alignment: 9
+      pivot: {x: 0.52, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28483f2cbbfe7c26806232f54a625ea4
+      internalID: -788455739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_51
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 47
+        width: 121
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733b1c5eb6b9b7dedb39693e60e52dbc
+      internalID: 191517183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 121
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3223b984a4893712743f85c77f44c7ec
+      internalID: 571529569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_53
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 121
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf396ff9dd606b3b298ecd950276710
+      internalID: 675965000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 16
+        width: 121
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5041322, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f76ff4eec0f023259de5f6b9a9228
+      internalID: -1435355296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 31
+        width: 122
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8b78325d3f85e700e0d63f12b0d0ee
+      internalID: -1604361068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 124
+        height: 18
+      alignment: 9
+      pivot: {x: 0.4919355, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75450af1cbe53b312b15c378d6ec22e7
+      internalID: -140351640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_57
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 193
+        width: 130
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5153846, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8665032bcab3dcef21e3b03c0390d13e
+      internalID: -1948403714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 147
+        width: 126
+        height: 20
+      alignment: 9
+      pivot: {x: 0.515873, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad422223a6370e0a2b83476091aca5
+      internalID: -556476997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_59
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 85
+        width: 124
+        height: 18
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce24e214685ca2fc820ba24fb1a0caa5
+      internalID: -2055214775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 193
+        width: 122
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ae68ef713bcf75500bc4956f4fb19
+      internalID: -1446714598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_61
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 124
+        width: 119
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49579832, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bec7d369706a9b3584b93a7c4f117a
+      internalID: 1749505360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_62
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 193
+        width: 119
+        height: 23
+      alignment: 9
+      pivot: {x: 0.49579832, y: 0.3478261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e8606370a6c7d992a08f7be760c58f
+      internalID: -1504430983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 169
+        width: 119
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49579832, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f5270dd498b9b697f9f9ce0699b25
+      internalID: 883882965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_64
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 169
+        width: 119
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49579832, y: 0.27272728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c1cab9d81ff021824b95974cc3793f
+      internalID: 1421394231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_65
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 244
+        width: 119
+        height: 26
+      alignment: 9
+      pivot: {x: 0.49579832, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60198c4939d40786d9d1ee4ee44403ce
+      internalID: -1216894054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 279
+        width: 118
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.2962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1889a30642ec3c8dfc70bad62afd3107
+      internalID: -490681808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_67
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 279
+        width: 118
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.25925925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716a0fd05bfa7f4c30c79a65e1716383
+      internalID: 334479711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_68
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 217
+        width: 118
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eac69f51991790a0c77896a6c774ea
+      internalID: 26411844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 118
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4915254, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d553322fd6c33d48ce3f7cf2c5f7b
+      internalID: -134339680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 279
+        width: 126
+        height: 27
+      alignment: 9
+      pivot: {x: 0.46825397, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b32a8cd186b5228d3909c36834473d
+      internalID: -1907276387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_71
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 244
+        width: 123
+        height: 26
+      alignment: 9
+      pivot: {x: 0.46341464, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b518b4aaa4f4f40121c1131906a31
+      internalID: 51952696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 105
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3809524, y: 0.3043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdabdc2d66131924ed0544a44576a4d8
+      internalID: -714365845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 168
+        width: 104
+        height: 23
+      alignment: 9
+      pivot: {x: 0.39423078, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0609769f7a9587b2646a874ce6c1ce
+      internalID: 1759731798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_74
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 146
+        width: 102
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4019608, y: 0.1904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a5280a365e60f2d7f9cb0e1b93e595
+      internalID: 1451604435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 80
+        height: 16
+      alignment: 9
+      pivot: {x: 0.2625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9925bfabd6e5babd281230defdb15d
+      internalID: -1804387198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_76
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 15
+        width: 74
+        height: 14
+      alignment: 9
+      pivot: {x: 0.2027027, y: -0.071428575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d841c88caaca834962e5caa91e66bc
+      internalID: 438954622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 13
+      alignment: 9
+      pivot: {x: 0.2, y: -0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae45536e932c7d2f099c063ba9a48547
+      internalID: 299118553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_78
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 45
+        height: 13
+      alignment: 9
+      pivot: {x: -0.2, y: -0.23076923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dca1d0b8317c5f7a1c916bc0cb9897e
+      internalID: -296625271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_79
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: -3.1538463, y: -0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b88f8f1d54f2072d8e2b7c1f046ccd
+      internalID: -171335046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_80
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: -3.4166667, y: -0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce3cddd10a6fb8cb9976a981d1b501d
+      internalID: -1099003863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin-drop_81
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: -3.0769231, y: -0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec467b086fd724f227537d4b21307b58
+      internalID: 1376784216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 71b592e0cf96c49f9a94bc075d14d2cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      coin-drop_0: 746069171122562881
+      coin-drop_1: 980880043
+      coin-drop_10: 1978219153
+      coin-drop_11: -1087392942
+      coin-drop_12: -1827526822
+      coin-drop_13: 2115502175
+      coin-drop_14: -1850834972
+      coin-drop_15: -1312448764
+      coin-drop_16: -1926644769
+      coin-drop_17: 1510761275
+      coin-drop_18: 251658323
+      coin-drop_19: 673908279
+      coin-drop_2: -1214155363
+      coin-drop_20: 819992850
+      coin-drop_21: -1231145609
+      coin-drop_22: -1276939014
+      coin-drop_23: 1970271989
+      coin-drop_24: -2007621646
+      coin-drop_25: -1574462231
+      coin-drop_26: 759915629
+      coin-drop_27: -583753250
+      coin-drop_28: -1997463683
+      coin-drop_29: -1813134979
+      coin-drop_3: -812016569
+      coin-drop_30: -850142914
+      coin-drop_31: 1110751740
+      coin-drop_32: -2105853311
+      coin-drop_33: 90466223
+      coin-drop_34: -1834997288
+      coin-drop_35: -1165249528
+      coin-drop_36: -1317154729
+      coin-drop_37: 400713414
+      coin-drop_38: 627778003
+      coin-drop_39: 1582256683
+      coin-drop_4: -285830049
+      coin-drop_40: -1188352741
+      coin-drop_41: 530433554
+      coin-drop_42: 607670567
+      coin-drop_43: 645339536
+      coin-drop_44: 678500551
+      coin-drop_45: 1849825206
+      coin-drop_46: -803255105
+      coin-drop_47: -1688826584
+      coin-drop_48: -190409546
+      coin-drop_49: 284953952
+      coin-drop_5: 35038926
+      coin-drop_50: -788455739
+      coin-drop_51: 191517183
+      coin-drop_52: 571529569
+      coin-drop_53: 675965000
+      coin-drop_54: -1435355296
+      coin-drop_55: -1604361068
+      coin-drop_56: -140351640
+      coin-drop_57: -1948403714
+      coin-drop_58: -556476997
+      coin-drop_59: -2055214775
+      coin-drop_6: -973432712
+      coin-drop_60: -1446714598
+      coin-drop_61: 1749505360
+      coin-drop_62: -1504430983
+      coin-drop_63: 883882965
+      coin-drop_64: 1421394231
+      coin-drop_65: -1216894054
+      coin-drop_66: -490681808
+      coin-drop_67: 334479711
+      coin-drop_68: 26411844
+      coin-drop_69: -134339680
+      coin-drop_7: -482029858
+      coin-drop_70: -1907276387
+      coin-drop_71: 51952696
+      coin-drop_72: -714365845
+      coin-drop_73: 1759731798
+      coin-drop_74: 1451604435
+      coin-drop_75: -1804387198
+      coin-drop_76: 438954622
+      coin-drop_77: 299118553
+      coin-drop_78: -296625271
+      coin-drop_79: -171335046
+      coin-drop_8: 1970203220
+      coin-drop_80: -1099003863
+      coin-drop_81: 1376784216
+      coin-drop_9: 1308920868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1791 @@
+fileFormatVersion: 2
+guid: cf35916827888420eaadef14808103bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7658232179146422909
+    second: star-fall_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: star-fall_0
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d454b6dcdbdfbaa332b054307f77c170
+      internalID: 7658232179146422909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bb60099c2516f9295788ba5c57ec1b
+      internalID: 1543645813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 350
+        width: 122
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1294964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85444e77b01f661c45c57dec7b99bf0e
+      internalID: 1792984592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_3
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 213
+        width: 128
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13970588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c864ffd4ee68af54e61b54ae09a050d4
+      internalID: 339640900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_4
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 214
+        width: 132
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a0ebae63a91ef19b29e5939c21b2d9
+      internalID: -1566328389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 212
+        width: 134
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1459854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf957e7a69651ca5a3c4c98e500ffa5
+      internalID: 1899493174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_6
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 213
+        width: 134
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a2ab0c41bfca5ced7667901edd5198
+      internalID: 177607856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 213
+        width: 136
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14705883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc262e1708ae7b0528232f0bbe8d4505
+      internalID: -1462076355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 212
+        width: 138
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15328467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a45ba0d80b35192951d51cd591068e
+      internalID: 2043741936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 212
+        width: 138
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15328467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d42a40526cdc77fb3b3620b4ed411af
+      internalID: 393217241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 350
+        width: 138
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15107913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b4aadef2b9a031f71e68ebeb016776
+      internalID: 638290937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_11
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 787
+        width: 168
+        height: 145
+      alignment: 9
+      pivot: {x: 0.58928573, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec39076c94421c9dfe89740a93b2a85d
+      internalID: -1320620395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 494
+        width: 166
+        height: 140
+      alignment: 9
+      pivot: {x: 0.58433735, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b8ca074ebeb83d2ea2a0dca6a280a
+      internalID: -1065432313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 351
+        width: 164
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5792683, y: 0.1521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38dce5229d4cb9168a845b904c2905a
+      internalID: -1515328064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1086
+        width: 161
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.13375796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7809e9425ecb41a08ff052dbbf7087b
+      internalID: -651092133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1090
+        width: 158
+        height: 153
+      alignment: 9
+      pivot: {x: 0.56329113, y: 0.13725491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc9e91d191417308482d5d88b62123
+      internalID: 820451627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 781
+        width: 154
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5519481, y: 0.13907285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f026e93b2388ed1facc847a7a938c4
+      internalID: -1306433777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_17
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 933
+        width: 151
+        height: 152
+      alignment: 9
+      pivot: {x: 0.54304636, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01913f9a4e9cf8c76e1145693cb68a71
+      internalID: 1932266649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_18
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1091
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5125, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa3f805f160308dd19eabced04119be
+      internalID: -761378265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 933
+        width: 158
+        height: 152
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8904cec81debc7c402322f2b9b4727d
+      internalID: -1956323388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 933
+        width: 156
+        height: 152
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ab85d7063f02d5b197ea9f0e6616f
+      internalID: -1527719814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 781
+        width: 154
+        height: 151
+      alignment: 9
+      pivot: {x: 0.53246754, y: 0.13907285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33bd0267e9e769ca2b4a308d2a9a7b8
+      internalID: -669946414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 786
+        width: 151
+        height: 146
+      alignment: 9
+      pivot: {x: 0.54304636, y: 0.14383562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4ef802eb266b76d09ccc5d1ba3a81b
+      internalID: -1962128614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 786
+        width: 150
+        height: 146
+      alignment: 9
+      pivot: {x: 0.54, y: 0.14383562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae65a3f7f9e4123cbcca6970c2581ae
+      internalID: -1188929646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_24
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 786
+        width: 150
+        height: 146
+      alignment: 9
+      pivot: {x: 0.54, y: 0.14383562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d55028538a839b3ac01cfbd4c2bfc
+      internalID: -1331441138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 933
+        width: 150
+        height: 152
+      alignment: 9
+      pivot: {x: 0.54, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef4aadbac89ebb31c60fdf55362a316
+      internalID: 955355118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_26
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 933
+        width: 150
+        height: 152
+      alignment: 9
+      pivot: {x: 0.54, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d19149eedf2dcb3fd829493aa39f8
+      internalID: 429093714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_27
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 933
+        width: 150
+        height: 152
+      alignment: 9
+      pivot: {x: 0.54, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56df350575eab6d2880005236d7487ae
+      internalID: -806015320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_28
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1091
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec51c71b5333e2553cd0bcc50797ee33
+      internalID: 1364969380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_29
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1091
+        width: 159
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5534591, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc7019f907a7544adc738e587629b35
+      internalID: -1352105461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_30
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 933
+        width: 155
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5548387, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9501bbc80217252ce91965e37f077b1
+      internalID: 339490017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_31
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1091
+        width: 160
+        height: 152
+      alignment: 9
+      pivot: {x: 0.51875, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d624bf180fb26ee5e79b8bc0ef4689f
+      internalID: 901752510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 636
+        width: 157
+        height: 144
+      alignment: 9
+      pivot: {x: 0.522293, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6963e607b2207d3741c857988e7ebc
+      internalID: 577355024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_33
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 636
+        width: 154
+        height: 144
+      alignment: 9
+      pivot: {x: 0.53246754, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e97f3b77f7e33e3fafe0ce83ea4957b
+      internalID: -2068469452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1090
+        width: 151
+        height: 153
+      alignment: 9
+      pivot: {x: 0.53642386, y: 0.13725491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05832e9486ef4feee968992adac4105
+      internalID: 247369249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_35
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 786
+        width: 149
+        height: 146
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14383562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb6dfdceecb6be3251bf1830a5a57f9
+      internalID: 1391088885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_36
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 636
+        width: 149
+        height: 144
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4d7eb1276ae7008484bea75ce071e
+      internalID: -1635725676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 149
+        height: 145
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d9dbd07f3758bd69d1d09a15ed6aa4
+      internalID: -1858244854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 635
+        width: 149
+        height: 145
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41635c02252947a9238689fa99b33b
+      internalID: -1228920816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 635
+        width: 149
+        height: 145
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc07e0be360d144aa01fe7c7f7bfe16
+      internalID: 1975023113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_40
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 635
+        width: 149
+        height: 145
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d38bc47356135c8b225963c88170baa
+      internalID: -1964273220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 149
+        height: 144
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd5b6dfaba53c5ea5a0884c76c96f9d
+      internalID: 1195637707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 490
+        width: 149
+        height: 144
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6725dfbb6e3b63f7e5f0d4c132ec327
+      internalID: 1925159302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 490
+        width: 149
+        height: 144
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f884edaf1caacd54c14dc044d40b1efc
+      internalID: 1197089539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 490
+        width: 149
+        height: 144
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0421a5e90dc207392c4faf1fea6f782
+      internalID: -746688358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_45
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 494
+        width: 149
+        height: 140
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac650db781323799f39c8c3a7a8884
+      internalID: 1465294569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_46
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 494
+        width: 149
+        height: 140
+      alignment: 9
+      pivot: {x: 0.53691274, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13f451eae0b076392b6e1a233b9374b
+      internalID: -1094057995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_47
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 351
+        width: 147
+        height: 138
+      alignment: 9
+      pivot: {x: 0.53061223, y: 0.1521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1bfa8f27fc17edd985d063720b8015
+      internalID: -1941093069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_48
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 350
+        width: 138
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15107913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3e0b8f8ec6d056c72433ee1cd93e4e
+      internalID: 757491400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 139
+        height: 139
+      alignment: 9
+      pivot: {x: 0.50359714, y: 0.15107913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e697cddce9ef41d08f4e67990a25507f
+      internalID: 389331696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_50
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 350
+        width: 138
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15107913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61265605df56064da94487e4203dc153
+      internalID: -1194650757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 351
+        width: 138
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88c2d284609063d5a3ed974a8988d83
+      internalID: 1650739276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 138
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d72a5d54a7695c18d0b9bb92855b77
+      internalID: 563205220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 138
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3aced31c0a12a679f3ef16c82b3688
+      internalID: -1713048060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_54
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 91
+        width: 136
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd090c2913c785312bb5a0705b5200c
+      internalID: 878716693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_55
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 136
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16949153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b628edf6ac75cdc281847ee672af1fd6
+      internalID: -1904506238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_56
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 93
+        width: 136
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17094018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6267d70ebd27f27d61695b77f2f831fc
+      internalID: 2069059924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_57
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 129
+        width: 136
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24691358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a85125f7b9eab84e11ebfd6c46e64b
+      internalID: 1301353499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_58
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 129
+        width: 134
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24691358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d55c1d80562d09d1706fbd7f1dbfa7
+      internalID: -1647427055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_59
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 130
+        width: 134
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef58ab174b7fd436e35559049d55560f
+      internalID: -362226211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_60
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 158
+        width: 134
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d61f3029acfb1d7e8b9c8b5de6d159
+      internalID: 1567818063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 132
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39215687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a65645925b61874e6fc77c446f8c986
+      internalID: -57961451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_62
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 39
+        width: 132
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39215687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4667c82cf7b0e809fe31b9aaadae5af
+      internalID: -691417284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_63
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 40
+        width: 130
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3841f967c73a66a665f770de057f9aa
+      internalID: 184865509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_64
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 41
+        width: 130
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3877551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79a73f17b1e01552784e247e15959f
+      internalID: -1866626112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_65
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 42
+        width: 128
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39583334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7764211c906c4ce07bdb0e6aca8cfd08
+      internalID: 2023711077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_66
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 43
+        width: 126
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40425533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42dcf74c05f07154f18032737b54376
+      internalID: -252652291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_67
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 44
+        width: 124
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41304347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708bb30009ea3bf183132abc89eae060
+      internalID: -562558189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_68
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 47
+        width: 120
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41860464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59a08e04e0e60051c2480633306db60
+      internalID: 1105616524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_69
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 49
+        width: 116
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc09bf5c7914b519cd917b46090038c
+      internalID: -858816339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_70
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4
+        width: 106
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c210e5003a913e9badd99b4d79ad4f04
+      internalID: 1696678562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star-fall_71
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 22
+        width: 88
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1184de52efc919394f036ea634a441e4
+      internalID: 1737544532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4ba89ced0eb6448c6a4840e3925cecfb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      star-fall_0: 7658232179146422909
+      star-fall_1: 1543645813
+      star-fall_10: 638290937
+      star-fall_11: -1320620395
+      star-fall_12: -1065432313
+      star-fall_13: -1515328064
+      star-fall_14: -651092133
+      star-fall_15: 820451627
+      star-fall_16: -1306433777
+      star-fall_17: 1932266649
+      star-fall_18: -761378265
+      star-fall_19: -1956323388
+      star-fall_2: 1792984592
+      star-fall_20: -1527719814
+      star-fall_21: -669946414
+      star-fall_22: -1962128614
+      star-fall_23: -1188929646
+      star-fall_24: -1331441138
+      star-fall_25: 955355118
+      star-fall_26: 429093714
+      star-fall_27: -806015320
+      star-fall_28: 1364969380
+      star-fall_29: -1352105461
+      star-fall_3: 339640900
+      star-fall_30: 339490017
+      star-fall_31: 901752510
+      star-fall_32: 577355024
+      star-fall_33: -2068469452
+      star-fall_34: 247369249
+      star-fall_35: 1391088885
+      star-fall_36: -1635725676
+      star-fall_37: -1858244854
+      star-fall_38: -1228920816
+      star-fall_39: 1975023113
+      star-fall_4: -1566328389
+      star-fall_40: -1964273220
+      star-fall_41: 1195637707
+      star-fall_42: 1925159302
+      star-fall_43: 1197089539
+      star-fall_44: -746688358
+      star-fall_45: 1465294569
+      star-fall_46: -1094057995
+      star-fall_47: -1941093069
+      star-fall_48: 757491400
+      star-fall_49: 389331696
+      star-fall_5: 1899493174
+      star-fall_50: -1194650757
+      star-fall_51: 1650739276
+      star-fall_52: 563205220
+      star-fall_53: -1713048060
+      star-fall_54: 878716693
+      star-fall_55: -1904506238
+      star-fall_56: 2069059924
+      star-fall_57: 1301353499
+      star-fall_58: -1647427055
+      star-fall_59: -362226211
+      star-fall_6: 177607856
+      star-fall_60: 1567818063
+      star-fall_61: -57961451
+      star-fall_62: -691417284
+      star-fall_63: 184865509
+      star-fall_64: -1866626112
+      star-fall_65: 2023711077
+      star-fall_66: -252652291
+      star-fall_67: -562558189
+      star-fall_68: 1105616524
+      star-fall_69: -858816339
+      star-fall_7: -1462076355
+      star-fall_70: 1696678562
+      star-fall_71: 1737544532
+      star-fall_8: 2043741936
+      star-fall_9: 393217241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: whip-crack
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: melee/whip-crack
+  displayName: Whip crack
+  description: 'A whip rolls out to the right as a loop running down its length, faster and faster, until the tip flips over and cracks: a white pop, a ring of air, sparks and a puff of smoke.'
+  category: melee
+  tags:
+  - melee
+  - whip
+  - crack
+  - lash
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: -9098479021814585052, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 70508053, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 448052096, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 55672689, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -1333003726, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -1549724305, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 1397588271, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 405333695, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 1145266262, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 115650391, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 503928097, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -481991549, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 2140882221, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -453010996, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -377818803, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 2048400470, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -595025829, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -1328660557, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 572219465, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 1037853572, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 1954470982, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 963041983, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -1127789060, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -2007349037, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: -1453503841, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 957648921, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  - {fileID: 957648921, guid: eb1cfcdca14c04606986a3de1653bdee, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 192, y: 80}
+  origin: {x: 30, y: 68}
+  fullScreen: 0
+  previewFrame: 7
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.46
+  recovery: 0.07
+  onBody: 0
+  hits:
+  - time: 0.21
+    freeze: 0.1
+    shake: 0.14
+    amplitude: 2
+    push: 2.4

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: crt-off
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: transitions/crt-off
+  displayName: CRT off
+  description: The picture squeezes into a white-hot glowing line, the line into a dot that lingers as a fading afterglow; then it switches back on, dot to line to picture, with a warm-up glow.
+  category: transitions
+  tags:
+  - transition
+  - screen
+  - crt
+  - tv
+  - retro
+  - switch
+  - wipe
+  - one-shot
+  frames:
+  - {fileID: 8487427998210970730, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 8487427998210970730, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 2047367152, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 693158231, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1643071572, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1972901741, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1451020664, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 662591092, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1356688751, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 458252874, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1755813497, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -2142127268, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1659362433, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1272819684, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -178851042, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 509559846, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1510712876, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -733211113, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -935683445, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1248219920, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1756122194, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1889904749, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 732274636, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1925330941, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 959802792, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 2036923473, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1127806516, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1127806516, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1127806516, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1127806516, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1127806516, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1127806516, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1643783678, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1794964299, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1497086817, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1220853709, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1354650510, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1611915015, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1142749201, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1514988853, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1609737212, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1101858477, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -606636769, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 8487427998210970730, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1056883732, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1287701988, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -285676691, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -357881946, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 14656060, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1119802213, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 472960475, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 21398483, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 741599005, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 833827466, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -1302594131, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 844060868, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 469206524, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -253615585, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 1282298352, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: -269372361, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  - {fileID: 8487427998210970730, guid: 8cd2c83284e6c431cbc601dcdb160bd5, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 320, y: 180}
+  origin: {x: 0, y: 0}
+  fullScreen: 1
+  previewFrame: 17
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

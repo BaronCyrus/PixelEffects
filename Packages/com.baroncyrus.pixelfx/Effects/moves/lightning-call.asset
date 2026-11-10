@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: lightning-call
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: moves/lightning-call
+  displayName: Lightning call
+  description: An arm goes up, a sigil lights under the target, and on the downswing a thick bolt comes down on it; the target jolts through the aftershocks.
+  category: moves
+  tags:
+  - move
+  - lightning
+  - spell
+  - strike
+  - one-shot
+  frames:
+  - {fileID: -446789977743399167, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -581487608, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -429217379, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 79954050, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1767266842, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -713104256, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -333407123, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1321802340, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1810333544, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1209252353, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1269974621, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1193395389, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 921159510, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 329025048, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 2053311051, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1549403518, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -437195378, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1643868029, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1387549021, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1602824200, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1612982120, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -608589915, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 507159810, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -53910268, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 467225029, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -2054279953, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 2111713946, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 289834990, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1185065107, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -640353952, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1712938711, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -845837448, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1966532030, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 429879342, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1834963816, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 874205177, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -149359040, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1904207066, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1260108073, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1675870035, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -684700578, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1330651822, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 65833830, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1321865578, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1746680059, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1908346740, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 765329706, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -171491609, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 879434980, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1512842482, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 448681304, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1337897001, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -2119592076, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1877915403, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1064594643, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -753312331, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -476033188, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -371178725, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -267616286, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -491502915, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1542182843, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -2064548203, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1415617131, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1725886136, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 993961008, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -707272802, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1711112987, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -899397577, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -298184914, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -333140848, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1701239853, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1850433733, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 321599483, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 192172544, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 873173286, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1504505433, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1151171685, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1026765849, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -122562220, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1708882633, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -934595304, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1612571962, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: 1615933062, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -912676917, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -1201690437, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -761390183, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -691340270, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -446789977743399167, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -446789977743399167, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -446789977743399167, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  - {fileID: -446789977743399167, guid: 59a2ffdbfb7fc4c7c8d763f8ce9c598c, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 290, y: 266}
+  origin: {x: 42, y: 231}
+  fullScreen: 0
+  previewFrame: 22
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits:
+  - time: 0.76
+    freeze: 0.14
+    shake: 0.32
+    amplitude: 3
+    push: 2.8
+  - time: 1.04
+    freeze: 0.03
+    shake: 0
+    amplitude: 0
+    push: 1.2
+  - time: 1.26
+    freeze: 0.03
+    shake: 0
+    amplitude: 0
+    push: -1
+  - time: 2.5
+    freeze: 0
+    shake: 0
+    amplitude: 0
+    push: 0

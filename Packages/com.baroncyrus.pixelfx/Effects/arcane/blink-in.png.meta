@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 87e1d45cd207d4188ad366864335fb96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8867387962585156572
+    second: blink-in_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blink-in_0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 55
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468dd44fbffaad636959aa8df8639d19
+      internalID: -8867387962585156572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 402
+        width: 62
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5483871, y: 0.14457831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93846e347c7b2441711a1a8cf34108e9
+      internalID: 955585782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 400
+        width: 58
+        height: 85
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0.15294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6767c90fe93718996eccfc134a8392b
+      internalID: -926931854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 66
+        height: 68
+      alignment: 9
+      pivot: {x: 0.57575756, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c162abc52f93873efa4d27460182938
+      internalID: 1118703442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 326
+        width: 45
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce675ab359bfd4c5e22bca04aac20801
+      internalID: -1222121067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 118
+        width: 42
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0bda5f78dd0decb35cfd6904ec0ba6
+      internalID: 2067014301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 55
+        height: 62
+      alignment: 9
+      pivot: {x: 0.38181818, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86eab209885aafd46868d3bc4c1d9c1
+      internalID: 156848674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 60
+        width: 53
+        height: 57
+      alignment: 9
+      pivot: {x: 0.43396226, y: 0.2631579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363f5c351d9bb4527b2d3474d3db19c1
+      internalID: -1703506840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 120
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc2ae0b07284e4f5ed7ea9dc8bf4656
+      internalID: 910993950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a643bedb3f66f8b7a23b7759f002a944
+      internalID: 1371660292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec47759fbe8d7387d80c3935f5230ff7
+      internalID: 2109929019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 249
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8c952b8e0eefbdc847636f7e6ccec7
+      internalID: 764078858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 249
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077d9288f67afd35961e1ee8d2bab8a
+      internalID: 1332212057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 249
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d188f340c721735d5b0fb1dc488122f4
+      internalID: -663130400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 249
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d6f0bcb3b7c39e1e532f7735cb062f
+      internalID: -1257522970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 100
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17045455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49fde91525e0625d0ddfe713c3482a9
+      internalID: 719580228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 399
+        width: 96
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1744186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2259b55ec9b205653034293aa46d6f
+      internalID: -1482295269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 402
+        width: 90
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18072289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be8c2dccaa7aa473305475cafdb042
+      internalID: -696826489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 84
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea928a3245745807a1dca8ddb6bc586
+      internalID: 865152797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 319
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.19480519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513bf929823f656ed8ddfb85b0679fed
+      internalID: 1390891587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 322
+        width: 72
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2027027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4a2d9bb84a06da284e2dca1ad6bed
+      internalID: -1879793209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_21
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 326
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5285714, y: 0.21428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbb7bf4f587cdb97b99638c83700de9
+      internalID: -513553124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 249
+        width: 75
+        height: 66
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.22727273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e529c4952771ec0e7eea7921033cf55
+      internalID: 2107926538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 120
+        width: 78
+        height: 60
+      alignment: 9
+      pivot: {x: 0.525641, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e56a9c292c4e357a0cdd663ab0b4276
+      internalID: 1824286260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 58
+        width: 77
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0.23728813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29716c7028922b93c8a71f9e85aea39
+      internalID: -2020086566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 120
+        width: 80
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5934697e2a59eb8b6a6e4e6d5faaa5
+      internalID: 1224108823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 184
+        width: 83
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.22580644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cf1892053620f77bc30452c6abf9d6
+      internalID: 1829887641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 183
+        width: 68
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20634921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0364b674784b926b0a26b8d0b8ccfd
+      internalID: 2085149821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 68
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5147059, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb090c9f558adbfae4a928e2c9224b8f
+      internalID: -1703091239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 119
+        width: 72
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.114754096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583fb8893ff5740da7d2fa5a608d032
+      internalID: 295482506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 56
+      alignment: 9
+      pivot: {x: 0.50666666, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec20f464fe96254a36c0a5d681607c1
+      internalID: -1441607153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 59
+        width: 61
+        height: 58
+      alignment: 9
+      pivot: {x: 0.36065573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda655c08f6e9dc72207c7fb3c67183
+      internalID: 512754350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 57
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0.13043478, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39503b45f2a2cbfc5df857e8ac59894
+      internalID: 2089346119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 183
+        width: 48
+        height: 63
+      alignment: 9
+      pivot: {x: 0.125, y: 0.015873017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93624b1971a68f4b83b42c47e6db0880
+      internalID: -589443292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 182
+        width: 50
+        height: 64
+      alignment: 9
+      pivot: {x: 0.12, y: 0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfebe69a65e4767c5cb7d13a675cdb2
+      internalID: 1276248312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 50
+        height: 65
+      alignment: 9
+      pivot: {x: 0.1, y: 0.015384615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46548a168cb482412155d0e5e38acce7
+      internalID: -175384296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_36
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 43
+        width: 28
+        height: 13
+      alignment: 9
+      pivot: {x: -0.64285713, y: -1.4615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a5c8098721153c61f683b20f522aa
+      internalID: -554303986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 45
+        width: 28
+        height: 11
+      alignment: 9
+      pivot: {x: -0.6785714, y: -1.8181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dcbe556e6b49208511789648801c05
+      internalID: -1834033254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 49
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: -4, y: -2.857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1306a18e0bc4501f3e95b49384d32d2
+      internalID: -73429016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink-in_39
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 55
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: -22, y: -25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb48c1cf077a620fc57f830f36cde78
+      internalID: 1259802602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 64e388e46bfe743c09f6d84385178b09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blink-in_0: -8867387962585156572
+      blink-in_1: 955585782
+      blink-in_10: 2109929019
+      blink-in_11: 764078858
+      blink-in_12: 1332212057
+      blink-in_13: -663130400
+      blink-in_14: -1257522970
+      blink-in_15: 719580228
+      blink-in_16: -1482295269
+      blink-in_17: -696826489
+      blink-in_18: 865152797
+      blink-in_19: 1390891587
+      blink-in_2: -926931854
+      blink-in_20: -1879793209
+      blink-in_21: -513553124
+      blink-in_22: 2107926538
+      blink-in_23: 1824286260
+      blink-in_24: -2020086566
+      blink-in_25: 1224108823
+      blink-in_26: 1829887641
+      blink-in_27: 2085149821
+      blink-in_28: -1703091239
+      blink-in_29: 295482506
+      blink-in_3: 1118703442
+      blink-in_30: -1441607153
+      blink-in_31: 512754350
+      blink-in_32: 2089346119
+      blink-in_33: -589443292
+      blink-in_34: 1276248312
+      blink-in_35: -175384296
+      blink-in_36: -554303986
+      blink-in_37: -1834033254
+      blink-in_38: -73429016
+      blink-in_39: 1259802602
+      blink-in_4: -1222121067
+      blink-in_5: 2067014301
+      blink-in_6: 156848674
+      blink-in_7: -1703506840
+      blink-in_8: 910993950
+      blink-in_9: 1371660292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

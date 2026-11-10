@@ -1,0 +1,2205 @@
+fileFormatVersion: 2
+guid: e91fe4c3d00f64f369be9399db49a79a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2913000175622612250
+    second: laser-grid_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laser-grid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ea70bc629a045d5ae0a20f07ffca39
+      internalID: -2913000175622612250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 876
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22812dcb47b9e007ab1fc9d9ccd7d9b7
+      internalID: -1990375792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 876
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72595f575cf7c2208b842294efe51e2
+      internalID: 1407408602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 876
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f8c455845cccb30bf617ac58b8b52
+      internalID: -822913714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 876
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c645868ea4470405218fd56d613a8b0
+      internalID: -1463975969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 876
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de5e4888c401b5a53d221e261fa89c1
+      internalID: 1693349542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 876
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36af98b28a3caee23705a5c0562795
+      internalID: -1563988235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cf0f44d7fb4c70d25206cc0c5d311
+      internalID: 388990275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 803
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57296e71402ddb47190d7f3fa3f042bf
+      internalID: -2046337446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 803
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8168b6f00754012c0345a41e2aa93b
+      internalID: 916060411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 803
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4745f570961dfc91426438fc3704ce6f
+      internalID: -1803595558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 803
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4cf26c8933f5910f8043a4d0cba8dc
+      internalID: -717514108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 803
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de21e0935b5df00f2642e86e255bef9
+      internalID: 1151476395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 803
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718cd641d9ecc0fa433e302c196b3cbc
+      internalID: 547674003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61050cf586eafbdbf7cab6d16e631cf9
+      internalID: 304171243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 730
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccce90622c2057a9d93f84ef579a1250
+      internalID: 1068719402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 730
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40f6b5c10259dea2d860cfef403e9c
+      internalID: -2116699853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 730
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c09b9e3ef5a80ba4fc0dc8bb2dbb416
+      internalID: 2055387642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 730
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49589591cfb4cb3e299a8f83397d911f
+      internalID: 1585704849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_19
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 730
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105bcec042a1861f6dd16a472a999d10
+      internalID: 1529461957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 730
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3711c38a31dd1fe0d1036bbe555081
+      internalID: 9314758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d3a6ce9dcc86ae44d23ffe4c261f12
+      internalID: 599910614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 657
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba12788e4e092a0530a1635ed4d89670
+      internalID: 134728465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 657
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d676b2c0a1954330a6785c326b0d8e78
+      internalID: -257099441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 657
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059f9e75970af459ac49e0375e3b12b1
+      internalID: 191339766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 657
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76aa7d6bfa9a5d4663e140ca23ed8c7
+      internalID: 567952284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_26
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 657
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdb539c6885c5aa4f4251989e3a42a1
+      internalID: 1360473384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 657
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd9cd4fac722ad426bf27b8487ae77
+      internalID: -894270353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea274d95a5435ae27959beaf5668a31
+      internalID: 1220626162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 584
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37de885d0ddcc9c85727705c61e6708
+      internalID: -2073068697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 584
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35ad735521ad3cb516ca7ef3f1e1d2a
+      internalID: 667534485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 584
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c797056469753e2d606bcc525ed65d
+      internalID: 1170320651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 584
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa1dc7d11f13f5913c638cfdfed68f
+      internalID: -1598122661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_33
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 584
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a7f3015a6f83f7a619f8b9c1b9157
+      internalID: 958142652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 584
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8c8b5083255a4a3bbec1b18758fb2d
+      internalID: 1301105886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff05c1fed9899f2a67b9b83d1802d511
+      internalID: -1118200991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_36
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 511
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d202cac69ce7d020e85046511f3da9
+      internalID: -473894657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 511
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867366b6db46203e4101c3e5ac320513
+      internalID: 1715247595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 511
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260dfb6aca8629a562d4d2882840fd99
+      internalID: 100319130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 511
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05143d58e5059e2e039b8ccc817fccc2
+      internalID: 923865110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_40
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 511
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ce4ff8a04ee0d0cec4f2548ea9018
+      internalID: 1582627102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_41
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 511
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bda3d41318e5cceca898469574555d
+      internalID: 1916689106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a128d53940fcc9c612903340c0303
+      internalID: 126122280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 438
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1513b11a3b2d8308ff43d8d482248f
+      internalID: 1987501825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 438
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32b8f8a0f4adc8bf5ecdb162b83b6de
+      internalID: 1197325662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_45
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 438
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d80b9c915f54787bc5745c867663809
+      internalID: -1703107740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 438
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578992acc8c1c5013a36cd130339635c
+      internalID: -1937415550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_47
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 438
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d375ad8d7fb4bf8be21e469d1f1eca8d
+      internalID: 500408233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_48
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 438
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a52c051e388e55f4aaec423d1718d1
+      internalID: -292165090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491619ec442850dd906c669e7d7e2d57
+      internalID: -240726686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_50
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 365
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115cb722bed9a8222d7015c1a5b591b9
+      internalID: -223360090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 365
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52aea97d80fa5ede147ea3586268fe
+      internalID: 768417050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_52
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 365
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eec7ba0f37ac3a0967f4e9e354edac
+      internalID: -945624702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_53
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 365
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f34aab757854a608945ed1398424e09
+      internalID: -1106559788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_54
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 365
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88659300340731582d4b5abd1264f649
+      internalID: -1847482504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_55
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 365
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4a2dbecb2f4c92fd0d79974cf1ac28
+      internalID: -1384627934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68133c259f3abe8d26c1351dc0c8765
+      internalID: -778490402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 292
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee830a744ac1382438c955bfaf3e4a4f
+      internalID: -1694590321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_58
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 292
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf30776828b33b7269c308aebfbce2a
+      internalID: 1447801998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_59
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 292
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf9aff57f927cd6a0fcbcdb4667cf2
+      internalID: -2012989573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_60
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 292
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f8e9e1500b8162b7dc880c90677500
+      internalID: -2003938901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_61
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 292
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd819bb1472d4bde415c654f2afd3133
+      internalID: -405136389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_62
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 292
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f43741595a5a5fe0a25ebb9f18f4c1
+      internalID: 2018475566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f4e805bde97d33c5542b652a20aaa4
+      internalID: -560293569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 219
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1cbd92109326bc216ac6008ceb30dc
+      internalID: 1882168172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 219
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1848d541f2d29c8aca55ad9eb40a24d7
+      internalID: -568560043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_66
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 219
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7de360bc4f0f8c9ed6073ba1d1185f
+      internalID: 202394390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_67
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 219
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a781b03710e15fc2354cc9eb5360a1c3
+      internalID: -66806463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_68
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 219
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1bd216be1e50b8d36154d1b900a6e3
+      internalID: -1555114841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_69
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 219
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722377f0e0fe3b902f63e72adefb3ddc
+      internalID: 1703782602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf0637addcb13a6ca06fd8a1d0994d8
+      internalID: 1596710646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 146
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dee20c6cf70f6924026540fe808459
+      internalID: 1959528566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_72
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 146
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67997ad731483eab213ff2912e743ca1
+      internalID: 1750108861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_73
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 146
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdc5f8e4c02e57daea189df14e6241a
+      internalID: 1969022494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_74
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 146
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafcbefcdeda6fa4bddca0d2f55de680
+      internalID: 187673041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_75
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 146
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441ca492da024f179f89f700ed3fcb1d
+      internalID: 1902661010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_76
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 146
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b4fe139f92dddb1ccbfaf3453592c3
+      internalID: -2035121592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa65421c0adc51e16d3df36be8b29a7
+      internalID: -479134659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_78
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 73
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ac254a350988c6183e3283536f39f
+      internalID: -1257086296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_79
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 73
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266cd65eedb0f90c6662ae7013a2c273
+      internalID: 1205528891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_80
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 73
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc269fddc904f30b7cc7a30efa69c2
+      internalID: -708246880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_81
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 73
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f27637f39fc346597b2d03baa9de7
+      internalID: -543422944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_82
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 73
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd54d1d02e287bd2f82ed897fc13426
+      internalID: 432588107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_83
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 73
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a87361f23ffcf035b9146d0f63bc542
+      internalID: -458850705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8b09d9e8a4f87d18f65250a3123b7a
+      internalID: 1249183457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_85
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32a4a879f85f84dc74d9fcb4e81bc4c
+      internalID: 411853901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_86
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7abdf168c3d2e62ef08b74ff0ed2e3
+      internalID: -549498140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_87
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12531ce9b9733f8674a95d91c255b7b4
+      internalID: -1543086199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_88
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f41abc4433cb460d97c695c31a053e
+      internalID: -397479378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-grid_89
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0
+        width: 112
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.097222224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797fc1f18a9e2ce30f074b20fcf33e31
+      internalID: 939743140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ddd6ebb755e0e4d23b3ed7b16d482b8f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      laser-grid_0: -2913000175622612250
+      laser-grid_1: -1990375792
+      laser-grid_10: -1803595558
+      laser-grid_11: -717514108
+      laser-grid_12: 1151476395
+      laser-grid_13: 547674003
+      laser-grid_14: 304171243
+      laser-grid_15: 1068719402
+      laser-grid_16: -2116699853
+      laser-grid_17: 2055387642
+      laser-grid_18: 1585704849
+      laser-grid_19: 1529461957
+      laser-grid_2: 1407408602
+      laser-grid_20: 9314758
+      laser-grid_21: 599910614
+      laser-grid_22: 134728465
+      laser-grid_23: -257099441
+      laser-grid_24: 191339766
+      laser-grid_25: 567952284
+      laser-grid_26: 1360473384
+      laser-grid_27: -894270353
+      laser-grid_28: 1220626162
+      laser-grid_29: -2073068697
+      laser-grid_3: -822913714
+      laser-grid_30: 667534485
+      laser-grid_31: 1170320651
+      laser-grid_32: -1598122661
+      laser-grid_33: 958142652
+      laser-grid_34: 1301105886
+      laser-grid_35: -1118200991
+      laser-grid_36: -473894657
+      laser-grid_37: 1715247595
+      laser-grid_38: 100319130
+      laser-grid_39: 923865110
+      laser-grid_4: -1463975969
+      laser-grid_40: 1582627102
+      laser-grid_41: 1916689106
+      laser-grid_42: 126122280
+      laser-grid_43: 1987501825
+      laser-grid_44: 1197325662
+      laser-grid_45: -1703107740
+      laser-grid_46: -1937415550
+      laser-grid_47: 500408233
+      laser-grid_48: -292165090
+      laser-grid_49: -240726686
+      laser-grid_5: 1693349542
+      laser-grid_50: -223360090
+      laser-grid_51: 768417050
+      laser-grid_52: -945624702
+      laser-grid_53: -1106559788
+      laser-grid_54: -1847482504
+      laser-grid_55: -1384627934
+      laser-grid_56: -778490402
+      laser-grid_57: -1694590321
+      laser-grid_58: 1447801998
+      laser-grid_59: -2012989573
+      laser-grid_6: -1563988235
+      laser-grid_60: -2003938901
+      laser-grid_61: -405136389
+      laser-grid_62: 2018475566
+      laser-grid_63: -560293569
+      laser-grid_64: 1882168172
+      laser-grid_65: -568560043
+      laser-grid_66: 202394390
+      laser-grid_67: -66806463
+      laser-grid_68: -1555114841
+      laser-grid_69: 1703782602
+      laser-grid_7: 388990275
+      laser-grid_70: 1596710646
+      laser-grid_71: 1959528566
+      laser-grid_72: 1750108861
+      laser-grid_73: 1969022494
+      laser-grid_74: 187673041
+      laser-grid_75: 1902661010
+      laser-grid_76: -2035121592
+      laser-grid_77: -479134659
+      laser-grid_78: -1257086296
+      laser-grid_79: 1205528891
+      laser-grid_8: -2046337446
+      laser-grid_80: -708246880
+      laser-grid_81: -543422944
+      laser-grid_82: 432588107
+      laser-grid_83: -458850705
+      laser-grid_84: 1249183457
+      laser-grid_85: 411853901
+      laser-grid_86: -549498140
+      laser-grid_87: -1543086199
+      laser-grid_88: -397479378
+      laser-grid_89: 939743140
+      laser-grid_9: 916060411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

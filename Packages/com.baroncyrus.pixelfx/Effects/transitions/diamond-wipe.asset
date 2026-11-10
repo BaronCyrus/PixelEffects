@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: diamond-wipe
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: transitions/diamond-wipe
+  displayName: Diamond wipe
+  description: A wave of faceted diamonds swells across the screen, rims bright and ridges lit, cooling to black as they lock; then they rise as gems again and shrink away with glints.
+  category: transitions
+  tags:
+  - transition
+  - screen
+  - diamond
+  - lattice
+  - geometric
+  - wipe
+  - one-shot
+  frames:
+  - {fileID: 2866794865050424037, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 2866794865050424037, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 709377989, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -678093824, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -632017358, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 956475647, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -1801637029, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 567085519, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -1669862469, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -2136975484, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1627046949, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -23809524, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 11099825, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -303103166, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1470565644, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 293744179, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -837680613, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -743502728, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -748117902, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1399595265, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -843010591, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 301071540, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1756706977, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1658876358, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -1668181931, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1048733636, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1747244477, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -1769388559, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -101487431, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 45507907, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1284060289, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -2106687827, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -2106687827, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -48485625, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 772558515, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 149733999, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -614988986, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -1734040460, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -1303688969, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -1377245682, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 2123926916, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 489150550, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -1241532428, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1622407776, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 681418440, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1593346556, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -853399375, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 804143451, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -752102947, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -179529247, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 778713250, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1116355379, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -196061896, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 55380508, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 1798232033, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 224278339, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: -1259316027, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 2866794865050424037, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 2866794865050424037, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 2866794865050424037, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  - {fileID: 2866794865050424037, guid: 759b90b1ad9de40cc8701174f516b7eb, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 320, y: 180}
+  origin: {x: 0, y: 0}
+  fullScreen: 1
+  previewFrame: 22
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

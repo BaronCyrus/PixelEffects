@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: combo-counter
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: ui/combo-counter
+  displayName: Combo counter
+  description: 'x5 COMBO rockets in on streaming speed lines, smearing, and slams to a stop: a white flash, a ring, sparks; it pulses while a timer bar drains, then whooshes out.'
+  category: ui
+  tags:
+  - ui
+  - combo
+  - counter
+  - combat
+  - text
+  - one-shot
+  frames:
+  - {fileID: 5290965996453346222, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -851147009, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1885592441, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1742255802, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1509011087, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -575304316, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1284133005, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1782825797, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1443471206, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1875049576, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1951024890, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 2037796002, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1363012186, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 513477990, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1733516142, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 137456874, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1687536092, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 867767473, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1056983130, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 2126780665, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1129651570, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1785469898, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1817319209, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1521918538, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 858511113, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1179444070, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 644812764, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -150831778, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1313109680, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 2029887434, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1094612892, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1424793411, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 564518828, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1655304658, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1623569572, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1577749241, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1795163247, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 630229181, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1500611213, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 1823777953, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -1042428846, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -715193255, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 349535921, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: -352231408, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  - {fileID: 679292217, guid: 74f7884f64da34b2581fb415ddd54e92, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 208, y: 100}
+  origin: {x: 104, y: 50}
+  fullScreen: 0
+  previewFrame: 4
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

@@ -1,0 +1,3493 @@
+fileFormatVersion: 2
+guid: 6769ed11fbd7340e8859a28e91008ac2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7766822180225196991
+    second: geyser_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: geyser_0
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 35
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29166666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3267cf1cb20f75f0097a2e178b255a0
+      internalID: -7766822180225196991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 25
+        width: 30
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742140e7bbaae0c7538f577a5520e4d9
+      internalID: -199126844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 72
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c58a1c79f49df0dab671472da1be4
+      internalID: -1763274822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_3
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 65
+        width: 86
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32786885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbe52dba480f1593dbc97e91aa52101
+      internalID: 1411475800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_4
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 61
+        width: 92
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690ee99c47a9551801e01dfb9dda161d
+      internalID: -764320621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 94
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af330d2e6d798911bd0109f6308699
+      internalID: 1086100478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_6
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8a006b6e86a95b7052919076f15b5e
+      internalID: -870081942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ffc9107220927b98a6290cc89e8126
+      internalID: -14520883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c833def636b1e1526cbb1e20c79ab2f
+      internalID: 1876302457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bc5a196521b4e5207f338ea9b16acc
+      internalID: 1977913312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_10
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16d623ae4732aeea06da386b0cb3b70
+      internalID: 1560492069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a2f31fad7cf255b5a7c9ffce931fc
+      internalID: -578848974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_12
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc748698612297b6c470438f37506f2
+      internalID: 282452987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d0c0ba9c2a6b7389f426ed7b1658c3
+      internalID: -302647818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_14
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe4cdb25e6b5bf4bf51e198221be12
+      internalID: -1476563147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_15
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d155ec2e78154f07cb73f5be8486ad29
+      internalID: 1099272794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_16
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 300
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c70320d9020489c7e03ddf895a8c17
+      internalID: -1246560392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a1ef92dbc77b21869973252310555f
+      internalID: -1417139098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95812f5b59f231b46154be040270ed46
+      internalID: -1947258194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c10dbfbbae12b64bcac59be1c2179c1
+      internalID: -421378070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7162d63e7e90aba5f008112a6d49274
+      internalID: -828566119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7077af57910d70ce97bb72a71798313f
+      internalID: 1996493750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_22
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e0c72853dd58ed08ba3c4923d9298f
+      internalID: -1857977760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52378df37c5bb5c3f6a5284ec508c16
+      internalID: -1410078707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_24
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8fe7b656af057d55242df65fe22430
+      internalID: -793346275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_25
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1bcb168332d6a967fd59dcd63892d
+      internalID: 1205316797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_26
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28adb86294f20d5365f549f0eff81b8
+      internalID: 1903574866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_27
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f888679f4a11f842426b9cf74368c2c
+      internalID: 1201463610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_28
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e830abe74882fb57c73a2655345e549
+      internalID: -1637961362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_29
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 195
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798392673e28f94d7921e2bbf899b071
+      internalID: 1688643004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2b5f887aa57b02b6b674634df3fb3
+      internalID: 1381328909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8253e534d2b0eea97b3affa8d3f3899f
+      internalID: 1354260195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6d48c0ee6ea2ccb6a6772b750d9046
+      internalID: -326927016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_33
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09a371c10290ec5da086535d41a13f7
+      internalID: -937510484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_34
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b765428226a3c3ec448408989cf85b0
+      internalID: 2108352755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_35
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 394
+        width: 118
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1981132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeabb90c26da56c0ffabac3e9d21f01c
+      internalID: -836587002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 114
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20192307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e00d69df827ad867e6a09b92614ef0
+      internalID: 1020395691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 265
+        width: 110
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20588236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d071059d30ba34f52e7e5a8c61435b77
+      internalID: -739551274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_38
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 387
+        width: 106
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18584071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833e5fa056cb3b9cde209b09b33dcd3c
+      internalID: -61105825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 372
+        width: 104
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0854cceee5c94be624405a9b2715007d
+      internalID: -370013114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_40
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 507
+        width: 100
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717e39786f402408f57d5699f737354c
+      internalID: -1635910575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_41
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 503
+        width: 96
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643722f7cfd663f151bc80144fffb83f
+      internalID: 1351302439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_42
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 646
+        width: 96
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14788732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f53f747582cfd82f533a3f4fce646
+      internalID: 1250147023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_43
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 645
+        width: 96
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14685315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c7ad67511eecb1fd26b0cd9d24096d
+      internalID: -1473248764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_44
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 792
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070353fdae7a42eb91390dc5564cc367
+      internalID: -495998486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_45
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 792
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524be6485d97e8dfaf0aac3ab79dbadf
+      internalID: -1383236035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b936b1e5978e5110f4556e053341fbdf
+      internalID: -355490402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_47
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 791
+        width: 97
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5051546, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262fada3e002d27b19f7348125dbfa79
+      internalID: 1529507491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_48
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 791
+        width: 100
+        height: 145
+      alignment: 9
+      pivot: {x: 0.52, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b67e402ac3ca504c998558370b786
+      internalID: 1230037777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 790
+        width: 107
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5233645, y: 0.14383562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f774adb1639e94b0c078bf69fffe21
+      internalID: 942045678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 790
+        width: 113
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5221239, y: 0.14383562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f64d6391c161ff87f9e3c81d95958
+      internalID: -21658191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_51
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 939
+        width: 117
+        height: 147
+      alignment: 9
+      pivot: {x: 0.52136755, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be7cc509e056768a02b1b3630edfefc
+      internalID: -906798588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_52
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 939
+        width: 119
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5126051, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be84ee1f609305a54fe19e12f942a53f
+      internalID: -1435008846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_53
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 939
+        width: 122
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167d81d9bf835b49c750b6db7d60cf63
+      internalID: 128712877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_54
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 939
+        width: 124
+        height: 147
+      alignment: 9
+      pivot: {x: 0.48387095, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecdc7b728e7eb2a04c449b009752478
+      internalID: 1796972464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_55
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 938
+        width: 126
+        height: 148
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.1418919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b10fc6e30638dd01f3e13eec63c79
+      internalID: -140300677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 938
+        width: 130
+        height: 148
+      alignment: 9
+      pivot: {x: 0.46923077, y: 0.1418919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6982d50bd230a0fec1d88edfc25625
+      internalID: -1788040513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 938
+        width: 135
+        height: 148
+      alignment: 9
+      pivot: {x: 0.47407407, y: 0.1418919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c368aee98a8283ceeedd141b9ee3ed32
+      internalID: 1888945819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937
+        width: 140
+        height: 149
+      alignment: 9
+      pivot: {x: 0.47857141, y: 0.1409396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a465812c63ca5d797bb0852b665fa5
+      internalID: -1028965403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_59
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1091
+        width: 142
+        height: 149
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.1409396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857fb9067f32b6c32fbce96ccf40c0b5
+      internalID: -105276159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_60
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1090
+        width: 145
+        height: 150
+      alignment: 9
+      pivot: {x: 0.49655172, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72a6819fa83e57c8f956f3fe0906177
+      internalID: -487316989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_61
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1089
+        width: 147
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0.13907285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d381ad0428583f67932546f424406
+      internalID: -267080473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_62
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1089
+        width: 150
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5133333, y: 0.13907285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40630667f5d709586227db34c0a929e4
+      internalID: 1211258297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_63
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1088
+        width: 153
+        height: 152
+      alignment: 9
+      pivot: {x: 0.52287585, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef26b08741b2bccab428ec0efbbf6f25
+      internalID: -1259527886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_64
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1242
+        width: 155
+        height: 153
+      alignment: 9
+      pivot: {x: 0.52903223, y: 0.13725491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2001ec257f34bd9509f0cefeb90d5d62
+      internalID: 1453311582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1241
+        width: 157
+        height: 154
+      alignment: 9
+      pivot: {x: 0.54140127, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050456d7480d66b947a7bbab110f99a4
+      internalID: -815160543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_66
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1241
+        width: 156
+        height: 154
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1058cec53f58036fff1eaf7f60f495
+      internalID: 1119158066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1241
+        width: 156
+        height: 154
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3572748bd73e69eb99b6448419f5dd94
+      internalID: 766114318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_68
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1241
+        width: 152
+        height: 154
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777c96c3f1ed6fb47dc114f2b90a53b2
+      internalID: -1851438548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_69
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1241
+        width: 152
+        height: 154
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4cdf1855411c3ba583ccff71442e6d
+      internalID: -1818009690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_70
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1241
+        width: 148
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.13636364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ddc9728b979d5717a215e7c65028e0
+      internalID: -115599522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_71
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1242
+        width: 148
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.13725491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3fd4b4eeb4dfa47fef29f6c6389a0
+      internalID: -175198184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 116
+        height: 153
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.13725491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858be0a172718675bd3322660490f043
+      internalID: 1270223528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1088
+        width: 115
+        height: 152
+      alignment: 9
+      pivot: {x: 0.4173913, y: 0.13815789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d578335653d26278f59fcb46665c239
+      internalID: -1695431835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_74
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1089
+        width: 114
+        height: 151
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.13907285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5377a8eec2fa00ae792f4787c373c6
+      internalID: 1867133431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_75
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1090
+        width: 114
+        height: 150
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f931355e9d012d0b389dfadb0d9f4f
+      internalID: -13133539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_76
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 937
+        width: 114
+        height: 149
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0.1409396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb2be638ab4f6df4209666b2006f78
+      internalID: -658529521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_77
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 938
+        width: 115
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4173913, y: 0.1418919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a66dbcaabd5b2ccab6edd21a09cfd9d
+      internalID: 830533228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 96
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f81c5d3f87a5c47d0fde7829a0472b
+      internalID: -1171164826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_79
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 790
+        width: 96
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14383562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3d4dfc42732fbc37dd28268b753a8
+      internalID: 97564256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_80
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 791
+        width: 96
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ffa6c455602ccbb1c506bf67a0919
+      internalID: -710584327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 644
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4e14ea48b9c4971e5cc64225481888
+      internalID: -388583192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 96
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14788732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5205326dd9e8cf577c49ee96b5e8fc26
+      internalID: 456936532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_83
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 501
+        width: 96
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14788732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55abfbe8247a9e3276513c7c36d735fa
+      internalID: -730830285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_84
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 645
+        width: 96
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14685315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1791f4f0d6fa7bf6660ff81774632d36
+      internalID: 546640825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_85
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 645
+        width: 96
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14685315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd84e715df1a0d4c7f6814f49a6ba5d2
+      internalID: -1633857532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_86
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 645
+        width: 96
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14685315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3b716dc4a4f0d677e90a03ef3db72f
+      internalID: -405697381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_87
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 645
+        width: 96
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14685315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a746f372416af2ab76c9a30d3bef69
+      internalID: -1637939703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 644
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c2cc9e28f5f31c02064c8864d8d58
+      internalID: -1792187463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_89
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 644
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1901beadbeea4f502ab235c10d3a1236
+      internalID: -1423059268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_90
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 644
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b009e63035673e37b3c4bc48c4097a6
+      internalID: -1137822881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_91
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 791
+        width: 96
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10e0e3737fbfc122a2e852ba12af41c
+      internalID: -1555523270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_92
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 791
+        width: 96
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb871bd4ae827f683fc88e411c3d47ce
+      internalID: -1787983838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_93
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 791
+        width: 96
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a657bc8081b3322c3d43cb17131357d
+      internalID: -304462966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_94
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 791
+        width: 96
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14482759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f908b57938ef2eb5ad35ab62b9b407b2
+      internalID: 115969305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_95
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 644
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779cb090154bc0730b98b974dc0d159a
+      internalID: 1061163511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_96
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 644
+        width: 96
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14583333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34c781fcaff1c93c1c1539cd6d7bb6c
+      internalID: -1282110270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_97
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 507
+        width: 96
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b978cbc2d559cd456aeae5629e39f9
+      internalID: 226088161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_98
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 507
+        width: 96
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87568de5263022b970bb3f251f43255
+      internalID: -345161457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_99
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 507
+        width: 96
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7b0b1d2a7b0c7ec41cfdd90daf836
+      internalID: 1523272610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_100
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 506
+        width: 96
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15328467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368d2c4859669de2ab8f75c0af27c979
+      internalID: -1385385750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_101
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 506
+        width: 96
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15328467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09d4e55f0f99c2a23c6e2a0546c8977
+      internalID: -485416402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_102
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 506
+        width: 96
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15328467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba67320142a16f8b3f7dcaa9b7db5f79
+      internalID: -1535409481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_103
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 506
+        width: 96
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15328467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d75e3cdef075319da29180834b6a2d
+      internalID: 911932338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_104
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 507
+        width: 96
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e124fb4d658ad045b74377ebd9c5224a
+      internalID: -138930446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_105
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 511
+        width: 96
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10749d35fd7cc7c2ef19119a7f7bc5a8
+      internalID: 259111987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 96
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3befa175acc11e90de5426565784186
+      internalID: 2005663354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_107
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 368
+        width: 96
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1590909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63013cb20b164858b65beb1719dc562
+      internalID: 1393167215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_108
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 369
+        width: 96
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16030534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acc6d6973c8d492cfe24da1eea57404
+      internalID: -1600095538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_109
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 373
+        width: 96
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16535433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e505d9ad5721f7d8b4be7fa40f7e4f
+      internalID: 1287279132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_110
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 373
+        width: 96
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16535433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbae1ffffe012cecd41b62e840f0e901
+      internalID: -1940472983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_111
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 374
+        width: 96
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c743371f66eb5f5ec4396ddfb1b1b4f0
+      internalID: 673739149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_112
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 377
+        width: 96
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f36b89edfb243b2b95c77ac836d54
+      internalID: -124865148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_113
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 377
+        width: 96
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17073171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc6bcf41b96fd1e0f5ca62d7f786c9c
+      internalID: -614124514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_114
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 378
+        width: 96
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17213115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a450848e047bf33146e812c53156003
+      internalID: 1342843983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_115
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275ca2a60905fe7ee5170e590b36646
+      internalID: 1076632201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_116
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2930e73d9c7736671e85ae4253a20b45
+      internalID: 468223707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_117
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791d0ce14e6f7ee1157fe06ceba59749
+      internalID: 697118356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_118
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0501cefdab6fbbb237d7e4db2cf74f9f
+      internalID: -31979553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_119
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3b2ce4c7bc2e75711d691dc01e8f1e
+      internalID: -1428506125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_120
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea61408d377025b47950d9ff247e8e86
+      internalID: 374815676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_121
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651a8a3d3bf3f71ec1662716386ffd60
+      internalID: -903267438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_122
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 127
+        width: 96
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31343284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97924d4718aa5bc2fb6d787901dbb52
+      internalID: -279558757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_123
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 60
+        width: 94
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd13dfeab8d5ad590c99f2e53ae58cc
+      internalID: -1014561630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_124
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 60
+        width: 94
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d7341c3d86ccdd79f205df8ba5dfe6
+      internalID: 1791594909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_125
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 60
+        width: 94
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9020728d554d029d0bd40bb2385ad1d
+      internalID: -1217765491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_126
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 60
+        width: 94
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281d80ada97200ad5b082d98f5cbba9
+      internalID: -158656770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_127
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 61
+        width: 92
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594699523f6f09bacfb2592e4798ac6c
+      internalID: 2144404154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_128
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 61
+        width: 92
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee302bb5a74f2a891254a79f306ecd6
+      internalID: -1625774754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_129
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 62
+        width: 90
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c67ca7277b19dfd797c27ec384226
+      internalID: 1648916624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_130
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 62
+        width: 90
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8966b757ff00e0e4f7f0bbcee0936d1
+      internalID: -753689589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_131
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 63
+        width: 88
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d86f0ea0ca4d8ec8bd12fc84a6685
+      internalID: 110149954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_132
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 64
+        width: 86
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33870968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cae7c771e0f510db58e2af2f143c87
+      internalID: 819708675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_133
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 66
+        width: 84
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466e36e2fa2ba9caf006c9d56f3ab7e
+      internalID: -2052093944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d115442ddf724c264249080867e356ad
+      internalID: -538427738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 80
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3448276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78edd05c4b6f8b409b0074366d8b56cb
+      internalID: 777765764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_136
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3
+        width: 76
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f420de309668eabcbf442542e996679
+      internalID: -596552666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_137
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 5
+        width: 72
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06902054ffc118fe7127afd541f5dd5d
+      internalID: -1002421728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_138
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 9
+        width: 66
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43df53d7bd199634430ebe11778a26c8
+      internalID: 2067736812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_139
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 14
+        width: 58
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1669c39417c080ef74a66ac31a0806d
+      internalID: 1448458664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_140
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 19
+        width: 50
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f2abd65a04b3fb98e2831f92628292
+      internalID: -1530151595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_141
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 26
+        width: 50
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7296510c7f50f62b4ddde4dc09721b
+      internalID: -716195670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_142
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 46
+        width: 50
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0c8501e5c2bc38590d88dc62ef5a06
+      internalID: 1611628990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_143
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 49
+        width: 50
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9c2b96b0b26ef819b8e7cd7bbd634c
+      internalID: -1835656185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_144
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 49
+        width: 50
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db5c1bb7f5f17a455cf8f5b8a40564f
+      internalID: -245284674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: geyser_145
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 58
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86afc6b0254b0b7619e0cc10b248de5
+      internalID: 1059594689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d18423940f9584065b43aab96e5530f4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      geyser_0: -7766822180225196991
+      geyser_1: -199126844
+      geyser_10: 1560492069
+      geyser_100: -1385385750
+      geyser_101: -485416402
+      geyser_102: -1535409481
+      geyser_103: 911932338
+      geyser_104: -138930446
+      geyser_105: 259111987
+      geyser_106: 2005663354
+      geyser_107: 1393167215
+      geyser_108: -1600095538
+      geyser_109: 1287279132
+      geyser_11: -578848974
+      geyser_110: -1940472983
+      geyser_111: 673739149
+      geyser_112: -124865148
+      geyser_113: -614124514
+      geyser_114: 1342843983
+      geyser_115: 1076632201
+      geyser_116: 468223707
+      geyser_117: 697118356
+      geyser_118: -31979553
+      geyser_119: -1428506125
+      geyser_12: 282452987
+      geyser_120: 374815676
+      geyser_121: -903267438
+      geyser_122: -279558757
+      geyser_123: -1014561630
+      geyser_124: 1791594909
+      geyser_125: -1217765491
+      geyser_126: -158656770
+      geyser_127: 2144404154
+      geyser_128: -1625774754
+      geyser_129: 1648916624
+      geyser_13: -302647818
+      geyser_130: -753689589
+      geyser_131: 110149954
+      geyser_132: 819708675
+      geyser_133: -2052093944
+      geyser_134: -538427738
+      geyser_135: 777765764
+      geyser_136: -596552666
+      geyser_137: -1002421728
+      geyser_138: 2067736812
+      geyser_139: 1448458664
+      geyser_14: -1476563147
+      geyser_140: -1530151595
+      geyser_141: -716195670
+      geyser_142: 1611628990
+      geyser_143: -1835656185
+      geyser_144: -245284674
+      geyser_145: 1059594689
+      geyser_15: 1099272794
+      geyser_16: -1246560392
+      geyser_17: -1417139098
+      geyser_18: -1947258194
+      geyser_19: -421378070
+      geyser_2: -1763274822
+      geyser_20: -828566119
+      geyser_21: 1996493750
+      geyser_22: -1857977760
+      geyser_23: -1410078707
+      geyser_24: -793346275
+      geyser_25: 1205316797
+      geyser_26: 1903574866
+      geyser_27: 1201463610
+      geyser_28: -1637961362
+      geyser_29: 1688643004
+      geyser_3: 1411475800
+      geyser_30: 1381328909
+      geyser_31: 1354260195
+      geyser_32: -326927016
+      geyser_33: -937510484
+      geyser_34: 2108352755
+      geyser_35: -836587002
+      geyser_36: 1020395691
+      geyser_37: -739551274
+      geyser_38: -61105825
+      geyser_39: -370013114
+      geyser_4: -764320621
+      geyser_40: -1635910575
+      geyser_41: 1351302439
+      geyser_42: 1250147023
+      geyser_43: -1473248764
+      geyser_44: -495998486
+      geyser_45: -1383236035
+      geyser_46: -355490402
+      geyser_47: 1529507491
+      geyser_48: 1230037777
+      geyser_49: 942045678
+      geyser_5: 1086100478
+      geyser_50: -21658191
+      geyser_51: -906798588
+      geyser_52: -1435008846
+      geyser_53: 128712877
+      geyser_54: 1796972464
+      geyser_55: -140300677
+      geyser_56: -1788040513
+      geyser_57: 1888945819
+      geyser_58: -1028965403
+      geyser_59: -105276159
+      geyser_6: -870081942
+      geyser_60: -487316989
+      geyser_61: -267080473
+      geyser_62: 1211258297
+      geyser_63: -1259527886
+      geyser_64: 1453311582
+      geyser_65: -815160543
+      geyser_66: 1119158066
+      geyser_67: 766114318
+      geyser_68: -1851438548
+      geyser_69: -1818009690
+      geyser_7: -14520883
+      geyser_70: -115599522
+      geyser_71: -175198184
+      geyser_72: 1270223528
+      geyser_73: -1695431835
+      geyser_74: 1867133431
+      geyser_75: -13133539
+      geyser_76: -658529521
+      geyser_77: 830533228
+      geyser_78: -1171164826
+      geyser_79: 97564256
+      geyser_8: 1876302457
+      geyser_80: -710584327
+      geyser_81: -388583192
+      geyser_82: 456936532
+      geyser_83: -730830285
+      geyser_84: 546640825
+      geyser_85: -1633857532
+      geyser_86: -405697381
+      geyser_87: -1637939703
+      geyser_88: -1792187463
+      geyser_89: -1423059268
+      geyser_9: 1977913312
+      geyser_90: -1137822881
+      geyser_91: -1555523270
+      geyser_92: -1787983838
+      geyser_93: -304462966
+      geyser_94: 115969305
+      geyser_95: 1061163511
+      geyser_96: -1282110270
+      geyser_97: 226088161
+      geyser_98: -345161457
+      geyser_99: 1523272610
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

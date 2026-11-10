@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: hit-spark
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: impacts/hit-spark
+  displayName: Hit spark
+  description: 'The everyday hit: a sharp, lopsided cross flare with one long ray along the blow round a white diamond core, then a cone of sparks and hot chips that fall and bounce.'
+  category: impacts
+  tags:
+  - impact
+  - hit
+  - spark
+  - combat
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 7823285663161915083, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -802025661, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: 751720056, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -38158585, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -825239228, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -1872942611, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -768885865, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -1228430371, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -2095275260, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -1162488384, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -754051676, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -174868764, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -274327221, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: -1052711080, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: 1930657204, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  - {fileID: 1930657204, guid: ad94f65ec7f864395971952fe536f5ac, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 136, y: 80}
+  origin: {x: 44, y: 64}
+  fullScreen: 0
+  previewFrame: 0
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

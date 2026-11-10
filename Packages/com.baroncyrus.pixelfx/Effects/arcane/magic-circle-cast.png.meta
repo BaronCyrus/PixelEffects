@@ -1,0 +1,2573 @@
+fileFormatVersion: 2
+guid: fb43b6ac818374726acc2c6ab3338b0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8690456869857303230
+    second: magic-circle-cast_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magic-circle-cast_0
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 62
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512c94ffe2032cb4b15f2981c671ea47
+      internalID: -8690456869857303230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 48
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5bc2fff5ce2ac15330cfdc8119895
+      internalID: 187078401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 43
+        width: 52
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0216b0d2298b144f3b4847ec6df2394
+      internalID: 2140326527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 25
+        width: 70
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f1c552098515aec850f01d0b2e5d0
+      internalID: 1440588610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 12
+        width: 84
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659278f245059322843ec8b5440e16a8
+      internalID: -2121325818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 7
+        width: 92
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398c362411400e4e4d695470301fcb89
+      internalID: -2045293775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3
+        width: 94
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db3697f3859421f58fe332570a8368
+      internalID: 1540893361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41269842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9007d9d325a5b1578260eeb384876842
+      internalID: -51069313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_8
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 69
+        width: 87
+        height: 65
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f01fb09ee4a0b1e2423ec8bba84e07
+      internalID: 640401169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_9
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 68
+        width: 87
+        height: 66
+      alignment: 9
+      pivot: {x: 0.50574714, y: 0.3939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da5e81ba6f35e4bcda07f8658e5759
+      internalID: 277943742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_10
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 67
+        width: 88
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5113636, y: 0.3880597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f367ef88cb87b316f53d093a08548f9
+      internalID: -1032673758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_11
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 66
+        width: 89
+        height: 68
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.38235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450c62b56bcb39fa98085dc28319b4db
+      internalID: 571569759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_12
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 65
+        width: 89
+        height: 69
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.39130434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276dc7b4d4d7cb50907dfab18c68b727
+      internalID: 239400162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_13
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 64
+        width: 89
+        height: 70
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab616a8d99c0e2a5157b5d4c649c126
+      internalID: 1287398093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 91
+        height: 70
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e0db739f7ddb08266b1dd0f5dcafc1
+      internalID: 370185199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 91
+        height: 70
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9302c51431ef0774bccbd69569e762
+      internalID: 318685263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 137
+        width: 92
+        height: 70
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9991aa85f095851e18dc70125458582
+      internalID: -726692062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_17
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 137
+        width: 92
+        height: 70
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29adbeddb65121feee1ff5b0a2635c4
+      internalID: -472330718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_18
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 137
+        width: 93
+        height: 70
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bdcf04fed3d050c048b85cdeb4f1ec
+      internalID: 53750362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 90
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a82c0652b7d9ca7b280c574f1b715
+      internalID: -1629495547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 90
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86367a6c62f48a2f313364d605aa04ff
+      internalID: 725190161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 64
+        width: 90
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a45f06723d558872295afec3a7b6bfb
+      internalID: -1139121442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_22
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 137
+        width: 93
+        height: 70
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4661c951a25e19f33be63185df17c9
+      internalID: -471621379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_23
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 90
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2fef1b47a85527223e3d20572dfe8
+      internalID: -524616524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_24
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 64
+        width: 90
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db46368665a85cdf1e091e0a34e2927
+      internalID: 2039631905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 64
+        width: 90
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d504e28df286293cdc9d32ecbb6bd3
+      internalID: -1040327457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 64
+        width: 90
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c7faf87f42281464c304ee020b7f30
+      internalID: -813846060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_27
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 137
+        width: 92
+        height: 70
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92378c8a7ffbee982b7a7ba36ae22d35
+      internalID: 2103234574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_28
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 137
+        width: 92
+        height: 70
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.3857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe9ed93debf5ca0b239ba5021815ec
+      internalID: 1811443060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 136
+        width: 92
+        height: 71
+      alignment: 9
+      pivot: {x: 0.48913044, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39daa54fccb47cd8bf81603f3da9003f
+      internalID: -123987865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_30
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 136
+        width: 90
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61520b3dbafd63960f953b0cc50b482
+      internalID: 1353050608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 136
+        width: 92
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91f58afe133ab318b20d676d093f8e
+      internalID: 1651951855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_32
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 136
+        width: 92
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93de1e90e27133d56ebd74bb56693c67
+      internalID: 683150704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 136
+        width: 92
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91374cdf761026e5c0356f52071c2574
+      internalID: 1230280398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_34
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 136
+        width: 92
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3802817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1408f0011b99ebaff8a0f85096e493e2
+      internalID: -2067371250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_35
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 319
+        width: 92
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0030967b530a023d7b38d5a8934bab73
+      internalID: -743632393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_36
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 319
+        width: 92
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c078e2f8d30644dcd2e103a570a3163
+      internalID: 1796823177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 92
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1718cb7af68eac9a72c3d3a8ab2a6c
+      internalID: 1212191756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 135
+        width: 92
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d736c146ac18494184ef4eb15907d5
+      internalID: -1478529932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_39
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 313
+        width: 92
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bd7d5e25bef327e101c200dfc607b3
+      internalID: 1571586741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_40
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 234
+        width: 94
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17197452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408bf8395a6ed1a6e45a30ae3db7d0c
+      internalID: 265508827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_41
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 400
+        width: 94
+        height: 204
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c8d7e69c6fc1fcd8be73164dc74fe8
+      internalID: 2087324005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_42
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 608
+        width: 94
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47763fc03f8f509d916c0e70b797eef
+      internalID: -1727355683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_43
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 607
+        width: 94
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.124423966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf0436f212d7b3dee3d6677f03c5b17
+      internalID: -1931352418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_44
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 607
+        width: 94
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.124423966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e27b66c046d421fa2a9fd30ac7c11f
+      internalID: 1215952091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_45
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 419
+        width: 192
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15135135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3958dcf769f2379a4c4d8798f60184f8
+      internalID: 606098298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_46
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 611
+        width: 186
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12676056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4ec5a5156cf736b1c86d68136f45b7
+      internalID: 1927634077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_47
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 606
+        width: 180
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5, y: 0.123853214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4163987dfae6c64772caf5a43a7b90
+      internalID: -1397534104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1265
+        width: 174
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd986dcfee59c539d759464c2318889a
+      internalID: 627502252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1265
+        width: 168
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d98341a368bdecf5e98970bfe2965
+      internalID: 1835188479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1265
+        width: 162
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b510226222b5e9a8a038c0ab983a0
+      internalID: 850896320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1045
+        width: 156
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d11b90ab0b28698a641e354cacb9bae
+      internalID: 1264748544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_52
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1045
+        width: 150
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1142388f937a585bdcb9da9020889d11
+      internalID: -1252583545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_53
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1045
+        width: 152
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f9853214f5705ccbacb0ded085070
+      internalID: -880346041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_54
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1045
+        width: 154
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1635538ec1aaaa235a2224182d43c
+      internalID: -448198312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_55
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1265
+        width: 158
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59095bdc06957b0b84a615d53b4cb4
+      internalID: -974392134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_56
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1265
+        width: 158
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c39572a2770b4d66d55b734d456b8
+      internalID: 1305051419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_57
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1265
+        width: 160
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c70b6ace20abdde2f3385831ef2ce0
+      internalID: 1623410756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_58
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1265
+        width: 159
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5031447, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bee904df307f6aa036cbc888f3a92d
+      internalID: 202345175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_59
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1265
+        width: 159
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5031447, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e236bd7b70d77abd487a530b927a2
+      internalID: -1155008364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 825
+        width: 125
+        height: 219
+      alignment: 9
+      pivot: {x: 0.488, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a673c8a7c46bdcc5a5c8dee60f9a8305
+      internalID: -1555006612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 126
+        height: 219
+      alignment: 9
+      pivot: {x: 0.48412699, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434c652be365418269809d9dbb1b89a0
+      internalID: -485144369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_62
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1045
+        width: 127
+        height: 219
+      alignment: 9
+      pivot: {x: 0.48031497, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4052717f1f2bdaeb8ff7ed7b7a17e4f0
+      internalID: 184640770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_63
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1045
+        width: 128
+        height: 219
+      alignment: 9
+      pivot: {x: 0.484375, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf33b258324370fbf4ed96c15382fd54
+      internalID: 474290034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_64
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 825
+        width: 125
+        height: 219
+      alignment: 9
+      pivot: {x: 0.512, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd5946933157022764fd46ccf354a6
+      internalID: 1756096949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_65
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1045
+        width: 127
+        height: 219
+      alignment: 9
+      pivot: {x: 0.511811, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8204e0a2239bf55a30754008e16e86d0
+      internalID: 1868880547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_66
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1045
+        width: 129
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f9554ccda4643b9edceba3cf520c61
+      internalID: -389381322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_67
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1045
+        width: 127
+        height: 219
+      alignment: 9
+      pivot: {x: 0.51968503, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178c042d9e04830a02bed9ce69c2d9c6
+      internalID: -459000574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_68
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 825
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84470e2aec348f344160e5b1336c954c
+      internalID: 212428737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_69
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 825
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c1613cb7e9adb13b5091a3533677a3
+      internalID: -1422169545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_70
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 825
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0502ca4eca516c083865b0148e6f9039
+      internalID: -1246293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_71
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 825
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5e32ad098f828fc88a9a5f83db7d0f
+      internalID: 2236082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_72
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 825
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccbcf62922bfb5ce531b692a7a0eef3
+      internalID: -458516150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_73
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 825
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb6acb6c063e53cd51e9278ffa323d6
+      internalID: -1328533690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_74
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 825
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc41704add4f695b8043ded380232a7f
+      internalID: -459944503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_75
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 825
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222041120145af92b2ef129b4d7c2515
+      internalID: 479725729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612db690f525b7c559304dd5f39d6d7e
+      internalID: -561413049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 605
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1761f3a9c63b92840597ab3f1165df5c
+      internalID: -1042523656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_78
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 605
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666fe1c7f93f95d328b5da8b6bdd0a5f
+      internalID: 1163885765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_79
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 605
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f7e53ef7dcfd0cc57939403523303d
+      internalID: 959914225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_80
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 605
+        width: 122
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12328767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9681b464ab94222a1342542af659363
+      internalID: -1508344515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 120
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1273585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7302afbfbcbd4fe29b2383fe9e11d504
+      internalID: 726384524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_82
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 392
+        width: 120
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1273585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed2272e55824fe80d44506b971ca542
+      internalID: -1365608201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_83
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 392
+        width: 116
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1273585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513628de6111430032eaa93ac5428b74
+      internalID: 1389249348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_84
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 393
+        width: 112
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12796208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7e67645095328f8b1a3e41b019b0b2
+      internalID: 1528326925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_85
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 393
+        width: 106
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12796208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d51f6f76cd88572cd84f14e1b7a057
+      internalID: 2127473399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_86
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 394
+        width: 90
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12857144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dab2849305afd709e0b57410340279e
+      internalID: -694304774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_87
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 397
+        width: 88
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762849e066ad2a44a2a98eeffdb8b5ba
+      internalID: -172100312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_88
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 416
+        width: 88
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14361702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8c96d213afbb580d4ab17ad53bc00d
+      internalID: -1225663667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_89
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 417
+        width: 88
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13903743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc2c577b2156d3feba2018f94c18725
+      internalID: 224795815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_90
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 417
+        width: 86
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13903743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d4d78f1e722761e05075b6a1d15ec
+      internalID: -1234488580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 84
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1420765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69633520e4ffa6ed136b8ed89abfa796
+      internalID: 87837956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_92
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 208
+        width: 84
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1420765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10be9822855987796cb4981b1c3e50f7
+      internalID: 601319914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_93
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 208
+        width: 82
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1420765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1299c0ba4be262f1c56fedf4a4aa93f8
+      internalID: -1102473841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_94
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 209
+        width: 80
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13736264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a5ce7ff5657b640e9c17a2d327ddb
+      internalID: 2051153089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_95
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 210
+        width: 80
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13812155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d92f27664676c51f7dddf8bc0aeb43
+      internalID: -138091697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_96
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 213
+        width: 80
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13483146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a50dfc738e42d66a0270d79357bb43
+      internalID: -1527476056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_97
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 212
+        width: 79
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.13407822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e021430f688d691d525a1b2f00be8e1
+      internalID: -1820872715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_98
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 212
+        width: 79
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5063291, y: 0.13407822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b780bd0bbb09bd7b38b6807285107848
+      internalID: 2048262035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_99
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 219
+        width: 77
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.09883721}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd68ccda67b48d65c24fdebc2306cbbb
+      internalID: -509800809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_100
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 227
+        width: 77
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.05487805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37506d74a309e336fc222cf151201ca5
+      internalID: -9134309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_101
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 241
+        width: 48
+        height: 150
+      alignment: 9
+      pivot: {x: 0.75, y: -0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e0a474b4e6efba3e6402f13143280d
+      internalID: 887767043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_102
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 242
+        width: 47
+        height: 149
+      alignment: 9
+      pivot: {x: 0.7659575, y: -0.040268455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621257abe13263fd3dd392168de74df4
+      internalID: 661704671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_103
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 244
+        width: 47
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7659575, y: -0.054421768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c5b406961accd0a254dac3560590af
+      internalID: 1481058700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_104
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 54
+        width: 24
+        height: 9
+      alignment: 9
+      pivot: {x: 1.5, y: -1.1111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc51d63ffeb2c9c126e3fb983c2cd5cb
+      internalID: -844935911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magic-circle-cast_105
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 59
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 9.333333, y: -3.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9102ddfad574c8b5af766215e4442efa
+      internalID: -681263852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c0fb8f3f20c3a4511808e79f0e2c2f71
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magic-circle-cast_0: -8690456869857303230
+      magic-circle-cast_1: 187078401
+      magic-circle-cast_10: -1032673758
+      magic-circle-cast_100: -9134309
+      magic-circle-cast_101: 887767043
+      magic-circle-cast_102: 661704671
+      magic-circle-cast_103: 1481058700
+      magic-circle-cast_104: -844935911
+      magic-circle-cast_105: -681263852
+      magic-circle-cast_11: 571569759
+      magic-circle-cast_12: 239400162
+      magic-circle-cast_13: 1287398093
+      magic-circle-cast_14: 370185199
+      magic-circle-cast_15: 318685263
+      magic-circle-cast_16: -726692062
+      magic-circle-cast_17: -472330718
+      magic-circle-cast_18: 53750362
+      magic-circle-cast_19: -1629495547
+      magic-circle-cast_2: 2140326527
+      magic-circle-cast_20: 725190161
+      magic-circle-cast_21: -1139121442
+      magic-circle-cast_22: -471621379
+      magic-circle-cast_23: -524616524
+      magic-circle-cast_24: 2039631905
+      magic-circle-cast_25: -1040327457
+      magic-circle-cast_26: -813846060
+      magic-circle-cast_27: 2103234574
+      magic-circle-cast_28: 1811443060
+      magic-circle-cast_29: -123987865
+      magic-circle-cast_3: 1440588610
+      magic-circle-cast_30: 1353050608
+      magic-circle-cast_31: 1651951855
+      magic-circle-cast_32: 683150704
+      magic-circle-cast_33: 1230280398
+      magic-circle-cast_34: -2067371250
+      magic-circle-cast_35: -743632393
+      magic-circle-cast_36: 1796823177
+      magic-circle-cast_37: 1212191756
+      magic-circle-cast_38: -1478529932
+      magic-circle-cast_39: 1571586741
+      magic-circle-cast_4: -2121325818
+      magic-circle-cast_40: 265508827
+      magic-circle-cast_41: 2087324005
+      magic-circle-cast_42: -1727355683
+      magic-circle-cast_43: -1931352418
+      magic-circle-cast_44: 1215952091
+      magic-circle-cast_45: 606098298
+      magic-circle-cast_46: 1927634077
+      magic-circle-cast_47: -1397534104
+      magic-circle-cast_48: 627502252
+      magic-circle-cast_49: 1835188479
+      magic-circle-cast_5: -2045293775
+      magic-circle-cast_50: 850896320
+      magic-circle-cast_51: 1264748544
+      magic-circle-cast_52: -1252583545
+      magic-circle-cast_53: -880346041
+      magic-circle-cast_54: -448198312
+      magic-circle-cast_55: -974392134
+      magic-circle-cast_56: 1305051419
+      magic-circle-cast_57: 1623410756
+      magic-circle-cast_58: 202345175
+      magic-circle-cast_59: -1155008364
+      magic-circle-cast_6: 1540893361
+      magic-circle-cast_60: -1555006612
+      magic-circle-cast_61: -485144369
+      magic-circle-cast_62: 184640770
+      magic-circle-cast_63: 474290034
+      magic-circle-cast_64: 1756096949
+      magic-circle-cast_65: 1868880547
+      magic-circle-cast_66: -389381322
+      magic-circle-cast_67: -459000574
+      magic-circle-cast_68: 212428737
+      magic-circle-cast_69: -1422169545
+      magic-circle-cast_7: -51069313
+      magic-circle-cast_70: -1246293
+      magic-circle-cast_71: 2236082
+      magic-circle-cast_72: -458516150
+      magic-circle-cast_73: -1328533690
+      magic-circle-cast_74: -459944503
+      magic-circle-cast_75: 479725729
+      magic-circle-cast_76: -561413049
+      magic-circle-cast_77: -1042523656
+      magic-circle-cast_78: 1163885765
+      magic-circle-cast_79: 959914225
+      magic-circle-cast_8: 640401169
+      magic-circle-cast_80: -1508344515
+      magic-circle-cast_81: 726384524
+      magic-circle-cast_82: -1365608201
+      magic-circle-cast_83: 1389249348
+      magic-circle-cast_84: 1528326925
+      magic-circle-cast_85: 2127473399
+      magic-circle-cast_86: -694304774
+      magic-circle-cast_87: -172100312
+      magic-circle-cast_88: -1225663667
+      magic-circle-cast_89: 224795815
+      magic-circle-cast_9: 277943742
+      magic-circle-cast_90: -1234488580
+      magic-circle-cast_91: 87837956
+      magic-circle-cast_92: 601319914
+      magic-circle-cast_93: -1102473841
+      magic-circle-cast_94: 2051153089
+      magic-circle-cast_95: -138091697
+      magic-circle-cast_96: -1527476056
+      magic-circle-cast_97: -1820872715
+      magic-circle-cast_98: 2048262035
+      magic-circle-cast_99: -509800809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

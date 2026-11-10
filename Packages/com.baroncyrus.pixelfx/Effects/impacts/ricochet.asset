@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: ricochet
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: impacts/ricochet
+  displayName: Ricochet
+  description: A tracer streaks down onto the floor, glances off with a white-hot star and skips away at an angle, leaving a glowing skid while sparks skitter along the ground.
+  category: impacts
+  tags:
+  - impact
+  - ricochet
+  - bullet
+  - tracer
+  - sparks
+  - ground
+  - directional
+  - one-shot
+  frames:
+  - {fileID: 8423206148674547137, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 1698247228, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -309443557, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -384051088, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 1226653474, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 1586793926, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -1892946947, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 1321851918, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -1341488598, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -768166651, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 695540233, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -2095698760, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -261853043, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 66247524, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -410562326, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 647877502, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 2002299736, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 101645086, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 1548760019, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -1868459009, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 588824253, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 248379387, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 504035216, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 1393837895, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -1034633878, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -289657739, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 1557080356, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -858981927, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -858981927, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 1092291997, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: 1092291997, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -1343032911, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -1343032911, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  - {fileID: -1343032911, guid: 7d2165246ad604551bee9334f444abd8, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 232, y: 84}
+  origin: {x: 64, y: 60}
+  fullScreen: 0
+  previewFrame: 2
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 0
+  windup: 0
+  recovery: 0
+  onBody: 0
+  hits: []

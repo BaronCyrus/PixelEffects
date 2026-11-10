@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: e8d643d9957d546c9a0a36754f64664d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6456700818126761620
+    second: laser-bolt_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: laser-bolt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 98
+        height: 29
+      alignment: 9
+      pivot: {x: 0.8367347, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fa3b9df3f3c4f293472feccec544a0
+      internalID: 6456700818126761620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 73
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7808219, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ada7c4d1b1272c11a2c186246c8d5d
+      internalID: 2147050968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 178
+        width: 79
+        height: 30
+      alignment: 9
+      pivot: {x: 0.79746836, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a102fe6c40b1775b310234bb078f79fd
+      internalID: 600611609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 84
+        height: 30
+      alignment: 9
+      pivot: {x: 0.8095238, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b4a0e8fe067ed74a9cf358e2808ca7
+      internalID: -36391820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 79
+        height: 29
+      alignment: 9
+      pivot: {x: 0.79746836, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5f262f555092326d5d97806cadcd26
+      internalID: -886589617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 83
+        height: 28
+      alignment: 9
+      pivot: {x: 0.8192771, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91d766a5475fe9ba114eb294cba6877
+      internalID: 1458511161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 88
+        height: 28
+      alignment: 9
+      pivot: {x: 0.82954544, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057889fbda03da91b58130d7683c60aa
+      internalID: -1550533156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 117
+        width: 86
+        height: 29
+      alignment: 9
+      pivot: {x: 0.81395346, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6347422afcdbbfa9e2d7a743c433ea0f
+      internalID: -74888645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 87
+        width: 78
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7948718, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f1ff32a7af69a500918c149509e07a
+      internalID: -1667890684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 209
+        width: 85
+        height: 30
+      alignment: 9
+      pivot: {x: 0.8117647, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140105a6a16a0b3679c022b5864aaf94
+      internalID: -178314844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 92
+        height: 30
+      alignment: 9
+      pivot: {x: 0.82608694, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eb9a7f86e804f148c5ccf6c748ff30
+      internalID: -1782696754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 148
+        width: 99
+        height: 29
+      alignment: 9
+      pivot: {x: 0.83838385, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4db4974a684b5ff2133b7916a6dd3a
+      internalID: -124224922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 97
+        height: 28
+      alignment: 9
+      pivot: {x: 0.83505154, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859c3f416e0f890d59b3bfee45758163
+      internalID: -254389341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 112
+        height: 28
+      alignment: 9
+      pivot: {x: 0.8660714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b8f38ef0a43bf5f8467b531d3a809a
+      internalID: 2098739914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: laser-bolt_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 29
+        width: 93
+        height: 28
+      alignment: 9
+      pivot: {x: 0.83870965, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ccc27c7d3937849e89397a930eaf5d
+      internalID: 1228712659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5bb0bea8d0e904e5aa39a45451c6263e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      laser-bolt_0: 6456700818126761620
+      laser-bolt_1: 2147050968
+      laser-bolt_10: -1782696754
+      laser-bolt_11: -124224922
+      laser-bolt_12: -254389341
+      laser-bolt_13: 2098739914
+      laser-bolt_14: 1228712659
+      laser-bolt_2: 600611609
+      laser-bolt_3: -36391820
+      laser-bolt_4: -886589617
+      laser-bolt_5: 1458511161
+      laser-bolt_6: -1550533156
+      laser-bolt_7: -74888645
+      laser-bolt_8: -1667890684
+      laser-bolt_9: -178314844
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

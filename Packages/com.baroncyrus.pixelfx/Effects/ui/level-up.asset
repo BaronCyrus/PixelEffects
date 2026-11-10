@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ce9b82313874249a69d2c7f08f481b, type: 3}
+  m_Name: level-up
+  m_EditorClassIdentifier: BaronCyrus.PixelFx::PixelEffects.PixelFxAsset
+  id: ui/level-up
+  displayName: Level up
+  description: Gold gathers at the feet and bursts up as a pillar of light round the hero; rings climb it, LEVEL UP! drops in letter by letter, a shine sweeps it, sparkles twinkle.
+  category: ui
+  tags:
+  - ui
+  - level
+  - reward
+  - text
+  - light
+  - one-shot
+  frames:
+  - {fileID: 5778072383123337153, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -661642283, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 948296172, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -705028010, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1903874516, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1174560266, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 313458451, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -711532852, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -2075295204, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 816493326, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -351325655, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1533298354, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -543012010, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 2076556415, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -543040620, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 299650407, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1896993647, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1945939438, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1533493078, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 972302297, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1806132706, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -85817210, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1225774631, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 889068127, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -879509824, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1273811448, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 897612159, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 329716106, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 835402325, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1540045886, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 745352532, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1196912369, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1267052280, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1343561197, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -976192755, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1599779057, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -860867955, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -790671025, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -975654192, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1483982442, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 423113241, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 583258389, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -807849372, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1222903167, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1033274389, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 941187021, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -2006505918, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -46713286, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 410413555, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1427782847, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1966118258, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 195070822, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1517497585, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1044766799, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -622424254, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1047318996, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1242458273, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1288402135, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -199285872, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 2065977005, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1554810999, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1706146822, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1750954303, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1231180806, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -557600158, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 49610066, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1046701496, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1220205188, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 965122842, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1313851920, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1261056659, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1597298414, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1210998026, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1265046473, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 660248965, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 764266609, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -2143610862, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -3437042, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -842328992, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -729648829, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1522605894, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1542688414, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1963665751, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -639372419, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1543678752, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -525429756, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1014319114, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1200634916, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -1155691716, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: -14384186, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 325946565, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1983774269, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 873202869, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1938270131, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 1087604184, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 148491675, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  - {fileID: 148491675, guid: 8a9e22fe5a0344f14aa9ea4d069d508e, type: 3}
+  frameRate: 30
+  loop: 0
+  size: {x: 176, y: 138}
+  origin: {x: 88, y: 114}
+  fullScreen: 0
+  previewFrame: 9
+  material: {fileID: 2100000, guid: 4f0c51e3e1ece42cdb66a7f86fdeb0d7, type: 2}
+  acted: 1
+  windup: 0.3
+  recovery: 0
+  onBody: 1
+  hits:
+  - time: 0.28
+    freeze: 0.05
+    shake: 0.14
+    amplitude: 2
+    push: 1.2

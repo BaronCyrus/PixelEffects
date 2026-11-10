@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 7d2165246ad604551bee9334f444abd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8423206148674547137
+    second: ricochet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ricochet_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 15
+        width: 27
+        height: 16
+      alignment: 9
+      pivot: {x: 2.0370371, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0b25e1e69542f94b992b3ec689b2b2
+      internalID: 8423206148674547137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 15
+        width: 27
+        height: 16
+      alignment: 9
+      pivot: {x: 1.1481482, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512a2b7da0c608ff031de0113a6ec7a
+      internalID: 1698247228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 78
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.359375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce65d769ddf10d2f0f3085b49900785
+      internalID: -309443557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 304
+        width: 85
+        height: 61
+      alignment: 9
+      pivot: {x: 0.42352942, y: 0.37704918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a268a59d2c2b5e0d7eacb597b2fa2286
+      internalID: -384051088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 307
+        width: 107
+        height: 58
+      alignment: 9
+      pivot: {x: 0.3084112, y: 0.39655173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82576fd7d7a3486fb830320dd3c6b0a
+      internalID: 1226653474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 189
+        width: 128
+        height: 54
+      alignment: 9
+      pivot: {x: 0.234375, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f5cb2a367934f2d21d7a6b2ea0cc4a
+      internalID: 1586793926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 149
+        height: 54
+      alignment: 9
+      pivot: {x: 0.17449665, y: 0.3888889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0522808185916b7cdf32235c7c05ce
+      internalID: -1892946947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 168
+        height: 56
+      alignment: 9
+      pivot: {x: 0.125, y: 0.3392857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbd2ca0354d9dc8a854003664790346
+      internalID: 1321851918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 93
+        height: 38
+      alignment: 9
+      pivot: {x: 0.17204301, y: 0.23684211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1678e486efb5a7a1e3bd867cf9f7dcb3
+      internalID: -1341488598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 115
+        width: 94
+        height: 34
+      alignment: 9
+      pivot: {x: 0.07446808, y: 0.11764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d0cb43b20f864130338dcdfda6133
+      internalID: -768166651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 153
+        width: 104
+        height: 35
+      alignment: 9
+      pivot: {x: 0.067307696, y: 0.114285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e728e00ab615c859b8d2d2482b07c2
+      internalID: 695540233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 112
+        height: 29
+      alignment: 9
+      pivot: {x: 0.0625, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a520ee8776c6572a647985e737a3b968
+      internalID: -2095698760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 120
+        width: 121
+        height: 29
+      alignment: 9
+      pivot: {x: 0.05785124, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c36a44f32ece4a029b605cff0dde6
+      internalID: -261853043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 86
+        width: 128
+        height: 28
+      alignment: 9
+      pivot: {x: 0.0546875, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c39299486f691fd5c8a6607b5d9f17
+      internalID: 66247524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 135
+        height: 27
+      alignment: 9
+      pivot: {x: 0.05185185, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5bc92ccae25233ce447f91e670eab2
+      internalID: -410562326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 58
+        width: 142
+        height: 26
+      alignment: 9
+      pivot: {x: 0.049295776, y: 0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43277b01fdd8477e4175f10f6b83d35
+      internalID: 647877502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 148
+        height: 24
+      alignment: 9
+      pivot: {x: 0.0472973, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b14dd43efd7e49adb6b7a921182bdf
+      internalID: 2002299736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 152
+        height: 22
+      alignment: 9
+      pivot: {x: 0.04605263, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c3dc1305679a435aeb35334e0a9c9b
+      internalID: 101645086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 23
+        width: 23
+        height: 8
+      alignment: 9
+      pivot: {x: 0.3043478, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed2160c54abb040dca587c0f023800
+      internalID: 1548760019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 23
+        width: 23
+        height: 8
+      alignment: 9
+      pivot: {x: 0.3043478, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55b9c1b94cf1dbeeef60668f031a4ef
+      internalID: -1868459009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 23
+        width: 23
+        height: 8
+      alignment: 9
+      pivot: {x: 0.3043478, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e232a6fe7e300b261f3cbaa31af4a727
+      internalID: 588824253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 23
+        height: 8
+      alignment: 9
+      pivot: {x: 0.3043478, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be8883409e27d8e141c2326786a2624
+      internalID: 248379387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_22
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 23
+        height: 8
+      alignment: 9
+      pivot: {x: 0.3043478, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4eaabbdd610707a661a9bf07f94edc
+      internalID: 504035216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 23
+        height: 8
+      alignment: 9
+      pivot: {x: 0.3043478, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28de87ba67851aefd6a6c2b3a96605eb
+      internalID: 1393837895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 21
+        height: 6
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27c5fcd1c4927b33e6d7f2e8ef0081
+      internalID: -1034633878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2
+        width: 21
+        height: 6
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed5b9e1623391a34b844d37ce0b985
+      internalID: -289657739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4
+        width: 19
+        height: 4
+      alignment: 9
+      pivot: {x: 0.2631579, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2a93e6a0a4d234796e03b75d17ffee
+      internalID: 1557080356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 15
+        height: 1
+      alignment: 9
+      pivot: {x: 0.13333334, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52f91935af1865d504002872a5a5e0
+      internalID: -858981927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7
+        width: 13
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed03cfc1bfe124cf554d093bbef5f6e
+      internalID: 1092291997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ricochet_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 7
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71485652344f7657796801192ea61a6e
+      internalID: -1343032911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3cb9253449edf470fa1d6c311264fb65
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ricochet_0: 8423206148674547137
+      ricochet_1: 1698247228
+      ricochet_10: 695540233
+      ricochet_11: -2095698760
+      ricochet_12: -261853043
+      ricochet_13: 66247524
+      ricochet_14: -410562326
+      ricochet_15: 647877502
+      ricochet_16: 2002299736
+      ricochet_17: 101645086
+      ricochet_18: 1548760019
+      ricochet_19: -1868459009
+      ricochet_2: -309443557
+      ricochet_20: 588824253
+      ricochet_21: 248379387
+      ricochet_22: 504035216
+      ricochet_23: 1393837895
+      ricochet_24: -1034633878
+      ricochet_25: -289657739
+      ricochet_26: 1557080356
+      ricochet_27: -858981927
+      ricochet_28: 1092291997
+      ricochet_29: -1343032911
+      ricochet_3: -384051088
+      ricochet_4: 1226653474
+      ricochet_5: 1586793926
+      ricochet_6: -1892946947
+      ricochet_7: 1321851918
+      ricochet_8: -1341488598
+      ricochet_9: -768166651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
