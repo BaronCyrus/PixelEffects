@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Docs/showcase-fire.png" width="800" alt="Unity 里播放的一屏像素火焰特效：火盆、营火、蜡烛、火焰吐息、火龙卷、火球、火柱、喷火器、流星、幽蓝鬼火和火把。">
+  <img src="Docs/montage.gif" width="792" alt="十八格同时播放的像素特效：营火、火把、喷泉、暴风雪漩涡、等离子球、电弧，轮番播放的挥砍、打击、爆炸、UI 数字、治疗与闪现，以及水球、亡灵头骨、牵引光束、鬼火、祝福和冰冻。">
 </p>
 
 # PixelFX for Unity
@@ -41,6 +41,27 @@
 
 其中 108 个是无缝循环，136 个是一次性播放；43 个带命中时间点（定格、震屏、击退力度）。
 
+**循环特效**，首尾无缝衔接：魔法、机关、小生物、拾取物。
+
+<p align="center">
+  <img src="Docs/loops.gif" width="792" alt="十二个循环特效：奥术球、能量核心、传送台、神圣护盾、暗影火焰、落叶风暴、幽灵、蝙蝠、飞行骷髅、旋转宝石、旋转金币和能量星。">
+</p>
+
+**大场面**，一次性播放：落雷、等离子爆炸、魔法阵、内爆、圣光柱、雷鸣。
+
+<p align="center">
+  <img src="Docs/big.gif" width="792" alt="三格轮番播放的大型特效：落雷与等离子爆炸、魔法阵施法与内爆、圣光柱与雷鸣。">
+</p>
+
+**铺满屏幕的特效**（320×180）：天气和转场。
+
+<p align="center">
+  <img src="Docs/weather.gif" width="640" alt="两个全屏天气循环：夜空中摇曳的绿色极光，和缓缓飘落的雪。">
+</p>
+
+上面的动图都是用包里烘焙好的精灵表直接合成的（`node Docs/make-gifs.mjs`），和 Unity 里看到的画面一致。
+在编辑器里，`Window > PixelFX Gallery` 可以浏览全部 244 个：
+
 <p align="center">
   <img src="Docs/gallery.png" width="800" alt="编辑器里的 PixelFX Gallery 窗口：一格一格正在播放的特效缩略图，上方有分类下拉框和搜索框。">
 </p>
@@ -54,7 +75,11 @@ https://github.com/BaronCyrus/PixelEffects.git?path=/Packages/com.baroncyrus.pix
 ```
 
 **方式二：克隆整个工程。** 本仓库本身就是一个 Unity 工程（Unity 6000.6 + URP），克隆后直接打开，
-运行 `Assets/PixelFXDemo/PixelFXShowcase.unity` 就能看到上面的演示。
+运行 `Assets/PixelFXDemo/PixelFXShowcase.unity`：按分类浏览全部特效，点一下某个特效会带着命中定格和震屏重播。
+
+<p align="center">
+  <img src="Docs/showcase-fire.png" width="800" alt="Unity Game 视图里的演示场景：上方是分类按钮，下面是火焰分类的十二个特效，各带名称。">
+</p>
 
 **方式三：** 把 `Packages/com.baroncyrus.pixelfx` 整个文件夹拷进你工程的 `Packages/` 目录。
 
@@ -192,6 +217,7 @@ Packages/com.baroncyrus.pixelfx/      ← Unity 包本体
   Effects/<分类>/<名字>.png|.asset|.prefab
   Tools~/bake.mjs                     烘焙脚本
 Assets/PixelFXDemo/                   演示场景与脚本
+Docs/                                 README 用图；make-gifs.mjs 用烘焙好的精灵表生成动图
 ```
 
 ## 许可
@@ -204,6 +230,10 @@ Hollow Crown（MIT）。详见 [NOTICE.md](NOTICE.md)。本仓库与 Patch 无�
 ---
 
 ## English
+
+<p align="center">
+  <img src="Docs/loops.gif" width="792" alt="Twelve looping effects playing at once: an arcane orb, an energy core, a teleporter pad, a divine shield, shadow flames, a leaf storm, a ghost, a bat, a flying skull, a spinning gem, a spinning coin and a power star.">
+</p>
 
 **244 pixel art effects as a ready-to-use Unity package**: sliced sprites, a `PixelFxAsset` and a prefab for every
 effect, plus a player component, a glow-aware shader and an editor gallery.
